@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom
+deps
+_build
+ngs.sanger.ac.uk
+.idea
+
