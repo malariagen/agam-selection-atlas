@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,progress:0,search:0,work:0},titles:["Ag1000G Selection Atlas"],titleterms:{ag1000g:0,atla:0,document:[],indic:0,select:0,tabl:0,welcom:[]}})
