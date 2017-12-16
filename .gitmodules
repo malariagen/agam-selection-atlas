@@ -1,4 +1,0 @@
-[submodule "agam-report-base"]
-	path = agam-report-base
-	url = git@github.com:malariagen/agam-report-base.git
-	branch = master
