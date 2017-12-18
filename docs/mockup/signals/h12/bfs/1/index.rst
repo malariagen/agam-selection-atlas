@@ -72,21 +72,26 @@ affected by this signal:
     :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
     :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
-Fit report
-----------
+Diagnostics
+-----------
 
 The information below provides some diagnostics from the
 :doc:`/mockup/methods/peak_modelling` procedure.
 
+.. figure:: signal_context.png
+
+    **Figure 2**. Chromosome-wide selection statistic and results from peak
+    modelling. **a**, TODO. **b**, TODO.
+
 .. figure:: signal_fit.png
 
-    **Figure 2**. Diagnostics from fitting a peak model to the selection signal.
+    **Figure 3**. Diagnostics from fitting a peak model to the selection signal.
     **a**, TODO. **b**, TODO. **c**, TODO.
 
-Left flank, peak model
-~~~~~~~~~~~~~~~~~~~~~~
+Model fitting reports
+~~~~~~~~~~~~~~~~~~~~~
 
-::
+Left flank, peak model::
 
     [[Model]]
         Model(exponential)
@@ -107,10 +112,7 @@ Left flank, peak model
         C(amplitude, decay)          = -0.609
         C(decay, c)                  = -0.326
 
-Right flank, peak model
-~~~~~~~~~~~~~~~~~~~~~~~
-
-::
+Right flank, peak model::
 
     [[Model]]
         Model(exponential)
@@ -131,10 +133,7 @@ Right flank, peak model
         C(amplitude, decay)          = -0.702
         C(decay, c)                  = -0.375
 
-Left flank, null model
-~~~~~~~~~~~~~~~~~~~~~~
-
-::
+Left flank, null model::
 
     [[Model]]
         Model(constant)
@@ -149,10 +148,7 @@ Left flank, null model
     [[Variables]]
         c:   0.03680943 +/- 0.004543 (12.34%) (init= 0.04)
 
-Right flank, null model
-~~~~~~~~~~~~~~~~~~~~~~~
-
-::
+Right flank, null model::
 
     [[Model]]
         Model(constant)
@@ -166,3 +162,19 @@ Right flank, null model
         Bayesian info crit = -927.363
     [[Variables]]
         c:   0.04001378 +/- 0.003534 (8.83%) (init= 0.04)
+
+Discussion
+----------
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
