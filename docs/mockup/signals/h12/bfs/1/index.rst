@@ -1,16 +1,19 @@
-.. _signal_h12_bfs_1:
 
 Burkina Faso *An. gambiae* H12 #1
 =================================
 
-This page describes a signal of selection found in the :ref:`mockup_bfs`
-population using the :ref:`mockup_h12` statistic.
+This page describes a signal of selection found in the
+:doc:`/mockup/populations/bfs` population using the :doc:`/mockup/methods/h12`
+statistic.
 
 The inferred focus of this signal is on chromosome arm 2L from position
 2,420,000 to 2,460,000. The following 3 genes overlap the focal region:
-:ref:`AGAP001234`, :ref:`AGAP001234`, :ref:`AGAP001234`. The following 5 genes
-are in windows immediately adjacent to the focal region: :ref:`AGAP001234`,
-:ref:`AGAP001234`, :ref:`AGAP001234`, :ref:`AGAP001234`, :ref:`AGAP001234`.
+:doc:`/mockup/genes/AGAP001234`, :doc:`/mockup/genes/AGAP001234`,
+:doc:`/mockup/genes/AGAP001234`. The following 5 genes
+are in windows immediately adjacent to the focal region:
+:doc:`/mockup/genes/AGAP001234`, :doc:`/mockup/genes/AGAP001234`,
+:doc:`/mockup/genes/AGAP001234`, :doc:`/mockup/genes/AGAP001234`,
+:doc:`/mockup/genes/AGAP001234`.
 
 .. figure:: signal_location.png
     :alt: signal location
@@ -34,10 +37,10 @@ focus of this signal:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
 Adjacent signals
 ~~~~~~~~~~~~~~~~
@@ -49,10 +52,10 @@ adjacent to the focus of this signal:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
 Nearby signals
 ~~~~~~~~~~~~~~
@@ -64,16 +67,16 @@ affected by this signal:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
 Fit report
 ----------
 
-The information below provides some diagnostics from the :ref:`peak_modelling`
-procedure.
+The information below provides some diagnostics from the
+:doc:`/mockup/methods/peak_modelling` procedure.
 
 .. figure:: signal_fit.png
 

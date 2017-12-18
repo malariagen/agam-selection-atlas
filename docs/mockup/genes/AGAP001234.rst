@@ -1,4 +1,3 @@
-.. _AGAP001234:
 
 AGAP001234
 ==========
@@ -17,10 +16,10 @@ gene:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
 Adjacent signals
 ----------------
@@ -32,10 +31,10 @@ adjacent to this gene:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
 
 Nearby signals
 --------------
@@ -46,7 +45,5 @@ The following signals affect a genome region that overlaps with this gene:
 .. csv-table::
     :header: Signal, Chromosome, Start, Stop, Score, Genes
 
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :ref:`signal_h12_bfs_1`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    :doc:`/mockup/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
