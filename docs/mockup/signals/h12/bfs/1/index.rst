@@ -163,8 +163,8 @@ Right flank, null model::
     [[Variables]]
         c:   0.04001378 +/- 0.003534 (8.83%) (init= 0.04)
 
-Discussion
-----------
+Comments
+--------
 
 .. raw:: html
 

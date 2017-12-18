@@ -1,0 +1,97 @@
+population:
+  label: Burkina Faso *An. gambiae*
+  id: BFS
+statistic:
+  label: H12
+  id: h12
+chromosome: 2
+rank: 1
+focus:
+  arm: 2L
+  start: 2000000
+  stop: 2040000
+overlapping_genes:
+  - AGAP001234
+  - AGAP001235
+  - AGAP001236
+adjacent_genes:
+  - AGAP001232
+  - AGAP001233
+  - AGAP001237
+fit_reports:
+  left_peak: |
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 78
+        # data points      = 297
+        # variables        = 3
+        chi-square         = 3.262
+        reduced chi-square = 0.011
+        Akaike info crit   = -1333.861
+        Bayesian info crit = -1322.780
+    [[Variables]]
+        amplitude:   1.24827327 +/- 0.034400 (2.76%) (init= 0.5)
+        decay:       1.50738758 +/- 0.102500 (6.80%) (init= 0.2)
+        c:           0.02857540 +/- 0.021630 (75.70%) (init= 0.04)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(decay, c)                  = -0.867
+        C(amplitude, decay)          = -0.480
+  right_peak: |
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 78
+        # data points      = 297
+        # variables        = 3
+        chi-square         = 3.262
+        reduced chi-square = 0.011
+        Akaike info crit   = -1333.861
+        Bayesian info crit = -1322.780
+    [[Variables]]
+        amplitude:   1.24827327 +/- 0.034400 (2.76%) (init= 0.5)
+        decay:       1.50738758 +/- 0.102500 (6.80%) (init= 0.2)
+        c:           0.02857540 +/- 0.021630 (75.70%) (init= 0.04)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(decay, c)                  = -0.867
+        C(amplitude, decay)          = -0.480
+  left_null: |
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 78
+        # data points      = 297
+        # variables        = 3
+        chi-square         = 3.262
+        reduced chi-square = 0.011
+        Akaike info crit   = -1333.861
+        Bayesian info crit = -1322.780
+    [[Variables]]
+        amplitude:   1.24827327 +/- 0.034400 (2.76%) (init= 0.5)
+        decay:       1.50738758 +/- 0.102500 (6.80%) (init= 0.2)
+        c:           0.02857540 +/- 0.021630 (75.70%) (init= 0.04)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(decay, c)                  = -0.867
+        C(amplitude, decay)          = -0.480
+  right_null: |
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 78
+        # data points      = 297
+        # variables        = 3
+        chi-square         = 3.262
+        reduced chi-square = 0.011
+        Akaike info crit   = -1333.861
+        Bayesian info crit = -1322.780
+    [[Variables]]
+        amplitude:   1.24827327 +/- 0.034400 (2.76%) (init= 0.5)
+        decay:       1.50738758 +/- 0.102500 (6.80%) (init= 0.2)
+        c:           0.02857540 +/- 0.021630 (75.70%) (init= 0.04)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(decay, c)                  = -0.867
+        C(amplitude, decay)          = -0.480
