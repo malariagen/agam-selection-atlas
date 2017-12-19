@@ -1,0 +1,51 @@
+chromosome: '3'
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 11\n    # data points      = 144\n    # variables        = 1\n    chi-square\
+    \         = 0.012\n    reduced chi-square = 0.000\n    Akaike info crit   = -1347.565\n\
+    \    Bayesian info crit = -1344.595\n[[Variables]]\n    c:   0.02434702 +/- 0.000771\
+    \ (3.17%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 23\n    # data points      = 145\n    # variables        = 3\n   \
+    \ chi-square         = 0.007\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1433.474\n    Bayesian info crit = -1424.544\n[[Variables]]\n    amplitude:\
+    \   0.03674956 +/- 0.004066 (11.07%) (init= 0.5)\n    decay:       0.40078686\
+    \ +/- 0.072063 (17.98%) (init= 0.5)\n    c:           0.02195234 +/- 0.000684\
+    \ (3.12%) (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported\
+    \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.607 \n   \
+    \ C(decay, c)                  = -0.387 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 11\n    # data points      = 143\n    # variables        = 1\n   \
+    \ chi-square         = 0.013\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1329.722\n    Bayesian info crit = -1326.759\n[[Variables]]\n    c:\
+    \   0.02324203 +/- 0.000797 (3.43%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 55\n    # data points      = 144\n    # variables        = 3\n   \
+    \ chi-square         = 0.008\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1403.779\n    Bayesian info crit = -1394.869\n[[Variables]]\n    amplitude:\
+    \   0.03536086 +/- 0.004622 (13.07%) (init= 0.5)\n    decay:       0.50915280\
+    \ +/- 0.101405 (19.92%) (init= 0.5)\n    c:           0.02052120 +/- 0.000769\
+    \ (3.75%) (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported\
+    \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.670 \n   \
+    \ C(decay, c)                  = -0.436 \n"
+focus:
+  arm: 3L
+  start: 22460001
+  stop: 22500000
+minor_delta_aic: 74.05658313320691
+peak:
+  arm: 3L
+  start: 21700001
+  stop: 23200000
+population:
+  id: aom
+  label: Angola *An. coluzzii*
+rank: 3
+signal:
+  arm: 3L
+  start: 22420001
+  stop: 22580000
+statistic:
+  id: h12
+  label: H12
+sum_delta_aic: 159.96583082470443

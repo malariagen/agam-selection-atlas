@@ -1,4 +1,3 @@
-adjacent_genes: []
 chromosome: '2'
 fit_reports:
   left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
@@ -7,11 +6,11 @@ fit_reports:
     \    Bayesian info crit = -756.048\n[[Variables]]\n    c:   0.08576436 +/- 0.006481\
     \ (7.56%) (init= 0.04)\n"
   left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 35\n    # data points      = 151\n    # variables        = 3\n   \
+    \ evals   = 31\n    # data points      = 151\n    # variables        = 3\n   \
     \ chi-square         = 0.055\n    reduced chi-square = 0.000\n    Akaike info\
     \ crit   = -1190.502\n    Bayesian info crit = -1181.451\n[[Variables]]\n    amplitude:\
-    \   0.33202082 +/- 0.007283 (2.19%) (init= 0.5)\n    decay:       1.03519065 +/-\
-    \ 0.045479 (4.39%) (init= 0.2)\n    c:           0.02994785 +/- 0.002678 (8.94%)\
+    \   0.33202395 +/- 0.007283 (2.19%) (init= 0.5)\n    decay:       1.03514846 +/-\
+    \ 0.045489 (4.39%) (init= 0.5)\n    c:           0.02994958 +/- 0.002679 (8.95%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
     \ are <  0.100)\n    C(decay, c)                  = -0.695 \n    C(amplitude,\
     \ decay)          = -0.463 \n"
@@ -21,11 +20,11 @@ fit_reports:
     \    Bayesian info crit = -789.516\n[[Variables]]\n    c:   0.04233241 +/- 0.005134\
     \ (12.13%) (init= 0.04)\n"
   right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 35\n    # data points      = 143\n    # variables        = 3\n   \
+    \ evals   = 27\n    # data points      = 143\n    # variables        = 3\n   \
     \ chi-square         = 0.014\n    reduced chi-square = 0.000\n    Akaike info\
     \ crit   = -1315.591\n    Bayesian info crit = -1306.702\n[[Variables]]\n    amplitude:\
-    \   0.31418270 +/- 0.005330 (1.70%) (init= 0.5)\n    decay:       0.63544992 +/-\
-    \ 0.017267 (2.72%) (init= 0.2)\n    c:           0.01037989 +/- 0.001099 (10.59%)\
+    \   0.31418225 +/- 0.005330 (1.70%) (init= 0.5)\n    decay:       0.63545222 +/-\
+    \ 0.017267 (2.72%) (init= 0.5)\n    c:           0.01037982 +/- 0.001099 (10.59%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
     \ are <  0.100)\n    C(amplitude, decay)          = -0.633 \n    C(decay, c) \
     \                 = -0.516 \n"
@@ -33,56 +32,20 @@ focus:
   arm: 2L
   start: 28560001
   stop: 28600000
-overlapping_genes:
-- description: serine/threonine-protein phosphatase dullard homolog
-  id: AGAP006231
-  name: ''
-- description: peroxin-14
-  id: AGAP006232
-  name: ''
-- description: ''
-  id: AGAP006233
-  name: ''
-- description: protein SHQ1
-  id: AGAP006234
-  name: ''
-- description: ''
-  id: AGAP006235
-  name: ''
-- description: ''
-  id: AGAP006236
-  name: ''
-- description: Negative elongation factor E
-  id: AGAP006237
-  name: ''
-- description: ubiquitin-conjugating enzyme E2 C
-  id: AGAP006238
-  name: ''
-- description: Protein TSSC1
-  id: AGAP006239
-  name: ''
-- description: splicing factor 3B subunit 2
-  id: AGAP006240
-  name: ''
-- description: Innexin inx2
-  id: AGAP006241
-  name: ''
-- description: ''
-  id: AGAP006242
-  name: ''
-- description: phosphatidylinositol-4,5-bisphosphate 4-phosphatase
-  id: AGAP006243
-  name: ''
-- description: ''
-  id: AGAP029069
-  name: ''
-- description: CTL-like protein 1
-  id: AGAP006244
-  name: ''
+minor_delta_aic: 431.44389428760417
+peak:
+  arm: 2L
+  start: 26080001
+  stop: 29440000
 population:
   id: bfs
   label: Burkina Faso *An. gambiae*
 rank: 2
+signal:
+  arm: 2L
+  start: 28500001
+  stop: 28640000
 statistic:
   id: h12
   label: H12
+sum_delta_aic: 954.5628139711623

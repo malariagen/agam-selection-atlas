@@ -1,46 +1,51 @@
-adjacent_genes: []
 chromosome: '2'
 fit_reports:
   left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
-    \   = 12\n    # data points      = 295\n    # variables        = 1\n    chi-square\
-    \         = 27.587\n    reduced chi-square = 0.094\n    Akaike info crit   = -697.037\n\
-    \    Bayesian info crit = -693.350\n[[Variables]]\n    c:   0.42873244 +/- 0.017833\
-    \ (4.16%) (init= 0.04)\n"
+    \   = 12\n    # data points      = 308\n    # variables        = 1\n    chi-square\
+    \         = 29.218\n    reduced chi-square = 0.095\n    Akaike info crit   = -723.440\n\
+    \    Bayesian info crit = -719.710\n[[Variables]]\n    c:   0.41346148 +/- 0.017577\
+    \ (4.25%) (init= 0.04)\n"
   left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 73\n    # data points      = 297\n    # variables        = 3\n   \
-    \ chi-square         = 3.258\n    reduced chi-square = 0.011\n    Akaike info\
-    \ crit   = -1334.227\n    Bayesian info crit = -1323.146\n[[Variables]]\n    amplitude:\
-    \   1.26565506 +/- 0.036842 (2.91%) (init= 0.5)\n    decay:       1.44764272 +/-\
-    \ 0.098009 (6.77%) (init= 0.2)\n    c:           0.03528829 +/- 0.020844 (59.07%)\
+    \ evals   = 68\n    # data points      = 310\n    # variables        = 3\n   \
+    \ chi-square         = 3.287\n    reduced chi-square = 0.011\n    Akaike info\
+    \ crit   = -1403.479\n    Bayesian info crit = -1392.269\n[[Variables]]\n    amplitude:\
+    \   1.26033113 +/- 0.037991 (3.01%) (init= 0.5)\n    decay:       1.15507529 +/-\
+    \ 0.067226 (5.82%) (init= 0.5)\n    c:           0.05163917 +/- 0.015891 (30.77%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(decay, c)                  = -0.860 \n    C(amplitude,\
-    \ decay)          = -0.541 \n    C(amplitude, c)              =  0.125 \n"
+    \ are <  0.100)\n    C(decay, c)                  = -0.797 \n    C(amplitude,\
+    \ decay)          = -0.628 \n    C(amplitude, c)              =  0.141 \n"
   right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 12\n    # data points      = 161\n    # variables        = 1\n   \
-    \ chi-square         = 14.809\n    reduced chi-square = 0.093\n    Akaike info\
-    \ crit   = -382.173\n    Bayesian info crit = -379.092\n[[Variables]]\n    c:\
-    \   0.29943218 +/- 0.023976 (8.01%) (init= 0.04)\n"
+    \ evals   = 12\n    # data points      = 178\n    # variables        = 1\n   \
+    \ chi-square         = 15.796\n    reduced chi-square = 0.089\n    Akaike info\
+    \ crit   = -429.123\n    Bayesian info crit = -425.941\n[[Variables]]\n    c:\
+    \   0.27525521 +/- 0.022390 (8.13%) (init= 0.04)\n"
   right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 56\n    # data points      = 162\n    # variables        = 3\n   \
-    \ chi-square         = 0.437\n    reduced chi-square = 0.003\n    Akaike info\
-    \ crit   = -952.252\n    Bayesian info crit = -942.989\n[[Variables]]\n    amplitude:\
-    \   1.50194700 +/- 0.046944 (3.13%) (init= 0.5)\n    decay:       1.34241621 +/-\
-    \ 0.060462 (4.50%) (init= 0.2)\n    c:           0.02676044 +/- 0.009783 (36.56%)\
+    \ evals   = 27\n    # data points      = 179\n    # variables        = 3\n   \
+    \ chi-square         = 0.342\n    reduced chi-square = 0.002\n    Akaike info\
+    \ crit   = -1114.752\n    Bayesian info crit = -1105.190\n[[Variables]]\n    amplitude:\
+    \   0.96862450 +/- 0.010743 (1.11%) (init= 0.5)\n    decay:       1.31891607 +/-\
+    \ 0.040766 (3.09%) (init= 0.5)\n    c:           0.02932117 +/- 0.006777 (23.12%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(amplitude, decay)          = -0.827 \n    C(decay, c) \
-    \                 = -0.808 \n    C(amplitude, c)              =  0.449 \n"
+    \ are <  0.100)\n    C(decay, c)                  = -0.773 \n    C(amplitude,\
+    \ c)              = -0.327 \n    C(amplitude, decay)          = -0.101 \n"
 focus:
   arm: 2L
   start: 2420001
   stop: 2460000
-overlapping_genes:
-- description: voltage-gated sodium channel
-  id: AGAP004707
-  name: para
+minor_delta_aic: 680.0386934071804
+peak:
+  arm: 2R
+  start: 57700001
+  stop: 66425105
 population:
   id: bfs
   label: Burkina Faso *An. gambiae*
 rank: 1
+signal:
+  arm: 2L
+  start: 2420001
+  stop: 2720000
 statistic:
   id: h12
   label: H12
+sum_delta_aic: 1365.667309733471

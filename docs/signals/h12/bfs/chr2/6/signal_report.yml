@@ -1,52 +1,51 @@
-adjacent_genes: []
 chromosome: '2'
 fit_reports:
   left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
-    \   = 7\n    # data points      = 149\n    # variables        = 1\n    chi-square\
-    \         = 0.091\n    reduced chi-square = 0.001\n    Akaike info crit   = -1100.688\n\
-    \    Bayesian info crit = -1097.684\n[[Variables]]\n    c:   0.03944142 +/- 0.002031\
-    \ (5.15%) (init= 0.04)\n"
+    \   = 9\n    # data points      = 149\n    # variables        = 1\n    chi-square\
+    \         = 0.146\n    reduced chi-square = 0.001\n    Akaike info crit   = -1030.029\n\
+    \    Bayesian info crit = -1027.025\n[[Variables]]\n    c:   0.04523168 +/- 0.002575\
+    \ (5.69%) (init= 0.04)\n"
   left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 31\n    # data points      = 150\n    # variables        = 3\n   \
-    \ chi-square         = 0.030\n    reduced chi-square = 0.000\n    Akaike info\
-    \ crit   = -1272.812\n    Bayesian info crit = -1263.780\n[[Variables]]\n    amplitude:\
-    \   0.09354209 +/- 0.005882 (6.29%) (init= 0.5)\n    decay:       0.85442450 +/-\
-    \ 0.099336 (11.63%) (init= 0.2)\n    c:           0.02644573 +/- 0.001754 (6.63%)\
+    \ evals   = 23\n    # data points      = 150\n    # variables        = 3\n   \
+    \ chi-square         = 0.028\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1279.995\n    Bayesian info crit = -1270.963\n[[Variables]]\n    amplitude:\
+    \   0.12859787 +/- 0.005824 (4.53%) (init= 0.5)\n    decay:       0.82830421 +/-\
+    \ 0.068595 (8.28%) (init= 0.5)\n    c:           0.02779849 +/- 0.001682 (6.05%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(decay, c)                  = -0.623 \n    C(amplitude,\
-    \ decay)          = -0.519 \n"
+    \ are <  0.100)\n    C(decay, c)                  = -0.611 \n    C(amplitude,\
+    \ decay)          = -0.526 \n"
   right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 10\n    # data points      = 146\n    # variables        = 1\n   \
-    \ chi-square         = 0.177\n    reduced chi-square = 0.001\n    Akaike info\
-    \ crit   = -978.808\n    Bayesian info crit = -975.825\n[[Variables]]\n    c:\
-    \   0.05898856 +/- 0.002887 (4.90%) (init= 0.04)\n"
+    \ evals   = 9\n    # data points      = 146\n    # variables        = 1\n    chi-square\
+    \         = 0.132\n    reduced chi-square = 0.001\n    Akaike info crit   = -1021.620\n\
+    \    Bayesian info crit = -1018.636\n[[Variables]]\n    c:   0.05410447 +/- 0.002493\
+    \ (4.61%) (init= 0.04)\n"
   right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 40\n    # data points      = 147\n    # variables        = 3\n   \
-    \ chi-square         = 0.070\n    reduced chi-square = 0.000\n    Akaike info\
-    \ crit   = -1119.414\n    Bayesian info crit = -1110.442\n[[Variables]]\n    amplitude:\
-    \   0.12834965 +/- 0.009869 (7.69%) (init= 0.5)\n    decay:       0.87523068 +/-\
-    \ 0.120664 (13.79%) (init= 0.2)\n    c:           0.04130276 +/- 0.002778 (6.73%)\
+    \ evals   = 27\n    # data points      = 147\n    # variables        = 3\n   \
+    \ chi-square         = 0.064\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1131.103\n    Bayesian info crit = -1122.131\n[[Variables]]\n    amplitude:\
+    \   0.11918125 +/- 0.011344 (9.52%) (init= 0.5)\n    decay:       0.63462629 +/-\
+    \ 0.097185 (15.31%) (init= 0.5)\n    c:           0.04258930 +/- 0.002291 (5.38%)\
     \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(decay, c)                  = -0.631 \n    C(amplitude,\
-    \ decay)          = -0.572 \n"
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.638 \n    C(decay, c) \
+    \                 = -0.515 \n"
 focus:
   arm: 2R
-  start: 40760001
-  stop: 40800000
-overlapping_genes:
-- description: U3 small nucleolar RNA-associated protein 14
-  id: AGAP003632
-  name: ''
-- description: ''
-  id: AGAP003633
-  name: ''
-- description: ''
-  id: AGAP003635
-  name: ''
+  start: 40900001
+  stop: 40940000
+minor_delta_aic: 109.48275153405518
+peak:
+  arm: 2R
+  start: 40080001
+  stop: 42180000
 population:
   id: bfs
   label: Burkina Faso *An. gambiae*
 rank: 6
+signal:
+  arm: 2R
+  start: 40820001
+  stop: 41000000
 statistic:
   id: h12
   label: H12
+sum_delta_aic: 359.44860584418745

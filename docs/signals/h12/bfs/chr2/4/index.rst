@@ -7,19 +7,19 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #4
 This page describes a signal of selection found in the
 :doc:`/populations/bfs` population using the
 :doc:`/methods/h12` statistic.
-The inferred focus of this signal is on chromosome arm 2L from
-position 25,380,001 to 25,420,000.
-
-
-
-Gene :doc:`/genes/AGAP006028` (Rdl - GABA-gated chloride channel subunit) overlaps the focal region.
+The inferred focus of this signal is on chromosome arm 2R from
+position 3,400,001 to 3,480,000.
 
 
 
 
-No genes overlap the windows immediately adjacent to the focal region.
+The following 6 genes overlap the focal region: :doc:`/genes/AGAP001350`,  :doc:`/genes/AGAP001351`,  :doc:`/genes/AGAP001352`,  :doc:`/genes/AGAP001353`,  :doc:`/genes/AGAP001354`,  :doc:`/genes/AGAP001355`.
 
 
+
+
+The following 9 genes are within 40 kbp of the focal
+region: :doc:`/genes/AGAP001344`,  :doc:`/genes/AGAP001345` (hexamerin),  :doc:`/genes/AGAP001346`,  :doc:`/genes/AGAP001347`,  :doc:`/genes/AGAP001348`,  :doc:`/genes/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`/genes/AGAP001356` (ACE1 - Acetylcholinesterase),  :doc:`/genes/AGAP001357` (beta-catenin-like protein 1),  :doc:`/genes/AGAP001358`.
 
 
 .. figure:: signal_location.png
@@ -42,12 +42,10 @@ focus of this signal:
 
 .. cssclass:: table-hover
 .. csv-table::
-    :header: Signal, Chromosome, Start, Stop, Score, Genes
+    :widths: auto
+    :header: Signal, Focus, Score
 
-    :doc:`/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :doc:`/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :doc:`/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
-    :doc:`/signals/h12/bfs/1/index`, 2L, "2,420,000", "2,460,000", 511.2, AGAP001234
+    
 
 Adjacent signals
 ~~~~~~~~~~~~~~~~
@@ -90,9 +88,14 @@ The information below provides some diagnostics from the
     **Figure 2**. Chromosome-wide selection statistic and results from peak
     modelling. **a**, TODO. **b**, TODO.
 
+.. figure:: signal_targetting.png
+
+    **Figure 3**. Diagnostics from targetting the selection signal to a focal
+    region. TODO.
+
 .. figure:: signal_fit.png
 
-    **Figure 3**. Diagnostics from fitting a peak model to the selection signal.
+    **Figure 4**. Diagnostics from fitting a peak model to the selection signal.
     **a**, TODO. **b**, TODO. **c**, TODO.
 
 Model fit reports
@@ -103,22 +106,21 @@ Left flank, peak model::
     [[Model]]
         Model(exponential)
     [[Fit Statistics]]
-        # function evals   = 47
-        # data points      = 151
+        # function evals   = 27
+        # data points      = 148
         # variables        = 3
-        chi-square         = 0.013
+        chi-square         = 0.003
         reduced chi-square = 0.000
-        Akaike info crit   = -1408.830
-        Bayesian info crit = -1399.778
+        Akaike info crit   = -1590.501
+        Bayesian info crit = -1581.510
     [[Variables]]
-        amplitude:   0.06098414 +/- 0.003047 (5.00%) (init= 0.5)
-        decay:       1.47369632 +/- 0.184981 (12.55%) (init= 0.2)
-        c:           0.01074658 +/- 0.001847 (17.19%) (init= 0.04)
+        amplitude:   0.05691908 +/- 0.002520 (4.43%) (init= 0.5)
+        decay:       0.44727876 +/- 0.033086 (7.40%) (init= 0.5)
+        c:           0.01265460 +/- 0.000449 (3.55%) (init= 0.04)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.825 
-        C(amplitude, decay)          = -0.249 
-        C(amplitude, c)              = -0.171 
+        C(amplitude, decay)          = -0.579 
+        C(decay, c)                  = -0.422 
 
 
 Right flank, peak model::
@@ -126,21 +128,21 @@ Right flank, peak model::
     [[Model]]
         Model(exponential)
     [[Fit Statistics]]
-        # function evals   = 35
+        # function evals   = 83
         # data points      = 150
         # variables        = 3
-        chi-square         = 0.029
+        chi-square         = 0.004
         reduced chi-square = 0.000
-        Akaike info crit   = -1276.055
-        Bayesian info crit = -1267.023
+        Akaike info crit   = -1571.773
+        Bayesian info crit = -1562.741
     [[Variables]]
-        amplitude:   0.16181265 +/- 0.009840 (6.08%) (init= 0.5)
-        decay:       0.40238712 +/- 0.035767 (8.89%) (init= 0.2)
-        c:           0.02484211 +/- 0.001343 (5.41%) (init= 0.04)
+        amplitude:   0.03350768 +/- 0.002187 (6.53%) (init= 0.5)
+        decay:       1.00065195 +/- 0.124227 (12.41%) (init= 0.5)
+        c:           0.01081280 +/- 0.000719 (6.66%) (init= 0.04)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.693 
-        C(decay, c)                  = -0.394 
+        C(decay, c)                  = -0.684 
+        C(amplitude, decay)          = -0.531 
 
 
 Left flank, null model::
@@ -149,14 +151,14 @@ Left flank, null model::
         Model(constant)
     [[Fit Statistics]]
         # function evals   = 11
-        # data points      = 150
+        # data points      = 147
         # variables        = 1
-        chi-square         = 0.045
+        chi-square         = 0.015
         reduced chi-square = 0.000
-        Akaike info crit   = -1213.263
-        Bayesian info crit = -1210.252
+        Akaike info crit   = -1346.308
+        Bayesian info crit = -1343.317
     [[Variables]]
-        c:   0.02512929 +/- 0.001426 (5.67%) (init= 0.04)
+        c:   0.01642202 +/- 0.000844 (5.14%) (init= 0.04)
 
 
 Right flank, null model::
@@ -164,15 +166,15 @@ Right flank, null model::
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 9
+        # function evals   = 11
         # data points      = 149
         # variables        = 1
-        chi-square         = 0.115
-        reduced chi-square = 0.001
-        Akaike info crit   = -1065.654
-        Bayesian info crit = -1062.650
+        chi-square         = 0.012
+        reduced chi-square = 0.000
+        Akaike info crit   = -1402.859
+        Bayesian info crit = -1399.855
     [[Variables]]
-        c:   0.03429070 +/- 0.002285 (6.66%) (init= 0.04)
+        c:   0.01605582 +/- 0.000737 (4.59%) (init= 0.04)
 
 
 Comments

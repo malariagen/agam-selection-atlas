@@ -1,0 +1,51 @@
+chromosome: X
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 11\n    # data points      = 144\n    # variables        = 1\n    chi-square\
+    \         = 0.048\n    reduced chi-square = 0.000\n    Akaike info crit   = -1150.027\n\
+    \    Bayesian info crit = -1147.057\n[[Variables]]\n    c:   0.02172094 +/- 0.001531\
+    \ (7.05%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 27\n    # data points      = 145\n    # variables        = 3\n   \
+    \ chi-square         = 0.007\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1443.489\n    Bayesian info crit = -1434.559\n[[Variables]]\n    amplitude:\
+    \   0.07164179 +/- 0.002367 (3.30%) (init= 0.5)\n    decay:       1.37779028 +/-\
+    \ 0.106060 (7.70%) (init= 0.5)\n    c:           0.00688232 +/- 0.001257 (18.27%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(decay, c)                  = -0.805 \n    C(amplitude,\
+    \ decay)          = -0.276 \n    C(amplitude, c)              = -0.150 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 9\n    # data points      = 146\n    # variables        = 1\n    chi-square\
+    \         = 0.053\n    reduced chi-square = 0.000\n    Akaike info crit   = -1154.942\n\
+    \    Bayesian info crit = -1151.959\n[[Variables]]\n    c:   0.02916075 +/- 0.001579\
+    \ (5.42%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 147\n    # variables        = 3\n   \
+    \ chi-square         = 0.029\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1245.669\n    Bayesian info crit = -1236.698\n[[Variables]]\n    amplitude:\
+    \   0.08728581 +/- 0.008517 (9.76%) (init= 0.5)\n    decay:       0.52782252 +/-\
+    \ 0.079196 (15.00%) (init= 0.5)\n    c:           0.02245157 +/- 0.001472 (6.56%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.661 \n    C(decay, c) \
+    \                 = -0.467 \n"
+focus:
+  arm: X
+  start: 15420001
+  stop: 15460000
+minor_delta_aic: 90.72691153299388
+peak:
+  arm: X
+  start: 14440001
+  stop: 16520000
+population:
+  id: ugs
+  label: Uganda *An. gambiae*
+rank: 1
+signal:
+  arm: X
+  start: 15320001
+  stop: 15460000
+statistic:
+  id: h12
+  label: H12
+sum_delta_aic: 384.18939436251867
