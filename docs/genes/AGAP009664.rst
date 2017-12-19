@@ -1,0 +1,9 @@
+
+AGAP009664
+=============
+
+
+
+Description: Nuclear receptor coactivator 2 [source:vb community annotation].
+
+TODO

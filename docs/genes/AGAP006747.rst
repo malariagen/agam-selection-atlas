@@ -1,0 +1,9 @@
+
+AGAP006747
+=============
+
+Name: **REL2**
+
+Description: Imd pathway signalling  nf-kappab relish-like transcription factor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004090
+=============
+
+
+
+Description: 5'-3' exoribonuclease 2 [source:vb community annotation].
+
+TODO

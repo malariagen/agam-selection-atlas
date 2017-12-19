@@ -1,0 +1,9 @@
+
+AGAP001019
+=============
+
+
+
+Description: Polycomb-like protein 2 [source:vb community annotation].
+
+TODO

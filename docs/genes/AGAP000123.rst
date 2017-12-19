@@ -1,0 +1,9 @@
+
+AGAP000123
+=============
+
+Name: **CTLSE2**
+
+Description: C-type lectin (ctl) [source:vb community annotation].
+
+TODO

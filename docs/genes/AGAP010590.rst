@@ -1,0 +1,9 @@
+
+AGAP010590
+=============
+
+Name: **mRpL30**
+
+Description: 39s ribosomal protein l30, mitochondrial [source:vb community annotation].
+
+TODO

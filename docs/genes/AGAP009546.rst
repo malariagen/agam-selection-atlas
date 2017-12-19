@@ -1,0 +1,9 @@
+
+AGAP009546
+=============
+
+
+
+Description: Endoplasmic reticulum lectin 1 [source:vb community annotation].
+
+TODO

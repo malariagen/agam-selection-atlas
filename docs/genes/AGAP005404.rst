@@ -1,0 +1,9 @@
+
+AGAP005404
+=============
+
+
+
+Description: Lectin, mannose-binding 1 [source:vb community annotation].
+
+TODO

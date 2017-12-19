@@ -1,0 +1,9 @@
+
+AGAP008043
+=============
+
+Name: **mRpS18B**
+
+Description: 28s ribosomal protein s18b, mitochondrial [source:vb community annotation].
+
+TODO

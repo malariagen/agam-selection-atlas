@@ -1,0 +1,9 @@
+
+AGAP003857
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 a [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP013080
+=============
+
+Name: **TWDL5**
+
+Description: Cuticular protein twdl family (twdl5) [source:vb community annotation].
+
+TODO

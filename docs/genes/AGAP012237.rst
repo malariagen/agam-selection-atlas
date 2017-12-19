@@ -1,0 +1,9 @@
+
+AGAP012237
+=============
+
+
+
+Description: Dual specificity phosphatase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003584
+=============
+
+
+
+Description: L-iditol 2-dehydrogenase [source:vb community annotation].
+
+TODO

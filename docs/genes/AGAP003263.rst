@@ -1,0 +1,9 @@
+
+AGAP003263
+=============
+
+
+
+Description: Cdc42 small effector protein-like protein [source:vb community annotation].
+
+TODO

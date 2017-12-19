@@ -1,0 +1,9 @@
+
+AGAP005609
+=============
+
+
+
+Description: Adp-ribosylation factor gtpase-activating protein 2/3 [source:vb community annotation].
+
+TODO

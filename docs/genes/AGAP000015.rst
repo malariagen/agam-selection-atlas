@@ -1,0 +1,9 @@
+
+AGAP000015
+=============
+
+
+
+Description: Proto-oncogene tyrosine-protein kinase ros [source:vb community annotation].
+
+TODO

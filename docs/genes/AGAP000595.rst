@@ -1,0 +1,9 @@
+
+AGAP000595
+=============
+
+
+
+Description: Lysophosphatidylcholine acyltransferase 2b [source:vb community annotation].
+
+TODO

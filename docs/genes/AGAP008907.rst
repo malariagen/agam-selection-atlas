@@ -1,0 +1,9 @@
+
+AGAP008907
+=============
+
+
+
+Description: Carnitine o-palmitoyltransferase 2 [source:vb community annotation].
+
+TODO

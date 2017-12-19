@@ -1,0 +1,9 @@
+
+AGAP002653
+=============
+
+
+
+Description: Phenylalanyl-trna synthetase alpha chain [source:vb community annotation].
+
+TODO

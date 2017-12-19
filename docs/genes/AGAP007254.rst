@@ -1,0 +1,9 @@
+
+AGAP007254
+=============
+
+
+
+Description: Ribosome biogenesis protein utp30 [source:vb community annotation].
+
+TODO

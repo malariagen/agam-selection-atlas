@@ -1,0 +1,9 @@
+
+AGAP001897
+=============
+
+
+
+Description: Centromere protein j [source:vb community annotation].
+
+TODO

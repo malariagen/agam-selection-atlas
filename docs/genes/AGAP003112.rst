@@ -1,0 +1,9 @@
+
+AGAP003112
+=============
+
+
+
+Description: Vesicle transport through interaction with t-snares 1 [source:vb community annotation].
+
+TODO

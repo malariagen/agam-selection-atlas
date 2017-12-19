@@ -1,0 +1,9 @@
+
+AGAP009866
+=============
+
+
+
+Description: Dolichol-phosphate mannosyltransferase [source:vb community annotation].
+
+TODO

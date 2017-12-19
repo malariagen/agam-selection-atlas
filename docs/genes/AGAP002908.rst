@@ -1,0 +1,9 @@
+
+AGAP002908
+=============
+
+
+
+Description: Splicing factor u2af 65 kda subunit [source:vb community annotation].
+
+TODO

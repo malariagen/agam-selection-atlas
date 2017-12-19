@@ -1,0 +1,9 @@
+
+AGAP003158
+=============
+
+
+
+Description: Serine/threonine-protein kinase [source:vb community annotation].
+
+TODO

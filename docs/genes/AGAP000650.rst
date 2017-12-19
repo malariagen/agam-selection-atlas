@@ -1,0 +1,9 @@
+
+AGAP000650
+=============
+
+
+
+Description: Ribonucleases p/mrp protein subunit rpp40 [source:vb community annotation].
+
+TODO

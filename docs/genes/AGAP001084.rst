@@ -1,0 +1,9 @@
+
+AGAP001084
+=============
+
+
+
+Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7q2v5].
+
+TODO

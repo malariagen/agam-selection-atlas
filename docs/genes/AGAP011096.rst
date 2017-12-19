@@ -1,0 +1,9 @@
+
+AGAP011096
+=============
+
+
+
+Description: Ccaat/enhancer binding protein (c/ebp), invertebrate [source:vb community annotation].
+
+TODO

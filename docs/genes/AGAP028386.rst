@@ -1,0 +1,9 @@
+
+AGAP028386
+=============
+
+Name: **ND6**
+
+Description: Nadh dehydrogenase subunit 6 [source:european nucleotide archive;acc:nd6].
+
+TODO

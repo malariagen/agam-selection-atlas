@@ -1,0 +1,9 @@
+
+AGAP005618
+=============
+
+
+
+Description: 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [source:uniprotkb/trembl;acc:q7q6x6].
+
+TODO

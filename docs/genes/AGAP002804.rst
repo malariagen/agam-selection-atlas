@@ -1,0 +1,9 @@
+
+AGAP002804
+=============
+
+
+
+Description: Ecdysteroid-regulated protein [source:vb community annotation].
+
+TODO

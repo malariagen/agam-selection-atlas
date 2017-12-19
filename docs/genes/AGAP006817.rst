@@ -1,0 +1,9 @@
+
+AGAP006817
+=============
+
+
+
+Description: Fact complex subunit spt16 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001670
+=============
+
+
+
+Description: Translation initiation factor if-2 [source:vb community annotation].
+
+TODO

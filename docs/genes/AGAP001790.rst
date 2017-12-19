@@ -1,0 +1,9 @@
+
+AGAP001790
+=============
+
+
+
+Description: P21-activated kinase 1 [source:vb community annotation].
+
+TODO

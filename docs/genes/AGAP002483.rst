@@ -1,0 +1,9 @@
+
+AGAP002483
+=============
+
+
+
+Description: Ketohexokinase [source:vb community annotation].
+
+TODO

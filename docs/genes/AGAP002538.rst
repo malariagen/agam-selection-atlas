@@ -1,0 +1,9 @@
+
+AGAP002538
+=============
+
+
+
+Description: Escrt-i complex subunit vps37 [source:vb community annotation].
+
+TODO

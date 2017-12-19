@@ -1,0 +1,9 @@
+
+AGAP001152
+=============
+
+
+
+Description: Gpn-loop gtpase 3 [source:vb community annotation].
+
+TODO

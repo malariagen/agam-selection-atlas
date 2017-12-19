@@ -1,0 +1,9 @@
+
+AGAP004960
+=============
+
+Name: **Prosalpha3**
+
+Description: 26s proteasome alpha 3 subunit [source:vb community annotation].
+
+TODO

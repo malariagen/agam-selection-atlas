@@ -1,0 +1,9 @@
+
+AGAP007032
+=============
+
+
+
+Description: Breast cancer 2 susceptibility protein [source:vb community annotation].
+
+TODO

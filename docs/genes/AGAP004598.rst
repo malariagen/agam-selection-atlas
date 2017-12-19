@@ -1,0 +1,9 @@
+
+AGAP004598
+=============
+
+
+
+Description: Phosphoserine aminotransferase [source:uniprotkb/trembl;acc:q5trw7].
+
+TODO

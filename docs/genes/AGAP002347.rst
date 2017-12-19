@@ -1,0 +1,9 @@
+
+AGAP002347
+=============
+
+
+
+Description: N-acetylglucosamine-6-phosphate deacetylase [source:uniprotkb/trembl;acc:q7qbx3].
+
+TODO

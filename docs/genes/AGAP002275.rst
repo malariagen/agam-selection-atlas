@@ -1,0 +1,9 @@
+
+AGAP002275
+=============
+
+Name: **Gr2**
+
+Description: Gustatory receptor 2 [source:vb community annotation].
+
+TODO

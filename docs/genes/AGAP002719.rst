@@ -1,0 +1,9 @@
+
+AGAP002719
+=============
+
+
+
+Description: Potassium voltage-gated channel eag-related subfamily h, invertebrate [source:vb community annotation].
+
+TODO

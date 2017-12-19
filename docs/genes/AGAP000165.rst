@@ -1,0 +1,9 @@
+
+AGAP000165
+=============
+
+Name: **GSTMS1**
+
+Description: Glutathione transferase microsomal 1 [source:vb community annotation].
+
+TODO

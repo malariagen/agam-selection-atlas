@@ -1,0 +1,9 @@
+
+AGAP001930
+=============
+
+
+
+Description: Heterogeneous nuclear ribonucleoprotein 27c [source:vb community annotation].
+
+TODO

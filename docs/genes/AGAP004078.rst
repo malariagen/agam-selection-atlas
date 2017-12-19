@@ -1,0 +1,9 @@
+
+AGAP004078
+=============
+
+
+
+Description: Dna topoisomerase i [source:vb community annotation].
+
+TODO

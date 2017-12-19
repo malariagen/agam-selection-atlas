@@ -1,0 +1,9 @@
+
+AGAP008843
+=============
+
+Name: **AQP1**
+
+Description: Aquaporin water channel isoform a [source:uniprotkb/trembl;acc:f2ynf6].
+
+TODO

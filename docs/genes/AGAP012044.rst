@@ -1,0 +1,9 @@
+
+AGAP012044
+=============
+
+
+
+Description: Tetratricopeptide repeat protein 4 [source:vb community annotation].
+
+TODO

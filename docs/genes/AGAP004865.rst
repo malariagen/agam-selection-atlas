@@ -1,0 +1,9 @@
+
+AGAP004865
+=============
+
+Name: **tun**
+
+Description: Protein n-terminal glutamine amidohydrolase [source:uniprotkb/swiss-prot;acc:q7q968].
+
+TODO

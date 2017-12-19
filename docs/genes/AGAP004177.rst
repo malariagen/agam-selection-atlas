@@ -1,0 +1,9 @@
+
+AGAP004177
+=============
+
+
+
+Description: 23s rrna (uridine2552-2'-o)-methyltransferase [source:vb community annotation].
+
+TODO

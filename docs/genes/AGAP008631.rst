@@ -1,0 +1,9 @@
+
+AGAP008631
+=============
+
+
+
+Description: Ethanolaminephosphotransferase [source:vb community annotation].
+
+TODO

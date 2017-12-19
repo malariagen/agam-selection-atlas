@@ -1,0 +1,9 @@
+
+AGAP005897
+=============
+
+
+
+Description: Ubiquitin-protein ligase e3 b [source:vb community annotation].
+
+TODO

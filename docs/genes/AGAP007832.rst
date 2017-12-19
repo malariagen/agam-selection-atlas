@@ -1,0 +1,9 @@
+
+AGAP007832
+=============
+
+
+
+Description: Prkca-binding protein [source:vb community annotation].
+
+TODO

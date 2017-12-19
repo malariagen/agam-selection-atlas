@@ -1,0 +1,9 @@
+
+AGAP003904
+=============
+
+
+
+Description: Aif-like mitochondrial oxidoreductase (nfrl) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010632
+=============
+
+
+
+Description: Myosin-light-chain kinase [source:vb community annotation].
+
+TODO

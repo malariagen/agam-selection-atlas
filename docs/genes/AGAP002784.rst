@@ -1,0 +1,9 @@
+
+AGAP002784
+=============
+
+Name: **CLIPD8**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

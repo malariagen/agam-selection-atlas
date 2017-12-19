@@ -1,0 +1,9 @@
+
+AGAP004146
+=============
+
+
+
+Description: Ras-related protein rab-1a [source:vb community annotation].
+
+TODO

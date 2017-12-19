@@ -1,0 +1,9 @@
+
+AGAP010425
+=============
+
+
+
+Description: Trimethylguanosine synthase [source:vb community annotation].
+
+TODO

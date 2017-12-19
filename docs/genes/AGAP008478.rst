@@ -1,0 +1,9 @@
+
+AGAP008478
+=============
+
+Name: **CPLCW7**
+
+Description: Cuticular protein cplcw family (cplcw7) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006006
+=============
+
+Name: **CPR104**
+
+Description: Cuticular protein rr-1 family 104 [source:vb community annotation].
+
+TODO

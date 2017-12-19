@@ -1,0 +1,9 @@
+
+AGAP008018
+=============
+
+Name: **CYP12F4**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

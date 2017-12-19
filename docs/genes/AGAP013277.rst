@@ -1,0 +1,9 @@
+
+AGAP013277
+=============
+
+
+
+Description: Geranylgeranyl transferase type-2 subunit beta [source:vb community annotation].
+
+TODO

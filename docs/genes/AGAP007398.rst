@@ -1,0 +1,9 @@
+
+AGAP007398
+=============
+
+
+
+Description: Mitochondrial inner membrane protease subunit 2 [source:vb community annotation].
+
+TODO

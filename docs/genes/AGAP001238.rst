@@ -1,0 +1,9 @@
+
+AGAP001238
+=============
+
+
+
+Description: Ras-specific guanine nucleotide-releasing factor 2 [source:vb community annotation].
+
+TODO

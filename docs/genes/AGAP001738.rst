@@ -1,0 +1,9 @@
+
+AGAP001738
+=============
+
+Name: **mRpL1**
+
+Description: 39s ribosomal protein l1, mitochondrial [source:vb community annotation].
+
+TODO

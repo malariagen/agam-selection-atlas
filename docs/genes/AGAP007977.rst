@@ -1,0 +1,9 @@
+
+AGAP007977
+=============
+
+
+
+Description: Fas-associated factor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP013285
+=============
+
+Name: **IR7u**
+
+Description: Ionotropic receptor ir7u [source:vb community annotation].
+
+TODO

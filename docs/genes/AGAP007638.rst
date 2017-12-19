@@ -1,0 +1,9 @@
+
+AGAP007638
+=============
+
+
+
+Description: Oligosaccharyltransferase complex subunit delta (ribophorin ii) [source:vb community annotation].
+
+TODO

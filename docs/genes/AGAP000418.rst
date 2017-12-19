@@ -1,0 +1,9 @@
+
+AGAP000418
+=============
+
+
+
+Description: Novel protein kinase c [source:vb community annotation].
+
+TODO

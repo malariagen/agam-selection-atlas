@@ -1,0 +1,9 @@
+
+AGAP010373
+=============
+
+
+
+Description: Arginine-trna-protein transferase [source:vb community annotation].
+
+TODO

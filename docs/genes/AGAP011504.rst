@@ -1,0 +1,9 @@
+
+AGAP011504
+=============
+
+
+
+Description: Protein transport protein sec61 subunit beta [source:vb community annotation].
+
+TODO

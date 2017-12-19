@@ -1,0 +1,9 @@
+
+AGAP005300
+=============
+
+
+
+Description: Nuclear factor erythroid 2, invertebrate [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011050
+=============
+
+
+
+Description: Aldehyde reductase [source:vb community annotation].
+
+TODO

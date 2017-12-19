@@ -1,0 +1,9 @@
+
+AGAP005535
+=============
+
+
+
+Description: 26s proteasome regulatory subunit n5 [source:vb community annotation].
+
+TODO

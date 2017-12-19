@@ -1,0 +1,9 @@
+
+AGAP008664
+=============
+
+
+
+Description: Udp-glucose 4-epimerase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011895
+=============
+
+
+
+Description: Uroporphyrinogen decarboxylase [source:vb community annotation].
+
+TODO

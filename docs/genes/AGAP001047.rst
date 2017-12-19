@@ -1,0 +1,9 @@
+
+AGAP001047
+=============
+
+
+
+Description: Inositol polyphosphate 1-phosphatase [source:vb community annotation].
+
+TODO

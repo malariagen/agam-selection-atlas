@@ -1,0 +1,9 @@
+
+AGAP012756
+=============
+
+
+
+Description: Er lumen protein retaining receptor [source:vb community annotation].
+
+TODO

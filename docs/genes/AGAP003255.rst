@@ -1,0 +1,9 @@
+
+AGAP003255
+=============
+
+Name: **Gr17**
+
+Description: Gustatory receptor 17 [source:vb community annotation].
+
+TODO

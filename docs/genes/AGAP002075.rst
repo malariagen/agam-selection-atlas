@@ -1,0 +1,9 @@
+
+AGAP002075
+=============
+
+
+
+Description: Serine/threonine-protein kinase ttk/mps1 [source:vb community annotation].
+
+TODO

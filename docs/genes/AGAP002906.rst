@@ -1,0 +1,9 @@
+
+AGAP002906
+=============
+
+
+
+Description: Uncharacterized aarf domain-containing protein kinase 4 [source:vb community annotation].
+
+TODO

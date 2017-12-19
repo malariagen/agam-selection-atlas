@@ -1,0 +1,9 @@
+
+AGAP009125
+=============
+
+Name: **Bbs8**
+
+Description: Bardet-biedl syndrome 8 [source:vb community annotation].
+
+TODO

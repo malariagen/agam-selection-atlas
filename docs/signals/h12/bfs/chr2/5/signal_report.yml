@@ -1,0 +1,46 @@
+adjacent_genes: []
+chromosome: '2'
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 11\n    # data points      = 147\n    # variables        = 1\n    chi-square\
+    \         = 0.015\n    reduced chi-square = 0.000\n    Akaike info crit   = -1349.218\n\
+    \    Bayesian info crit = -1346.228\n[[Variables]]\n    c:   0.01641995 +/- 0.000835\
+    \ (5.09%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 148\n    # variables        = 3\n   \
+    \ chi-square         = 0.005\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1529.844\n    Bayesian info crit = -1520.853\n[[Variables]]\n    amplitude:\
+    \   0.04617463 +/- 0.002586 (5.60%) (init= 0.5)\n    decay:       0.68376316 +/-\
+    \ 0.066673 (9.75%) (init= 0.2)\n    c:           0.01165768 +/- 0.000625 (5.36%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(decay, c)                  = -0.545 \n    C(amplitude,\
+    \ decay)          = -0.542 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 11\n    # data points      = 149\n    # variables        = 1\n   \
+    \ chi-square         = 0.012\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1406.909\n    Bayesian info crit = -1403.905\n[[Variables]]\n    c:\
+    \   0.01577554 +/- 0.000727 (4.61%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 75\n    # data points      = 150\n    # variables        = 3\n   \
+    \ chi-square         = 0.004\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1588.688\n    Bayesian info crit = -1579.656\n[[Variables]]\n    amplitude:\
+    \   0.03495062 +/- 0.002203 (6.30%) (init= 0.5)\n    decay:       0.88972952 +/-\
+    \ 0.100769 (11.33%) (init= 0.2)\n    c:           0.01093690 +/- 0.000628 (5.74%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(decay, c)                  = -0.638 \n    C(amplitude,\
+    \ decay)          = -0.567 \n"
+focus:
+  arm: 2R
+  start: 3460001
+  stop: 3500000
+overlapping_genes:
+- description: Acetylcholinesterase
+  id: AGAP001356
+  name: ACE1
+population:
+  id: bfs
+  label: Burkina Faso *An. gambiae*
+rank: 5
+statistic:
+  id: h12
+  label: H12

@@ -1,0 +1,9 @@
+
+AGAP005721
+=============
+
+
+
+Description: Chondroitin 4-sulfotransferase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008684
+=============
+
+
+
+Description: Juvenile hormone epoxide hydrolase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005324
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 w [source:vb community annotation].
+
+TODO

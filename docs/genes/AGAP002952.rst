@@ -1,0 +1,9 @@
+
+AGAP002952
+=============
+
+
+
+Description: Peptidyl-prolyl isomerase g (cyclophilin g) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004877
+=============
+
+
+
+Description: Paramyosin [source:vb community annotation].
+
+TODO

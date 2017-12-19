@@ -1,0 +1,9 @@
+
+AGAP012192
+=============
+
+
+
+Description: Dna mismatch repair protein mlh1 [source:vb community annotation].
+
+TODO

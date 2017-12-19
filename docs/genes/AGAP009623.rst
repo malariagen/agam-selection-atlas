@@ -1,0 +1,9 @@
+
+AGAP009623
+=============
+
+Name: **GAPDH**
+
+Description: Glyceraldehyde 3-phosphate dehydrogenase [source:vb community annotation].
+
+TODO

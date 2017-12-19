@@ -1,0 +1,9 @@
+
+AGAP006798
+=============
+
+
+
+Description: Transformer-2 protein [source:vb community annotation].
+
+TODO

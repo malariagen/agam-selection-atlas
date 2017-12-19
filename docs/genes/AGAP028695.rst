@@ -1,0 +1,9 @@
+
+AGAP028695
+=============
+
+
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

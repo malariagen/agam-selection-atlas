@@ -1,0 +1,9 @@
+
+AGAP003430
+=============
+
+Name: **VhaM8.9**
+
+Description: Vacuolar h  atpase m8.9 accessory subunit [source:vb community annotation].
+
+TODO

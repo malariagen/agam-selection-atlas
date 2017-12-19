@@ -1,0 +1,9 @@
+
+AGAP006273
+=============
+
+Name: **ABCB3**
+
+Description: Atp-binding cassette transporter (abc transporter) family b member 3 [source:vb community annotation].
+
+TODO

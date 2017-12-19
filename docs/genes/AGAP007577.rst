@@ -1,0 +1,9 @@
+
+AGAP007577
+=============
+
+
+
+Description: Histidine triad nucleotide binding protein 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004754
+=============
+
+Name: **CASPL2**
+
+Description: Long caspase (caspl2) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002988
+=============
+
+
+
+Description: Dna excision repair protein ercc-2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012818
+=============
+
+
+
+Description: V-type proton atpase subunit a [source:uniprotkb/trembl;acc:a0nag9].
+
+TODO

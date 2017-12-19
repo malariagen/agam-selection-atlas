@@ -1,0 +1,9 @@
+
+AGAP004011
+=============
+
+
+
+Description: Survival motor neuron protein [source:vb community annotation].
+
+TODO

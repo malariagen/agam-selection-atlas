@@ -1,0 +1,9 @@
+
+AGAP008539
+=============
+
+
+
+Description: Translocase of inner mitochondrial membrane 44 [source:vb community annotation].
+
+TODO

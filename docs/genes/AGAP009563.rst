@@ -1,0 +1,9 @@
+
+AGAP009563
+=============
+
+
+
+Description: Myotubularin related protein 2 [source:vb community annotation].
+
+TODO

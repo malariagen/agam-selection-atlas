@@ -1,0 +1,9 @@
+
+AGAP012448
+=============
+
+
+
+Description: Zinc finger protein 593 homolog [source:vb community annotation].
+
+TODO

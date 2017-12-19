@@ -1,0 +1,9 @@
+
+AGAP009486
+=============
+
+
+
+Description: V-type h -transporting atpase 54 kd subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002551
+=============
+
+
+
+Description: Glucose dehydrogenase (acceptor) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001149
+=============
+
+
+
+Description: Protein mak11 [source:vb community annotation].
+
+TODO

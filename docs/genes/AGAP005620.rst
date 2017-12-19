@@ -1,0 +1,9 @@
+
+AGAP005620
+=============
+
+Name: **ATT**
+
+Description: Attacin anti-microbial peptide [source:vb community annotation].
+
+TODO

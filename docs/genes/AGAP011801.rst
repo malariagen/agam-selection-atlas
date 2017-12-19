@@ -1,0 +1,9 @@
+
+AGAP011801
+=============
+
+
+
+Description: Coiled-coil domain-containing protein 22 homolog [source:uniprotkb/swiss-prot;acc:q7pz96].
+
+TODO

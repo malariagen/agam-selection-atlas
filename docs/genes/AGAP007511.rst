@@ -1,0 +1,9 @@
+
+AGAP007511
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx54/dbp10 [source:vb community annotation].
+
+TODO

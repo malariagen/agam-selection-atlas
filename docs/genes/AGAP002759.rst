@@ -1,0 +1,9 @@
+
+AGAP002759
+=============
+
+
+
+Description: T-complex protein 1 subunit gamma [source:uniprotkb/trembl;acc:q7qcq5].
+
+TODO

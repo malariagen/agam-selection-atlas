@@ -1,0 +1,9 @@
+
+AGAP005419
+=============
+
+Name: **Adrenodoxin_red**
+
+Description: Nadph:adrenodoxin oxidoreductase, mitochondrial [source:uniprotkb/trembl;acc:q7q7a2].
+
+TODO

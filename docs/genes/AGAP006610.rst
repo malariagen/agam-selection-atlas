@@ -1,0 +1,9 @@
+
+AGAP006610
+=============
+
+
+
+Description: Glutaminyl-peptide cyclotransferase precursor [source:vb community annotation].
+
+TODO

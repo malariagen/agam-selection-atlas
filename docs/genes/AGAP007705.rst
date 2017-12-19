@@ -1,0 +1,9 @@
+
+AGAP007705
+=============
+
+
+
+Description: Trna acetyltransferase tan1 [source:vb community annotation].
+
+TODO

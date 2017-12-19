@@ -1,0 +1,9 @@
+
+AGAP002243
+=============
+
+
+
+Description: Ankyrin repeat and fyve domain-containing protein 1 [source:vb community annotation].
+
+TODO

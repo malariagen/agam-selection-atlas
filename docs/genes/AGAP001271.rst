@@ -1,0 +1,9 @@
+
+AGAP001271
+=============
+
+
+
+Description: Pre-mrna cleavage complex 2 protein pcf11 [source:vb community annotation].
+
+TODO

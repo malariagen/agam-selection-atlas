@@ -1,0 +1,9 @@
+
+AGAP013274
+=============
+
+
+
+Description: L-allo-threonine aldolase [source:vb community annotation].
+
+TODO

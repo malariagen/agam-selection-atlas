@@ -1,0 +1,9 @@
+
+AGAP005210
+=============
+
+
+
+Description: Translation initiation factor eif-2b subunit gamma [source:vb community annotation].
+
+TODO

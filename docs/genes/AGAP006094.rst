@@ -1,0 +1,9 @@
+
+AGAP006094
+=============
+
+
+
+Description: Ribosomal protein s6 kinase alpha-5 [source:vb community annotation].
+
+TODO

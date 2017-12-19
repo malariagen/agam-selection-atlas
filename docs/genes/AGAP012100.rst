@@ -1,0 +1,9 @@
+
+AGAP012100
+=============
+
+Name: **RpS26**
+
+Description: 40s ribosomal protein s26 [source:uniprotkb/swiss-prot;acc:q9gt45].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008635
+=============
+
+
+
+Description: Protein sda1 [source:vb community annotation].
+
+TODO

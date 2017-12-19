@@ -1,0 +1,9 @@
+
+AGAP001123
+=============
+
+Name: **Gr36**
+
+Description: Gustatory receptor 36 [source:vb community annotation].
+
+TODO

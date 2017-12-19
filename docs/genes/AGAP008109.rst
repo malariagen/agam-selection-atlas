@@ -1,0 +1,9 @@
+
+AGAP008109
+=============
+
+
+
+Description: Venom allergen [source:vb community annotation].
+
+TODO

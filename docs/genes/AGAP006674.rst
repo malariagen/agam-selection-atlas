@@ -1,0 +1,9 @@
+
+AGAP006674
+=============
+
+
+
+Description: Chymotrypsin-like protease (precursor) [source:vb community annotation].
+
+TODO

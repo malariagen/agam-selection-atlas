@@ -1,0 +1,9 @@
+
+AGAP004741
+=============
+
+
+
+Description: Serine proteinase [source:vb community annotation].
+
+TODO

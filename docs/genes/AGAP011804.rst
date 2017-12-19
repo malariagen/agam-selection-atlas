@@ -1,0 +1,9 @@
+
+AGAP011804
+=============
+
+
+
+Description: Translation initiation factor 2d [source:vb community annotation].
+
+TODO

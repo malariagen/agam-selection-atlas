@@ -1,0 +1,9 @@
+
+AGAP003722
+=============
+
+Name: **ANXB10C**
+
+Description: Annexin b10c [source:vb community annotation].
+
+TODO

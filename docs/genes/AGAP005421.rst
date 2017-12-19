@@ -1,0 +1,9 @@
+
+AGAP005421
+=============
+
+
+
+Description: Mitochondrial inner membrane protein oxa1l [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003042
+=============
+
+
+
+Description: Rgp1 retrograde golgi transport homolog (s. cerevisiae) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008070
+=============
+
+
+
+Description: Carboxypeptidase b [source:vb community annotation].
+
+TODO

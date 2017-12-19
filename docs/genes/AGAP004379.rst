@@ -1,0 +1,9 @@
+
+AGAP004379
+=============
+
+Name: **GSTD6**
+
+Description: Glutathione s-transferase delta class 6 [source:vb community annotation].
+
+TODO

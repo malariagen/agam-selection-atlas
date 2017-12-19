@@ -1,0 +1,9 @@
+
+AGAP011092
+=============
+
+
+
+Description: Polyadenylate-binding protein [source:vb community annotation].
+
+TODO

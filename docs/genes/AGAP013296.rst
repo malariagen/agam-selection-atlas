@@ -1,0 +1,9 @@
+
+AGAP013296
+=============
+
+
+
+Description: Peptidyl-prolyl cis-trans isomerase nima-interacting 4 [source:vb community annotation].
+
+TODO

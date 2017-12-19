@@ -1,0 +1,9 @@
+
+AGAP006649
+=============
+
+Name: **CSPBP**
+
+Description: Circumsporozoite protein-binding protein (regulator of nonsense transcripts 3) [source:vb community annotation].
+
+TODO

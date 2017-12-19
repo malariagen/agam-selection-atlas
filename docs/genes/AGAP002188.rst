@@ -1,0 +1,9 @@
+
+AGAP002188
+=============
+
+Name: **OBP12**
+
+Description: Odorant-binding protein 12 [source:vb community annotation].
+
+TODO

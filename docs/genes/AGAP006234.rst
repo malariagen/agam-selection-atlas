@@ -1,0 +1,9 @@
+
+AGAP006234
+=============
+
+
+
+Description: Protein shq1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004969
+=============
+
+Name: **IR75d**
+
+Description: Ionotropic receptor ir75d [source:vb community annotation].
+
+TODO

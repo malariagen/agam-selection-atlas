@@ -1,0 +1,9 @@
+
+AGAP028200
+=============
+
+Name: **CPLCP9**
+
+Description: Cuticular protein (putative) cplcp9 [source:vb community annotation].
+
+TODO

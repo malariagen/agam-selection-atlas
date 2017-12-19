@@ -1,7 +1,7 @@
 All signals
 ===========
 
-The table below lists all the signals of recent selection we have found to date.
+The table below lists all the signals of recent selection discovered.
 
 .. cssclass:: table-hover
 .. csv-table::

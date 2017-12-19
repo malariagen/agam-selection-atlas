@@ -1,0 +1,9 @@
+
+AGAP000368
+=============
+
+
+
+Description: Pi-3-kinase-related kinase smg-1 [source:vb community annotation].
+
+TODO

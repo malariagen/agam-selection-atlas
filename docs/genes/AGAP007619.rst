@@ -1,0 +1,9 @@
+
+AGAP007619
+=============
+
+
+
+Description: Cytosolic nonspecific dipeptidase [source:vb community annotation].
+
+TODO

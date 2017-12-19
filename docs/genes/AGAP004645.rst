@@ -1,0 +1,9 @@
+
+AGAP004645
+=============
+
+
+
+Description: Juvenile hormone diol kinase [source:vb community annotation].
+
+TODO

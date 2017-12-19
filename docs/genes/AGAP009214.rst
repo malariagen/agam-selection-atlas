@@ -1,0 +1,9 @@
+
+AGAP009214
+=============
+
+Name: **CLIPB11**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

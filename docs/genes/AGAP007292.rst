@@ -1,0 +1,9 @@
+
+AGAP007292
+=============
+
+Name: **IAP3**
+
+Description: Inhibitor of apoptosis 3 [source:vb community annotation].
+
+TODO

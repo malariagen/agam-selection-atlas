@@ -1,0 +1,9 @@
+
+AGAP010750
+=============
+
+
+
+Description: Ryanodine receptor 2 [source:vb community annotation].
+
+TODO

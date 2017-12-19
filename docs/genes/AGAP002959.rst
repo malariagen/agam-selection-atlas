@@ -1,0 +1,9 @@
+
+AGAP002959
+=============
+
+
+
+Description: Squamous cell carcinoma antigen recognized by t-cells 3 [source:vb community annotation].
+
+TODO

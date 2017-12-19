@@ -1,0 +1,9 @@
+
+AGAP010712
+=============
+
+
+
+Description: Scavenger mrna-decapping enzyme dcps [source:vb community annotation].
+
+TODO

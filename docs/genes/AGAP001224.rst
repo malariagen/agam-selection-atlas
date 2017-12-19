@@ -1,0 +1,9 @@
+
+AGAP001224
+=============
+
+
+
+Description: Cleavage and polyadenylation specificity factor subunit 3 [source:vb community annotation].
+
+TODO

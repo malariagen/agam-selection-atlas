@@ -1,0 +1,9 @@
+
+AGAP004292
+=============
+
+
+
+Description: Leucine-zipper-like transcriptional regulator 1 [source:vb community annotation].
+
+TODO

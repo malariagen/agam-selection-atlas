@@ -1,0 +1,9 @@
+
+AGAP002890
+=============
+
+
+
+Description: Lipid storage droplets surface-binding protein 1 [source:vb community annotation].
+
+TODO

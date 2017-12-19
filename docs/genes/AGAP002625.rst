@@ -1,0 +1,9 @@
+
+AGAP002625
+=============
+
+Name: **CTL9**
+
+Description: C-type lectin (ctl) [source:vb community annotation].
+
+TODO

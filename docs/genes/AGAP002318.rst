@@ -1,0 +1,9 @@
+
+AGAP002318
+=============
+
+
+
+Description: Alpha-amylase [source:uniprotkb/trembl;acc:q7qbu5].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001376
+=============
+
+Name: **SRPN17**
+
+Description: Serine protease inhibitor (serpin) 17 [source:vb community annotation].
+
+TODO

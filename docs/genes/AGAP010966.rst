@@ -1,0 +1,9 @@
+
+AGAP010966
+=============
+
+Name: **CYP6AJ1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

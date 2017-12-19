@@ -1,0 +1,9 @@
+
+AGAP002145
+=============
+
+
+
+Description: Inactivation no afterpotential d protein [source:vb community annotation].
+
+TODO

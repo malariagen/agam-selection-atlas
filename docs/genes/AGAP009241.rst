@@ -1,0 +1,9 @@
+
+AGAP009241
+=============
+
+Name: **CYP4C36**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

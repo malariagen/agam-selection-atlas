@@ -1,0 +1,9 @@
+
+AGAP000338
+=============
+
+
+
+Description: Phosphomevalonate kinase [source:vb community annotation].
+
+TODO

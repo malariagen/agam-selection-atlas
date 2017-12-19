@@ -1,0 +1,9 @@
+
+AGAP006755
+=============
+
+Name: **snRNP-U1-70K**
+
+Description: U1 small nuclear ribonucleoprotein 70k [source:vb community annotation].
+
+TODO

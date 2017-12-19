@@ -1,0 +1,9 @@
+
+AGAP003844
+=============
+
+
+
+Description: Class b basic helix-loop-helix protein [source:vb community annotation].
+
+TODO

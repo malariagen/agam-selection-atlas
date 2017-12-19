@@ -1,0 +1,9 @@
+
+AGAP000611
+=============
+
+Name: **SG1d**
+
+Description: Salivary gland protein 1-like 4 [source:vb community annotation].
+
+TODO

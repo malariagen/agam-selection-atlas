@@ -1,0 +1,9 @@
+
+AGAP008201
+=============
+
+
+
+Description: Potassium voltage-gated channel subfamily c member 1 isoform b [source:vb community annotation].
+
+TODO

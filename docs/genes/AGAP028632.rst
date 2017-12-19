@@ -1,0 +1,9 @@
+
+AGAP028632
+=============
+
+Name: **hay**
+
+Description: Haywire protein dna repair helicase [source:vb community annotation].
+
+TODO

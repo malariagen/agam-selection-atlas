@@ -1,0 +1,9 @@
+
+AGAP011876
+=============
+
+
+
+Description: Zinc finger protein 277 [source:vb community annotation].
+
+TODO

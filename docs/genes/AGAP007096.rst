@@ -1,0 +1,9 @@
+
+AGAP007096
+=============
+
+
+
+Description: Ras-related protein rab-43 [source:vb community annotation].
+
+TODO

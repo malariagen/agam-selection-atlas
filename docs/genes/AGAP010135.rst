@@ -1,0 +1,9 @@
+
+AGAP010135
+=============
+
+
+
+Description: Nck adaptor protein [source:vb community annotation].
+
+TODO

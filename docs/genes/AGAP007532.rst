@@ -1,0 +1,9 @@
+
+AGAP007532
+=============
+
+
+
+Description: Vinculin [source:vb community annotation].
+
+TODO

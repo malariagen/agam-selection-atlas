@@ -1,0 +1,9 @@
+
+AGAP002815
+=============
+
+Name: **CLIPA15**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

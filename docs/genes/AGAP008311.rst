@@ -1,0 +1,9 @@
+
+AGAP008311
+=============
+
+
+
+Description: Acylphosphatase [source:vb community annotation].
+
+TODO

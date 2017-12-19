@@ -1,0 +1,9 @@
+
+AGAP004114
+=============
+
+Name: **Gr1**
+
+Description: Gustatory receptor 1 [source:vb community annotation].
+
+TODO

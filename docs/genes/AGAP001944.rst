@@ -1,0 +1,9 @@
+
+AGAP001944
+=============
+
+
+
+Description: F-box and wd-40 domain protein 1/11 [source:vb community annotation].
+
+TODO

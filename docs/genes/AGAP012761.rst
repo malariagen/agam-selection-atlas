@@ -1,0 +1,9 @@
+
+AGAP012761
+=============
+
+
+
+Description: Synaptic vesicle protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009673
+=============
+
+
+
+Description: Glutaminyl-peptide cyclotransferase [source:vb community annotation].
+
+TODO

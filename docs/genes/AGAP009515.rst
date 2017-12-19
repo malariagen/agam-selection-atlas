@@ -1,0 +1,9 @@
+
+AGAP009515
+=============
+
+Name: **REL1**
+
+Description: Toll pathway signalling nf-kappab relish-like transcription factor [source:vb community annotation].
+
+TODO

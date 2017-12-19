@@ -1,0 +1,9 @@
+
+AGAP003742
+=============
+
+
+
+Description: Regulator of chromosome condensation [source:vb community annotation].
+
+TODO

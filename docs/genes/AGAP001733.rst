@@ -1,0 +1,9 @@
+
+AGAP001733
+=============
+
+Name: **Exo2**
+
+Description: Exocyst complex component 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000374
+=============
+
+
+
+Description: Anaphase-promoting complex subunit 1 [source:vb community annotation].
+
+TODO

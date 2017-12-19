@@ -1,0 +1,9 @@
+
+AGAP004234
+=============
+
+
+
+Description: Btb/poz domain-containing protein [source:vb community annotation].
+
+TODO

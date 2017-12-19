@@ -1,0 +1,9 @@
+
+AGAP008225
+=============
+
+
+
+Description: Trehalose 6-phosphate phosphatase [source:vb community annotation].
+
+TODO

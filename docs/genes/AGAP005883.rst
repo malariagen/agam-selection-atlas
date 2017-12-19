@@ -1,0 +1,9 @@
+
+AGAP005883
+=============
+
+
+
+Description: Coiled-coil domain-containing protein 6 [source:vb community annotation].
+
+TODO

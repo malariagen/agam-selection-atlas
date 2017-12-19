@@ -1,0 +1,9 @@
+
+AGAP010814
+=============
+
+Name: **TEP6**
+
+Description: Thioester-containing protein 6 [source:vb community annotation].
+
+TODO

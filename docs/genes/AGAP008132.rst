@@ -1,0 +1,9 @@
+
+AGAP008132
+=============
+
+
+
+Description: Beta-1,4-mannosyl-glycoprotein beta-1,4-n-acetylglucosaminyltransferase [source:vb community annotation].
+
+TODO

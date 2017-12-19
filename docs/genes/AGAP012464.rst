@@ -1,0 +1,9 @@
+
+AGAP012464
+=============
+
+
+
+Description: Natural resistance-associated macrophage protein [source:vb community annotation].
+
+TODO

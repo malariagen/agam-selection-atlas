@@ -1,0 +1,9 @@
+
+AGAP005119
+=============
+
+
+
+Description: Rna polymerase ii subunit a c-terminal domain phosphatase [source:vb community annotation].
+
+TODO

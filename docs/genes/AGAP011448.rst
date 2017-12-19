@@ -1,0 +1,9 @@
+
+AGAP011448
+=============
+
+Name: **fen1**
+
+Description: Flap endonuclease 1 [source:uniprotkb/swiss-prot;acc:q7q323].
+
+TODO

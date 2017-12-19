@@ -1,0 +1,9 @@
+
+AGAP010908
+=============
+
+Name: **CPFL7**
+
+Description: Cuticular protein 7 from cpfl family [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP028609
+=============
+
+
+
+Description: Transcriptional regulator atrx [source:vb community annotation].
+
+TODO

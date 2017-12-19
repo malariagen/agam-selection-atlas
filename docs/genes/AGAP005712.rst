@@ -1,0 +1,9 @@
+
+AGAP005712
+=============
+
+
+
+Description: Phenylalanine-4-hydroxylase [source:vb community annotation].
+
+TODO

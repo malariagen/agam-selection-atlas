@@ -1,0 +1,9 @@
+
+AGAP001045
+=============
+
+
+
+Description: Dna-directed rna polymerase i subunit rpa49 [source:vb community annotation].
+
+TODO

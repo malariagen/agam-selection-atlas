@@ -1,0 +1,9 @@
+
+AGAP012193
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 f [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004477
+=============
+
+
+
+Description: Polyphosphoinositide phosphatase [source:vb community annotation].
+
+TODO

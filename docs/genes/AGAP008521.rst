@@ -1,0 +1,9 @@
+
+AGAP008521
+=============
+
+
+
+Description: Low density lipoprotein receptor adapter protein 1 [source:vb community annotation].
+
+TODO

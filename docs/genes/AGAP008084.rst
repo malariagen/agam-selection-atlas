@@ -1,0 +1,9 @@
+
+AGAP008084
+=============
+
+
+
+Description: Transcription initiation factor tfiid tata-box-binding protein [source:vb community annotation].
+
+TODO

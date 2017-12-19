@@ -1,0 +1,9 @@
+
+AGAP012028
+=============
+
+
+
+Description: Copper chaperone [source:vb community annotation].
+
+TODO

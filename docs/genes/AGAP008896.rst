@@ -1,0 +1,9 @@
+
+AGAP008896
+=============
+
+
+
+Description: Dynamin 1-like protein [source:vb community annotation].
+
+TODO

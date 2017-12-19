@@ -1,0 +1,9 @@
+
+AGAP008185
+=============
+
+
+
+Description: Multiple epidermal growth factor-like domains 8 [source:vb community annotation].
+
+TODO

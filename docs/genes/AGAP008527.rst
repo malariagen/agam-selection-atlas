@@ -1,0 +1,9 @@
+
+AGAP008527
+=============
+
+
+
+Description: Cd63 antigen [source:vb community annotation].
+
+TODO

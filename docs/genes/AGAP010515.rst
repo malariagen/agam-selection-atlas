@@ -1,0 +1,9 @@
+
+AGAP010515
+=============
+
+
+
+Description: Pre-mrna-splicing factor syf2 [source:vb community annotation].
+
+TODO

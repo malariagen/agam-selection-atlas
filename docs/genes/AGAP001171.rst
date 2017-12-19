@@ -1,0 +1,9 @@
+
+AGAP001171
+=============
+
+Name: **Gr50**
+
+Description: Gustatory receptor 50 [source:vb community annotation].
+
+TODO

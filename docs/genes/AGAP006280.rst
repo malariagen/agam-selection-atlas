@@ -1,0 +1,9 @@
+
+AGAP006280
+=============
+
+
+
+Description: Nuclear pore complex protein nup210 [source:vb community annotation].
+
+TODO

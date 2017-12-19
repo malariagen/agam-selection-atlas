@@ -1,0 +1,9 @@
+
+AGAP003567
+=============
+
+
+
+Description: Hepatitis b virus x-interacting protein [source:vb community annotation].
+
+TODO

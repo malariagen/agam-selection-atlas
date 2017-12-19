@@ -1,0 +1,9 @@
+
+AGAP002033
+=============
+
+
+
+Description: Arginine kinase [source:vb community annotation].
+
+TODO

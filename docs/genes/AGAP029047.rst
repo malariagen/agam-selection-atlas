@@ -1,0 +1,9 @@
+
+AGAP029047
+=============
+
+Name: **CTL5**
+
+Description: C-type lectin [source:vb community annotation].
+
+TODO

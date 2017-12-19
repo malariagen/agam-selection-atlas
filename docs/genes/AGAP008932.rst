@@ -1,0 +1,9 @@
+
+AGAP008932
+=============
+
+
+
+Description: Wd repeat and fyve domain-containing protein 2 [source:vb community annotation].
+
+TODO

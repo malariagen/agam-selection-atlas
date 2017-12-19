@@ -1,0 +1,9 @@
+
+AGAP006072
+=============
+
+
+
+Description: Molybdenum cofactor biosynthesis protein [source:vb community annotation].
+
+TODO

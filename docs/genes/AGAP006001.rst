@@ -1,0 +1,9 @@
+
+AGAP006001
+=============
+
+Name: **CPR26**
+
+Description: Cuticular protein rr-1 family 26 [source:vb community annotation].
+
+TODO

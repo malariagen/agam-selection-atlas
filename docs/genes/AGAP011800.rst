@@ -1,0 +1,9 @@
+
+AGAP011800
+=============
+
+
+
+Description: Transaldolase [source:uniprotkb/trembl;acc:q7pz95].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001603
+=============
+
+
+
+Description: Mitochondrial 18 kda protein [source:vb community annotation].
+
+TODO

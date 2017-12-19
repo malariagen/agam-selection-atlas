@@ -1,0 +1,9 @@
+
+AGAP008883
+=============
+
+
+
+Description: Anamorsin homolog [source:uniprotkb/swiss-prot;acc:q7pwq6].
+
+TODO

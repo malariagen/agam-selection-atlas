@@ -1,0 +1,9 @@
+
+AGAP006254
+=============
+
+
+
+Description: Polypeptide n-acetylglucosaminyltransferase [source:vb community annotation].
+
+TODO

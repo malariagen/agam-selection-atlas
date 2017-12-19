@@ -1,0 +1,9 @@
+
+AGAP002262
+=============
+
+
+
+Description: Adenylate cyclase 8 [source:vb community annotation].
+
+TODO

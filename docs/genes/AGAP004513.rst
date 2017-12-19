@@ -1,0 +1,9 @@
+
+AGAP004513
+=============
+
+
+
+Description: 4-hydroxybenzoate hexaprenyltransferase [source:vb community annotation].
+
+TODO

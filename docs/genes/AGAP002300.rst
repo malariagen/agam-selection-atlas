@@ -1,0 +1,9 @@
+
+AGAP002300
+=============
+
+
+
+Description: Exosome complex exonuclease [source:vb community annotation].
+
+TODO

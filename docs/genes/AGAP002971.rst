@@ -1,0 +1,9 @@
+
+AGAP002971
+=============
+
+Name: **alpha8**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 8 [source:vb community annotation].
+
+TODO

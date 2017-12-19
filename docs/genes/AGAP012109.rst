@@ -1,0 +1,9 @@
+
+AGAP012109
+=============
+
+
+
+Description: Negative elongation factor b [source:vb community annotation].
+
+TODO

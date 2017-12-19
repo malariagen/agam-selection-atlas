@@ -1,0 +1,9 @@
+
+AGAP005577
+=============
+
+
+
+Description: Wd repeat, sterile alpha motif and u-box domain containing 1 [source:vb community annotation].
+
+TODO

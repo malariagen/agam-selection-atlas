@@ -1,0 +1,9 @@
+
+AGAP006038
+=============
+
+
+
+Description: Serine/arginine repetitive matrix protein 2 [source:vb community annotation].
+
+TODO

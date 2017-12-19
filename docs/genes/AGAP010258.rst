@@ -1,0 +1,9 @@
+
+AGAP010258
+=============
+
+
+
+Description: Kinesin light chain [source:vb community annotation].
+
+TODO

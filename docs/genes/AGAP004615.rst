@@ -1,0 +1,9 @@
+
+AGAP004615
+=============
+
+
+
+Description: Dna polymerase epsilon subunit 1 [source:vb community annotation].
+
+TODO

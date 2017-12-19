@@ -1,0 +1,9 @@
+
+AGAP008354
+=============
+
+
+
+Description: Janus kinase 2 [source:vb community annotation].
+
+TODO

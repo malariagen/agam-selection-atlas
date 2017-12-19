@@ -1,0 +1,9 @@
+
+AGAP012297
+=============
+
+
+
+Description: Dna polymerase theta (helicase domain only) [source:vb community annotation].
+
+TODO

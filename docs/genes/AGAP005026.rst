@@ -1,0 +1,9 @@
+
+AGAP005026
+=============
+
+
+
+Description: Histone h4 [source:uniprotkb/trembl;acc:q7pcx0].
+
+TODO

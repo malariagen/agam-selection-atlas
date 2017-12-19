@@ -1,0 +1,9 @@
+
+AGAP000241
+=============
+
+
+
+Description: N-acetylglucosamine kinase [source:vb community annotation].
+
+TODO

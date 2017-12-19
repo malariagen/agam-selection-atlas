@@ -1,0 +1,9 @@
+
+AGAP000414
+=============
+
+
+
+Description: Prostaglandin reductase 1 [source:vb community annotation].
+
+TODO

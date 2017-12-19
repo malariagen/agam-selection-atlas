@@ -1,0 +1,9 @@
+
+AGAP008977
+=============
+
+
+
+Description: G-protein-signaling modulator 2 [source:vb community annotation].
+
+TODO

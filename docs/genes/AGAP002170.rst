@@ -1,0 +1,9 @@
+
+AGAP002170
+=============
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) flavoprotein 2 [source:vb community annotation].
+
+TODO

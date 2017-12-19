@@ -1,0 +1,9 @@
+
+AGAP012309
+=============
+
+
+
+Description: Translation initiation factor if-3 [source:vb community annotation].
+
+TODO

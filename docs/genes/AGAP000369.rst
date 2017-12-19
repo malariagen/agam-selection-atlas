@@ -1,0 +1,9 @@
+
+AGAP000369
+=============
+
+Name: **GPRNNA10**
+
+Description: Putative gpcr class a orphan receptor 10 [source:vb community annotation].
+
+TODO

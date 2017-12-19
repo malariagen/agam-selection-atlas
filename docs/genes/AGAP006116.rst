@@ -1,0 +1,9 @@
+
+AGAP006116
+=============
+
+
+
+Description: Tbc1 domain family, member 8b (with gram domain) [source:vb community annotation].
+
+TODO

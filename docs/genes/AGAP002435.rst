@@ -1,0 +1,9 @@
+
+AGAP002435
+=============
+
+Name: **LL5**
+
+Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 5) [source:vb community annotation].
+
+TODO

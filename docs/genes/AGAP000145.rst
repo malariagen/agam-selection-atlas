@@ -1,0 +1,9 @@
+
+AGAP000145
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2d [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011278
+=============
+
+Name: **GALE4**
+
+Description: Galectin 4 [source:vb community annotation].
+
+TODO

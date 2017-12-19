@@ -1,0 +1,9 @@
+
+AGAP001175
+=============
+
+Name: **GPRCAL2**
+
+Description: Putative calcitonin receptor 2 [source:vb community annotation].
+
+TODO

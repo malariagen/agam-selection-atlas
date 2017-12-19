@@ -1,0 +1,9 @@
+
+AGAP009703
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 variant [source:vb community annotation].
+
+TODO

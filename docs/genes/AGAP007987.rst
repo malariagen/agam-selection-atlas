@@ -1,0 +1,9 @@
+
+AGAP007987
+=============
+
+
+
+Description: Bone morphogenetic protein 2/4 [source:vb community annotation].
+
+TODO

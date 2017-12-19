@@ -1,0 +1,9 @@
+
+AGAP005123
+=============
+
+
+
+Description: Nucleoside-diphosphate kinase [source:vb community annotation].
+
+TODO

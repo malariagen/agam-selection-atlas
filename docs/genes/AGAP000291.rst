@@ -1,0 +1,9 @@
+
+AGAP000291
+=============
+
+
+
+Description: Translocase of inner mitochondrial membrane 44 homolog (yeast) [source:vb community annotation].
+
+TODO

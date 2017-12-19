@@ -1,0 +1,9 @@
+
+AGAP009923
+=============
+
+
+
+Description: Integrator complex subunit 11 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000280
+=============
+
+
+
+Description: Guanylate cyclase soluble subunit alpha [source:vb community annotation].
+
+TODO

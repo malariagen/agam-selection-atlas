@@ -1,0 +1,9 @@
+
+AGAP009493
+=============
+
+Name: **alpha9**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 9 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001531
+=============
+
+
+
+Description: Sodium-independent sulfate anion transporter [source:vb community annotation].
+
+TODO

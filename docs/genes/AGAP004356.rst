@@ -1,0 +1,9 @@
+
+AGAP004356
+=============
+
+Name: **Or56**
+
+Description: Odorant receptor 56 [source:vb community annotation].
+
+TODO

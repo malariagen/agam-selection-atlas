@@ -1,0 +1,9 @@
+
+AGAP001139
+=============
+
+Name: **mRpL19**
+
+Description: 39s ribosomal protein l19, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011479
+=============
+
+
+
+Description: Hyaluronoglucosaminidase [source:vb community annotation].
+
+TODO

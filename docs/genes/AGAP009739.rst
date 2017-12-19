@@ -1,0 +1,9 @@
+
+AGAP009739
+=============
+
+
+
+Description: Vacuolar protein sorting 52 homolog [source:vb community annotation].
+
+TODO

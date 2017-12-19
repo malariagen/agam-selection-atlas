@@ -1,0 +1,9 @@
+
+AGAP012823
+=============
+
+
+
+Description: Nadh dehydrogenase 1 alpha subcomplex subunit 2 [source:vb community annotation].
+
+TODO

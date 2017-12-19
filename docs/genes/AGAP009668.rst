@@ -1,0 +1,9 @@
+
+AGAP009668
+=============
+
+
+
+Description: Lysosomal-associated membrane protein 1/2 [source:vb community annotation].
+
+TODO

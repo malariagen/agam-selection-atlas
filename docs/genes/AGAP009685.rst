@@ -1,0 +1,9 @@
+
+AGAP009685
+=============
+
+
+
+Description: Aspartate aminotransferase, mitochondrial [source:vb community annotation].
+
+TODO

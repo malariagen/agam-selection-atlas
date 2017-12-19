@@ -1,0 +1,9 @@
+
+AGAP002301
+=============
+
+
+
+Description: Bud site selection protein 31 [source:vb community annotation].
+
+TODO

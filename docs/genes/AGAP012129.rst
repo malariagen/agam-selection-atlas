@@ -1,0 +1,9 @@
+
+AGAP012129
+=============
+
+
+
+Description: Dimethyladenosine transferase 1, mitochondrial [source:vb community annotation].
+
+TODO

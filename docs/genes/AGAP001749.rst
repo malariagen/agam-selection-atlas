@@ -1,0 +1,9 @@
+
+AGAP001749
+=============
+
+
+
+Description: Stromal cell-derived factor 2 [source:vb community annotation].
+
+TODO

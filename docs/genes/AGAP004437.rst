@@ -1,0 +1,9 @@
+
+AGAP004437
+=============
+
+
+
+Description: Glycerol-3-phosphate dehydrogenase [source:uniprotkb/trembl;acc:f5hln3].
+
+TODO

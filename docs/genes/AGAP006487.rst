@@ -1,0 +1,9 @@
+
+AGAP006487
+=============
+
+
+
+Description: Trypsin-alpha [source:vb community annotation].
+
+TODO

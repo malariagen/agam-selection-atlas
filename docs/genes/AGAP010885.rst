@@ -1,0 +1,9 @@
+
+AGAP010885
+=============
+
+
+
+Description: (s)-2-hydroxy-acid oxidase [source:vb community annotation].
+
+TODO

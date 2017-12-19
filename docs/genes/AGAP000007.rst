@@ -1,0 +1,9 @@
+
+AGAP000007
+=============
+
+Name: **IGL1**
+
+Description: Contactin-like putative cell adhesion molecule [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003786
+=============
+
+
+
+Description: Glucose dehydrogenase (acceptor) [source:vb community annotation].
+
+TODO

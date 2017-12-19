@@ -1,0 +1,9 @@
+
+AGAP009519
+=============
+
+Name: **Or2**
+
+Description: Odorant receptor 2 [source:vb community annotation].
+
+TODO

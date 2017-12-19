@@ -1,0 +1,9 @@
+
+AGAP009610
+=============
+
+
+
+Description: Glyoxylate/hydroxypyruvate reductase [source:vb community annotation].
+
+TODO

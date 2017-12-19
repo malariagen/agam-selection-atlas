@@ -1,0 +1,9 @@
+
+AGAP005504
+=============
+
+
+
+Description: Phospholipid scramblase 1 [source:vb community annotation].
+
+TODO

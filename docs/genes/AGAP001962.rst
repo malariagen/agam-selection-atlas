@@ -1,0 +1,9 @@
+
+AGAP001962
+=============
+
+Name: **GPRVPR1**
+
+Description: Gpcr vasopressin family receptor 1 [source:vb community annotation].
+
+TODO

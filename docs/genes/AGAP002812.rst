@@ -1,0 +1,9 @@
+
+AGAP002812
+=============
+
+
+
+Description: Ras-related protein r-ras2 [source:vb community annotation].
+
+TODO

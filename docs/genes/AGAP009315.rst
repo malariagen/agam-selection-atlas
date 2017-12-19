@@ -1,0 +1,9 @@
+
+AGAP009315
+=============
+
+
+
+Description: Adenylate cyclase 3 [source:vb community annotation].
+
+TODO

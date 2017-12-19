@@ -1,0 +1,9 @@
+
+AGAP000949
+=============
+
+
+
+Description: Transmembrane emp24 domain-containing protein 3 precursor [source:vb community annotation].
+
+TODO

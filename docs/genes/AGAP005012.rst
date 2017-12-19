@@ -1,0 +1,9 @@
+
+AGAP005012
+=============
+
+
+
+Description: Galactokinase [source:vb community annotation].
+
+TODO

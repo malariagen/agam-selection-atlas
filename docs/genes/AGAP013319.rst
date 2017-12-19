@@ -1,0 +1,9 @@
+
+AGAP013319
+=============
+
+Name: **TWDL6**
+
+Description: Cuticular protein twdl family (twdl6) [source:vb community annotation].
+
+TODO

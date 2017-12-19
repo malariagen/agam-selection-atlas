@@ -1,0 +1,9 @@
+
+AGAP009050
+=============
+
+
+
+Description: Cyclic nucleotide gated channel, invertebrate [source:vb community annotation].
+
+TODO

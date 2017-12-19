@@ -1,0 +1,9 @@
+
+AGAP010429
+=============
+
+
+
+Description: Succinate dehydrogenase (ubiquinone) flavoprotein subunit [source:vb community annotation].
+
+TODO

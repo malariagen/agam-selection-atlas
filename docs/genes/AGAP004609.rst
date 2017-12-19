@@ -1,0 +1,9 @@
+
+AGAP004609
+=============
+
+
+
+Description: Protein kinase c substrate 80k-h [source:vb community annotation].
+
+TODO

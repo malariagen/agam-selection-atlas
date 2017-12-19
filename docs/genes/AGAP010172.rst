@@ -1,0 +1,9 @@
+
+AGAP010172
+=============
+
+
+
+Description: Protein phosphatase 2 (formerly 2a), catalytic subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004934
+=============
+
+Name: **GALE3**
+
+Description: Galectin 3 [source:vb community annotation].
+
+TODO

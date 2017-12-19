@@ -1,0 +1,9 @@
+
+AGAP008293
+=============
+
+Name: **TRYP7**
+
+Description: Trypsin 7 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008906
+=============
+
+
+
+Description: Brefeldin a-inhibited guanine nucleotide-exchange protein [source:vb community annotation].
+
+TODO

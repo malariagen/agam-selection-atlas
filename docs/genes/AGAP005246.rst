@@ -1,0 +1,9 @@
+
+AGAP005246
+=============
+
+Name: **SRPN10**
+
+Description: Serine protease inhibitor (serpin) 10 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006124
+=============
+
+
+
+Description: Trna (guanine(37)-n1)-methyltransferase [source:uniprotkb/swiss-prot;acc:q7q5z3].
+
+TODO

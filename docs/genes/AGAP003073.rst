@@ -1,0 +1,9 @@
+
+AGAP003073
+=============
+
+
+
+Description: Mitochondrial dicarboxylate carrier [source:vb community annotation].
+
+TODO

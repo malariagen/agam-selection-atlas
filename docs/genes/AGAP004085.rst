@@ -1,0 +1,9 @@
+
+AGAP004085
+=============
+
+
+
+Description: Transcriptional adapter 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000242
+=============
+
+
+
+Description: Vesicle transport protein sec20 [source:vb community annotation].
+
+TODO

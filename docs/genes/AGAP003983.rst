@@ -1,0 +1,9 @@
+
+AGAP003983
+=============
+
+
+
+Description: Nuclear pore complex protein nup121 [source:vb community annotation].
+
+TODO

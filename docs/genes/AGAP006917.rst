@@ -1,0 +1,9 @@
+
+AGAP006917
+=============
+
+Name: **Gr55**
+
+Description: Gustatory receptor 55 [source:vb community annotation].
+
+TODO

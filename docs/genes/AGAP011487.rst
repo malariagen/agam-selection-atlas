@@ -1,0 +1,9 @@
+
+AGAP011487
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase sh3rf [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001464
+=============
+
+
+
+Description: Cyclic amp-responsive element-binding protein 3 [source:vb community annotation].
+
+TODO

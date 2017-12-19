@@ -1,0 +1,9 @@
+
+AGAP027980
+=============
+
+Name: **ABCC10**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 10 [source:vb community annotation].
+
+TODO

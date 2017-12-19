@@ -1,0 +1,9 @@
+
+AGAP007203
+=============
+
+
+
+Description: De-cadherin [source:vb community annotation].
+
+TODO

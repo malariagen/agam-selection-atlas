@@ -1,0 +1,9 @@
+
+AGAP003239
+=============
+
+
+
+Description: Meiotic chromosome segregation protein [source:vb community annotation].
+
+TODO

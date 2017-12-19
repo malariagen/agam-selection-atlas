@@ -1,0 +1,9 @@
+
+AGAP008894
+=============
+
+Name: **Or65**
+
+Description: Odorant receptor 65 [source:vb community annotation].
+
+TODO

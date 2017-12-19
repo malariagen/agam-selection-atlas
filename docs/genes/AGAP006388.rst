@@ -1,0 +1,9 @@
+
+AGAP006388
+=============
+
+
+
+Description: Structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6) [source:vb community annotation].
+
+TODO

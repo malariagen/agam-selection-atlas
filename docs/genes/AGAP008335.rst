@@ -1,0 +1,9 @@
+
+AGAP008335
+=============
+
+
+
+Description: Solute carrier family 22 member 3 [source:vb community annotation].
+
+TODO

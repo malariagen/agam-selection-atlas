@@ -1,0 +1,9 @@
+
+AGAP010427
+=============
+
+
+
+Description: Serine palmitoyltransferase [source:vb community annotation].
+
+TODO

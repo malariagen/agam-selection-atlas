@@ -1,0 +1,9 @@
+
+AGAP002175
+=============
+
+
+
+Description: Yip1 interacting factor homolog b [source:vb community annotation].
+
+TODO

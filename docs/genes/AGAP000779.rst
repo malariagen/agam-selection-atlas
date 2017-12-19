@@ -1,0 +1,9 @@
+
+AGAP000779
+=============
+
+
+
+Description: Zinc finger homeobox protein 1/2 [source:vb community annotation].
+
+TODO

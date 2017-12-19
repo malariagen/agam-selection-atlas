@@ -1,0 +1,9 @@
+
+AGAP008045
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 13 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006241
+=============
+
+
+
+Description: Innexin inx2 [source:vb community annotation].
+
+TODO

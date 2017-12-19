@@ -1,0 +1,9 @@
+
+AGAP007215
+=============
+
+
+
+Description: Phosphoacetylglucosamine mutase [source:vb community annotation].
+
+TODO

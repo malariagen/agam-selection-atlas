@@ -1,0 +1,9 @@
+
+AGAP007871
+=============
+
+
+
+Description: Mitochondrial import receptor subunit tom40 [source:vb community annotation].
+
+TODO

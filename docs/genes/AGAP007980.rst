@@ -1,0 +1,9 @@
+
+AGAP007980
+=============
+
+Name: **CPCFC1**
+
+Description: Cuticular protein cpcfc family (cpcfc1) [source:vb community annotation].
+
+TODO

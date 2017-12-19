@@ -1,0 +1,9 @@
+
+AGAP003139
+=============
+
+Name: **SRPN9**
+
+Description: Serine protease inhibitor (serpin) 9 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010430
+=============
+
+
+
+Description: Amiloride-sensitive sodium channel, other [source:vb community annotation].
+
+TODO

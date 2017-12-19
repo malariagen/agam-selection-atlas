@@ -1,0 +1,9 @@
+
+AGAP006688
+=============
+
+
+
+Description: Signal recognition particle receptor subunit beta [source:vb community annotation].
+
+TODO

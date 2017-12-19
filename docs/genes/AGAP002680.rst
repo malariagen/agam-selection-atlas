@@ -1,0 +1,9 @@
+
+AGAP002680
+=============
+
+
+
+Description: Serologically defined colon cancer antigen 1 [source:vb community annotation].
+
+TODO

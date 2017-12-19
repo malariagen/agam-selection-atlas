@@ -1,0 +1,9 @@
+
+AGAP013167
+=============
+
+
+
+Description: Sorting and assembly machinery component 50 homolog a [source:vb community annotation].
+
+TODO

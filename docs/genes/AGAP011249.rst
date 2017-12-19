@@ -1,0 +1,9 @@
+
+AGAP011249
+=============
+
+
+
+Description: Pre-mrna-splicing factor cwc26 [source:vb community annotation].
+
+TODO

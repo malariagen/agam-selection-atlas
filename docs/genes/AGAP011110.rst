@@ -1,0 +1,9 @@
+
+AGAP011110
+=============
+
+
+
+Description: Transcription initiation factor tfiih subunit 1 [source:vb community annotation].
+
+TODO

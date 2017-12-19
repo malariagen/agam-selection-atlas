@@ -1,0 +1,9 @@
+
+AGAP006956
+=============
+
+Name: **COE10O**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

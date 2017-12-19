@@ -1,0 +1,9 @@
+
+AGAP001527
+=============
+
+
+
+Description: Golgi-specific brefeldin a-resistance factor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004719
+=============
+
+Name: **CLIPC9**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

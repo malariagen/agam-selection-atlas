@@ -1,0 +1,9 @@
+
+AGAP006965
+=============
+
+
+
+Description: Protein trs85-like protein [source:vb community annotation].
+
+TODO

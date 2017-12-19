@@ -1,0 +1,9 @@
+
+AGAP011723
+=============
+
+
+
+Description: Mannose-1-phosphate guanylyltransferase [source:vb community annotation].
+
+TODO

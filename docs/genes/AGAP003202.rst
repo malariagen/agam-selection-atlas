@@ -1,0 +1,9 @@
+
+AGAP003202
+=============
+
+
+
+Description: Thousand and one amino acid protein kinase [source:vb community annotation].
+
+TODO

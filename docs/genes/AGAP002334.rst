@@ -1,0 +1,9 @@
+
+AGAP002334
+=============
+
+Name: **spas**
+
+Description: Spastin [source:uniprotkb/swiss-prot;acc:q7qbw0].
+
+TODO

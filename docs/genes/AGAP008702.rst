@@ -1,0 +1,9 @@
+
+AGAP008702
+=============
+
+Name: **GPRNPR2**
+
+Description: Putative neuropeptide receptor 2 [source:vb community annotation].
+
+TODO

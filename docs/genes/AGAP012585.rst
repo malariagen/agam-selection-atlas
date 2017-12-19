@@ -1,0 +1,9 @@
+
+AGAP012585
+=============
+
+Name: **ODDB**
+
+Description: Odd skipped-like protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009913
+=============
+
+
+
+Description: Actin-binding protein ipp [source:vb community annotation].
+
+TODO

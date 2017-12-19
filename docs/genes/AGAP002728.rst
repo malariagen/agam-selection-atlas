@@ -1,0 +1,9 @@
+
+AGAP002728
+=============
+
+
+
+Description: Isocitrate dehydrogenase [nad] subunit, mitochondrial [source:uniprotkb/trembl;acc:f5hkn6].
+
+TODO

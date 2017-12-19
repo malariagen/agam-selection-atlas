@@ -1,0 +1,9 @@
+
+AGAP008700
+=============
+
+
+
+Description: Inositol-pentakisphosphate 2-kinase [source:vb community annotation].
+
+TODO

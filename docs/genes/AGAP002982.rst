@@ -1,0 +1,9 @@
+
+AGAP002982
+=============
+
+
+
+Description: E3 sumo-protein ligase ranbp2 [source:vb community annotation].
+
+TODO

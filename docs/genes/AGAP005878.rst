@@ -1,0 +1,9 @@
+
+AGAP005878
+=============
+
+
+
+Description: Pou domain transcription factor, class 3 [source:vb community annotation].
+
+TODO

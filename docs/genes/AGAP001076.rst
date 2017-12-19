@@ -1,0 +1,9 @@
+
+AGAP001076
+=============
+
+Name: **CYP4G16**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

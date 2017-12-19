@@ -1,0 +1,9 @@
+
+AGAP008680
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 r [source:vb community annotation].
+
+TODO

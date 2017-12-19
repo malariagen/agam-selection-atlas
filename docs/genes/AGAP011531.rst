@@ -1,0 +1,9 @@
+
+AGAP011531
+=============
+
+
+
+Description: Selenium-binding protein 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002077
+=============
+
+
+
+Description: Trna pseudouridine synthase 2 [source:vb community annotation].
+
+TODO

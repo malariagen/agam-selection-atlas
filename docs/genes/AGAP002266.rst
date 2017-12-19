@@ -1,0 +1,9 @@
+
+AGAP002266
+=============
+
+
+
+Description: Protein phosphatase 2c homolog 2/3 [source:vb community annotation].
+
+TODO

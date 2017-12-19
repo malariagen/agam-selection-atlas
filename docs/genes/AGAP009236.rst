@@ -1,0 +1,9 @@
+
+AGAP009236
+=============
+
+
+
+Description: Engulfment and cell motility protein [source:vb community annotation].
+
+TODO

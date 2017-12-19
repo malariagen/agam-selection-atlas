@@ -1,0 +1,9 @@
+
+AGAP008719
+=============
+
+
+
+Description: S-phase kinase-associated protein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001143
+=============
+
+
+
+Description: Histone deacetylase 3 [source:vb community annotation].
+
+TODO

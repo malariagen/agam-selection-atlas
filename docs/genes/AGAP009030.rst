@@ -1,0 +1,9 @@
+
+AGAP009030
+=============
+
+
+
+Description: Ccr4-not transcription complex subunit 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007962
+=============
+
+Name: **por**
+
+Description: Protein-cysteine n-palmitoyltransferase porcupine [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000556
+=============
+
+
+
+Description: Selenoprotein w-related protein [source:vb community annotation].
+
+TODO

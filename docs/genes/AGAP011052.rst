@@ -1,0 +1,9 @@
+
+AGAP011052
+=============
+
+
+
+Description: Aldose reductase [source:vb community annotation].
+
+TODO

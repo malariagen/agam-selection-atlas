@@ -1,0 +1,9 @@
+
+AGAP007869
+=============
+
+
+
+Description: Post-gpi attachment to proteins factor 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003408
+=============
+
+
+
+Description: Aldose reductase [source:vb community annotation].
+
+TODO

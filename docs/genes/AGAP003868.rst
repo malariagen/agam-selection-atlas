@@ -1,0 +1,9 @@
+
+AGAP003868
+=============
+
+
+
+Description: Centrosomal protein cep110 [source:vb community annotation].
+
+TODO

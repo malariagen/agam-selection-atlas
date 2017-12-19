@@ -1,0 +1,9 @@
+
+AGAP004283
+=============
+
+
+
+Description: Ap-1 complex subunit sigma 1/2 [source:vb community annotation].
+
+TODO

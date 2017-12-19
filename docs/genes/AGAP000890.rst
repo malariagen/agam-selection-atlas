@@ -1,0 +1,9 @@
+
+AGAP000890
+=============
+
+Name: **mRpS29**
+
+Description: 28s ribosomal protein s29, mitochondrial [source:vb community annotation].
+
+TODO

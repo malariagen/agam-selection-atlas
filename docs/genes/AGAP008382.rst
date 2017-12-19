@@ -1,0 +1,9 @@
+
+AGAP008382
+=============
+
+
+
+Description: Nuclear receptor subfamily 2 group c [source:vb community annotation].
+
+TODO

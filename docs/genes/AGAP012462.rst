@@ -1,0 +1,9 @@
+
+AGAP012462
+=============
+
+Name: **CPR147**
+
+Description: Cuticular protein rr-2 family 147 [source:vb community annotation].
+
+TODO

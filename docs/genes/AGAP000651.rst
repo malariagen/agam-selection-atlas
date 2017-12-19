@@ -1,0 +1,9 @@
+
+AGAP000651
+=============
+
+Name: **Actin5C**
+
+Description: Actin-5c [source:uniprotkb/swiss-prot;acc:p84185].
+
+TODO

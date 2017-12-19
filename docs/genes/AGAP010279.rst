@@ -1,0 +1,9 @@
+
+AGAP010279
+=============
+
+
+
+Description: Homeobox even-skipped homolog protein [source:vb community annotation].
+
+TODO

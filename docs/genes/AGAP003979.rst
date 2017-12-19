@@ -1,0 +1,9 @@
+
+AGAP003979
+=============
+
+
+
+Description: Elongator complex protein 1 [source:uniprotkb/trembl;acc:q7pmk6].
+
+TODO

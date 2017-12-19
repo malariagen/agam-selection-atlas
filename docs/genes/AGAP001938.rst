@@ -1,0 +1,9 @@
+
+AGAP001938
+=============
+
+
+
+Description: Bifunctional lysine-specific demethylase and histidyl-hydroxylase no66 [source:vb community annotation].
+
+TODO

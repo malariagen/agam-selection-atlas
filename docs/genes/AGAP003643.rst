@@ -1,0 +1,9 @@
+
+AGAP003643
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 34 [source:vb community annotation].
+
+TODO

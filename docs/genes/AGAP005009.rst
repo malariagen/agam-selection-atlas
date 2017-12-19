@@ -1,0 +1,9 @@
+
+AGAP005009
+=============
+
+
+
+Description: Pyrroline-5-carboxylate reductase [source:uniprotkb/trembl;acc:q7pph9].
+
+TODO

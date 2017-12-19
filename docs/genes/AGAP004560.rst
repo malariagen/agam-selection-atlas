@@ -1,0 +1,9 @@
+
+AGAP004560
+=============
+
+
+
+Description: Cohesin complex subunit scc1 [source:vb community annotation].
+
+TODO

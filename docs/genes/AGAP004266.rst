@@ -1,0 +1,9 @@
+
+AGAP004266
+=============
+
+
+
+Description: Chaperone bcs1 [source:vb community annotation].
+
+TODO

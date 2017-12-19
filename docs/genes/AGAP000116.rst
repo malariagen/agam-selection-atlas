@@ -1,0 +1,9 @@
+
+AGAP000116
+=============
+
+
+
+Description: Rab11 family-interacting protein 1/2/5 [source:vb community annotation].
+
+TODO

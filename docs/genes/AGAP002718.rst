@@ -1,0 +1,9 @@
+
+AGAP002718
+=============
+
+
+
+Description: 4-coumarate:coa ligase isoform 2 [source:vb community annotation].
+
+TODO

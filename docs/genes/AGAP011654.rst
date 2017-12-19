@@ -1,0 +1,9 @@
+
+AGAP011654
+=============
+
+
+
+Description: Membrane dipeptidase [source:vb community annotation].
+
+TODO

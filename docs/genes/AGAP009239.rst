@@ -1,0 +1,9 @@
+
+AGAP009239
+=============
+
+
+
+Description: Ranbp-type and c3hc4-type zinc finger-containing protein 1 [source:vb community annotation].
+
+TODO

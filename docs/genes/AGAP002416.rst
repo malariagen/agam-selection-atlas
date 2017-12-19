@@ -1,0 +1,9 @@
+
+AGAP002416
+=============
+
+Name: **CYP4K2**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

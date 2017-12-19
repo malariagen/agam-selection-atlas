@@ -1,0 +1,9 @@
+
+AGAP000159
+=============
+
+
+
+Description: Kinesin-like protein [source:uniprotkb/trembl;acc:q7prx2].
+
+TODO

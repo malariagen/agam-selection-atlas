@@ -1,0 +1,9 @@
+
+AGAP007635
+=============
+
+
+
+Description: 60s ribosomal protein l7 [source:vb community annotation].
+
+TODO

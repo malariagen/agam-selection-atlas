@@ -1,0 +1,9 @@
+
+AGAP010517
+=============
+
+Name: **MnSOD1**
+
+Description: Manganese-iron superoxide dismutase 1 [source:vb community annotation].
+
+TODO

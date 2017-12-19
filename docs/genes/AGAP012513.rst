@@ -1,0 +1,9 @@
+
+AGAP012513
+=============
+
+
+
+Description: Hydroxysteroid dehydrogenase-like protein 2 [source:vb community annotation].
+
+TODO

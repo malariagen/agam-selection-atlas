@@ -1,0 +1,9 @@
+
+AGAP008124
+=============
+
+
+
+Description: Chitinase domain-containing protein 1 [source:vb community annotation].
+
+TODO

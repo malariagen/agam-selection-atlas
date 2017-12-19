@@ -1,0 +1,9 @@
+
+AGAP028366
+=============
+
+Name: **COX2**
+
+Description: Cytochrome c oxidase subunit ii [source:european nucleotide archive;acc:cox2].
+
+TODO

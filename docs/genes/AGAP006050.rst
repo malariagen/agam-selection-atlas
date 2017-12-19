@@ -1,0 +1,9 @@
+
+AGAP006050
+=============
+
+
+
+Description: Aarf domain containing kinase 5 [source:vb community annotation].
+
+TODO

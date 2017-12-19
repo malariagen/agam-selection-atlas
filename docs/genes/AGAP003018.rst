@@ -1,0 +1,9 @@
+
+AGAP003018
+=============
+
+
+
+Description: Dynamin gtpase [source:vb community annotation].
+
+TODO

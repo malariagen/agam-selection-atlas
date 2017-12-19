@@ -1,0 +1,9 @@
+
+AGAP007642
+=============
+
+Name: **Pfk**
+
+Description: Atp-dependent 6-phosphofructokinase [source:vb community annotation].
+
+TODO

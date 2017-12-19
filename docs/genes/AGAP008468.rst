@@ -1,0 +1,9 @@
+
+AGAP008468
+=============
+
+
+
+Description: Fatty acid synthase, animal type [source:vb community annotation].
+
+TODO

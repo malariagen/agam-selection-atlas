@@ -1,0 +1,9 @@
+
+AGAP004350
+=============
+
+
+
+Description: Synaptic vesicle protein [source:vb community annotation].
+
+TODO

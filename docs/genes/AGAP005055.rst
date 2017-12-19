@@ -1,0 +1,9 @@
+
+AGAP005055
+=============
+
+Name: **ITP**
+
+Description: Ion-transport peptide chh-like [source:vb community annotation].
+
+TODO

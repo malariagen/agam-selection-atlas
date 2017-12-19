@@ -1,0 +1,9 @@
+
+AGAP003260
+=============
+
+Name: **Gr21**
+
+Description: Gustatory receptor 21 [source:vb community annotation].
+
+TODO

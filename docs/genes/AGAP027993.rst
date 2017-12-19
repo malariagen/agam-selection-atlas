@@ -1,0 +1,9 @@
+
+AGAP027993
+=============
+
+Name: **CPLCP10**
+
+Description: Cuticular protein (putative) cplcp10 [source:vb community annotation].
+
+TODO

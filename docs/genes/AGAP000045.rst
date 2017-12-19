@@ -1,0 +1,9 @@
+
+AGAP000045
+=============
+
+Name: **GPROAR1**
+
+Description: Putative octopamine receptor 1 [source:vb community annotation].
+
+TODO

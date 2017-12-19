@@ -1,0 +1,9 @@
+
+AGAP012503
+=============
+
+
+
+Description: Developmentally regulated rna-binding protein [source:vb community annotation].
+
+TODO

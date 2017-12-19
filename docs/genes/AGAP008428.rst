@@ -1,0 +1,9 @@
+
+AGAP008428
+=============
+
+
+
+Description: N-acetyltransferase 11 [source:vb community annotation].
+
+TODO

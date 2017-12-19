@@ -1,0 +1,9 @@
+
+AGAP010893
+=============
+
+
+
+Description: Oxysterol-binding protein 1 [source:vb community annotation].
+
+TODO

@@ -100,7 +100,7 @@ html_sidebars = {}
 # documentation.
 #
 # html_theme_options = {}
-# html_title = 'Ag1000G Selection Atlas'
+html_title = 'Ag1000G Selection Atlas'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

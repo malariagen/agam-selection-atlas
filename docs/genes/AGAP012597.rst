@@ -1,0 +1,9 @@
+
+AGAP012597
+=============
+
+
+
+Description: Guanylate cyclase receptor-type gcy-1 [source:vb community annotation].
+
+TODO

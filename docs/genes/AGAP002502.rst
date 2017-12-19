@@ -1,0 +1,9 @@
+
+AGAP002502
+=============
+
+
+
+Description: Translation initiation factor 4g [source:vb community annotation].
+
+TODO

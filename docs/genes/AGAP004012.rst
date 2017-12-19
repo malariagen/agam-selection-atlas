@@ -1,0 +1,9 @@
+
+AGAP004012
+=============
+
+
+
+Description: Katanin p60 atpase-containing subunit [source:vb community annotation].
+
+TODO

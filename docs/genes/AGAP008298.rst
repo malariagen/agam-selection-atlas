@@ -1,0 +1,9 @@
+
+AGAP008298
+=============
+
+
+
+Description: U5 snrnp protein, dim1 family [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005960
+=============
+
+Name: **RpL7a**
+
+Description: 60s ribosomal protein l7a [source:uniprotkb/swiss-prot;acc:o76732].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006669
+=============
+
+
+
+Description: Arginine-glutamic acid dipeptide repeats protein [source:vb community annotation].
+
+TODO

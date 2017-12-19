@@ -1,0 +1,9 @@
+
+AGAP005939
+=============
+
+
+
+Description: Dna repair protein rev1 [source:uniprotkb/trembl;acc:q7q6b2].
+
+TODO

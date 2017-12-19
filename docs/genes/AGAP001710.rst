@@ -1,0 +1,9 @@
+
+AGAP001710
+=============
+
+
+
+Description: Pax-interacting protein 1 [source:vb community annotation].
+
+TODO

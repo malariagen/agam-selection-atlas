@@ -1,0 +1,9 @@
+
+AGAP004233
+=============
+
+
+
+Description: Transcription factor iiib 90 kda subunit [source:vb community annotation].
+
+TODO

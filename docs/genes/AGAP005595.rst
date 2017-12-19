@@ -1,0 +1,9 @@
+
+AGAP005595
+=============
+
+
+
+Description: A component of the cytoplasm (encore) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP013439
+=============
+
+
+
+Description: Serine/threonine-protein kinase sik [source:vb community annotation].
+
+TODO

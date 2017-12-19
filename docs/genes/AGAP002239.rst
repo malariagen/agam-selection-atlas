@@ -1,0 +1,9 @@
+
+AGAP002239
+=============
+
+
+
+Description: Diamine acetyltransferase 1 [source:vb community annotation].
+
+TODO

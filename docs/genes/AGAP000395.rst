@@ -1,0 +1,9 @@
+
+AGAP000395
+=============
+
+
+
+Description: Endoplasmic reticulum protein [source:vb community annotation].
+
+TODO

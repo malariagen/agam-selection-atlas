@@ -1,0 +1,9 @@
+
+AGAP001763
+=============
+
+
+
+Description: Solute carrier family 27 (fatty acid transporter), member 1/4 [source:vb community annotation].
+
+TODO

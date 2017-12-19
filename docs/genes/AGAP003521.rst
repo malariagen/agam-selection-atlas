@@ -1,0 +1,9 @@
+
+AGAP003521
+=============
+
+
+
+Description: Alpha-2-macroglobulin receptor-associated protein [source:vb community annotation].
+
+TODO

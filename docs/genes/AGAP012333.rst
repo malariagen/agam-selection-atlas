@@ -1,0 +1,9 @@
+
+AGAP012333
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase rnf25 [source:vb community annotation].
+
+TODO

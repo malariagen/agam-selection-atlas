@@ -1,0 +1,9 @@
+
+AGAP009835
+=============
+
+Name: **ABCC14**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 14 [source:vb community annotation].
+
+TODO

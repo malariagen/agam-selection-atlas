@@ -1,0 +1,9 @@
+
+AGAP011890
+=============
+
+
+
+Description: Mitogen-activated protein kinase-activated protein kinase 2 [source:vb community annotation].
+
+TODO

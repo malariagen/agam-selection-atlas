@@ -1,0 +1,9 @@
+
+AGAP005898
+=============
+
+
+
+Description: Nemo like kinase [source:vb community annotation].
+
+TODO

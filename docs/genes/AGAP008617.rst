@@ -1,0 +1,9 @@
+
+AGAP008617
+=============
+
+
+
+Description: 26s proteasome regulatory subunit n11 [source:vb community annotation].
+
+TODO

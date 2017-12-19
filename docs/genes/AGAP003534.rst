@@ -1,0 +1,9 @@
+
+AGAP003534
+=============
+
+
+
+Description: Upf0443 protein agap003534 [source:vb community annotation].
+
+TODO

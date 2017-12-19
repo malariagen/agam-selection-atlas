@@ -1,0 +1,9 @@
+
+AGAP012424
+=============
+
+Name: **INR**
+
+Description: Insulin receptor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006691
+=============
+
+Name: **IR139**
+
+Description: Ionotropic receptor ir139 [source:vb community annotation].
+
+TODO

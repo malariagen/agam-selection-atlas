@@ -1,0 +1,9 @@
+
+AGAP010883
+=============
+
+
+
+Description: Kinesin-like protein costa [source:vb community annotation].
+
+TODO

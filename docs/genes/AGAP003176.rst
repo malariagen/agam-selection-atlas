@@ -1,0 +1,9 @@
+
+AGAP003176
+=============
+
+
+
+Description: Solute carrier family 23 (nucleobase transporter) [source:vb community annotation].
+
+TODO

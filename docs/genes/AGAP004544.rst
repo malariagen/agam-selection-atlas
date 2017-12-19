@@ -1,0 +1,9 @@
+
+AGAP004544
+=============
+
+
+
+Description: Solute carrier family 35, member f3/4 [source:vb community annotation].
+
+TODO

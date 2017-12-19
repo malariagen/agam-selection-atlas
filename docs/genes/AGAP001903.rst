@@ -1,0 +1,9 @@
+
+AGAP001903
+=============
+
+Name: **Mdh2**
+
+Description: Nad-dependent malate dehydrogenase [source:vb community annotation].
+
+TODO

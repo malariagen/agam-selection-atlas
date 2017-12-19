@@ -1,0 +1,9 @@
+
+AGAP007294
+=============
+
+Name: **IAP1**
+
+Description: Inhibitor of apoptosis 1 [source:vb community annotation].
+
+TODO

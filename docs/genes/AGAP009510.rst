@@ -1,0 +1,9 @@
+
+AGAP009510
+=============
+
+
+
+Description: Malate dehydrogenase (fragment) [source:uniprotkb/trembl;acc:q7psb4].
+
+TODO

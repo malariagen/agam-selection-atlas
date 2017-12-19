@@ -1,0 +1,9 @@
+
+AGAP012847
+=============
+
+
+
+Description: Autophagy-related protein 12 [source:vb community annotation].
+
+TODO

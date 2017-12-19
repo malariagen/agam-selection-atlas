@@ -1,0 +1,9 @@
+
+AGAP010191
+=============
+
+
+
+Description: Calumenin isoform b precursor [source:vb community annotation].
+
+TODO

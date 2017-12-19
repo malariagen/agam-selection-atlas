@@ -1,0 +1,9 @@
+
+AGAP001065
+=============
+
+
+
+Description: Glycine hydroxymethyltransferase [source:vb community annotation].
+
+TODO

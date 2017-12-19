@@ -1,0 +1,9 @@
+
+AGAP008882
+=============
+
+
+
+Description: U3 small nucleolar rna-associated protein mpp10 [source:vb community annotation].
+
+TODO

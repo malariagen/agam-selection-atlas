@@ -1,0 +1,9 @@
+
+AGAP008436
+=============
+
+Name: **ABCC11**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 11 [source:vb community annotation].
+
+TODO

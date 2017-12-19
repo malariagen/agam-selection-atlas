@@ -1,0 +1,9 @@
+
+AGAP001199
+=============
+
+
+
+Description: Serine protease [source:vb community annotation].
+
+TODO

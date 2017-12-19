@@ -1,0 +1,9 @@
+
+AGAP008925
+=============
+
+
+
+Description: Pre-mrna-processing factor 17 [source:vb community annotation].
+
+TODO

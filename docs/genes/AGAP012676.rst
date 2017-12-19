@@ -1,0 +1,9 @@
+
+AGAP012676
+=============
+
+Name: **CPLCP26**
+
+Description: Cuticular protein (putative) cplcp26 [source:vb community annotation].
+
+TODO

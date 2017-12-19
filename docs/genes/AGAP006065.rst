@@ -1,0 +1,9 @@
+
+AGAP006065
+=============
+
+
+
+Description: Dna primase small subunit [source:vb community annotation].
+
+TODO

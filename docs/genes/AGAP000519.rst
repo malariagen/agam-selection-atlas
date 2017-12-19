@@ -1,0 +1,9 @@
+
+AGAP000519
+=============
+
+
+
+Description: Diacylglycerol kinase (atp dependent) [source:vb community annotation].
+
+TODO

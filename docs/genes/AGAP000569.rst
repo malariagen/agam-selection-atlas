@@ -1,0 +1,9 @@
+
+AGAP000569
+=============
+
+
+
+Description: Forkhead box protein p [source:vb community annotation].
+
+TODO

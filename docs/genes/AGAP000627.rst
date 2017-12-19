@@ -1,0 +1,9 @@
+
+AGAP000627
+=============
+
+
+
+Description: Casein kinase 1, alpha [source:vb community annotation].
+
+TODO

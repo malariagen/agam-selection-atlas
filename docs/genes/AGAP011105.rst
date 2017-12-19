@@ -1,0 +1,9 @@
+
+AGAP011105
+=============
+
+
+
+Description: Guanylate kinase [source:vb community annotation].
+
+TODO

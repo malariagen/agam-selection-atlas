@@ -1,0 +1,9 @@
+
+AGAP009048
+=============
+
+
+
+Description: Protein arginine n-methyltransferase 5 [source:vb community annotation].
+
+TODO

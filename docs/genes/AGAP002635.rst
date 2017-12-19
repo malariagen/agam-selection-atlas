@@ -1,0 +1,9 @@
+
+AGAP002635
+=============
+
+Name: **Gr13**
+
+Description: Gustatory receptor 13 [source:vb community annotation].
+
+TODO

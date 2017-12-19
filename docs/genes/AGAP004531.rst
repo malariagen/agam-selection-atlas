@@ -1,0 +1,9 @@
+
+AGAP004531
+=============
+
+
+
+Description: Cathepsin b precursor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007392
+=============
+
+
+
+Description: Peptidyl-prolyl isomerase h (cyclophilin h) [source:vb community annotation].
+
+TODO

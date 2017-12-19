@@ -1,0 +1,9 @@
+
+AGAP008336
+=============
+
+
+
+Description: Protein phosphatase methylesterase 1 [source:uniprotkb/trembl;acc:q7q4c8].
+
+TODO

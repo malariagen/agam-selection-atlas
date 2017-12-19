@@ -1,0 +1,9 @@
+
+AGAP003013
+=============
+
+
+
+Description: Euchromatic histone-lysine n-methyltransferase [source:vb community annotation].
+
+TODO

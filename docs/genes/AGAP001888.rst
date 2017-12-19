@@ -1,0 +1,9 @@
+
+AGAP001888
+=============
+
+
+
+Description: Alpha-(1,6)-fucosyltransferase [source:uniprotkb/trembl;acc:q7pyd8].
+
+TODO

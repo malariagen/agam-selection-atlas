@@ -1,0 +1,9 @@
+
+AGAP009058
+=============
+
+Name: **Exo3**
+
+Description: Exocyst complex component 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009873
+=============
+
+Name: **CPR153**
+
+Description: Cuticular protein rr-2 family 153 [source:vb community annotation].
+
+TODO

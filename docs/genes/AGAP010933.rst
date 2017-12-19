@@ -1,0 +1,9 @@
+
+AGAP010933
+=============
+
+Name: **RpS19**
+
+Description: 40s ribosomal protein s19 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008047
+=============
+
+
+
+Description: Integrator complex subunit 1 [source:vb community annotation].
+
+TODO

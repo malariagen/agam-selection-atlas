@@ -1,0 +1,9 @@
+
+AGAP011310
+=============
+
+
+
+Description: Phosphatidylinositol glycan, class p [source:vb community annotation].
+
+TODO

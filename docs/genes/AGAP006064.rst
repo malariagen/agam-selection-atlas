@@ -1,0 +1,9 @@
+
+AGAP006064
+=============
+
+
+
+Description: Bladder cancer-associated protein [source:vb community annotation].
+
+TODO

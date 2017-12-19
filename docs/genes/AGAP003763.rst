@@ -1,0 +1,9 @@
+
+AGAP003763
+=============
+
+
+
+Description: Juvenile hormone-inducible protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000562
+=============
+
+Name: **Moe**
+
+Description: Moesin/ezrin/radixin homolog 1 [source:uniprotkb/swiss-prot;acc:q7ps12].
+
+TODO

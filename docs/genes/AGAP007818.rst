@@ -1,0 +1,9 @@
+
+AGAP007818
+=============
+
+
+
+Description: Potassium inwardly-rectifying channel [source:vb community annotation].
+
+TODO

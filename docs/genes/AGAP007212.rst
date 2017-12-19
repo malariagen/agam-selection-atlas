@@ -1,0 +1,9 @@
+
+AGAP007212
+=============
+
+
+
+Description: Atp-dependent rna helicase dhx8/prp22 [source:vb community annotation].
+
+TODO

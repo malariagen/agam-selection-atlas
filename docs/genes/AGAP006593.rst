@@ -1,0 +1,9 @@
+
+AGAP006593
+=============
+
+
+
+Description: Dual specificity phosphatase [source:vb community annotation].
+
+TODO

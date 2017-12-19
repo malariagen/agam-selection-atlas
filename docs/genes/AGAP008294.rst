@@ -1,0 +1,9 @@
+
+AGAP008294
+=============
+
+Name: **TRYP3**
+
+Description: Trypsin 3 [source:vb community annotation].
+
+TODO

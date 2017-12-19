@@ -1,0 +1,9 @@
+
+AGAP001789
+=============
+
+
+
+Description: (methionine synthase) reductase [source:vb community annotation].
+
+TODO

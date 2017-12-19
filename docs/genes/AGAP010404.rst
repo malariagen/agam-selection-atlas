@@ -1,0 +1,9 @@
+
+AGAP010404
+=============
+
+Name: **GSTS1**
+
+Description: Glutathione s-transferase sigma class 1 [source:vb community annotation].
+
+TODO

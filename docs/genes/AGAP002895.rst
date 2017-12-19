@@ -1,0 +1,9 @@
+
+AGAP002895
+=============
+
+
+
+Description: Mrna (2'-o-methyladenosine-n6-)-methyltransferase [source:vb community annotation].
+
+TODO

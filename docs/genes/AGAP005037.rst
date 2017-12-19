@@ -1,0 +1,9 @@
+
+AGAP005037
+=============
+
+
+
+Description: Coiled-coil domain-containing protein agap005037 [source:uniprotkb/swiss-prot;acc:q7pq25].
+
+TODO

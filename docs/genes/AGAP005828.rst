@@ -1,0 +1,9 @@
+
+AGAP005828
+=============
+
+
+
+Description: Alpha-tubulin n-acetyltransferase [source:uniprotkb/swiss-prot;acc:q7pnm6].
+
+TODO

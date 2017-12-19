@@ -1,0 +1,9 @@
+
+AGAP002685
+=============
+
+Name: **APG8**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

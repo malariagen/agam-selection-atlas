@@ -1,0 +1,9 @@
+
+AGAP002589
+=============
+
+
+
+Description: Dynein light intermediate chain 1, cytosolic [source:vb community annotation].
+
+TODO

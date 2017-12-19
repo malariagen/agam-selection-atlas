@@ -1,0 +1,9 @@
+
+AGAP010701
+=============
+
+
+
+Description: Proton-coupled amino acid transporter [source:vb community annotation].
+
+TODO

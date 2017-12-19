@@ -1,0 +1,9 @@
+
+AGAP007201
+=============
+
+Name: **TRX2**
+
+Description: Thioredoxin [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002783
+=============
+
+
+
+Description: Udp glucuronosyltransferase 5 family, polypeptide a2 [source:vb community annotation].
+
+TODO

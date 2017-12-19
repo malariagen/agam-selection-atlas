@@ -1,0 +1,9 @@
+
+AGAP004246
+=============
+
+
+
+Description: Receptor protein-tyrosine phosphatase 10d [source:vb community annotation].
+
+TODO

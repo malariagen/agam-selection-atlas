@@ -1,0 +1,9 @@
+
+AGAP002251
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 g1 [source:vb community annotation].
+
+TODO

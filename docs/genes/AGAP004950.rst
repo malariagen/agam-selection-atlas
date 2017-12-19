@@ -1,0 +1,9 @@
+
+AGAP004950
+=============
+
+
+
+Description: Cug-bp- and etr3-like factor [source:vb community annotation].
+
+TODO

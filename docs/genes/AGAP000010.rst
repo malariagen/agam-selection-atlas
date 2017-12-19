@@ -1,0 +1,9 @@
+
+AGAP000010
+=============
+
+
+
+Description: Ethanolamine kinase [source:vb community annotation].
+
+TODO

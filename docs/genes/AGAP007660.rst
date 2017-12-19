@@ -1,0 +1,9 @@
+
+AGAP007660
+=============
+
+
+
+Description: Synaptic vesicle 2-related protein [source:vb community annotation].
+
+TODO

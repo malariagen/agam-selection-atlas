@@ -1,0 +1,9 @@
+
+AGAP008490
+=============
+
+
+
+Description: Solute carrier family 36 (proton-coupled amino acid transporter) [source:vb community annotation].
+
+TODO

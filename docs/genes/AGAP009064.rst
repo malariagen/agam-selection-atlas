@@ -1,0 +1,9 @@
+
+AGAP009064
+=============
+
+
+
+Description: Nuclear transcription factor y subunit gamma [source:uniprotkb/trembl;acc:a0a1s4h0t2].
+
+TODO

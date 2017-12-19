@@ -1,0 +1,9 @@
+
+AGAP006258
+=============
+
+Name: **PPO2**
+
+Description: Prophenoloxidase 2 [source:vb community annotation].
+
+TODO

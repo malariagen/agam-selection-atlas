@@ -1,0 +1,9 @@
+
+AGAP006874
+=============
+
+Name: **Gr29**
+
+Description: Gustatory receptor 29 [source:vb community annotation].
+
+TODO

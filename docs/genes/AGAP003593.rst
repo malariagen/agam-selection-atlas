@@ -1,0 +1,9 @@
+
+AGAP003593
+=============
+
+
+
+Description: Protein arginine methyltransferase rmtb [source:vb community annotation].
+
+TODO

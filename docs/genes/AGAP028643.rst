@@ -1,0 +1,9 @@
+
+AGAP028643
+=============
+
+
+
+Description: Histone acetyltransferase myst2 [source:vb community annotation].
+
+TODO

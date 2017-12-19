@@ -1,0 +1,9 @@
+
+AGAP001022
+=============
+
+Name: **GPRCCK1**
+
+Description: Putative gastrin/cholecystokinin receptor 1 [source:vb community annotation].
+
+TODO

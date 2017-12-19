@@ -1,0 +1,9 @@
+
+AGAP011715
+=============
+
+
+
+Description: Type ii pantothenate kinase [source:vb community annotation].
+
+TODO

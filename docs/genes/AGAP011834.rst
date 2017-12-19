@@ -1,0 +1,9 @@
+
+AGAP011834
+=============
+
+
+
+Description: Mitochondrial trans-2-enoyl-coa reductase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005725
+=============
+
+Name: **SCRB3**
+
+Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
+
+TODO

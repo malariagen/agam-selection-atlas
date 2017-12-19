@@ -1,0 +1,9 @@
+
+AGAP002440
+=============
+
+Name: **Cdc42**
+
+Description: Cell division cycle cdc42 homolog [source:vb community annotation].
+
+TODO

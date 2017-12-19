@@ -1,0 +1,9 @@
+
+AGAP008644
+=============
+
+Name: **GPRMGL2**
+
+Description: Putative metabotropic glutamate receptor 2 [source:vb community annotation].
+
+TODO

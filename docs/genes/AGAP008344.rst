@@ -1,0 +1,9 @@
+
+AGAP008344
+=============
+
+
+
+Description: Nuclear transcription y subunit beta [source:vb community annotation].
+
+TODO

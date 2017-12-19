@@ -1,0 +1,9 @@
+
+AGAP005623
+=============
+
+
+
+Description: Uncharacterized protein c45g9.7 [source:vb community annotation].
+
+TODO

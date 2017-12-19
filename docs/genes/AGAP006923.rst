@@ -1,0 +1,9 @@
+
+AGAP006923
+=============
+
+
+
+Description: Homeobox protein gbx [source:vb community annotation].
+
+TODO

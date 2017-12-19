@@ -1,0 +1,9 @@
+
+AGAP010267
+=============
+
+
+
+Description: Glutaminyl-trna synthetase [source:vb community annotation].
+
+TODO

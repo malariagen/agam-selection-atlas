@@ -1,0 +1,9 @@
+
+AGAP000787
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase nedd4 [source:vb community annotation].
+
+TODO

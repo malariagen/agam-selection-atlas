@@ -1,0 +1,9 @@
+
+AGAP008315
+=============
+
+
+
+Description: Dolichyl-phosphate beta-glucosyltransferase [source:vb community annotation].
+
+TODO

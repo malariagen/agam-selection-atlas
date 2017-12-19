@@ -1,0 +1,9 @@
+
+AGAP002924
+=============
+
+
+
+Description: Protein tweety homolog [source:uniprotkb/trembl;acc:f5hkf1].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP028160
+=============
+
+Name: **CPLCP20**
+
+Description: Cuticular protein (putative) cplcp20 [source:vb community annotation].
+
+TODO

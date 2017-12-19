@@ -1,0 +1,9 @@
+
+AGAP008416
+=============
+
+
+
+Description: Cyclic amp-dependent transcription factor atf-2 [source:vb community annotation].
+
+TODO

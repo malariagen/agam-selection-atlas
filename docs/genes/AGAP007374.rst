@@ -1,0 +1,9 @@
+
+AGAP007374
+=============
+
+
+
+Description: Glucuronosyltransferase [source:vb community annotation].
+
+TODO

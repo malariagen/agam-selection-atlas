@@ -1,0 +1,9 @@
+
+AGAP006346
+=============
+
+
+
+Description: Protein spinster homolog 2 [source:vb community annotation].
+
+TODO

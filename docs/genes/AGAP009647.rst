@@ -1,0 +1,9 @@
+
+AGAP009647
+=============
+
+
+
+Description: Proteasome maturation protein [source:vb community annotation].
+
+TODO

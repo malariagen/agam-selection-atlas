@@ -1,0 +1,9 @@
+
+AGAP011367
+=============
+
+Name: **OBP56**
+
+Description: Odorant-binding protein 56 [source:vb community annotation].
+
+TODO

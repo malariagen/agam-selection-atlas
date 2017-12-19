@@ -1,0 +1,9 @@
+
+AGAP003339
+=============
+
+
+
+Description: Ef-hand domain (c-terminal) containing 2 [source:vb community annotation].
+
+TODO

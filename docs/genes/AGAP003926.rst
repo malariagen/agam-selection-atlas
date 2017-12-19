@@ -1,0 +1,9 @@
+
+AGAP003926
+=============
+
+
+
+Description: Aminopeptidase [source:uniprotkb/trembl;acc:q7q2b5].
+
+TODO

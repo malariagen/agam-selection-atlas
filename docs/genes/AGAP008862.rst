@@ -1,0 +1,9 @@
+
+AGAP008862
+=============
+
+
+
+Description: Aubergine [source:vb community annotation].
+
+TODO

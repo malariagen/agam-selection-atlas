@@ -1,0 +1,9 @@
+
+AGAP003021
+=============
+
+
+
+Description: Clathrin heavy chain [source:uniprotkb/trembl;acc:q7pqy9].
+
+TODO

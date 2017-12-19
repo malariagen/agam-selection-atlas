@@ -1,0 +1,9 @@
+
+AGAP008377
+=============
+
+
+
+Description: Tbc1 domain family member 19 [source:vb community annotation].
+
+TODO

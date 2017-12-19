@@ -1,0 +1,9 @@
+
+AGAP005373
+=============
+
+Name: **COEBE1C**
+
+Description: Carboxylesterase beta esterase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010343
+=============
+
+
+
+Description: Ctl-like protein 2 [source:vb community annotation].
+
+TODO

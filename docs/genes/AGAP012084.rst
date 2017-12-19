@@ -1,0 +1,9 @@
+
+AGAP012084
+=============
+
+
+
+Description: Dna-directed rna polymerase i subunit rpa43 [source:vb community annotation].
+
+TODO

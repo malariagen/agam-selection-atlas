@@ -1,0 +1,9 @@
+
+AGAP012009
+=============
+
+
+
+Description: Chromodomain-helicase-dna-binding protein 4 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005425
+=============
+
+
+
+Description: Actin-binding lim protein [source:vb community annotation].
+
+TODO

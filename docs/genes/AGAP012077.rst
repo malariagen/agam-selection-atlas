@@ -1,0 +1,9 @@
+
+AGAP012077
+=============
+
+
+
+Description: Actin-related protein 10 [source:vb community annotation].
+
+TODO

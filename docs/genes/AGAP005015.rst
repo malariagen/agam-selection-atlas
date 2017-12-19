@@ -1,0 +1,9 @@
+
+AGAP005015
+=============
+
+
+
+Description: Heterogeneous nuclear ribonucleoprotein k [source:vb community annotation].
+
+TODO

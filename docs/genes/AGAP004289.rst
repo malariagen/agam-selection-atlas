@@ -1,0 +1,9 @@
+
+AGAP004289
+=============
+
+Name: **Mocs2**
+
+Description: Molybdopterin synthase sulfur carrier subunit [source:uniprotkb/swiss-prot;acc:q5tt27].
+
+TODO

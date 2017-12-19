@@ -1,0 +1,9 @@
+
+AGAP009536
+=============
+
+
+
+Description: Kif1-binding protein homolog [source:vb community annotation].
+
+TODO

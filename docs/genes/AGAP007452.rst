@@ -1,0 +1,9 @@
+
+AGAP007452
+=============
+
+
+
+Description: Neuronal guanine nucleotide exchange factor [source:vb community annotation].
+
+TODO

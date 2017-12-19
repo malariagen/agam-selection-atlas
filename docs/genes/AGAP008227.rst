@@ -1,0 +1,9 @@
+
+AGAP008227
+=============
+
+
+
+Description: Trehalose 6-phosphate synthase/phosphatase [source:vb community annotation].
+
+TODO

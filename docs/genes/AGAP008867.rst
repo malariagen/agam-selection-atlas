@@ -1,0 +1,9 @@
+
+AGAP008867
+=============
+
+
+
+Description: Regucalcin protein [source:vb community annotation].
+
+TODO

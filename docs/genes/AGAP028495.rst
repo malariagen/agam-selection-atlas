@@ -1,0 +1,9 @@
+
+AGAP028495
+=============
+
+
+
+Description: Carbohydrate sulfotransferase [source:uniprotkb/trembl;acc:a0a0e4g9j1].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009276
+=============
+
+
+
+Description: Piezo-type mechanosensitive ion channel component [source:uniprotkb/trembl;acc:a0a1s4h0n7].
+
+TODO

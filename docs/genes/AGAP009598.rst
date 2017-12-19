@@ -1,0 +1,9 @@
+
+AGAP009598
+=============
+
+
+
+Description: Voltage-dependent calcium channel alpha-2/delta, invertebrate [source:vb community annotation].
+
+TODO

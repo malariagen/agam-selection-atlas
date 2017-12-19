@@ -1,0 +1,9 @@
+
+AGAP002069
+=============
+
+
+
+Description: Decaprenyl-diphosphate synthase subunit 1 [source:vb community annotation].
+
+TODO

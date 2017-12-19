@@ -1,0 +1,9 @@
+
+AGAP001448
+=============
+
+
+
+Description: Pancreas-specific transcription factor 1a [source:vb community annotation].
+
+TODO

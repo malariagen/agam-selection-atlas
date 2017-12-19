@@ -1,0 +1,9 @@
+
+AGAP008094
+=============
+
+
+
+Description: Gamma-secretase subunit pen-2 [source:vb community annotation].
+
+TODO

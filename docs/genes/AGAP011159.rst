@@ -1,0 +1,9 @@
+
+AGAP011159
+=============
+
+Name: **CoVa**
+
+Description: Cytochrome c oxidase subunit va [source:vb community annotation].
+
+TODO

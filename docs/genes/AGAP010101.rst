@@ -1,0 +1,9 @@
+
+AGAP010101
+=============
+
+Name: **CPR85**
+
+Description: Cuticular protein rr-2 family 85 [source:vb community annotation].
+
+TODO

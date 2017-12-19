@@ -1,0 +1,9 @@
+
+AGAP002683
+=============
+
+
+
+Description: Dolichol kinase [source:vb community annotation].
+
+TODO

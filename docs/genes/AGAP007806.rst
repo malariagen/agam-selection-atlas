@@ -1,0 +1,9 @@
+
+AGAP007806
+=============
+
+
+
+Description: Myosin light chain, invertebrate [source:vb community annotation].
+
+TODO

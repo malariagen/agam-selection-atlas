@@ -1,0 +1,9 @@
+
+AGAP005457
+=============
+
+
+
+Description: Ser/thr protein phosphatase/nucleotidase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011924
+=============
+
+
+
+Description: Potassium channel subfamily k, invertebrate [source:vb community annotation].
+
+TODO

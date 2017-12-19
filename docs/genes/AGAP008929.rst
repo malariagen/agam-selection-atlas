@@ -1,0 +1,9 @@
+
+AGAP008929
+=============
+
+
+
+Description: Threonyl-trna synthetase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000028
+=============
+
+
+
+Description: Calcium/calmodulin-dependent protein kinase (cam kinase) ii [source:vb community annotation].
+
+TODO

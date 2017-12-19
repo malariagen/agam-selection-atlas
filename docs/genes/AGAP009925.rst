@@ -1,0 +1,9 @@
+
+AGAP009925
+=============
+
+Name: **Nkd**
+
+Description: Protein naked cuticle homolog [source:uniprotkb/swiss-prot;acc:q08aa9].
+
+TODO

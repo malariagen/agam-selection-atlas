@@ -1,0 +1,9 @@
+
+AGAP001953
+=============
+
+
+
+Description: Tbc1 domain family, member 10a [source:vb community annotation].
+
+TODO

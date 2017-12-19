@@ -1,0 +1,9 @@
+
+AGAP005800
+=============
+
+
+
+Description: Dna replication licensing factor mcm7 [source:vb community annotation].
+
+TODO

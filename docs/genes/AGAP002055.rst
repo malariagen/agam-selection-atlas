@@ -1,0 +1,9 @@
+
+AGAP002055
+=============
+
+
+
+Description: Beta-galactosidase [source:uniprotkb/trembl;acc:q380s2].
+
+TODO

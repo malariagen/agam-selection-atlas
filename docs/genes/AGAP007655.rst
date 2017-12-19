@@ -1,0 +1,9 @@
+
+AGAP007655
+=============
+
+Name: **bw**
+
+Description: Protein brown [source:vb community annotation].
+
+TODO

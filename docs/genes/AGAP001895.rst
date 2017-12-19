@@ -1,0 +1,9 @@
+
+AGAP001895
+=============
+
+
+
+Description: F-box and leucine-rich repeat protein 10/11 [source:vb community annotation].
+
+TODO

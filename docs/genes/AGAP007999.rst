@@ -1,0 +1,9 @@
+
+AGAP007999
+=============
+
+
+
+Description: Nuclear pore complex protein nup155 [source:vb community annotation].
+
+TODO

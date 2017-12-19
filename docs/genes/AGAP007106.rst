@@ -1,0 +1,9 @@
+
+AGAP007106
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 47 [source:vb community annotation].
+
+TODO

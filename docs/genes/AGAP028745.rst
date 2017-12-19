@@ -1,0 +1,9 @@
+
+AGAP028745
+=============
+
+
+
+Description: Checkpoint serine/threonine-protein kinase [source:vb community annotation].
+
+TODO

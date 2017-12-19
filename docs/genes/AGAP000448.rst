@@ -1,0 +1,9 @@
+
+AGAP000448
+=============
+
+
+
+Description: Solute carrier family 25 (mitochondrial ornithine transporter) member 2/15 [source:vb community annotation].
+
+TODO

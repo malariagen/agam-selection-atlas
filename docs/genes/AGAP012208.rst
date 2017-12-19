@@ -1,0 +1,9 @@
+
+AGAP012208
+=============
+
+
+
+Description: Glycosyltransferase 25 family member [source:vb community annotation].
+
+TODO

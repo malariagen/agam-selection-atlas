@@ -1,0 +1,9 @@
+
+AGAP013357
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase arkadia [source:vb community annotation].
+
+TODO

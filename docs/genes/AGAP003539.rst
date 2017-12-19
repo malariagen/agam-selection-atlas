@@ -1,0 +1,9 @@
+
+AGAP003539
+=============
+
+
+
+Description: Armadillo repeat-containing protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006325
+=============
+
+
+
+Description: Tocopherol (alpha) transfer protein-like [source:vb community annotation].
+
+TODO

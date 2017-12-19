@@ -1,0 +1,9 @@
+
+AGAP006722
+=============
+
+Name: **CEC4**
+
+Description: Cecropin anti-microbial peptide [source:vb community annotation].
+
+TODO

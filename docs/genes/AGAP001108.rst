@@ -1,0 +1,9 @@
+
+AGAP001108
+=============
+
+
+
+Description: Mitochondrial import inner membrane translocase subunit tim50-c [source:vb community annotation].
+
+TODO

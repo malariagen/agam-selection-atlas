@@ -1,0 +1,9 @@
+
+AGAP005851
+=============
+
+
+
+Description: Cyclin-dependent kinase 10 [source:vb community annotation].
+
+TODO

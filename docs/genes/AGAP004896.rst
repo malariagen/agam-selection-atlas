@@ -1,0 +1,9 @@
+
+AGAP004896
+=============
+
+
+
+Description: Potassium channel, subfamily k [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007870
+=============
+
+
+
+Description: Ubiquitin conjugation factor e4 b [source:vb community annotation].
+
+TODO

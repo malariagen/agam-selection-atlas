@@ -1,0 +1,9 @@
+
+AGAP000877
+=============
+
+Name: **CYP4G17**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

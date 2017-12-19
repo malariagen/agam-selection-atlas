@@ -1,0 +1,9 @@
+
+AGAP002674
+=============
+
+
+
+Description: Dolichyl-phosphate-mannose-protein mannosyltransferase [source:vb community annotation].
+
+TODO

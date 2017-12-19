@@ -1,0 +1,9 @@
+
+AGAP004578
+=============
+
+
+
+Description: Alkaline phosphatase [source:vb community annotation].
+
+TODO

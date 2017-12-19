@@ -1,0 +1,9 @@
+
+AGAP002063
+=============
+
+
+
+Description: Nucleolar protein 56 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012408
+=============
+
+
+
+Description: Trna (uracil-5-)-methyltransferase [source:vb community annotation].
+
+TODO

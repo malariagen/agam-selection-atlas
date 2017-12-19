@@ -1,0 +1,9 @@
+
+AGAP000981
+=============
+
+
+
+Description: Nuclear receptor interaction protein [source:vb community annotation].
+
+TODO

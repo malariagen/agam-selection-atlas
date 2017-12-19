@@ -1,0 +1,9 @@
+
+AGAP009922
+=============
+
+
+
+Description: Salivary purine nucleosidase [source:vb community annotation].
+
+TODO

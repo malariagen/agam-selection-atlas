@@ -1,0 +1,9 @@
+
+AGAP005723
+=============
+
+
+
+Description: Adenine phosphoribosyltransferase [source:vb community annotation].
+
+TODO

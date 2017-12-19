@@ -1,0 +1,9 @@
+
+AGAP008456
+=============
+
+Name: **CPLCG11**
+
+Description: Cuticular protein cplcg family (cplcg11) [source:vb community annotation].
+
+TODO

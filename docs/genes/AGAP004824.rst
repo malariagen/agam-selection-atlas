@@ -1,0 +1,9 @@
+
+AGAP004824
+=============
+
+
+
+Description: Translation initiation factor 5b [source:vb community annotation].
+
+TODO

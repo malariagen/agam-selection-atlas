@@ -1,0 +1,9 @@
+
+AGAP003023
+=============
+
+
+
+Description: Syntaxin-binding protein 1 [source:vb community annotation].
+
+TODO

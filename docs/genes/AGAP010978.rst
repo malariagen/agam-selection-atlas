@@ -1,0 +1,9 @@
+
+AGAP010978
+=============
+
+
+
+Description: Nuclear pore complex protein nup62 [source:vb community annotation].
+
+TODO

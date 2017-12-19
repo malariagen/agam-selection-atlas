@@ -1,0 +1,9 @@
+
+AGAP001165
+=============
+
+
+
+Description: Zinc finger protein dzip1 [source:vb community annotation].
+
+TODO

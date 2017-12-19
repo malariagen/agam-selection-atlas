@@ -1,0 +1,9 @@
+
+AGAP000721
+=============
+
+
+
+Description: V-type h -transporting atpase subunit ac39 [source:vb community annotation].
+
+TODO

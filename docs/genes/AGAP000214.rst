@@ -1,0 +1,9 @@
+
+AGAP000214
+=============
+
+
+
+Description: Guanylate cyclase soluble subunit beta [source:vb community annotation].
+
+TODO

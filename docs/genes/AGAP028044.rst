@@ -1,0 +1,9 @@
+
+AGAP028044
+=============
+
+Name: **CPLCP23**
+
+Description: Cuticular protein (putative) cplcp23 [source:vb community annotation].
+
+TODO

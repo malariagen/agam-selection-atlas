@@ -1,0 +1,9 @@
+
+AGAP004337
+=============
+
+
+
+Description: Ga-binding protein transcription factor, alpha [source:vb community annotation].
+
+TODO

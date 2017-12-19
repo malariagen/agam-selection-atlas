@@ -1,0 +1,9 @@
+
+AGAP010337
+=============
+
+
+
+Description: Ubiquinol-cytochrome c reductase subunit 8 [source:vb community annotation].
+
+TODO

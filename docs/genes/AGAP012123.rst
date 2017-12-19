@@ -1,0 +1,9 @@
+
+AGAP012123
+=============
+
+
+
+Description: F-box and leucine-rich repeat protein 16 [source:vb community annotation].
+
+TODO

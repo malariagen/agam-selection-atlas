@@ -1,0 +1,9 @@
+
+AGAP000841
+=============
+
+
+
+Description: Ras-related protein rab-40 [source:vb community annotation].
+
+TODO

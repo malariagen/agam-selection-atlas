@@ -1,0 +1,9 @@
+
+AGAP006858
+=============
+
+Name: **CPR37**
+
+Description: Cuticular protein rr-1 family 37 [source:vb community annotation].
+
+TODO

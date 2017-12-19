@@ -1,0 +1,9 @@
+
+AGAP013496
+=============
+
+Name: **Cht5-3**
+
+Description: Chitinase [source:vb community annotation].
+
+TODO

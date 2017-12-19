@@ -1,0 +1,9 @@
+
+AGAP000552
+=============
+
+
+
+Description: Tbc domain-containing protein kinase-like protein [source:vb community annotation].
+
+TODO

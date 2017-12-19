@@ -1,0 +1,9 @@
+
+AGAP005202
+=============
+
+
+
+Description: Ring-box protein 1 [source:vb community annotation].
+
+TODO

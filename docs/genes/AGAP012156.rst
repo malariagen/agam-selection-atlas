@@ -1,0 +1,9 @@
+
+AGAP012156
+=============
+
+Name: **ABCA5**
+
+Description: Atp-binding cassette transporter (abc transporter) family a member 5 [source:vb community annotation].
+
+TODO

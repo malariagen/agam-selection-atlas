@@ -1,0 +1,9 @@
+
+AGAP007567
+=============
+
+
+
+Description: Membrane bound o-acyltransferase domain containing 2a [source:vb community annotation].
+
+TODO

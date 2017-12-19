@@ -1,0 +1,9 @@
+
+AGAP008772
+=============
+
+
+
+Description: Nucleoporin p58/p45 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004181
+=============
+
+
+
+Description: Fibroblast growth factor [source:uniprotkb/trembl;acc:a0ndd8].
+
+TODO

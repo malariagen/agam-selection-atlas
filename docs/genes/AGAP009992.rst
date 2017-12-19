@@ -1,0 +1,9 @@
+
+AGAP009992
+=============
+
+
+
+Description: Inhibitor of growth protein 4 [source:vb community annotation].
+
+TODO

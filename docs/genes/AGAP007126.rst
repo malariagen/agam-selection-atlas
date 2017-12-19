@@ -1,0 +1,9 @@
+
+AGAP007126
+=============
+
+
+
+Description: Dna mismatch repair protein pms2 [source:vb community annotation].
+
+TODO

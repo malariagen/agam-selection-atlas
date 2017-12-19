@@ -1,0 +1,9 @@
+
+AGAP010835
+=============
+
+
+
+Description: Gins complex subunit 1 (psf1 homolog) [source:vb community annotation].
+
+TODO

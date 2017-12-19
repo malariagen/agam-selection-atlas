@@ -1,0 +1,9 @@
+
+AGAP002427
+=============
+
+
+
+Description: Kinesin family member 3/17 [source:vb community annotation].
+
+TODO

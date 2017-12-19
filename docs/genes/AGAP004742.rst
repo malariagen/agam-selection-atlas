@@ -1,0 +1,9 @@
+
+AGAP004742
+=============
+
+
+
+Description: Pyruvate carboxylase [source:uniprotkb/trembl;acc:a7uuw7].
+
+TODO

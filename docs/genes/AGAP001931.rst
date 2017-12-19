@@ -1,0 +1,9 @@
+
+AGAP001931
+=============
+
+
+
+Description: Six-cysteine containing astacin protease 3 [source:vb community annotation].
+
+TODO

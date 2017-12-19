@@ -1,0 +1,9 @@
+
+AGAP007692
+=============
+
+Name: **SRPN14**
+
+Description: Serine protease inhibitor (serpin) 14 [source:vb community annotation].
+
+TODO

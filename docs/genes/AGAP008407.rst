@@ -1,0 +1,9 @@
+
+AGAP008407
+=============
+
+Name: **TEP13**
+
+Description: Thioester-containing protein 13 [source:vb community annotation].
+
+TODO

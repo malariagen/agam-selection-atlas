@@ -1,0 +1,9 @@
+
+AGAP008967
+=============
+
+
+
+Description: Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase [source:vb community annotation].
+
+TODO

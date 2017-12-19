@@ -1,0 +1,9 @@
+
+AGAP001694
+=============
+
+Name: **Exo4**
+
+Description: Exocyst complex component 4 [source:vb community annotation].
+
+TODO

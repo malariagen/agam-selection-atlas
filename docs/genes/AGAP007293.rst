@@ -1,0 +1,9 @@
+
+AGAP007293
+=============
+
+Name: **IAP7**
+
+Description: Inhibitor of apoptosis 7 [source:vb community annotation].
+
+TODO

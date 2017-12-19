@@ -1,0 +1,9 @@
+
+AGAP006617
+=============
+
+
+
+Description: Armadillo repeat-containing protein 6 [source:vb community annotation].
+
+TODO

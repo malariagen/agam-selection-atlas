@@ -1,0 +1,9 @@
+
+AGAP010336
+=============
+
+
+
+Description: Tubulin polyglutamylase ttll1 [source:vb community annotation].
+
+TODO

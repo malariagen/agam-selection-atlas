@@ -1,0 +1,9 @@
+
+AGAP007982
+=============
+
+Name: **ANCE8**
+
+Description: Angiotensin-converting enzyme 8 [source:vb community annotation].
+
+TODO

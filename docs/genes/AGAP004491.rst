@@ -1,0 +1,9 @@
+
+AGAP004491
+=============
+
+
+
+Description: Exonuclease 1 [source:vb community annotation].
+
+TODO

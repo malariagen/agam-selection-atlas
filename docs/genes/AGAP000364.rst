@@ -1,0 +1,9 @@
+
+AGAP000364
+=============
+
+
+
+Description: Protein stoned-a [source:vb community annotation].
+
+TODO

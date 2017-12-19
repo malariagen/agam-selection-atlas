@@ -1,0 +1,9 @@
+
+AGAP002644
+=============
+
+
+
+Description: Phospholipid-translocating atpase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005139
+=============
+
+
+
+Description: Phosphatidylinositol-bisphosphatase [source:vb community annotation].
+
+TODO

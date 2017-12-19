@@ -1,0 +1,9 @@
+
+AGAP009891
+=============
+
+
+
+Description: Juvenile hormone esterase binding protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008569
+=============
+
+
+
+Description: T-box protein 20 [source:vb community annotation].
+
+TODO

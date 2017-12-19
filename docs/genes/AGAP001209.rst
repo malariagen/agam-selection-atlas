@@ -1,0 +1,9 @@
+
+AGAP001209
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 6/32 [source:vb community annotation].
+
+TODO

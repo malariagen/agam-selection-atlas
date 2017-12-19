@@ -1,0 +1,9 @@
+
+AGAP002900
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 8 [source:vb community annotation].
+
+TODO

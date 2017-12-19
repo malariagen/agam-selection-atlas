@@ -1,0 +1,9 @@
+
+AGAP012130
+=============
+
+Name: **ATN**
+
+Description: Allatotropin [source:vb community annotation].
+
+TODO

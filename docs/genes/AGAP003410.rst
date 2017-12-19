@@ -1,0 +1,9 @@
+
+AGAP003410
+=============
+
+
+
+Description: Myb-interacting protein [source:vb community annotation].
+
+TODO

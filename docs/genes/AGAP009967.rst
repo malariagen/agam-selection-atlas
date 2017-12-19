@@ -1,0 +1,9 @@
+
+AGAP009967
+=============
+
+
+
+Description: Protein of unknown function duf938 [source:vb community annotation].
+
+TODO

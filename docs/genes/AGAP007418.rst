@@ -1,0 +1,9 @@
+
+AGAP007418
+=============
+
+
+
+Description: Proteasome inhibitor subunit 1 (pi31) [source:vb community annotation].
+
+TODO

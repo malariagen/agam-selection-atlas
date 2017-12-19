@@ -1,0 +1,9 @@
+
+AGAP009871
+=============
+
+Name: **CPR75**
+
+Description: Cuticular protein rr-1 family 75 [source:vb community annotation].
+
+TODO

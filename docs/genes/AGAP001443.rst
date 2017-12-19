@@ -1,0 +1,9 @@
+
+AGAP001443
+=============
+
+Name: **CYP325J1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

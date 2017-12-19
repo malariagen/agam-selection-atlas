@@ -1,0 +1,9 @@
+
+AGAP001310
+=============
+
+
+
+Description: Protein-s-isoprenylcysteine o-methyltransferase [source:uniprotkb/trembl;acc:q7pxa7].
+
+TODO

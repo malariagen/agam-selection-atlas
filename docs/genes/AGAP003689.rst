@@ -1,0 +1,9 @@
+
+AGAP003689
+=============
+
+Name: **CLIPC7**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

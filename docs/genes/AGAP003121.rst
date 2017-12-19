@@ -1,0 +1,9 @@
+
+AGAP003121
+=============
+
+
+
+Description: Phosphatidylinositol 4-kinase type 2 [source:vb community annotation].
+
+TODO

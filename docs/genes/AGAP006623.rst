@@ -1,0 +1,9 @@
+
+AGAP006623
+=============
+
+
+
+Description: Vps53 protein [source:vb community annotation].
+
+TODO

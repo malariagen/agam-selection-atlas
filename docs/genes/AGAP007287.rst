@@ -1,0 +1,9 @@
+
+AGAP007287
+=============
+
+Name: **OBP47**
+
+Description: Odorant-binding protein 47 [source:vb community annotation].
+
+TODO

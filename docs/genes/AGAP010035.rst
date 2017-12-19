@@ -1,0 +1,9 @@
+
+AGAP010035
+=============
+
+
+
+Description: Torc1 growth control complex subunit kog1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010768
+=============
+
+
+
+Description: Nefa-interacting nuclear protein nip30 [source:vb community annotation].
+
+TODO

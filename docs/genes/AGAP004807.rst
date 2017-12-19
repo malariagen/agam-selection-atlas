@@ -1,0 +1,9 @@
+
+AGAP004807
+=============
+
+Name: **GALE7**
+
+Description: Galectin 7 [source:vb community annotation].
+
+TODO

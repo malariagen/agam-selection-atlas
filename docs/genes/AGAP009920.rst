@@ -1,0 +1,9 @@
+
+AGAP009920
+=============
+
+Name: **RpL37a**
+
+Description: 60s ribosomal protein l37a [source:vb community annotation].
+
+TODO

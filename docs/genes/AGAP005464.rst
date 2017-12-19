@@ -1,0 +1,9 @@
+
+AGAP005464
+=============
+
+Name: **GPRDIH1**
+
+Description: Putative diuretic insect hormone receptor 1 [source:vb community annotation].
+
+TODO

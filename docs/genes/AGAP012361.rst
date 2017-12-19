@@ -1,0 +1,9 @@
+
+AGAP012361
+=============
+
+
+
+Description: Mrg-binding protein [source:vb community annotation].
+
+TODO

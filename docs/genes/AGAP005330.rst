@@ -1,0 +1,9 @@
+
+AGAP005330
+=============
+
+Name: **Oseg2**
+
+Description: Outer segment 2 [source:vb community annotation].
+
+TODO

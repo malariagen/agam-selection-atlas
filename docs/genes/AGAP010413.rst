@@ -1,0 +1,9 @@
+
+AGAP010413
+=============
+
+
+
+Description: Sh3 and multiple ankyrin repeat domains protein [source:vb community annotation].
+
+TODO

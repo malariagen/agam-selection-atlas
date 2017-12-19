@@ -1,0 +1,9 @@
+
+AGAP001622
+=============
+
+
+
+Description: Myosin light chain 5 [source:vb community annotation].
+
+TODO

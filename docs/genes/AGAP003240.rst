@@ -1,0 +1,9 @@
+
+AGAP003240
+=============
+
+
+
+Description: Protein jagunal [source:vb community annotation].
+
+TODO

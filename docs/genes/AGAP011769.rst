@@ -1,0 +1,9 @@
+
+AGAP011769
+=============
+
+
+
+Description: Fanconi anemia group d2 protein [source:vb community annotation].
+
+TODO

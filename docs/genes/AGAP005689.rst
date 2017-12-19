@@ -1,0 +1,9 @@
+
+AGAP005689
+=============
+
+
+
+Description: Chymotrypsin-like protein [source:vb community annotation].
+
+TODO

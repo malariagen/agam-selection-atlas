@@ -1,0 +1,9 @@
+
+AGAP000239
+=============
+
+
+
+Description: Allantoinase [source:vb community annotation].
+
+TODO

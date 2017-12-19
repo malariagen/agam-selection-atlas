@@ -1,0 +1,9 @@
+
+AGAP004620
+=============
+
+
+
+Description: Envelysin [source:vb community annotation].
+
+TODO

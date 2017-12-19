@@ -1,0 +1,9 @@
+
+AGAP001409
+=============
+
+Name: **OBP3**
+
+Description: Odorant-binding protein antennal 3 [source:vb community annotation].
+
+TODO

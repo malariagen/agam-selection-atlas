@@ -1,0 +1,9 @@
+
+AGAP013402
+=============
+
+
+
+Description: Carbonic anhydrase i [source:vb community annotation].
+
+TODO

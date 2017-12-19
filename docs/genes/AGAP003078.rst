@@ -1,0 +1,9 @@
+
+AGAP003078
+=============
+
+
+
+Description: Endoplasmic reticulum metallopeptidase 1 [source:vb community annotation].
+
+TODO

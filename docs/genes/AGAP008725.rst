@@ -1,0 +1,9 @@
+
+AGAP008725
+=============
+
+Name: **Ift52**
+
+Description: Intraflagellar transport 52 [source:vb community annotation].
+
+TODO

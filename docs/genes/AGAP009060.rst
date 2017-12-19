@@ -1,0 +1,9 @@
+
+AGAP009060
+=============
+
+
+
+Description: Atp-dependent dna helicase hfm1/mer3 [source:vb community annotation].
+
+TODO

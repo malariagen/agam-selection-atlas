@@ -1,0 +1,9 @@
+
+AGAP001012
+=============
+
+Name: **Or36**
+
+Description: Odorant receptor 36 [source:vb community annotation].
+
+TODO

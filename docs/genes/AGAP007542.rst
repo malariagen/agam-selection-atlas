@@ -1,0 +1,9 @@
+
+AGAP007542
+=============
+
+
+
+Description: Vacuolar protein sorting-associated protein vta1 [source:vb community annotation].
+
+TODO

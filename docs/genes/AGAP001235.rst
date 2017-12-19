@@ -1,0 +1,9 @@
+
+AGAP001235
+=============
+
+
+
+Description: Phosphatidylserine decarboxylase [source:vb community annotation].
+
+TODO

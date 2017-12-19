@@ -1,0 +1,9 @@
+
+AGAP012533
+=============
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 6 [source:vb community annotation].
+
+TODO

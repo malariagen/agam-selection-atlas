@@ -1,0 +1,9 @@
+
+AGAP004314
+=============
+
+
+
+Description: Exopolyphosphatase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011054
+=============
+
+Name: **TPX2**
+
+Description: Thioredoxin peroxidase 2 [source:vb community annotation].
+
+TODO

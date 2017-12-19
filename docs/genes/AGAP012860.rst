@@ -1,0 +1,9 @@
+
+AGAP012860
+=============
+
+
+
+Description: Carbohydrate sulfotransferase (fragment) [source:uniprotkb/trembl;acc:q5txz0].
+
+TODO

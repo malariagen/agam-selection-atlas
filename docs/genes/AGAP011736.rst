@@ -1,0 +1,9 @@
+
+AGAP011736
+=============
+
+
+
+Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7pz52].
+
+TODO

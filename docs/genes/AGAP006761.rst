@@ -1,0 +1,9 @@
+
+AGAP006761
+=============
+
+Name: **GNBPA1**
+
+Description: 3-glucan binding protein [source:vb community annotation].
+
+TODO

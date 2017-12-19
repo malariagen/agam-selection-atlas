@@ -1,0 +1,9 @@
+
+AGAP005159
+=============
+
+
+
+Description: Ras-related protein rap-1b [source:vb community annotation].
+
+TODO

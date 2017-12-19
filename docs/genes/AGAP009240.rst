@@ -1,0 +1,9 @@
+
+AGAP009240
+=============
+
+Name: **CYP4C35**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

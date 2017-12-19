@@ -1,0 +1,9 @@
+
+AGAP006821
+=============
+
+
+
+Description: Acetyl-coa acyltransferase 2 [source:vb community annotation].
+
+TODO

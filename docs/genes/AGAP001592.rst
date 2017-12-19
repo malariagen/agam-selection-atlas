@@ -1,0 +1,9 @@
+
+AGAP001592
+=============
+
+Name: **GPRTAK2**
+
+Description: Putative tachykinin receptor 2 [source:vb community annotation].
+
+TODO

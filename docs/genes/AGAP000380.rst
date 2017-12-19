@@ -1,0 +1,9 @@
+
+AGAP000380
+=============
+
+
+
+Description: 5'-nucleotidase [source:vb community annotation].
+
+TODO

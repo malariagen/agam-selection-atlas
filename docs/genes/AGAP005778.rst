@@ -1,0 +1,9 @@
+
+AGAP005778
+=============
+
+
+
+Description: Iduronate 2-sulfatase [source:vb community annotation].
+
+TODO

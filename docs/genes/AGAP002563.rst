@@ -1,0 +1,9 @@
+
+AGAP002563
+=============
+
+
+
+Description: Ras-like protein family member 10b precursor [source:vb community annotation].
+
+TODO

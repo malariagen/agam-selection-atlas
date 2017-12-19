@@ -1,0 +1,9 @@
+
+AGAP004891
+=============
+
+
+
+Description: Metallophosphoesterase domain-containing protein 1 [source:vb community annotation].
+
+TODO

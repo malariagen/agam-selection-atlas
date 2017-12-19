@@ -1,0 +1,9 @@
+
+AGAP003052
+=============
+
+
+
+Description: Small glutamine-rich tetratricopeptide repeat-containing protein alpha [source:vb community annotation].
+
+TODO

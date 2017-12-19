@@ -1,0 +1,9 @@
+
+AGAP005630
+=============
+
+
+
+Description: Transitional endoplasmic reticulum atpase [source:vb community annotation].
+
+TODO

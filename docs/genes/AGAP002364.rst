@@ -1,0 +1,9 @@
+
+AGAP002364
+=============
+
+
+
+Description: Micos complex subunit mic60 [source:uniprotkb/trembl;acc:f5hk71].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001666
+=============
+
+Name: **CPR3**
+
+Description: Cuticular protein rr-2 family 3 [source:vb community annotation].
+
+TODO

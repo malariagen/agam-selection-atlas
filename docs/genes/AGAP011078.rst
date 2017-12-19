@@ -1,0 +1,9 @@
+
+AGAP011078
+=============
+
+
+
+Description: Zinc finger mynd domain-containing protein 10 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008935
+=============
+
+
+
+Description: Recombining binding protein suppressor of hairless [source:vb community annotation].
+
+TODO

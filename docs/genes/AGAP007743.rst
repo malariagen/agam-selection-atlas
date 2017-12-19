@@ -1,0 +1,9 @@
+
+AGAP007743
+=============
+
+
+
+Description: Solute carrier family 16 (monocarboxylic acid transporters), member 10 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001760
+=============
+
+
+
+Description: Protein phosphatase 3, regulatory subunit [source:vb community annotation].
+
+TODO

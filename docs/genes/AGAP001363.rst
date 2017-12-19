@@ -1,0 +1,9 @@
+
+AGAP001363
+=============
+
+
+
+Description: Cohesin loading complex subunit scc4 homolog [source:vb community annotation].
+
+TODO

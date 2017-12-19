@@ -1,0 +1,9 @@
+
+AGAP012046
+=============
+
+
+
+Description: Zinc transporter 9 [source:vb community annotation].
+
+TODO

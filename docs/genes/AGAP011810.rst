@@ -1,0 +1,9 @@
+
+AGAP011810
+=============
+
+
+
+Description: Retinol dehydrogenase 12 (all-trans/9-cis/11-cis) [source:vb community annotation].
+
+TODO

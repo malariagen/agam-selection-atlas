@@ -1,0 +1,9 @@
+
+AGAP002914
+=============
+
+
+
+Description: Galactokinase [source:vb community annotation].
+
+TODO

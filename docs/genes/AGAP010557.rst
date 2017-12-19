@@ -1,0 +1,9 @@
+
+AGAP010557
+=============
+
+
+
+Description: B-cell receptor-associated protein 31 [source:vb community annotation].
+
+TODO

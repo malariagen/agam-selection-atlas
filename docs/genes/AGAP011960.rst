@@ -1,0 +1,9 @@
+
+AGAP011960
+=============
+
+
+
+Description: Trna-specific 2-thiouridylase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001195
+=============
+
+Name: **Cbp80**
+
+Description: Nuclear cap-binding protein subunit 1 [source:uniprotkb/swiss-prot;acc:q7px35].
+
+TODO

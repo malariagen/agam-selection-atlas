@@ -1,0 +1,9 @@
+
+AGAP010559
+=============
+
+
+
+Description: Transcription initiation factor tfiih subunit 2 [source:vb community annotation].
+
+TODO

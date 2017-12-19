@@ -1,0 +1,9 @@
+
+AGAP002422
+=============
+
+Name: **CLIPD1**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

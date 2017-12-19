@@ -1,0 +1,9 @@
+
+AGAP005936
+=============
+
+Name: **Pym**
+
+Description: Partner of y14 and mago [source:uniprotkb/swiss-prot;acc:q7q6b5].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006778
+=============
+
+
+
+Description: Glycerol kinase [source:vb community annotation].
+
+TODO

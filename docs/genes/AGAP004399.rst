@@ -1,0 +1,9 @@
+
+AGAP004399
+=============
+
+Name: **Pgm**
+
+Description: Phosphoglycerate mutase [source:vb community annotation].
+
+TODO

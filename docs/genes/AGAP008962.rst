@@ -1,0 +1,9 @@
+
+AGAP008962
+=============
+
+
+
+Description: Alpha-glucosidase [source:vb community annotation].
+
+TODO

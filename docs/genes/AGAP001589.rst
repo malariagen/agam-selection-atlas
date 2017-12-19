@@ -1,0 +1,9 @@
+
+AGAP001589
+=============
+
+
+
+Description: Methylthioribose-1-phosphate isomerase [source:uniprotkb/swiss-prot;acc:q7pks9].
+
+TODO

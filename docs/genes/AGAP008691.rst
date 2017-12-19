@@ -1,0 +1,9 @@
+
+AGAP008691
+=============
+
+
+
+Description: Atrial natriuretic peptide receptor a [source:vb community annotation].
+
+TODO

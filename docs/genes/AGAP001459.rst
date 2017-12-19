@@ -1,0 +1,9 @@
+
+AGAP001459
+=============
+
+Name: **RpL17**
+
+Description: 60s ribosomal protein l17 [source:uniprotkb/swiss-prot;acc:a0ngy0].
+
+TODO

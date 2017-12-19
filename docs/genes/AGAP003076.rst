@@ -1,0 +1,9 @@
+
+AGAP003076
+=============
+
+Name: **GPRGHP1**
+
+Description: Putative growth hormone releasing hormone receptor 1 [source:vb community annotation].
+
+TODO

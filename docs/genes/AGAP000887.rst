@@ -1,0 +1,9 @@
+
+AGAP000887
+=============
+
+
+
+Description: Xaa-pro aminopeptidase [source:vb community annotation].
+
+TODO

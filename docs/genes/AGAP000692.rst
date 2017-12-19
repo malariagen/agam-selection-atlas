@@ -1,0 +1,9 @@
+
+AGAP000692
+=============
+
+Name: **CEC2**
+
+Description: Cecropin anti-microbial peptide [source:vb community annotation].
+
+TODO

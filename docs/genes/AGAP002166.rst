@@ -1,0 +1,9 @@
+
+AGAP002166
+=============
+
+
+
+Description: A-kinase anchor protein 1, mitochondrial [source:vb community annotation].
+
+TODO

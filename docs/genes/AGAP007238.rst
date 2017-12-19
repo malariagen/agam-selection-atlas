@@ -1,0 +1,9 @@
+
+AGAP007238
+=============
+
+
+
+Description: Acyl-coenzyme a thioesterase 13 [source:vb community annotation].
+
+TODO

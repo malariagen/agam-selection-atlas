@@ -1,0 +1,9 @@
+
+AGAP011521
+=============
+
+
+
+Description: 28 kda heat-and acid-stable phosphoprotein [source:vb community annotation].
+
+TODO

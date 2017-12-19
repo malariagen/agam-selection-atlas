@@ -1,0 +1,9 @@
+
+AGAP009087
+=============
+
+
+
+Description: Ph domain and leucine-rich repeat-containing protein phosphatase [source:vb community annotation].
+
+TODO

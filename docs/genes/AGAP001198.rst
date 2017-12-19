@@ -1,0 +1,9 @@
+
+AGAP001198
+=============
+
+
+
+Description: Chymotrypsin [source:vb community annotation].
+
+TODO

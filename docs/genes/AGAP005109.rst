@@ -1,0 +1,9 @@
+
+AGAP005109
+=============
+
+
+
+Description: Micos complex subunit mic13 [source:uniprotkb/trembl;acc:q7q9q1].
+
+TODO

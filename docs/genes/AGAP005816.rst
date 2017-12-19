@@ -1,0 +1,9 @@
+
+AGAP005816
+=============
+
+
+
+Description: Bai1-associated protein 3 [source:vb community annotation].
+
+TODO

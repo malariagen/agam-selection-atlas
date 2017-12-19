@@ -1,0 +1,9 @@
+
+AGAP010419
+=============
+
+
+
+Description: Rab proteins geranylgeranyltransferase component a [source:vb community annotation].
+
+TODO

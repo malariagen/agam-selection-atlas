@@ -1,0 +1,9 @@
+
+AGAP000466
+=============
+
+Name: **ACE2**
+
+Description: Acetylcholinesterase [source:vb community annotation].
+
+TODO

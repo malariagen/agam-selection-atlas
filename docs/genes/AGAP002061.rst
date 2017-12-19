@@ -1,0 +1,9 @@
+
+AGAP002061
+=============
+
+
+
+Description: 26s proteasome regulatory subunit n7 [source:vb community annotation].
+
+TODO

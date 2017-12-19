@@ -1,0 +1,9 @@
+
+AGAP004207
+=============
+
+Name: **Exo8**
+
+Description: Exocyst complex component 8 [source:vb community annotation].
+
+TODO

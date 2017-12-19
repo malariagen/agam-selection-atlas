@@ -1,0 +1,9 @@
+
+AGAP029050
+=============
+
+
+
+Description: Leucine-rich repeat flightless-interacting protein 2 [source:vb community annotation].
+
+TODO

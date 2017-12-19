@@ -1,0 +1,9 @@
+
+AGAP010282
+=============
+
+
+
+Description: Dna mismatch repair protein msh2 [source:vb community annotation].
+
+TODO

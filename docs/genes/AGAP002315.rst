@@ -1,0 +1,9 @@
+
+AGAP002315
+=============
+
+Name: **APG16L**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

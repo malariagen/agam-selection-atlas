@@ -1,0 +1,9 @@
+
+AGAP005995
+=============
+
+Name: **CPR138**
+
+Description: Cuticular protein rr-1 family 138 [source:vb community annotation].
+
+TODO

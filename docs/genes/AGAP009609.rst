@@ -1,0 +1,9 @@
+
+AGAP009609
+=============
+
+
+
+Description: Homogentisate 1,2-dioxygenase [source:vb community annotation].
+
+TODO

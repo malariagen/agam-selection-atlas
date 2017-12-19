@@ -1,0 +1,9 @@
+
+AGAP010087
+=============
+
+
+
+Description: Phosphatidylinositol-binding clathrin assembly protein [source:vb community annotation].
+
+TODO

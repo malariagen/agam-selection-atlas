@@ -1,0 +1,9 @@
+
+AGAP006618
+=============
+
+
+
+Description: Trna-splicing endonuclease subunit sen54 [source:vb community annotation].
+
+TODO

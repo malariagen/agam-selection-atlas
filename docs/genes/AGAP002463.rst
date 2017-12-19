@@ -1,0 +1,9 @@
+
+AGAP002463
+=============
+
+
+
+Description: Ubiquitin associated and sh3 domain-containing protein b [source:vb community annotation].
+
+TODO

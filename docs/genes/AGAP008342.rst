@@ -1,0 +1,9 @@
+
+AGAP008342
+=============
+
+
+
+Description: Solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [source:vb community annotation].
+
+TODO

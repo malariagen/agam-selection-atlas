@@ -1,0 +1,9 @@
+
+AGAP011905
+=============
+
+
+
+Description: Glycoprotein endo-alpha-1,2-mannosidase [source:vb community annotation].
+
+TODO

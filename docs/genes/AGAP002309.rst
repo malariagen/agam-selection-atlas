@@ -1,0 +1,9 @@
+
+AGAP002309
+=============
+
+Name: **WDY**
+
+Description: Wd repeat-containing protein on y chromosome [source:uniprotkb/swiss-prot;acc:q5ttp0].
+
+TODO

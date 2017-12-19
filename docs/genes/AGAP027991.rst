@@ -1,0 +1,9 @@
+
+AGAP027991
+=============
+
+Name: **CPLCP21**
+
+Description: Cuticular protein (putative) cplcp21 [source:vb community annotation].
+
+TODO

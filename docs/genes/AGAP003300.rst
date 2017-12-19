@@ -1,0 +1,9 @@
+
+AGAP003300
+=============
+
+
+
+Description: Solute carrier family 39 (zinc transporter) [source:vb community annotation].
+
+TODO

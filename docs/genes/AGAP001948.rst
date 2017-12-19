@@ -1,0 +1,9 @@
+
+AGAP001948
+=============
+
+
+
+Description: Suppressor of fused (sufu) [source:vb community annotation].
+
+TODO

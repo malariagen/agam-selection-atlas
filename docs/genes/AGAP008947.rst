@@ -1,0 +1,9 @@
+
+AGAP008947
+=============
+
+
+
+Description: Mevalonate kinase [source:vb community annotation].
+
+TODO

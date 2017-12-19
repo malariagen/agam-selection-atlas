@@ -1,0 +1,9 @@
+
+AGAP010124
+=============
+
+Name: **CPR98**
+
+Description: Cuticular protein rr-2 family 98 [source:vb community annotation].
+
+TODO

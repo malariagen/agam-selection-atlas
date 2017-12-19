@@ -1,0 +1,9 @@
+
+AGAP008285
+=============
+
+
+
+Description: Beta-1,4-galactosyltransferase [source:vb community annotation].
+
+TODO

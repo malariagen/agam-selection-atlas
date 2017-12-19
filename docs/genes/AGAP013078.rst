@@ -1,0 +1,9 @@
+
+AGAP013078
+=============
+
+
+
+Description: Plasma glutamate carboxypeptidase precursor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008819
+=============
+
+Name: **EGFR**
+
+Description: Putative epidermal growth factor receptor [source:vb community annotation].
+
+TODO

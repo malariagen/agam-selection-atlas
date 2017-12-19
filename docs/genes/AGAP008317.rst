@@ -1,0 +1,9 @@
+
+AGAP008317
+=============
+
+
+
+Description: Tyrosine-protein kinase tec [source:vb community annotation].
+
+TODO

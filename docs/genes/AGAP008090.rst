@@ -1,0 +1,9 @@
+
+AGAP008090
+=============
+
+
+
+Description: Nuclear pore complex protein nup205 [source:vb community annotation].
+
+TODO

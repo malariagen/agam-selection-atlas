@@ -1,0 +1,9 @@
+
+AGAP012792
+=============
+
+
+
+Description: Wd repeat domain phosphoinositide-interacting protein 3 [source:vb community annotation].
+
+TODO

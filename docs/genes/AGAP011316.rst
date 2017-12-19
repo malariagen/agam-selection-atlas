@@ -1,0 +1,9 @@
+
+AGAP011316
+=============
+
+
+
+Description: Sentrin-specific protease 8 [source:vb community annotation].
+
+TODO

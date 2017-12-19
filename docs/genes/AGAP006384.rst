@@ -1,0 +1,9 @@
+
+AGAP006384
+=============
+
+
+
+Description: Ga-binding protein transcription factor, beta [source:vb community annotation].
+
+TODO

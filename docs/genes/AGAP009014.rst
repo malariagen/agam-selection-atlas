@@ -1,0 +1,9 @@
+
+AGAP009014
+=============
+
+Name: **IR31a**
+
+Description: Ionotropic receptor ir31a [source:vb community annotation].
+
+TODO

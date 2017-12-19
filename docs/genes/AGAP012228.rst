@@ -1,0 +1,9 @@
+
+AGAP012228
+=============
+
+
+
+Description: Ngg1 interacting factor 3-like protein [source:vb community annotation].
+
+TODO

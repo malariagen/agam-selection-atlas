@@ -1,0 +1,9 @@
+
+AGAP005894
+=============
+
+
+
+Description: Electron-transferring-flavoprotein dehydrogenase [source:vb community annotation].
+
+TODO

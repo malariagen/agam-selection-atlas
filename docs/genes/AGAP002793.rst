@@ -1,0 +1,9 @@
+
+AGAP002793
+=============
+
+
+
+Description: Slit homolog 1 protein precursor [source:vb community annotation].
+
+TODO

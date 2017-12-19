@@ -1,0 +1,9 @@
+
+AGAP028708
+=============
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:a0a1s4he74].
+
+TODO

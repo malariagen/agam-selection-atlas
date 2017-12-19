@@ -1,0 +1,70 @@
+adjacent_genes: []
+chromosome: '2'
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 9\n    # data points      = 150\n    # variables        = 1\n    chi-square\
+    \         = 0.358\n    reduced chi-square = 0.002\n    Akaike info crit   = -903.690\n\
+    \    Bayesian info crit = -900.679\n[[Variables]]\n    c:   0.03437788 +/- 0.004002\
+    \ (11.64%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 31\n    # data points      = 151\n    # variables        = 3\n   \
+    \ chi-square         = 0.031\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1274.992\n    Bayesian info crit = -1265.940\n[[Variables]]\n    amplitude:\
+    \   0.38064470 +/- 0.010058 (2.64%) (init= 0.5)\n    decay:       0.24557879 +/-\
+    \ 0.010400 (4.23%) (init= 0.2)\n    c:           0.02019674 +/- 0.001292 (6.40%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.607 \n    C(decay, c) \
+    \                 = -0.298 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 8\n    # data points      = 148\n    # variables        = 1\n    chi-square\
+    \         = 0.353\n    reduced chi-square = 0.002\n    Akaike info crit   = -891.818\n\
+    \    Bayesian info crit = -888.821\n[[Variables]]\n    c:   0.04210692 +/- 0.004026\
+    \ (9.56%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 149\n    # variables        = 3\n   \
+    \ chi-square         = 0.028\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1273.906\n    Bayesian info crit = -1264.894\n[[Variables]]\n    amplitude:\
+    \   0.34900197 +/- 0.010488 (3.01%) (init= 0.5)\n    decay:       0.35023225 +/-\
+    \ 0.015077 (4.31%) (init= 0.2)\n    c:           0.02480955 +/- 0.001290 (5.20%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.706 \n    C(decay, c) \
+    \                 = -0.365 \n"
+focus:
+  arm: 2R
+  start: 28460001
+  stop: 28500000
+overlapping_genes:
+- description: solute carrier family 8 (sodium/calcium exchanger)
+  id: AGAP002859
+  name: ''
+- description: cytochrome P450
+  id: AGAP002862
+  name: CYP6AA1
+- description: cytochrome P450
+  id: AGAP013128
+  name: CYP6AA2
+- description: carboxylesterase alpha esterase
+  id: AGAP002863
+  name: COEAE6O
+- description: cytochrome P450
+  id: AGAP002864
+  name: CYP6P15P
+- description: cytochrome P450
+  id: AGAP002865
+  name: CYP6P3
+- description: cytochrome P450
+  id: AGAP002866
+  name: CYP6P5
+- description: cytochrome P450
+  id: AGAP002867
+  name: CYP6P4
+- description: cytochrome P450
+  id: AGAP002868
+  name: CYP6P1
+population:
+  id: bfs
+  label: Burkina Faso *An. gambiae*
+rank: 3
+statistic:
+  id: h12
+  label: H12

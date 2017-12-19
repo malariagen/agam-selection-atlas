@@ -1,0 +1,9 @@
+
+AGAP010308
+=============
+
+
+
+Description: Nucleolar complex protein 3 [source:vb community annotation].
+
+TODO

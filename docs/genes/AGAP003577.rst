@@ -1,0 +1,9 @@
+
+AGAP003577
+=============
+
+
+
+Description: Ras-related and estrogen-regulated growth inhibitor-like protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000803
+=============
+
+Name: **GLURIIa**
+
+Description: Ionotropic receptor gluriia [source:vb community annotation].
+
+TODO

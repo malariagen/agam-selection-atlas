@@ -1,0 +1,9 @@
+
+AGAP007593
+=============
+
+
+
+Description: Glycerol-3-phosphate dehydrogenase (nad ) [source:vb community annotation].
+
+TODO

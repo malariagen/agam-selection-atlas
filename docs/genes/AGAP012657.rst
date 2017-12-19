@@ -1,0 +1,9 @@
+
+AGAP012657
+=============
+
+
+
+Description: L-carnitine dehydrogenase [source:vb community annotation].
+
+TODO

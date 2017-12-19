@@ -1,0 +1,9 @@
+
+AGAP005973
+=============
+
+
+
+Description: Uncharacterized protein mettl2 [source:vb community annotation].
+
+TODO

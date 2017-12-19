@@ -1,0 +1,9 @@
+
+AGAP008951
+=============
+
+
+
+Description: Pin2-interacting protein x1 [source:vb community annotation].
+
+TODO

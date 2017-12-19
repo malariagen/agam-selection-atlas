@@ -1,0 +1,9 @@
+
+AGAP010140
+=============
+
+
+
+Description: Hydrolases of hd superfamily [source:vb community annotation].
+
+TODO

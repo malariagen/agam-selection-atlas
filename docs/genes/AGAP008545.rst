@@ -1,0 +1,9 @@
+
+AGAP008545
+=============
+
+
+
+Description: Amp dependent ligase [source:vb community annotation].
+
+TODO

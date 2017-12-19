@@ -1,0 +1,9 @@
+
+AGAP000042
+=============
+
+
+
+Description: Histone-lysine n-methyltransferase [source:uniprotkb/trembl;acc:q5tut6].
+
+TODO

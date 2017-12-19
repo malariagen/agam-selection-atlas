@@ -1,0 +1,9 @@
+
+AGAP012085
+=============
+
+
+
+Description: Sprouty-related, evh1 domain containing [source:vb community annotation].
+
+TODO

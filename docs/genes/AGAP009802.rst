@@ -1,0 +1,9 @@
+
+AGAP009802
+=============
+
+Name: **Gr12**
+
+Description: Gustatory receptor 12 [source:vb community annotation].
+
+TODO

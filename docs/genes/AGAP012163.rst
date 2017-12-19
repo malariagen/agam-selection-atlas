@@ -1,0 +1,9 @@
+
+AGAP012163
+=============
+
+
+
+Description: Guanylate cyclase (fragment) [source:uniprotkb/trembl;acc:q7pzz3].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000927
+=============
+
+
+
+Description: Myosin regulatory light chain, invertebrate [source:vb community annotation].
+
+TODO

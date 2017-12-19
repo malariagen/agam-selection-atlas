@@ -1,0 +1,9 @@
+
+AGAP008463
+=============
+
+Name: **CPLCG19**
+
+Description: Cuticular protein cplcg family (cplcg19) [source:vb community annotation].
+
+TODO

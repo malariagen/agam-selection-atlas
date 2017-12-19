@@ -1,0 +1,9 @@
+
+AGAP012148
+=============
+
+
+
+Description: Mitogen-activated protein kinase [source:uniprotkb/trembl;acc:q7pzy6].
+
+TODO

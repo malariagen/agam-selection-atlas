@@ -1,0 +1,9 @@
+
+AGAP005006
+=============
+
+
+
+Description: U2-associated protein sr140 [source:vb community annotation].
+
+TODO

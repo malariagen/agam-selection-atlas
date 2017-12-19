@@ -1,0 +1,9 @@
+
+AGAP005191
+=============
+
+
+
+Description: Exosome complex exonuclease dis3/rrp44 [source:vb community annotation].
+
+TODO

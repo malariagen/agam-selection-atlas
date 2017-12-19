@@ -1,0 +1,9 @@
+
+AGAP001523
+=============
+
+Name: **ABCA7**
+
+Description: Atp-binding cassette transporter (abc transporter) family a member 7 [source:vb community annotation].
+
+TODO

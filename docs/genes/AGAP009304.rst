@@ -1,0 +1,9 @@
+
+AGAP009304
+=============
+
+
+
+Description: Metallophosphoesterase 1 [source:vb community annotation].
+
+TODO

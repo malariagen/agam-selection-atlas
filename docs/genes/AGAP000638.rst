@@ -1,0 +1,9 @@
+
+AGAP000638
+=============
+
+Name: **OBP32**
+
+Description: Odorant-binding protein 32 [source:vb community annotation].
+
+TODO

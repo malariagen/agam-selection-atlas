@@ -1,0 +1,9 @@
+
+AGAP009195
+=============
+
+Name: **GSTE1**
+
+Description: Glutathione s-transferase epsilon class 1 [source:vb community annotation].
+
+TODO

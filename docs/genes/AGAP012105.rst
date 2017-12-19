@@ -1,0 +1,9 @@
+
+AGAP012105
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 8 [source:vb community annotation].
+
+TODO

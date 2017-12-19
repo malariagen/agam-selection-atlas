@@ -1,0 +1,9 @@
+
+AGAP006264
+=============
+
+
+
+Description: Peroxisomal targeting signal 2 receptor [source:vb community annotation].
+
+TODO

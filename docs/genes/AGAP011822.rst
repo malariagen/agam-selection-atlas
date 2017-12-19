@@ -1,0 +1,9 @@
+
+AGAP011822
+=============
+
+
+
+Description: Proteasome component ecm29 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008946
+=============
+
+
+
+Description: Alpha-1,3-glucosyltransferase [source:uniprotkb/trembl;acc:q5tnl1].
+
+TODO

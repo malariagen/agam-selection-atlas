@@ -1,0 +1,9 @@
+
+AGAP000098
+=============
+
+Name: **APG1**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

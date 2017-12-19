@@ -1,0 +1,9 @@
+
+AGAP011870
+=============
+
+Name: **MMP2**
+
+Description: Matrix metalloprotease 2 [source:vb community annotation].
+
+TODO

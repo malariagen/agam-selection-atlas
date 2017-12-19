@@ -1,0 +1,9 @@
+
+AGAP005158
+=============
+
+
+
+Description: Adenosine deaminase [source:vb community annotation].
+
+TODO

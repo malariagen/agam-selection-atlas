@@ -1,0 +1,9 @@
+
+AGAP002358
+=============
+
+
+
+Description: Adp,atp carrier protein 2 [source:uniprotkb/swiss-prot;acc:q7pqv7].
+
+TODO

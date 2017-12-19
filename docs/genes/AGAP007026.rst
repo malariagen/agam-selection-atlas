@@ -1,0 +1,9 @@
+
+AGAP007026
+=============
+
+Name: **Ccs**
+
+Description: Copper chaperone for superoxide dismutase [source:vb community annotation].
+
+TODO

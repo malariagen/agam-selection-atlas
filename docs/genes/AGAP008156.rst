@@ -1,0 +1,9 @@
+
+AGAP008156
+=============
+
+
+
+Description: Cop9 signalosome complex subunit 6 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011286
+=============
+
+
+
+Description: Optic atrophy protein 1 [source:vb community annotation].
+
+TODO

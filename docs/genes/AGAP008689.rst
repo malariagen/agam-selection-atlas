@@ -1,0 +1,9 @@
+
+AGAP008689
+=============
+
+
+
+Description: Dynein intermediate chain 1, axonemal [source:vb community annotation].
+
+TODO

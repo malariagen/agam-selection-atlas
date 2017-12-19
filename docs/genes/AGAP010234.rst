@@ -1,0 +1,9 @@
+
+AGAP010234
+=============
+
+
+
+Description: Microsomal triglyceride transfer protein large subunit [source:vb community annotation].
+
+TODO

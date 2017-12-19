@@ -1,0 +1,9 @@
+
+AGAP002071
+=============
+
+Name: **ABCD1**
+
+Description: Atp-binding cassette transporter (abc transporter) family d member 1 [source:vb community annotation].
+
+TODO

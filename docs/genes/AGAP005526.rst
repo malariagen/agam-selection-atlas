@@ -1,0 +1,9 @@
+
+AGAP005526
+=============
+
+
+
+Description: Cubilin [source:vb community annotation].
+
+TODO

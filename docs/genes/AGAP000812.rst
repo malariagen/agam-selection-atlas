@@ -1,0 +1,9 @@
+
+AGAP000812
+=============
+
+
+
+Description: Calcium binding protein [source:vb community annotation].
+
+TODO

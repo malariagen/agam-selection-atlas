@@ -1,0 +1,9 @@
+
+AGAP005863
+=============
+
+
+
+Description: N-alpha-acetyltransferase 35, natc auxiliary subunit [source:vb community annotation].
+
+TODO

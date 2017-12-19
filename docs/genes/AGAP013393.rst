@@ -1,0 +1,9 @@
+
+AGAP013393
+=============
+
+Name: **APN2**
+
+Description: Aminopeptidase n1 [source:vb community annotation].
+
+TODO

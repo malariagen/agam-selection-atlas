@@ -1,0 +1,9 @@
+
+AGAP008203
+=============
+
+Name: **CYP6S2**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

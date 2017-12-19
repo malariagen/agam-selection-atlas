@@ -1,0 +1,9 @@
+
+AGAP004976
+=============
+
+Name: **PPO8**
+
+Description: Prophenoloxidase 8 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011966
+=============
+
+
+
+Description: Transcription termination factor 2 [source:vb community annotation].
+
+TODO

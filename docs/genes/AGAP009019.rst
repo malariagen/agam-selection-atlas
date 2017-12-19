@@ -1,0 +1,9 @@
+
+AGAP009019
+=============
+
+
+
+Description: Atp-dependent clp protease, protease subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011580
+=============
+
+Name: **eIF3k**
+
+Description: Eukaryotic translation initiation factor 3 subunit k [source:uniprotkb/swiss-prot;acc:q7qgk4].
+
+TODO

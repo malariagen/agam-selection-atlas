@@ -1,0 +1,9 @@
+
+AGAP006046
+=============
+
+Name: **Med23**
+
+Description: Mediator of rna polymerase ii transcription subunit 23 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007817
+=============
+
+
+
+Description: Protein nedd1 [source:vb community annotation].
+
+TODO

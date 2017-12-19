@@ -1,0 +1,9 @@
+
+AGAP008449
+=============
+
+Name: **CPLCG5**
+
+Description: Cuticular protein cplcg family (cplcg5) [source:vb community annotation].
+
+TODO

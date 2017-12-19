@@ -1,0 +1,9 @@
+
+AGAP010488
+=============
+
+
+
+Description: Ubiquinone biosynthesis methyltransferase [source:vb community annotation].
+
+TODO

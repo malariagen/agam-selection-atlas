@@ -1,0 +1,9 @@
+
+AGAP009399
+=============
+
+
+
+Description: Nuclear hormone receptor ftz-f1 beta [source:vb community annotation].
+
+TODO

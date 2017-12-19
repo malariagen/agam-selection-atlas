@@ -1,0 +1,9 @@
+
+AGAP008849
+=============
+
+
+
+Description: D-3-phosphoglycerate dehydrogenase [source:vb community annotation].
+
+TODO

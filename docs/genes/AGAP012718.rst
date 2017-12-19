@@ -1,0 +1,9 @@
+
+AGAP012718
+=============
+
+
+
+Description: Proline oxidase [source:vb community annotation].
+
+TODO

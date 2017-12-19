@@ -1,0 +1,9 @@
+
+AGAP004709
+=============
+
+Name: **mRpL18**
+
+Description: 39s ribosomal protein l18, mitochondrial [source:vb community annotation].
+
+TODO

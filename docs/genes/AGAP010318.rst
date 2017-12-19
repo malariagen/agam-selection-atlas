@@ -1,0 +1,9 @@
+
+AGAP010318
+=============
+
+
+
+Description: Guanine nucleotide-binding protein subunit beta-5 [source:vb community annotation].
+
+TODO

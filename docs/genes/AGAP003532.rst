@@ -1,0 +1,9 @@
+
+AGAP003532
+=============
+
+Name: **RpS3a**
+
+Description: 40s ribosomal protein s3a [source:uniprotkb/swiss-prot;acc:p52813].
+
+TODO

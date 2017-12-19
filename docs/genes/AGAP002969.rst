@@ -1,0 +1,9 @@
+
+AGAP002969
+=============
+
+
+
+Description: Asparaginyl-trna synthetase [source:vb community annotation].
+
+TODO

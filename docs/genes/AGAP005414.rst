@@ -1,0 +1,9 @@
+
+AGAP005414
+=============
+
+
+
+Description: Misexpression suppressor of ras 6 [source:vb community annotation].
+
+TODO

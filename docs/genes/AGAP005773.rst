@@ -1,0 +1,9 @@
+
+AGAP005773
+=============
+
+
+
+Description: Guanine nucleotide-binding protein g(o) subunit alpha [source:vb community annotation].
+
+TODO

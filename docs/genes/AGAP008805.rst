@@ -1,0 +1,9 @@
+
+AGAP008805
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 3 [source:vb community annotation].
+
+TODO

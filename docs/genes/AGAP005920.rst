@@ -1,0 +1,9 @@
+
+AGAP005920
+=============
+
+
+
+Description: Histone chaperone asf1 [source:vb community annotation].
+
+TODO

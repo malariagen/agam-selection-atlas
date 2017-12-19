@@ -1,0 +1,9 @@
+
+AGAP000693
+=============
+
+Name: **CEC1**
+
+Description: Cecropin anti-microbial peptide [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010903
+=============
+
+Name: **CPFL2**
+
+Description: Cuticular protein 2 from cpfl family [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004867
+=============
+
+
+
+Description: V-type h -transporting atpase subunit g [source:vb community annotation].
+
+TODO

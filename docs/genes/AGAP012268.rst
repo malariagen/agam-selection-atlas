@@ -1,0 +1,9 @@
+
+AGAP012268
+=============
+
+Name: **GPRSMS**
+
+Description: Putative somatostatin receptor [source:vb community annotation].
+
+TODO

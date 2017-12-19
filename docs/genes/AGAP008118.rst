@@ -1,0 +1,9 @@
+
+AGAP008118
+=============
+
+
+
+Description: Serine/threonine-protein kinase chk1 [source:vb community annotation].
+
+TODO

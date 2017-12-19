@@ -1,0 +1,9 @@
+
+AGAP001908
+=============
+
+
+
+Description: Glyceronephosphate o-acyltransferase [source:vb community annotation].
+
+TODO

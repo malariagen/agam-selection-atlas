@@ -1,0 +1,9 @@
+
+AGAP008910
+=============
+
+
+
+Description: Dna polymerase delta small subunit [source:vb community annotation].
+
+TODO

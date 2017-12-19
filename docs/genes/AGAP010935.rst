@@ -1,0 +1,9 @@
+
+AGAP010935
+=============
+
+
+
+Description: Porphobilinogen synthase [source:vb community annotation].
+
+TODO

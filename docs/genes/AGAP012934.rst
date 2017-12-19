@@ -1,0 +1,9 @@
+
+AGAP012934
+=============
+
+
+
+Description: Phosphatidylinositol glycan, class f [source:vb community annotation].
+
+TODO

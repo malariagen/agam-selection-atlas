@@ -1,0 +1,9 @@
+
+AGAP004707
+=============
+
+Name: **para**
+
+Description: Voltage-gated sodium channel [source:vb community annotation].
+
+TODO

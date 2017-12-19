@@ -1,0 +1,9 @@
+
+AGAP008321
+=============
+
+
+
+Description: Membrane protein, palmitoylated 6 [source:vb community annotation].
+
+TODO

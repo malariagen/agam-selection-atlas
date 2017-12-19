@@ -1,0 +1,9 @@
+
+AGAP006140
+=============
+
+Name: **coa1**
+
+Description: Cytochrome c oxidase assembly factor 1 homolog [source:vb community annotation].
+
+TODO

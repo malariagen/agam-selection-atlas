@@ -1,0 +1,9 @@
+
+AGAP005391
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx20 [source:vb community annotation].
+
+TODO

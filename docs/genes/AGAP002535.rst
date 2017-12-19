@@ -1,0 +1,9 @@
+
+AGAP002535
+=============
+
+
+
+Description: Serine/threonine-protein phosphatase pgam5 [source:vb community annotation].
+
+TODO

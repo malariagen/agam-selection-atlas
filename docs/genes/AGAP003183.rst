@@ -1,0 +1,9 @@
+
+AGAP003183
+=============
+
+
+
+Description: Protein transport protein sec13 [source:vb community annotation].
+
+TODO

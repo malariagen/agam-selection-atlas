@@ -1,0 +1,9 @@
+
+AGAP003988
+=============
+
+
+
+Description: Tp53-regulated inhibitor of apoptosis [source:vb community annotation].
+
+TODO

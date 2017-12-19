@@ -1,0 +1,9 @@
+
+AGAP000616
+=============
+
+
+
+Description: 26s proteasome regulatory subunit t5 [source:vb community annotation].
+
+TODO

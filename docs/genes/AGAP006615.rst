@@ -1,0 +1,9 @@
+
+AGAP006615
+=============
+
+
+
+Description: Fk506-binding protein 8 [source:vb community annotation].
+
+TODO

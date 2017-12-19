@@ -1,0 +1,9 @@
+
+AGAP008887
+=============
+
+
+
+Description: Hepatocyte growth factor-regulated tyrosine kinase substrate [source:vb community annotation].
+
+TODO

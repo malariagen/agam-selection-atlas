@@ -1,0 +1,9 @@
+
+AGAP002731
+=============
+
+
+
+Description: Protein prenyltransferase alpha subunit repeat containing protein 1 [source:vb community annotation].
+
+TODO

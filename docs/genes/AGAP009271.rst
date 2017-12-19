@@ -1,0 +1,9 @@
+
+AGAP009271
+=============
+
+Name: **Prosbeta1**
+
+Description: 26s proteasome beta 1 subunit [source:vb community annotation].
+
+TODO

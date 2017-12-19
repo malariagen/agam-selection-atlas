@@ -1,0 +1,9 @@
+
+AGAP009459
+=============
+
+Name: **cdk1**
+
+Description: Cyclin-dependent kinase 1 [source:vb community annotation].
+
+TODO

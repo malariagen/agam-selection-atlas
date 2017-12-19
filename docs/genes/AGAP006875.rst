@@ -1,0 +1,9 @@
+
+AGAP006875
+=============
+
+Name: **Gr30**
+
+Description: Gustatory receptor 30 [source:vb community annotation].
+
+TODO

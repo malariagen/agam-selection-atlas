@@ -1,0 +1,9 @@
+
+AGAP011831
+=============
+
+
+
+Description: H/aca ribonucleoprotein complex non-core subunit naf1 [source:vb community annotation].
+
+TODO

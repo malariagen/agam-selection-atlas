@@ -1,0 +1,9 @@
+
+AGAP000139
+=============
+
+
+
+Description: Dna polymerase gamma [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003090
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 o [source:vb community annotation].
+
+TODO

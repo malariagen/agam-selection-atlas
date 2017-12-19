@@ -1,0 +1,9 @@
+
+AGAP002391
+=============
+
+Name: **COEAE5O**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

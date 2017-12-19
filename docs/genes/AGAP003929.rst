@@ -1,0 +1,9 @@
+
+AGAP003929
+=============
+
+Name: **MMP3**
+
+Description: Matrix metalloprotease 3 [source:vb community annotation].
+
+TODO

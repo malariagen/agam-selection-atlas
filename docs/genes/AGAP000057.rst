@@ -1,0 +1,9 @@
+
+AGAP000057
+=============
+
+
+
+Description: Paired box protein [source:vb community annotation].
+
+TODO

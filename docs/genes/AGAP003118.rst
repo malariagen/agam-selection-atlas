@@ -1,0 +1,9 @@
+
+AGAP003118
+=============
+
+
+
+Description: Swi/snf related, matrix associated, actin dependent regulator of chromatin [source:vb community annotation].
+
+TODO

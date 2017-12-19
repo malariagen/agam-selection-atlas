@@ -1,0 +1,9 @@
+
+AGAP008965
+=============
+
+
+
+Description: Maltase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008601
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx18/has1 [source:vb community annotation].
+
+TODO

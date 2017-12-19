@@ -1,0 +1,9 @@
+
+AGAP010844
+=============
+
+
+
+Description: Carbonic anhydrase 7 [source:vb community annotation].
+
+TODO

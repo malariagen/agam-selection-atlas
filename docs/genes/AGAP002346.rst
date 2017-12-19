@@ -1,0 +1,9 @@
+
+AGAP002346
+=============
+
+Name: **RpS14-2**
+
+Description: 40s ribosomal protein s14b [source:uniprotkb/swiss-prot;acc:q7qbx2].
+
+TODO

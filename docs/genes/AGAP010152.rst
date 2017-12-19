@@ -1,0 +1,9 @@
+
+AGAP010152
+=============
+
+
+
+Description: Gem associated protein 5 [source:vb community annotation].
+
+TODO

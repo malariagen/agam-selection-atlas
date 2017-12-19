@@ -1,0 +1,9 @@
+
+AGAP005111
+=============
+
+
+
+Description: Palmitoyltransferase zdhhc14 [source:vb community annotation].
+
+TODO

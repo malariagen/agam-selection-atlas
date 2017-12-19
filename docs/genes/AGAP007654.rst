@@ -1,0 +1,9 @@
+
+AGAP007654
+=============
+
+
+
+Description: Ras-related protein rab-32 [source:vb community annotation].
+
+TODO

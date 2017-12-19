@@ -1,0 +1,9 @@
+
+AGAP000948
+=============
+
+
+
+Description: Protein yipf [source:uniprotkb/trembl;acc:a0nbs3].
+
+TODO

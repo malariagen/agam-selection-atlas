@@ -1,0 +1,9 @@
+
+AGAP007950
+=============
+
+
+
+Description: Uncharacterized protein kiaa0152 [source:vb community annotation].
+
+TODO

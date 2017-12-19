@@ -1,0 +1,9 @@
+
+AGAP010437
+=============
+
+Name: **ECH**
+
+Description: Eclosion hormone [source:uniprotkb/trembl;acc:a0ncv3].
+
+TODO

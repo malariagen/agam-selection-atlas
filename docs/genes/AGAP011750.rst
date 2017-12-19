@@ -1,0 +1,9 @@
+
+AGAP011750
+=============
+
+
+
+Description: Alpha-n-acetylglucosaminidase [source:vb community annotation].
+
+TODO

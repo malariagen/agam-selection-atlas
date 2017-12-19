@@ -1,0 +1,9 @@
+
+AGAP005761
+=============
+
+
+
+Description: Heparan-alpha-glucosaminide n-acetyltransferase [source:vb community annotation].
+
+TODO

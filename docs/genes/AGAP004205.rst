@@ -1,0 +1,9 @@
+
+AGAP004205
+=============
+
+
+
+Description: N-sulfoglucosamine sulfohydrolase [source:vb community annotation].
+
+TODO

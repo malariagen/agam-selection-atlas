@@ -1,0 +1,9 @@
+
+AGAP003700
+=============
+
+
+
+Description: Methionyl aminopeptidase [source:vb community annotation].
+
+TODO

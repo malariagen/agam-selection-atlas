@@ -1,0 +1,9 @@
+
+AGAP011813
+=============
+
+Name: **Or54**
+
+Description: Odorant receptor 54 [source:vb community annotation].
+
+TODO

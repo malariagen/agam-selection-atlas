@@ -1,0 +1,9 @@
+
+AGAP004066
+=============
+
+
+
+Description: Neurexin [source:vb community annotation].
+
+TODO

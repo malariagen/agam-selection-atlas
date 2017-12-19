@@ -1,0 +1,9 @@
+
+AGAP006252
+=============
+
+
+
+Description: Cysteine-rich venom protein [source:vb community annotation].
+
+TODO

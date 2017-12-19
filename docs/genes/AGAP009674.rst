@@ -1,0 +1,9 @@
+
+AGAP009674
+=============
+
+
+
+Description: Ccr4-not transcription complex subunit 10 [source:vb community annotation].
+
+TODO

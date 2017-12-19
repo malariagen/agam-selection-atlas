@@ -1,0 +1,9 @@
+
+AGAP010159
+=============
+
+
+
+Description: Dutp pyrophosphatase [source:vb community annotation].
+
+TODO

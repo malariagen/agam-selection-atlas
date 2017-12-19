@@ -1,0 +1,9 @@
+
+AGAP000039
+=============
+
+
+
+Description: Gamma-aminobutyric acid receptor subunit alpha [source:vb community annotation].
+
+TODO

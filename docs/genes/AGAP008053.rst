@@ -1,0 +1,9 @@
+
+AGAP008053
+=============
+
+
+
+Description: Sphingomyelin phosphodiesterase 2 [source:vb community annotation].
+
+TODO

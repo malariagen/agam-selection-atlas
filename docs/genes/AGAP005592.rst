@@ -1,0 +1,9 @@
+
+AGAP005592
+=============
+
+
+
+Description: Serine collagenase 1 precursor [source:vb community annotation].
+
+TODO

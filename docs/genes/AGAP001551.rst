@@ -1,0 +1,9 @@
+
+AGAP001551
+=============
+
+
+
+Description: G patch domain and kow motifs-containing protein [source:vb community annotation].
+
+TODO

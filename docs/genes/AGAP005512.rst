@@ -1,0 +1,9 @@
+
+AGAP005512
+=============
+
+
+
+Description: Elongation of very long chain fatty acids protein [source:uniprotkb/trembl;acc:q7q747].
+
+TODO

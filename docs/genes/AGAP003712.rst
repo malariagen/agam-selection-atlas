@@ -1,0 +1,9 @@
+
+AGAP003712
+=============
+
+Name: **Ast1**
+
+Description: Allatostatin 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006518
+=============
+
+
+
+Description: Charged multivesicular body protein 1 [source:vb community annotation].
+
+TODO

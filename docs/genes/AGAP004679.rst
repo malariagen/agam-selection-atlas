@@ -1,0 +1,9 @@
+
+AGAP004679
+=============
+
+
+
+Description: Folylpolyglutamate synthase [source:uniprotkb/trembl;acc:q5tsb4].
+
+TODO

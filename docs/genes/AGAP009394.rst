@@ -1,0 +1,9 @@
+
+AGAP009394
+=============
+
+Name: **Or16**
+
+Description: Odorant receptor 16 [source:vb community annotation].
+
+TODO

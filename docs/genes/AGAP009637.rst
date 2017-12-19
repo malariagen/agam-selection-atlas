@@ -1,0 +1,9 @@
+
+AGAP009637
+=============
+
+
+
+Description: Bardet-biedl syndrome 2 protein homolog [source:uniprotkb/trembl;acc:q7q1t6].
+
+TODO

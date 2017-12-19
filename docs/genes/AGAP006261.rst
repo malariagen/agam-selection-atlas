@@ -1,0 +1,9 @@
+
+AGAP006261
+=============
+
+Name: **CPR135**
+
+Description: Cuticular protein rr-2 family 135 [source:vb community annotation].
+
+TODO

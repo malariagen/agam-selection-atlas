@@ -1,0 +1,9 @@
+
+AGAP005852
+=============
+
+Name: **mRpL42**
+
+Description: 39s ribosomal protein l42, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007652
+=============
+
+
+
+Description: Methyltransferase-like protein 20 [source:vb community annotation].
+
+TODO

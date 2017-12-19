@@ -1,0 +1,9 @@
+
+AGAP004476
+=============
+
+
+
+Description: Solute carrier family 18 (vesicular monoamine), member 2 [source:vb community annotation].
+
+TODO

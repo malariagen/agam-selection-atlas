@@ -1,0 +1,9 @@
+
+AGAP011950
+=============
+
+Name: **CASPS2**
+
+Description: Short caspase 2 [source:vb community annotation].
+
+TODO

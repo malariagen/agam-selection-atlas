@@ -1,0 +1,9 @@
+
+AGAP007722
+=============
+
+Name: **Adk2**
+
+Description: Adenylate kinase 2, mitochondrial [source:vb community annotation].
+
+TODO

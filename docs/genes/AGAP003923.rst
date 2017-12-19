@@ -1,0 +1,9 @@
+
+AGAP003923
+=============
+
+Name: **Carm1**
+
+Description: Histone-arginine methyltransferase carmer [source:uniprotkb/swiss-prot;acc:q7q2b7].
+
+TODO

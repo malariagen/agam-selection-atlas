@@ -1,0 +1,9 @@
+
+AGAP000577
+=============
+
+
+
+Description: Amp deaminase [source:vb community annotation].
+
+TODO

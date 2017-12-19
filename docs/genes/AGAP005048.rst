@@ -1,0 +1,9 @@
+
+AGAP005048
+=============
+
+
+
+Description: Anaphase-promoting complex subunit 2 [source:vb community annotation].
+
+TODO

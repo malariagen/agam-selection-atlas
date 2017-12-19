@@ -1,0 +1,9 @@
+
+AGAP007033
+=============
+
+Name: **APL1C**
+
+Description: Anopheles plasmodium-responsive leucine-rich repeat 1c [source:vb community annotation].
+
+TODO

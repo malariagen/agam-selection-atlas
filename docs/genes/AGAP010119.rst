@@ -1,0 +1,9 @@
+
+AGAP010119
+=============
+
+Name: **CPR96**
+
+Description: Cuticular protein rr-2 family 96 [source:vb community annotation].
+
+TODO

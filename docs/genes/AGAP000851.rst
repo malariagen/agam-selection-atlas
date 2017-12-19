@@ -1,0 +1,9 @@
+
+AGAP000851
+=============
+
+
+
+Description: Cytochrome c oxidase subunit 6a, mitochrondrial [source:vb community annotation].
+
+TODO

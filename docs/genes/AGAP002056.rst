@@ -1,0 +1,9 @@
+
+AGAP002056
+=============
+
+
+
+Description: Beta-galactosidase [source:uniprotkb/trembl;acc:a7uvk6].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP013308
+=============
+
+Name: **TWDL7**
+
+Description: Cuticular protein twdl family (twdl7) [source:vb community annotation].
+
+TODO

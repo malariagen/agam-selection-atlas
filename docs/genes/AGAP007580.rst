@@ -1,0 +1,9 @@
+
+AGAP007580
+=============
+
+Name: **RpL18**
+
+Description: 60s ribosomal protein l18 [source:uniprotkb/swiss-prot;acc:q7qjm5].
+
+TODO

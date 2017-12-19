@@ -1,0 +1,9 @@
+
+AGAP002296
+=============
+
+
+
+Description: Cytoplasmic polyadenylation element binding protein 2 [source:vb community annotation].
+
+TODO

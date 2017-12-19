@@ -1,0 +1,9 @@
+
+AGAP012037
+=============
+
+Name: **CLIPB20**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

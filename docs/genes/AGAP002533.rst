@@ -1,0 +1,9 @@
+
+AGAP002533
+=============
+
+
+
+Description: Polycomb group ring finger protein 3 [source:vb community annotation].
+
+TODO

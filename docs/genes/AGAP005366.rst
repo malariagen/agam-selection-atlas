@@ -1,0 +1,9 @@
+
+AGAP005366
+=============
+
+
+
+Description: Serine/arginine repetitive matrix protein 1 [source:vb community annotation].
+
+TODO

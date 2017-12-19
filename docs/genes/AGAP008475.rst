@@ -1,0 +1,9 @@
+
+AGAP008475
+=============
+
+
+
+Description: Oligosaccharyltransferase complex subunit ostc [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002779
+=============
+
+
+
+Description: Transcription initiation factor tfiif subunit alpha [source:vb community annotation].
+
+TODO

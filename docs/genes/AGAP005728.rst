@@ -1,0 +1,9 @@
+
+AGAP005728
+=============
+
+
+
+Description: Puromycin-sensitive aminopeptidase [source:vb community annotation].
+
+TODO

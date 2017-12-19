@@ -1,0 +1,9 @@
+
+AGAP002932
+=============
+
+
+
+Description: Ceramide kinase [source:vb community annotation].
+
+TODO

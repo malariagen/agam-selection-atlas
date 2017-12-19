@@ -1,0 +1,9 @@
+
+AGAP003893
+=============
+
+
+
+Description: C-terminal-binding protein [source:vb community annotation].
+
+TODO

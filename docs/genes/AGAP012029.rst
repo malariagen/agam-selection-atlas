@@ -1,0 +1,9 @@
+
+AGAP012029
+=============
+
+
+
+Description: Centriolar protein poc1 [source:vb community annotation].
+
+TODO

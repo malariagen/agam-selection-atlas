@@ -1,0 +1,9 @@
+
+AGAP004932
+=============
+
+
+
+Description: Solute carrier family 6 (neurotransmitter transporter), invertebrate [source:vb community annotation].
+
+TODO

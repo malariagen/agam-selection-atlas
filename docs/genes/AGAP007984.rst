@@ -1,0 +1,9 @@
+
+AGAP007984
+=============
+
+
+
+Description: Missing oocyte, meiosis regulator homolog (drosophila) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005263
+=============
+
+
+
+Description: Protein transport protein sec24 [source:vb community annotation].
+
+TODO

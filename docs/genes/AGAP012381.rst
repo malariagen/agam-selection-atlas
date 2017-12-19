@@ -1,0 +1,9 @@
+
+AGAP012381
+=============
+
+
+
+Description: Major facilitator superfamily domain containing 8 [source:vb community annotation].
+
+TODO

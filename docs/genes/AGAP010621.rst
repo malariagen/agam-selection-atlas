@@ -1,0 +1,9 @@
+
+AGAP010621
+=============
+
+
+
+Description: Glycine transporter [source:vb community annotation].
+
+TODO

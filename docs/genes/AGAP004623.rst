@@ -1,0 +1,9 @@
+
+AGAP004623
+=============
+
+
+
+Description: Anaphase-promoting complex subunit 6 [source:vb community annotation].
+
+TODO

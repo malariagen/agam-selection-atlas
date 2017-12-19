@@ -1,0 +1,9 @@
+
+AGAP006142
+=============
+
+
+
+Description: Beta-1,3-galactosyltransferase [source:vb community annotation].
+
+TODO

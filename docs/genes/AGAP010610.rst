@@ -1,0 +1,9 @@
+
+AGAP010610
+=============
+
+
+
+Description: Nhlrc2 protein [source:vb community annotation].
+
+TODO

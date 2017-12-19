@@ -1,0 +1,9 @@
+
+AGAP012419
+=============
+
+
+
+Description: Feline leukemia virus subgroup c receptor-related protein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002981
+=============
+
+
+
+Description: Cytochrome c oxidase assembly protein cox16 homolog, mitochondrial precursor [source:vb community annotation].
+
+TODO

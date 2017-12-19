@@ -1,0 +1,9 @@
+
+AGAP001882
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase nrdp1 [source:vb community annotation].
+
+TODO

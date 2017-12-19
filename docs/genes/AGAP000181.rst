@@ -1,0 +1,9 @@
+
+AGAP000181
+=============
+
+
+
+Description: Riboflavin transporter 2 [source:vb community annotation].
+
+TODO

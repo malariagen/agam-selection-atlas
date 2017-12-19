@@ -1,0 +1,9 @@
+
+AGAP008207
+=============
+
+Name: **CYP6Y2**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

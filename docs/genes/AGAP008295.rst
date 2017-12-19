@@ -1,0 +1,9 @@
+
+AGAP008295
+=============
+
+Name: **TRYP2**
+
+Description: Trypsin 2 [source:vb community annotation].
+
+TODO

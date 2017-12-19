@@ -1,0 +1,9 @@
+
+AGAP001357
+=============
+
+
+
+Description: Beta-catenin-like protein 1 [source:vb community annotation].
+
+TODO

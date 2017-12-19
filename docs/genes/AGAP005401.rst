@@ -1,0 +1,9 @@
+
+AGAP005401
+=============
+
+
+
+Description: Karyopherin (importin) alpha 6 [source:vb community annotation].
+
+TODO

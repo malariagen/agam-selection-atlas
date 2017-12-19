@@ -1,0 +1,9 @@
+
+AGAP005143
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase rnf144 [source:vb community annotation].
+
+TODO

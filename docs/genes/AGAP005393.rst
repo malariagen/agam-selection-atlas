@@ -1,0 +1,9 @@
+
+AGAP005393
+=============
+
+
+
+Description: Ras-related protein rab-2a [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006175
+=============
+
+
+
+Description: Ino80 complex subunit b [source:vb community annotation].
+
+TODO

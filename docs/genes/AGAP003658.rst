@@ -1,0 +1,9 @@
+
+AGAP003658
+=============
+
+Name: **GPRALS1**
+
+Description: Putative allatostatin receptor 1 [source:vb community annotation].
+
+TODO

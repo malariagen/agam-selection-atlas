@@ -1,0 +1,9 @@
+
+AGAP004919
+=============
+
+Name: **RpL15**
+
+Description: 60s ribosomal protein l15 [source:uniprotkb/swiss-prot;acc:p52818].
+
+TODO

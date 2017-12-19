@@ -1,0 +1,9 @@
+
+AGAP004885
+=============
+
+
+
+Description: Cdgsh iron sulfur domain-containing protein 3, mitochondrial [source:vb community annotation].
+
+TODO

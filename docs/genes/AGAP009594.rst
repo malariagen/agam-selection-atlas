@@ -1,0 +1,9 @@
+
+AGAP009594
+=============
+
+
+
+Description: Dynein assembly factor 1, axonemal homolog [source:uniprotkb/swiss-prot;acc:q7pk92].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004876
+=============
+
+Name: **Cht13**
+
+Description: Chitinase [source:vb community annotation].
+
+TODO

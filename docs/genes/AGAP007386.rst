@@ -1,0 +1,9 @@
+
+AGAP007386
+=============
+
+Name: **LYSC7**
+
+Description: C-type lysozyme [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006229
+=============
+
+Name: **Vps20**
+
+Description: Vacuolar protein sorting 20 [source:vb community annotation].
+
+TODO

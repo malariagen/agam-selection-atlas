@@ -1,0 +1,9 @@
+
+AGAP011745
+=============
+
+
+
+Description: Bestrophin homolog [source:uniprotkb/trembl;acc:q7pz58].
+
+TODO

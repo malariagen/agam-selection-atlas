@@ -1,0 +1,9 @@
+
+AGAP007810
+=============
+
+
+
+Description: Dna-directed rna polymerase ii subunit rpb1 [source:vb community annotation].
+
+TODO

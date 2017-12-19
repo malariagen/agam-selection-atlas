@@ -1,0 +1,9 @@
+
+AGAP001672
+=============
+
+
+
+Description: Kl-5 beta dynein heavy chain [source:vb community annotation].
+
+TODO

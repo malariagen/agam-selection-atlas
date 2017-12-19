@@ -1,0 +1,9 @@
+
+AGAP007998
+=============
+
+
+
+Description: Mitochondrial rho gtpase 2 [source:vb community annotation].
+
+TODO

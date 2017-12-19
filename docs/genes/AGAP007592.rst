@@ -1,0 +1,9 @@
+
+AGAP007592
+=============
+
+
+
+Description: Kinesin family member [source:vb community annotation].
+
+TODO

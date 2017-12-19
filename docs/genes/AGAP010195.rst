@@ -1,0 +1,9 @@
+
+AGAP010195
+=============
+
+Name: **Gr33**
+
+Description: Gustatory receptor 33 [source:vb community annotation].
+
+TODO

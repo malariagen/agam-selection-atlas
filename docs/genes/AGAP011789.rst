@@ -1,0 +1,9 @@
+
+AGAP011789
+=============
+
+Name: **CLIPA6**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

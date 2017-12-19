@@ -1,0 +1,9 @@
+
+AGAP002111
+=============
+
+
+
+Description: Zinc finger ccch-type with g patch domain-containing protein [source:uniprotkb/swiss-prot;acc:q7pyu6].
+
+TODO

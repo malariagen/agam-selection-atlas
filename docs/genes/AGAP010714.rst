@@ -1,0 +1,9 @@
+
+AGAP010714
+=============
+
+
+
+Description: Very-long-chain enoyl-coa reductase [source:vb community annotation].
+
+TODO

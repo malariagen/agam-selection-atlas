@@ -1,0 +1,9 @@
+
+AGAP001121
+=============
+
+Name: **Gr60**
+
+Description: Gustatory receptor 60 [source:vb community annotation].
+
+TODO

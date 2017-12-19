@@ -1,0 +1,9 @@
+
+AGAP006347
+=============
+
+
+
+Description: Potassium voltage-gated channel kqt-like subfamily, invertebrate [source:vb community annotation].
+
+TODO

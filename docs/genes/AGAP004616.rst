@@ -1,0 +1,9 @@
+
+AGAP004616
+=============
+
+
+
+Description: F-type h -transporting atpase subunit 6 [source:vb community annotation].
+
+TODO

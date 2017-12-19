@@ -1,0 +1,9 @@
+
+AGAP010247
+=============
+
+
+
+Description: Exosome complex component rrp40 [source:vb community annotation].
+
+TODO

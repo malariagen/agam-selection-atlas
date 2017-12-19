@@ -1,0 +1,9 @@
+
+AGAP009784
+=============
+
+
+
+Description: Serine/threonine-protein kinase chk2 [source:vb community annotation].
+
+TODO

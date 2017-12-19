@@ -1,0 +1,9 @@
+
+AGAP001257
+=============
+
+
+
+Description: Utp--glucose-1-phosphate uridylyltransferase [source:vb community annotation].
+
+TODO

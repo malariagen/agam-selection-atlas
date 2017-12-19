@@ -1,0 +1,9 @@
+
+AGAP008678
+=============
+
+
+
+Description: Wingless-type mmtv integration site family, member 5b [source:vb community annotation].
+
+TODO

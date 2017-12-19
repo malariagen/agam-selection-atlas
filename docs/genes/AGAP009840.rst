@@ -1,0 +1,9 @@
+
+AGAP009840
+=============
+
+
+
+Description: Uso1 vesicle docking protein homolog [source:vb community annotation].
+
+TODO

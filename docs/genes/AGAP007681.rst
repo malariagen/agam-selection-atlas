@@ -1,0 +1,9 @@
+
+AGAP007681
+=============
+
+
+
+Description: Rad and gem related gtp binding protein 1 [source:vb community annotation].
+
+TODO

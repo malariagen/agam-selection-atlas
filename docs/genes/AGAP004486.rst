@@ -1,0 +1,9 @@
+
+AGAP004486
+=============
+
+
+
+Description: Adiponectin receptor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010588
+=============
+
+
+
+Description: T-complex protein 1 subunit theta [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009099
+=============
+
+Name: **TG3**
+
+Description: Transglutaminase [source:uniprotkb/trembl;acc:d2k8k8].
+
+TODO

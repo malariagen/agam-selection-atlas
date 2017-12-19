@@ -1,0 +1,9 @@
+
+AGAP003256
+=============
+
+Name: **Gr18**
+
+Description: Gustatory receptor 18 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012122
+=============
+
+
+
+Description: Dna-directed rna polymerase iii subunit rpc8 [source:vb community annotation].
+
+TODO

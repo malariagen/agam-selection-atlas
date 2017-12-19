@@ -1,0 +1,9 @@
+
+AGAP000565
+=============
+
+Name: **TRXR**
+
+Description: Thioredoxin reductase [source:vb community annotation].
+
+TODO

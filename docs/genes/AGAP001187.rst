@@ -1,0 +1,9 @@
+
+AGAP001187
+=============
+
+
+
+Description: Homeobox protein cut-like [source:uniprotkb/trembl;acc:q380c3].
+
+TODO

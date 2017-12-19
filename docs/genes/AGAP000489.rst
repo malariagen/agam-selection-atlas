@@ -1,0 +1,9 @@
+
+AGAP000489
+=============
+
+
+
+Description: Eph receptor b1 [source:vb community annotation].
+
+TODO

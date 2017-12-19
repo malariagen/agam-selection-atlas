@@ -1,0 +1,9 @@
+
+AGAP006931
+=============
+
+Name: **CPR111**
+
+Description: Cuticular protein rr-2 family 111 [source:vb community annotation].
+
+TODO

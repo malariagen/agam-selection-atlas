@@ -1,0 +1,9 @@
+
+AGAP003475
+=============
+
+
+
+Description: Leucyl aminopeptidase [source:vb community annotation].
+
+TODO

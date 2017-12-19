@@ -1,0 +1,9 @@
+
+AGAP012825
+=============
+
+
+
+Description: Dna polymerase epsilon subunit 3 [source:vb community annotation].
+
+TODO

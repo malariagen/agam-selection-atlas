@@ -1,0 +1,9 @@
+
+AGAP010131
+=============
+
+
+
+Description: Ornithine decarboxylase antizyme 1 [source:vb community annotation].
+
+TODO

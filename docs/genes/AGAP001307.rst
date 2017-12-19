@@ -1,0 +1,9 @@
+
+AGAP001307
+=============
+
+
+
+Description: Ubiquitin fusion degradation protein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006238
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 c [source:vb community annotation].
+
+TODO

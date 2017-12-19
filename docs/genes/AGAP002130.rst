@@ -1,0 +1,9 @@
+
+AGAP002130
+=============
+
+
+
+Description: Tubulin-specific chaperone a [source:vb community annotation].
+
+TODO

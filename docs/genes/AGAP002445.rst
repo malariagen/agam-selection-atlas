@@ -1,0 +1,9 @@
+
+AGAP002445
+=============
+
+
+
+Description: Cysteine-rich venom protein [source:vb community annotation].
+
+TODO

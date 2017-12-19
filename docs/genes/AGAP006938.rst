@@ -1,0 +1,9 @@
+
+AGAP006938
+=============
+
+Name: **Art7**
+
+Description: Protein arginine n-methyltransferase 7 [source:uniprotkb/swiss-prot;acc:q7qil2].
+
+TODO

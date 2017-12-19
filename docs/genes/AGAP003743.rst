@@ -1,0 +1,9 @@
+
+AGAP003743
+=============
+
+
+
+Description: Haus augmin-like complex subunit 6 [source:vb community annotation].
+
+TODO

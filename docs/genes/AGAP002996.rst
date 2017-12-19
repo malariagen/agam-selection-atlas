@@ -1,0 +1,9 @@
+
+AGAP002996
+=============
+
+
+
+Description: Atp-dependent clp protease atp-binding subunit clpx-like, mitochondrial [source:vb community annotation].
+
+TODO

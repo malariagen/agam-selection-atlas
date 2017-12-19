@@ -1,0 +1,9 @@
+
+AGAP001754
+=============
+
+
+
+Description: Nucleoprotein tpr [source:vb community annotation].
+
+TODO

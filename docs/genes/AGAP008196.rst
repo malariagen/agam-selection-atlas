@@ -1,0 +1,9 @@
+
+AGAP008196
+=============
+
+
+
+Description: Anaphase-promoting complex subunit 11 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007891
+=============
+
+
+
+Description: Methionyl-trna synthetase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010503
+=============
+
+
+
+Description: Potassium intermediate/small conductance calcium-activated channel subfamily n [source:vb community annotation].
+
+TODO

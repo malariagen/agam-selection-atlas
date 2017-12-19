@@ -1,0 +1,9 @@
+
+AGAP003378
+=============
+
+Name: **CPR116**
+
+Description: Cuticular protein rr-2 family 116 [source:vb community annotation].
+
+TODO

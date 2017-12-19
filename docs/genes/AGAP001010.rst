@@ -1,0 +1,9 @@
+
+AGAP001010
+=============
+
+
+
+Description: Chondroitin sulfate synthase [source:vb community annotation].
+
+TODO

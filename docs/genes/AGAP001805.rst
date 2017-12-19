@@ -1,0 +1,9 @@
+
+AGAP001805
+=============
+
+Name: **RpL13**
+
+Description: 60s ribosomal protein l13 [source:uniprotkb/trembl;acc:q7puq7].
+
+TODO

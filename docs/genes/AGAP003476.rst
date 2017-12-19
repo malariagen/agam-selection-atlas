@@ -1,0 +1,9 @@
+
+AGAP003476
+=============
+
+
+
+Description: Protein bcp1 [source:vb community annotation].
+
+TODO

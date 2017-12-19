@@ -1,0 +1,9 @@
+
+AGAP013520
+=============
+
+Name: **IR7x**
+
+Description: Ionotropic receptor ir7x [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008557
+=============
+
+
+
+Description: Amp-binding domain protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009693
+=============
+
+
+
+Description: Rna pseudouridylate synthase domain-containing protein 2 [source:vb community annotation].
+
+TODO

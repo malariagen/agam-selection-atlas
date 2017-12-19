@@ -1,0 +1,9 @@
+
+AGAP008149
+=============
+
+
+
+Description: Protein phosphatase 1b (formerly 2c) [source:vb community annotation].
+
+TODO

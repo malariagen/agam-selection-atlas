@@ -1,0 +1,9 @@
+
+AGAP012332
+=============
+
+
+
+Description: Differentially expressed in fdcp 6-like protein [source:vb community annotation].
+
+TODO

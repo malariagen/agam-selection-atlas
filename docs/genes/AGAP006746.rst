@@ -1,0 +1,9 @@
+
+AGAP006746
+=============
+
+
+
+Description: Myosin-light-chain kinase [source:vb community annotation].
+
+TODO

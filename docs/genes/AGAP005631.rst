@@ -1,0 +1,9 @@
+
+AGAP005631
+=============
+
+
+
+Description: Pleiotropic regulator 1 [source:vb community annotation].
+
+TODO

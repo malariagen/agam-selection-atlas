@@ -1,0 +1,9 @@
+
+AGAP010206
+=============
+
+
+
+Description: Protein bicaudal d homolog 2 [source:vb community annotation].
+
+TODO

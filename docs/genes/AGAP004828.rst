@@ -1,0 +1,9 @@
+
+AGAP004828
+=============
+
+Name: **Bbs4**
+
+Description: Bardet-biedl syndrome 4 [source:vb community annotation].
+
+TODO

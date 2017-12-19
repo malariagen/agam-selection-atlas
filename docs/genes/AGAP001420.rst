@@ -1,0 +1,9 @@
+
+AGAP001420
+=============
+
+
+
+Description: 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [source:vb community annotation].
+
+TODO

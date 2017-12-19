@@ -1,0 +1,9 @@
+
+AGAP008363
+=============
+
+
+
+Description: Cytochrome b5 outer mitochondrial membrane isoform [source:vb community annotation].
+
+TODO

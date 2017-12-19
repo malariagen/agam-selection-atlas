@@ -1,0 +1,9 @@
+
+AGAP005980
+=============
+
+
+
+Description: Retinol dehydrogenase 13 (all-trans/9-cis) [source:vb community annotation].
+
+TODO

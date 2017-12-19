@@ -1,0 +1,9 @@
+
+AGAP004556
+=============
+
+
+
+Description: Ribosome biogenesis protein ssf1/2 [source:vb community annotation].
+
+TODO

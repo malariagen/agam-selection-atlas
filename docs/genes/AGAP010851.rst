@@ -1,0 +1,9 @@
+
+AGAP010851
+=============
+
+Name: **GPRLKK**
+
+Description: Putative leukokinin receptor [source:vb community annotation].
+
+TODO

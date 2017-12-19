@@ -1,0 +1,9 @@
+
+AGAP006426
+=============
+
+
+
+Description: Cyanogenic beta-glucosidase [source:vb community annotation].
+
+TODO

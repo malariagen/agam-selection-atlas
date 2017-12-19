@@ -1,0 +1,9 @@
+
+AGAP001362
+=============
+
+
+
+Description: Polyadenylation factor subunit 2 [source:vb community annotation].
+
+TODO

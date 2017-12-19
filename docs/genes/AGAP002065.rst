@@ -1,0 +1,9 @@
+
+AGAP002065
+=============
+
+
+
+Description: Alpha-tocopherol transfer protein [source:vb community annotation].
+
+TODO

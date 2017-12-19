@@ -1,0 +1,9 @@
+
+AGAP008729
+=============
+
+
+
+Description: Alkaline ceramidase [source:vb community annotation].
+
+TODO

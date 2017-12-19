@@ -1,0 +1,9 @@
+
+AGAP004594
+=============
+
+
+
+Description: Cell division protein kinase 2 [source:vb community annotation].
+
+TODO

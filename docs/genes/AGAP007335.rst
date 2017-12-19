@@ -1,0 +1,9 @@
+
+AGAP007335
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase bre1 [source:vb community annotation].
+
+TODO

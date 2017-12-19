@@ -1,0 +1,9 @@
+
+AGAP012054
+=============
+
+
+
+Description: Heterogeneous nuclear ribonucleoprotein l [source:vb community annotation].
+
+TODO

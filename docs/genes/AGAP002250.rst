@@ -1,0 +1,9 @@
+
+AGAP002250
+=============
+
+
+
+Description: Calcium/calmodulin-dependent protein kinase kinase [source:vb community annotation].
+
+TODO

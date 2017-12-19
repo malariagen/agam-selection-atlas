@@ -1,0 +1,9 @@
+
+AGAP003179
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase synoviolin [source:vb community annotation].
+
+TODO

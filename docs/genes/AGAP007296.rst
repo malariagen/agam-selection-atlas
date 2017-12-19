@@ -1,0 +1,9 @@
+
+AGAP007296
+=============
+
+Name: **APG12**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

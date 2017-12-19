@@ -1,0 +1,9 @@
+
+AGAP009495
+=============
+
+
+
+Description: Kelch domain containing 3 [source:vb community annotation].
+
+TODO

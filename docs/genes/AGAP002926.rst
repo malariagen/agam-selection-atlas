@@ -1,0 +1,9 @@
+
+AGAP002926
+=============
+
+
+
+Description: Epidermal retinal dehydrogenase 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005323
+=============
+
+
+
+Description: D-aspartate oxidase [source:vb community annotation].
+
+TODO

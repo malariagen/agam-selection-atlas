@@ -1,0 +1,9 @@
+
+AGAP002219
+=============
+
+
+
+Description: Gtpase kras [source:vb community annotation].
+
+TODO

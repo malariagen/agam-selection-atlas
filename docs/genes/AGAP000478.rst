@@ -1,0 +1,9 @@
+
+AGAP000478
+=============
+
+
+
+Description: Btb/poz domain-containing protein kctd9 [source:vb community annotation].
+
+TODO

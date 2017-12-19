@@ -1,0 +1,9 @@
+
+AGAP004172
+=============
+
+Name: **GSTD9**
+
+Description: Glutathione s-transferase delta class 9 [source:vb community annotation].
+
+TODO

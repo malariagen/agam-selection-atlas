@@ -1,0 +1,9 @@
+
+AGAP002878
+=============
+
+
+
+Description: Cystatin-like protein [source:vb community annotation].
+
+TODO

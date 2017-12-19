@@ -1,0 +1,9 @@
+
+AGAP011173
+=============
+
+Name: **RpL11**
+
+Description: 60s ribosomal protein l11 [source:vb community annotation].
+
+TODO

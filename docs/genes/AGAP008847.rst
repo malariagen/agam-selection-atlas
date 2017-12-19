@@ -1,0 +1,9 @@
+
+AGAP008847
+=============
+
+
+
+Description: Gamma-tubulin complex component 4 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011603
+=============
+
+
+
+Description: Long-chain acyl-coa synthetase [source:vb community annotation].
+
+TODO

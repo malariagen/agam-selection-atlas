@@ -1,0 +1,9 @@
+
+AGAP004653
+=============
+
+
+
+Description: Electron transfer flavoprotein subunit beta, mitochondrial [source:vb community annotation].
+
+TODO

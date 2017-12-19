@@ -1,0 +1,9 @@
+
+AGAP002677
+=============
+
+
+
+Description: Coiled-coil domain-containing protein lobo homolog [source:vb community annotation].
+
+TODO

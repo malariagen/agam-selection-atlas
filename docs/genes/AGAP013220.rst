@@ -1,0 +1,9 @@
+
+AGAP013220
+=============
+
+
+
+Description: Small vcp/p97-interacting protein [source:vb community annotation].
+
+TODO

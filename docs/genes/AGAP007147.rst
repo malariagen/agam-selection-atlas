@@ -1,0 +1,9 @@
+
+AGAP007147
+=============
+
+
+
+Description: Exosome complex protein lrp1 [source:vb community annotation].
+
+TODO

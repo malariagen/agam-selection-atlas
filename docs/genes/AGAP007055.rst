@@ -1,0 +1,9 @@
+
+AGAP007055
+=============
+
+
+
+Description: Sodium-dependent dicarboxylate transporter sdcs [source:vb community annotation].
+
+TODO

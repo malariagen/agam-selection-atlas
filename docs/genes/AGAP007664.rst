@@ -1,0 +1,9 @@
+
+AGAP007664
+=============
+
+
+
+Description: Coiled-coil domain-containing protein 34 [source:vb community annotation].
+
+TODO

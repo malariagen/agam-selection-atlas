@@ -1,0 +1,9 @@
+
+AGAP000857
+=============
+
+Name: **mRpL3**
+
+Description: 39s ribosomal protein l3, mitochondrial [source:vb community annotation].
+
+TODO

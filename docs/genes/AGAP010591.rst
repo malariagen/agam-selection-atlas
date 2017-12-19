@@ -1,0 +1,9 @@
+
+AGAP010591
+=============
+
+Name: **RpS20**
+
+Description: 40s ribosomal protein s20 [source:vb community annotation].
+
+TODO

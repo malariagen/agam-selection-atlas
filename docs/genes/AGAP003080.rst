@@ -1,0 +1,9 @@
+
+AGAP003080
+=============
+
+
+
+Description: Oo18 rna-binding protein [source:vb community annotation].
+
+TODO

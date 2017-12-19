@@ -1,0 +1,9 @@
+
+AGAP005622
+=============
+
+
+
+Description: F-box protein 33 [source:vb community annotation].
+
+TODO

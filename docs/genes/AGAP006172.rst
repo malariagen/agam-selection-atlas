@@ -1,0 +1,9 @@
+
+AGAP006172
+=============
+
+
+
+Description: Intraflagellar transport protein 20 homolog [source:vb community annotation].
+
+TODO

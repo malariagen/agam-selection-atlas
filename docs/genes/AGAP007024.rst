@@ -1,0 +1,9 @@
+
+AGAP007024
+=============
+
+
+
+Description: Nuclear transport factor 2 [source:vb community annotation].
+
+TODO

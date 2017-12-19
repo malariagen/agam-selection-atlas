@@ -1,0 +1,9 @@
+
+AGAP010272
+=============
+
+Name: **IR25a**
+
+Description: Ionotropic receptor ir25a [source:vb community annotation].
+
+TODO

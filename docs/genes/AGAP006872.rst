@@ -1,0 +1,9 @@
+
+AGAP006872
+=============
+
+
+
+Description: Nima (never in mitosis gene a)-related kinase [source:vb community annotation].
+
+TODO

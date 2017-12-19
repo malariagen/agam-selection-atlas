@@ -1,0 +1,9 @@
+
+AGAP002879
+=============
+
+
+
+Description: Cathepsin f [source:vb community annotation].
+
+TODO

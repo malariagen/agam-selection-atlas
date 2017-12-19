@@ -1,0 +1,9 @@
+
+AGAP004632
+=============
+
+Name: **DEF2**
+
+Description: Defensin anti-microbial peptide [source:vb community annotation].
+
+TODO

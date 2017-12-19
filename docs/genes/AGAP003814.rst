@@ -1,0 +1,9 @@
+
+AGAP003814
+=============
+
+
+
+Description: Very-long-chain (3r)-3-hydroxyacyl-(acyl-carrier protein) dehydratase [source:vb community annotation].
+
+TODO

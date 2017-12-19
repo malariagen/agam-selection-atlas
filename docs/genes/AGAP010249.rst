@@ -1,0 +1,9 @@
+
+AGAP010249
+=============
+
+
+
+Description: Cation chloride cotransporter [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007939
+=============
+
+
+
+Description: Starch phosphorylase [source:vb community annotation].
+
+TODO

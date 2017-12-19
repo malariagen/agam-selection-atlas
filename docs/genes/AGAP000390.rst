@@ -1,0 +1,9 @@
+
+AGAP000390
+=============
+
+
+
+Description: Phospholipid-transporting atpase [source:uniprotkb/trembl;acc:q7ps19].
+
+TODO

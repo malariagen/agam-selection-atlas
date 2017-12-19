@@ -1,0 +1,9 @@
+
+AGAP001722
+=============
+
+
+
+Description: Carboxylic ester hydrolase [source:uniprotkb/trembl;acc:q7py29].
+
+TODO

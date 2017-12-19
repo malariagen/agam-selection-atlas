@@ -1,0 +1,9 @@
+
+AGAP011425
+=============
+
+
+
+Description: Structural maintenance of chromosome 2 [source:vb community annotation].
+
+TODO

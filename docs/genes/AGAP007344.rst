@@ -1,0 +1,9 @@
+
+AGAP007344
+=============
+
+Name: **LYSC8**
+
+Description: C-type lysozyme [source:vb community annotation].
+
+TODO

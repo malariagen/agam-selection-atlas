@@ -1,0 +1,9 @@
+
+AGAP004743
+=============
+
+
+
+Description: Transmembrane emp24 domain-containing protein [source:vb community annotation].
+
+TODO

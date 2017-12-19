@@ -1,0 +1,9 @@
+
+AGAP003548
+=============
+
+
+
+Description: Dna repair/transcription protein met18/mms19 [source:vb community annotation].
+
+TODO

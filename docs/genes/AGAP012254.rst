@@ -1,0 +1,9 @@
+
+AGAP012254
+=============
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:a0a1s4h9w3].
+
+TODO

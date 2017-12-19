@@ -1,0 +1,9 @@
+
+AGAP011852
+=============
+
+
+
+Description: Short-chain dehydrogenease/reductase [source:vb community annotation].
+
+TODO

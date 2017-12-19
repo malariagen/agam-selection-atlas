@@ -1,0 +1,9 @@
+
+AGAP004514
+=============
+
+
+
+Description: Nuclear gtp-binding protein [source:vb community annotation].
+
+TODO

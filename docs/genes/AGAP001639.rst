@@ -1,0 +1,9 @@
+
+AGAP001639
+=============
+
+
+
+Description: Polya-binding protein interacting protein [source:vb community annotation].
+
+TODO

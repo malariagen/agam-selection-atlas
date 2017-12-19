@@ -1,0 +1,9 @@
+
+AGAP001338
+=============
+
+
+
+Description: Deah (asp-glu-ala-his) box polypeptide 34 [source:vb community annotation].
+
+TODO

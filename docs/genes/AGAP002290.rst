@@ -1,0 +1,9 @@
+
+AGAP002290
+=============
+
+
+
+Description: Negative elongation factor a [source:vb community annotation].
+
+TODO

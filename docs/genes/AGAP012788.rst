@@ -1,0 +1,9 @@
+
+AGAP012788
+=============
+
+
+
+Description: Cytosolic fe-s cluster assembly factor nubp2 homolog [source:vb community annotation].
+
+TODO

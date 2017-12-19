@@ -1,0 +1,9 @@
+
+AGAP009075
+=============
+
+
+
+Description: Atp-dependent rna helicase uap56/sub2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006400
+=============
+
+
+
+Description: Alkaline phosphatase 2 [source:vb community annotation].
+
+TODO

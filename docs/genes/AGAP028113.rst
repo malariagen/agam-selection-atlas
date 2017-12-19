@@ -1,0 +1,9 @@
+
+AGAP028113
+=============
+
+Name: **CPLCW9**
+
+Description: Cuticular protein cplcw family (cplcw9) [source:vb community annotation].
+
+TODO

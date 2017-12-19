@@ -1,0 +1,9 @@
+
+AGAP002190
+=============
+
+Name: **OBP39**
+
+Description: Odorant-binding protein 39 [source:vb community annotation].
+
+TODO

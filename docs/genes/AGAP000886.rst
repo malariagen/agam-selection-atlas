@@ -1,0 +1,9 @@
+
+AGAP000886
+=============
+
+
+
+Description: Palmitoyltransferase [source:uniprotkb/trembl;acc:q7pnj3].
+
+TODO

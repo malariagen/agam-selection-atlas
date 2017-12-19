@@ -1,0 +1,9 @@
+
+AGAP002943
+=============
+
+
+
+Description: Nad-dependent deacetylase sirtuin 2 [source:vb community annotation].
+
+TODO

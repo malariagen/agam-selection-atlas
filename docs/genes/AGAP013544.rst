@@ -1,0 +1,9 @@
+
+AGAP013544
+=============
+
+
+
+Description: L-gulonate 3-dehydrogenase [source:vb community annotation].
+
+TODO

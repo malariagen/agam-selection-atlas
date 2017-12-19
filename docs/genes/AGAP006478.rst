@@ -1,0 +1,9 @@
+
+AGAP006478
+=============
+
+
+
+Description: Synaptic vesicle membrane protein vat-1 homolog-like [source:vb community annotation].
+
+TODO

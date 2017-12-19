@@ -1,0 +1,9 @@
+
+AGAP006670
+=============
+
+
+
+Description: Gamma-glutamyl hydrolase [source:vb community annotation].
+
+TODO

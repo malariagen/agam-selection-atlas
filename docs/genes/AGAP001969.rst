@@ -1,0 +1,9 @@
+
+AGAP001969
+=============
+
+
+
+Description: Polyubiquitin [source:vb community annotation].
+
+TODO

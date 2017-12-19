@@ -1,0 +1,9 @@
+
+AGAP010486
+=============
+
+Name: **GPRALS3**
+
+Description: Putative allatostatin receptor 3 [source:vb community annotation].
+
+TODO

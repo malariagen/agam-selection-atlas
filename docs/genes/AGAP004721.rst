@@ -1,0 +1,9 @@
+
+AGAP004721
+=============
+
+
+
+Description: N-acetylglucosamine-6-sulfatase [source:vb community annotation].
+
+TODO

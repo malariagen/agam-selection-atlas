@@ -1,0 +1,9 @@
+
+AGAP000399
+=============
+
+
+
+Description: Squid [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001408
+=============
+
+Name: **RpL35**
+
+Description: 60s ribosomal protein l35 [source:vb community annotation].
+
+TODO

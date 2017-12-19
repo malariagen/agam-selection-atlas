@@ -1,0 +1,9 @@
+
+AGAP003894
+=============
+
+
+
+Description: Tigger transposable element-derived protein 2 [source:vb community annotation].
+
+TODO

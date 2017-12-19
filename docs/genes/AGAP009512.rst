@@ -1,0 +1,9 @@
+
+AGAP009512
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase ubr7 [source:vb community annotation].
+
+TODO

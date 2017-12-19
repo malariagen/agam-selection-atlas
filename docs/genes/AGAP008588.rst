@@ -1,0 +1,9 @@
+
+AGAP008588
+=============
+
+Name: **alpha5**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 5 [source:vb community annotation].
+
+TODO

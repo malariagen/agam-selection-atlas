@@ -1,0 +1,9 @@
+
+AGAP003445
+=============
+
+Name: **Tsc1**
+
+Description: Tuberous sclerosis 1 [source:vb community annotation].
+
+TODO

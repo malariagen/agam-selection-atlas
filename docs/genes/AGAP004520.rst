@@ -1,0 +1,9 @@
+
+AGAP004520
+=============
+
+
+
+Description: Ran-binding protein 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002955
+=============
+
+
+
+Description: Leishmanolysin-like peptidase [source:vb community annotation].
+
+TODO

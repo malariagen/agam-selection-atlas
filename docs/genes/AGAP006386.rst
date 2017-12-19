@@ -1,0 +1,9 @@
+
+AGAP006386
+=============
+
+
+
+Description: Transcription factor ap-1 [source:vb community annotation].
+
+TODO

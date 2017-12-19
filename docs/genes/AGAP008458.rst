@@ -1,0 +1,9 @@
+
+AGAP008458
+=============
+
+Name: **CPLCG14**
+
+Description: Cuticular protein cplcg family (cplcg14) [source:vb community annotation].
+
+TODO

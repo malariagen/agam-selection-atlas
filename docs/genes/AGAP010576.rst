@@ -1,0 +1,9 @@
+
+AGAP010576
+=============
+
+
+
+Description: Mitochondrial genome maintenance exonuclease 1 [source:uniprotkb/trembl;acc:q7q8t1].
+
+TODO

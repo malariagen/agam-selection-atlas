@@ -1,0 +1,9 @@
+
+AGAP010670
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx31/dbp7 [source:vb community annotation].
+
+TODO

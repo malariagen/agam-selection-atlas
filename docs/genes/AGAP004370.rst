@@ -1,0 +1,9 @@
+
+AGAP004370
+=============
+
+
+
+Description: Transcription initiation factor tfiia small subunit [source:vb community annotation].
+
+TODO

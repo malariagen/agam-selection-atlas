@@ -1,0 +1,9 @@
+
+AGAP007498
+=============
+
+Name: **IR75k**
+
+Description: Ionotropic receptor ir75k [source:vb community annotation].
+
+TODO

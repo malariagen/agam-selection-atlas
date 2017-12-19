@@ -1,0 +1,9 @@
+
+AGAP010872
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx35 [source:vb community annotation].
+
+TODO

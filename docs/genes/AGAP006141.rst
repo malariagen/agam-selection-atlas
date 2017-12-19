@@ -1,0 +1,9 @@
+
+AGAP006141
+=============
+
+
+
+Description: Capping protein (actin filament) muscle z-line, alpha 1 [source:vb community annotation].
+
+TODO

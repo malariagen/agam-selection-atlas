@@ -1,0 +1,9 @@
+
+AGAP012514
+=============
+
+
+
+Description: Iron-regulated short-chain dehydrogenase/reductase [source:vb community annotation].
+
+TODO

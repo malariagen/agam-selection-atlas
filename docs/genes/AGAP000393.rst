@@ -1,0 +1,9 @@
+
+AGAP000393
+=============
+
+
+
+Description: Trimeric intracellular cation channel type b [source:vb community annotation].
+
+TODO

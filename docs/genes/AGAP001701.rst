@@ -1,0 +1,9 @@
+
+AGAP001701
+=============
+
+
+
+Description: Small ubiquitin-related modifier [source:uniprotkb/trembl;acc:q7py16].
+
+TODO

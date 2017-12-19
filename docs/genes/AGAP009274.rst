@@ -1,0 +1,9 @@
+
+AGAP009274
+=============
+
+
+
+Description: Facilitated trehalose transporter tret1-2 homolog [source:vb community annotation].
+
+TODO

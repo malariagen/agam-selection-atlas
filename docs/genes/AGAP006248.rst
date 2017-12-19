@@ -1,0 +1,9 @@
+
+AGAP006248
+=============
+
+Name: **Med10**
+
+Description: Mediator of rna polymerase ii transcription subunit 10 [source:uniprotkb/swiss-prot;acc:q7q5r5].
+
+TODO

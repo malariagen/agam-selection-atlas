@@ -1,0 +1,9 @@
+
+AGAP000670
+=============
+
+
+
+Description: Periplasmic divalent cation tolerance protein [source:vb community annotation].
+
+TODO

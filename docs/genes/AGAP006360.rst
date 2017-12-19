@@ -1,0 +1,9 @@
+
+AGAP006360
+=============
+
+
+
+Description: Glutamate synthase (nadph/nadh) [source:vb community annotation].
+
+TODO

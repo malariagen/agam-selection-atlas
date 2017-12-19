@@ -1,0 +1,9 @@
+
+AGAP003800
+=============
+
+
+
+Description: Golgi snap receptor complex member 2 [source:vb community annotation].
+
+TODO

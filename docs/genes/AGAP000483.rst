@@ -1,0 +1,9 @@
+
+AGAP000483
+=============
+
+
+
+Description: Inositol polyphosphate-5-phosphatase f [source:vb community annotation].
+
+TODO

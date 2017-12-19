@@ -1,0 +1,9 @@
+
+AGAP008646
+=============
+
+
+
+Description: Cgmp-specific 3',5'-cyclic phosphodiesterase [source:vb community annotation].
+
+TODO

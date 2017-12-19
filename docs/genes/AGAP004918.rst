@@ -1,0 +1,9 @@
+
+AGAP004918
+=============
+
+
+
+Description: Fibrinogen [source:vb community annotation].
+
+TODO

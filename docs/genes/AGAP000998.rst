@@ -1,0 +1,9 @@
+
+AGAP000998
+=============
+
+
+
+Description: Insulin-like growth factor 2 receptor [source:vb community annotation].
+
+TODO

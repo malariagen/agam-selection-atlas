@@ -1,0 +1,9 @@
+
+AGAP002961
+=============
+
+
+
+Description: Ribosomal rna-processing protein 12 [source:vb community annotation].
+
+TODO

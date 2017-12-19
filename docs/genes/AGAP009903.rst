@@ -1,0 +1,9 @@
+
+AGAP009903
+=============
+
+
+
+Description: Trna pseudouridine synthase (fragment) [source:uniprotkb/trembl;acc:q7q194].
+
+TODO

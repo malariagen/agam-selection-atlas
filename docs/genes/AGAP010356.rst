@@ -1,0 +1,9 @@
+
+AGAP010356
+=============
+
+
+
+Description: Ring finger protein 130 [source:vb community annotation].
+
+TODO

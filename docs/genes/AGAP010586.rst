@@ -1,0 +1,9 @@
+
+AGAP010586
+=============
+
+
+
+Description: Aminoacyl trna synthase complex-interacting multifunctional protein 1 [source:vb community annotation].
+
+TODO

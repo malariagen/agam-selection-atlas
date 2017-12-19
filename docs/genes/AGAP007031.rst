@@ -1,0 +1,9 @@
+
+AGAP007031
+=============
+
+
+
+Description: Scabrous protein [source:vb community annotation].
+
+TODO

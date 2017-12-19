@@ -1,0 +1,9 @@
+
+AGAP003405
+=============
+
+
+
+Description: Adenylosuccinate synthase [source:vb community annotation].
+
+TODO

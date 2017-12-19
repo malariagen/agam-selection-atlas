@@ -1,0 +1,9 @@
+
+AGAP010090
+=============
+
+
+
+Description: Receptor-type tyrosine-protein phosphatase f [source:vb community annotation].
+
+TODO

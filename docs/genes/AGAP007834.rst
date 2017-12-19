@@ -1,0 +1,9 @@
+
+AGAP007834
+=============
+
+
+
+Description: Tubulin gamma chain [source:uniprotkb/trembl;acc:q7q3e4].
+
+TODO

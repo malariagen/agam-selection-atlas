@@ -1,0 +1,9 @@
+
+AGAP008131
+=============
+
+
+
+Description: Udp-n-acetylglucosamine--dolichyl-phosphate n-acetylglucosaminephosphotransferase [source:vb community annotation].
+
+TODO

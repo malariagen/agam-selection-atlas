@@ -1,0 +1,9 @@
+
+AGAP003599
+=============
+
+
+
+Description: F-type h -transporting atpase oligomycin sensitivity conferral protein [source:vb community annotation].
+
+TODO

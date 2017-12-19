@@ -1,0 +1,9 @@
+
+AGAP006783
+=============
+
+
+
+Description: Gdpmannose 4,6-dehydratase [source:vb community annotation].
+
+TODO

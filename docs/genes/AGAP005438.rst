@@ -1,0 +1,9 @@
+
+AGAP005438
+=============
+
+
+
+Description: Ribosome biogenesis protein mak21 [source:vb community annotation].
+
+TODO

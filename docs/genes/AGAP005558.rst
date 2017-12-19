@@ -1,0 +1,9 @@
+
+AGAP005558
+=============
+
+
+
+Description: Peptidase (mitochondrial processing) beta [source:vb community annotation].
+
+TODO

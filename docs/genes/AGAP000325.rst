@@ -1,0 +1,9 @@
+
+AGAP000325
+=============
+
+
+
+Description: Lysyl-trna synthetase, class ii [source:vb community annotation].
+
+TODO

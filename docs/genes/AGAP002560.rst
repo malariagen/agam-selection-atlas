@@ -1,0 +1,9 @@
+
+AGAP002560
+=============
+
+Name: **Orco**
+
+Description: Odorant receptor obligate co-receptor (orco, or7) [source:vb community annotation].
+
+TODO

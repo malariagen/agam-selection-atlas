@@ -1,0 +1,9 @@
+
+AGAP001036
+=============
+
+
+
+Description: G protein beta subunit-like [source:vb community annotation].
+
+TODO

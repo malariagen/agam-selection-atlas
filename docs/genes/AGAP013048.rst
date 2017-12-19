@@ -1,0 +1,9 @@
+
+AGAP013048
+=============
+
+
+
+Description: Sra stem-loop-interacting rna-binding protein, mitochondrial precursor [source:vb community annotation].
+
+TODO

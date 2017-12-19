@@ -1,0 +1,9 @@
+
+AGAP001481
+=============
+
+
+
+Description: Biotin--protein ligase [source:vb community annotation].
+
+TODO

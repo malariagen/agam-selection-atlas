@@ -1,0 +1,9 @@
+
+AGAP007545
+=============
+
+
+
+Description: Contactin associated protein-like 2 [source:vb community annotation].
+
+TODO

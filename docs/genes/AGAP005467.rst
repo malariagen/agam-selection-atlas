@@ -1,0 +1,9 @@
+
+AGAP005467
+=============
+
+
+
+Description: Vigilin [source:vb community annotation].
+
+TODO

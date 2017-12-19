@@ -1,0 +1,9 @@
+
+AGAP004576
+=============
+
+Name: **TWDL12**
+
+Description: Cuticular protein twdl family (twdl12) [source:vb community annotation].
+
+TODO

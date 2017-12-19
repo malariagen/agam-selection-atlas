@@ -1,0 +1,9 @@
+
+AGAP012841
+=============
+
+
+
+Description: N-acylsphingosine amidohydrolase (non-lysosomal ceramidase) 2b [source:vb community annotation].
+
+TODO

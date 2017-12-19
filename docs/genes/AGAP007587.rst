@@ -1,0 +1,9 @@
+
+AGAP007587
+=============
+
+
+
+Description: Protein kinase n [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005116
+=============
+
+
+
+Description: Coiled-coil domain containing 101 [source:vb community annotation].
+
+TODO

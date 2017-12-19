@@ -1,0 +1,9 @@
+
+AGAP010538
+=============
+
+
+
+Description: M-phase phosphoprotein [source:vb community annotation].
+
+TODO

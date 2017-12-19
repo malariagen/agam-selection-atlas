@@ -1,0 +1,9 @@
+
+AGAP000815
+=============
+
+Name: **INTB**
+
+Description: Integrin beta subunit [source:vb community annotation].
+
+TODO

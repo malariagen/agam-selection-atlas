@@ -1,0 +1,9 @@
+
+AGAP013350
+=============
+
+
+
+Description: Alpha-tocopherol transfer protein-like [source:vb community annotation].
+
+TODO

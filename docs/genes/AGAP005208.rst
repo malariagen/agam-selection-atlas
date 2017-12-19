@@ -1,0 +1,9 @@
+
+AGAP005208
+=============
+
+Name: **OBP20**
+
+Description: Odorant-binding protein 20 [source:vb community annotation].
+
+TODO

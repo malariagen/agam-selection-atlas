@@ -1,0 +1,9 @@
+
+AGAP010648
+=============
+
+Name: **OBP44**
+
+Description: Odorant-binding protein 44 [source:vb community annotation].
+
+TODO

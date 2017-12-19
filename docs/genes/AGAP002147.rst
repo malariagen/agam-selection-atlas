@@ -1,0 +1,9 @@
+
+AGAP002147
+=============
+
+
+
+Description: Protein phosphatase [source:vb community annotation].
+
+TODO

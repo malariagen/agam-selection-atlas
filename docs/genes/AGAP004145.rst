@@ -1,0 +1,9 @@
+
+AGAP004145
+=============
+
+
+
+Description: Rna-binding protein pno1 [source:vb community annotation].
+
+TODO

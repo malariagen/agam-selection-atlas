@@ -1,0 +1,9 @@
+
+AGAP012194
+=============
+
+
+
+Description: Dnaj (hsp40) homolog, subfamily b [source:vb community annotation].
+
+TODO

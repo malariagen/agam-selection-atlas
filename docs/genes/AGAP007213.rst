@@ -1,0 +1,9 @@
+
+AGAP007213
+=============
+
+
+
+Description: Mitogen-activated protein-binding protein-interacting protein [source:vb community annotation].
+
+TODO

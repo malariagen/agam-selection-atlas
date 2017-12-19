@@ -1,0 +1,9 @@
+
+AGAP000061
+=============
+
+
+
+Description: One cut domain family member [source:uniprotkb/trembl;acc:a0ncm1].
+
+TODO

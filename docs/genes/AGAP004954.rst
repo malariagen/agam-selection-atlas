@@ -1,0 +1,9 @@
+
+AGAP004954
+=============
+
+
+
+Description: Rhythmically expressed gene 2 protein [source:vb community annotation].
+
+TODO

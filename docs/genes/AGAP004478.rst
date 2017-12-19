@@ -1,0 +1,9 @@
+
+AGAP004478
+=============
+
+
+
+Description: Atp synthase subunit s, mitochondrial precursor [source:vb community annotation].
+
+TODO

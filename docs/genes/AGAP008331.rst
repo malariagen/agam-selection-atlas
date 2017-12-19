@@ -1,0 +1,9 @@
+
+AGAP008331
+=============
+
+
+
+Description: Wd repeat-containing protein 59 [source:vb community annotation].
+
+TODO

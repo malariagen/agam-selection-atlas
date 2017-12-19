@@ -1,0 +1,9 @@
+
+AGAP005691
+=============
+
+
+
+Description: Chymotrypsinogen [source:vb community annotation].
+
+TODO

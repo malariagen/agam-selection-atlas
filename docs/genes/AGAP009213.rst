@@ -1,0 +1,9 @@
+
+AGAP009213
+=============
+
+Name: **SRPN16**
+
+Description: Serine protease inhibitor (serpin) 16 [source:vb community annotation].
+
+TODO

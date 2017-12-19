@@ -1,0 +1,9 @@
+
+AGAP000022
+=============
+
+
+
+Description: Amino acid transporter protein [source:vb community annotation].
+
+TODO

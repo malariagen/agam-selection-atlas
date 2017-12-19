@@ -1,0 +1,9 @@
+
+AGAP004806
+=============
+
+Name: **GALE6**
+
+Description: Galectin 6 [source:vb community annotation].
+
+TODO

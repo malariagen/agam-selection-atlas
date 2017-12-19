@@ -1,0 +1,9 @@
+
+AGAP009684
+=============
+
+
+
+Description: Mfs transporter, pcft/hcp family, solute carrier family 46 (folate transporter [source:vb community annotation].
+
+TODO

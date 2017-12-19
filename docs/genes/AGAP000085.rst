@@ -1,0 +1,9 @@
+
+AGAP000085
+=============
+
+Name: **CPR129**
+
+Description: Cuticular protein rr-2 family 129 [source:vb community annotation].
+
+TODO

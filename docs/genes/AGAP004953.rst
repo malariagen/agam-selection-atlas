@@ -1,0 +1,9 @@
+
+AGAP004953
+=============
+
+
+
+Description: G protein pathway suppressor 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004745
+=============
+
+
+
+Description: Transcription elongation regulator 1 [source:vb community annotation].
+
+TODO

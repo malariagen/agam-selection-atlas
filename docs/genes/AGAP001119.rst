@@ -1,0 +1,9 @@
+
+AGAP001119
+=============
+
+Name: **Gr39**
+
+Description: Gustatory receptor 39 [source:vb community annotation].
+
+TODO

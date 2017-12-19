@@ -1,0 +1,9 @@
+
+AGAP028151
+=============
+
+Name: **CPLCG24**
+
+Description: Cuticular protein cplcg family (cplcg24) [source:vb community annotation].
+
+TODO

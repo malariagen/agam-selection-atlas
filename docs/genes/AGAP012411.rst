@@ -1,0 +1,9 @@
+
+AGAP012411
+=============
+
+
+
+Description: T-cell specific transcription factor [source:vb community annotation].
+
+TODO

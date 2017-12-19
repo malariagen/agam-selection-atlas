@@ -1,0 +1,9 @@
+
+AGAP000515
+=============
+
+
+
+Description: Enhancer of rudimentary protein [source:vb community annotation].
+
+TODO

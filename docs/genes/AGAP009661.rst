@@ -1,0 +1,9 @@
+
+AGAP009661
+=============
+
+Name: **GPRNNB2**
+
+Description: Putative gpcr class b orphan receptor 2 [source:vb community annotation].
+
+TODO

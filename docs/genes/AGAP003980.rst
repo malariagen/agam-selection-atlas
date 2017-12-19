@@ -1,0 +1,9 @@
+
+AGAP003980
+=============
+
+
+
+Description: Vacuolar protein sorting-associated protein 45 [source:vb community annotation].
+
+TODO

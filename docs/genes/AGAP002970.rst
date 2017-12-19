@@ -1,0 +1,9 @@
+
+AGAP002970
+=============
+
+
+
+Description: Importin-11 [source:vb community annotation].
+
+TODO

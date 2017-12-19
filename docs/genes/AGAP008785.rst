@@ -1,0 +1,9 @@
+
+AGAP008785
+=============
+
+
+
+Description: Ras suppressor protein 1 [source:vb community annotation].
+
+TODO

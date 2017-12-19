@@ -1,0 +1,9 @@
+
+AGAP007866
+=============
+
+Name: **SPZ4**
+
+Description: Spaetzle-like cytokine 4 [source:vb community annotation].
+
+TODO

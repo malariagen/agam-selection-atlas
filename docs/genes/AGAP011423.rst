@@ -1,0 +1,9 @@
+
+AGAP011423
+=============
+
+
+
+Description: 20s proteasome subunit beta 2 [source:vb community annotation].
+
+TODO

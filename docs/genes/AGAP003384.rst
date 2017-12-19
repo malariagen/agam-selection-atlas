@@ -1,0 +1,9 @@
+
+AGAP003384
+=============
+
+Name: **CPR122**
+
+Description: Cuticular protein rr-2 family 122 [source:vb community annotation].
+
+TODO

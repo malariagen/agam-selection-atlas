@@ -1,0 +1,9 @@
+
+AGAP002922
+=============
+
+
+
+Description: Secretory carrier-associated membrane protein [source:uniprotkb/trembl;acc:q7qd28].
+
+TODO

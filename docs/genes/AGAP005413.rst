@@ -1,0 +1,9 @@
+
+AGAP005413
+=============
+
+
+
+Description: Survival of motor neuron protein-interacting protein 1 [source:vb community annotation].
+
+TODO

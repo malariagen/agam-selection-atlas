@@ -1,0 +1,9 @@
+
+AGAP011030
+=============
+
+
+
+Description: Microtubule-associated serine/threonine kinase [source:vb community annotation].
+
+TODO

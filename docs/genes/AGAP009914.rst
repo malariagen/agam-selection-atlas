@@ -1,0 +1,9 @@
+
+AGAP009914
+=============
+
+
+
+Description: Nuclear distribution protein nude [source:vb community annotation].
+
+TODO

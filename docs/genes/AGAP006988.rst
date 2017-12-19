@@ -1,0 +1,9 @@
+
+AGAP006988
+=============
+
+
+
+Description: Muscle, skeletal, receptor tyrosine kinase [source:vb community annotation].
+
+TODO

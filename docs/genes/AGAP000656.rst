@@ -1,0 +1,9 @@
+
+AGAP000656
+=============
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7qeh0].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001146
+=============
+
+
+
+Description: U3 small nucleolar rna-associated protein 12 [source:vb community annotation].
+
+TODO

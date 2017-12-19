@@ -1,0 +1,9 @@
+
+AGAP004164
+=============
+
+Name: **GSTD1-4**
+
+Description: Glutathione s-transferase delta class 1 [source:vb community annotation].
+
+TODO

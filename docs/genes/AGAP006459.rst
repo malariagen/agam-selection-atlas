@@ -1,0 +1,9 @@
+
+AGAP006459
+=============
+
+Name: **SUI1**
+
+Description: Protein translation factor sui1 [source:vb community annotation].
+
+TODO

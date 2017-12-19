@@ -1,0 +1,9 @@
+
+AGAP010710
+=============
+
+
+
+Description: Tyrosine-protein kinase shark [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008830
+=============
+
+
+
+Description: Non-lysosomal glucosylceramidase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006407
+=============
+
+Name: **IR142**
+
+Description: Ionotropic receptor ir142 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003945
+=============
+
+
+
+Description: Olypyrimidine tract-binding protein 2 [source:vb community annotation].
+
+TODO

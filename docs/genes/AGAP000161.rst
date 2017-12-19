@@ -1,0 +1,9 @@
+
+AGAP000161
+=============
+
+
+
+Description: Adaptor-related protein complex 3, delta 1 subunit [source:vb community annotation].
+
+TODO

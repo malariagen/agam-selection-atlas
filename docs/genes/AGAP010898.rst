@@ -1,0 +1,9 @@
+
+AGAP010898
+=============
+
+
+
+Description: Meiotic recombination protein [source:vb community annotation].
+
+TODO

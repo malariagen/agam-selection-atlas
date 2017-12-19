@@ -1,0 +1,9 @@
+
+AGAP000978
+=============
+
+
+
+Description: Origin recognition complex subunit 5 [source:vb community annotation].
+
+TODO

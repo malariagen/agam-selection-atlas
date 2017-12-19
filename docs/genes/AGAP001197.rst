@@ -1,0 +1,9 @@
+
+AGAP001197
+=============
+
+Name: **GALE10**
+
+Description: Galectin 10 [source:vb community annotation].
+
+TODO

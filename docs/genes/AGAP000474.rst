@@ -1,0 +1,9 @@
+
+AGAP000474
+=============
+
+
+
+Description: Origin recognition complex subunit 2 [source:vb community annotation].
+
+TODO

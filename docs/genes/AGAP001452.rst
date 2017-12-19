@@ -1,0 +1,9 @@
+
+AGAP001452
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 q [source:vb community annotation].
+
+TODO

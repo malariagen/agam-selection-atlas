@@ -1,0 +1,9 @@
+
+AGAP003091
+=============
+
+
+
+Description: Sterol carrier protein 2 variant 2 [source:vb community annotation].
+
+TODO

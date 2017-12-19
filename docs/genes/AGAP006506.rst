@@ -1,0 +1,9 @@
+
+AGAP006506
+=============
+
+Name: **SG2**
+
+Description: Salivary gland protein 2 [source:vb community annotation].
+
+TODO

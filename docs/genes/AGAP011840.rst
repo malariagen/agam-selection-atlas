@@ -1,0 +1,9 @@
+
+AGAP011840
+=============
+
+
+
+Description: Protein kinase a [source:vb community annotation].
+
+TODO

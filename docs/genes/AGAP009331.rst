@@ -1,0 +1,9 @@
+
+AGAP009331
+=============
+
+
+
+Description: Slowpoke-binding protein [source:vb community annotation].
+
+TODO

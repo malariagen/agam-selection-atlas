@@ -1,0 +1,9 @@
+
+AGAP001487
+=============
+
+Name: **shakB**
+
+Description: Innexin shaking-b [source:uniprotkb/swiss-prot;acc:q7pxn1].
+
+TODO

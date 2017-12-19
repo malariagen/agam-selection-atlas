@@ -1,0 +1,9 @@
+
+AGAP000502
+=============
+
+
+
+Description: Echinoderm microtubule-associated protein-like 2 [source:vb community annotation].
+
+TODO

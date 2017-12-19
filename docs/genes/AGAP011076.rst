@@ -1,0 +1,9 @@
+
+AGAP011076
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 i [source:vb community annotation].
+
+TODO

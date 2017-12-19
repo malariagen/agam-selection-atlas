@@ -1,0 +1,9 @@
+
+AGAP013465
+=============
+
+Name: **CPLCP1**
+
+Description: Cuticular protein (putative) cplcp1 [source:vb community annotation].
+
+TODO

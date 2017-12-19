@@ -1,0 +1,9 @@
+
+AGAP004443
+=============
+
+
+
+Description: Glycogen synthase kinase 3 beta [source:vb community annotation].
+
+TODO

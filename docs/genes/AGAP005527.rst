@@ -1,0 +1,9 @@
+
+AGAP005527
+=============
+
+Name: **NMDAR3**
+
+Description: Ionotropic receptor nmdar3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003168
+=============
+
+
+
+Description: Isocitrate dehydrogenase [nadp] [source:uniprotkb/trembl;acc:q7pqq3].
+
+TODO

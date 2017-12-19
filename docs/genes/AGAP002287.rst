@@ -1,0 +1,9 @@
+
+AGAP002287
+=============
+
+
+
+Description: Protein o-glcnacase / histone acetyltransferase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002105
+=============
+
+
+
+Description: Atp synthase lipid-binding protein, mitochondrial [source:vb community annotation].
+
+TODO

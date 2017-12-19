@@ -1,0 +1,9 @@
+
+AGAP002800
+=============
+
+
+
+Description: Gephyrin [source:vb community annotation].
+
+TODO

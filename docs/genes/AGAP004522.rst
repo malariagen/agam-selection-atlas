@@ -1,0 +1,9 @@
+
+AGAP004522
+=============
+
+
+
+Description: Tbc1 domain family member 22b [source:vb community annotation].
+
+TODO

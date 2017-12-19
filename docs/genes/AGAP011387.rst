@@ -1,0 +1,9 @@
+
+AGAP011387
+=============
+
+
+
+Description: Ribosome assembly protein sqt1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008046
+=============
+
+
+
+Description: Protein kinase c and casein kinase substrate in neurons 2 protein [source:vb community annotation].
+
+TODO

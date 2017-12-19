@@ -1,0 +1,9 @@
+
+AGAP009657
+=============
+
+
+
+Description: Loss of heterozygosity 12 chromosomal region 1 protein-like protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000406
+=============
+
+
+
+Description: Rho-associated protein kinase [source:vb community annotation].
+
+TODO

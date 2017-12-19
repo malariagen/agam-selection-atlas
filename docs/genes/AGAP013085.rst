@@ -1,0 +1,9 @@
+
+AGAP013085
+=============
+
+Name: **IR75g**
+
+Description: Ionotropic receptor ir75g [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006616
+=============
+
+
+
+Description: Presequence protease, mitochondrial [source:vb community annotation].
+
+TODO

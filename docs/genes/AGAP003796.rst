@@ -1,0 +1,9 @@
+
+AGAP003796
+=============
+
+
+
+Description: Cyclin-dependent kinases regulatory subunit 1 [source:vb community annotation].
+
+TODO

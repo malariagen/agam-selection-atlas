@@ -1,0 +1,9 @@
+
+AGAP009001
+=============
+
+
+
+Description: Histidine decarboxylase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001104
+=============
+
+
+
+Description: Chromatin assembly factor 1 subunit a [source:vb community annotation].
+
+TODO

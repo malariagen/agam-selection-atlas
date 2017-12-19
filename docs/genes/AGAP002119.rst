@@ -1,0 +1,9 @@
+
+AGAP002119
+=============
+
+
+
+Description: Dual-specificity tyrosine-(y)-phosphorylation regulated kinase [source:vb community annotation].
+
+TODO

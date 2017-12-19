@@ -1,0 +1,9 @@
+
+AGAP007423
+=============
+
+
+
+Description: Chromosome transmission fidelity protein 4 [source:vb community annotation].
+
+TODO

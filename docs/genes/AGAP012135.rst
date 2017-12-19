@@ -1,0 +1,9 @@
+
+AGAP012135
+=============
+
+
+
+Description: 26s proteasome regulatory subunit n8 [source:vb community annotation].
+
+TODO

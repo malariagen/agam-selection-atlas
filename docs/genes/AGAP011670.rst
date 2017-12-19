@@ -1,0 +1,9 @@
+
+AGAP011670
+=============
+
+
+
+Description: Transcription initiation protein spt3 [source:vb community annotation].
+
+TODO

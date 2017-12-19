@@ -1,0 +1,9 @@
+
+AGAP006469
+=============
+
+
+
+Description: Cell growth-regulating nucleolar protein [source:vb community annotation].
+
+TODO

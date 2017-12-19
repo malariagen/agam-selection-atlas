@@ -1,0 +1,9 @@
+
+AGAP000553
+=============
+
+Name: **white**
+
+Description: Protein white [source:vb community annotation].
+
+TODO

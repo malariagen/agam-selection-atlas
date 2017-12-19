@@ -1,0 +1,9 @@
+
+AGAP000313
+=============
+
+
+
+Description: Alanine-glyoxylate aminotransferase 2-like [source:vb community annotation].
+
+TODO

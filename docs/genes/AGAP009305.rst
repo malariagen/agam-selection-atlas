@@ -1,0 +1,9 @@
+
+AGAP009305
+=============
+
+
+
+Description: Glucosamine-6-phosphate isomerase [source:vb community annotation].
+
+TODO

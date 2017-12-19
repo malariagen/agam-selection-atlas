@@ -1,0 +1,9 @@
+
+AGAP010423
+=============
+
+Name: **STAT**
+
+Description: Jakstat pathway signalling transcription factor [source:vb community annotation].
+
+TODO

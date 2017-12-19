@@ -1,0 +1,9 @@
+
+AGAP009350
+=============
+
+
+
+Description: Ets translocation variant 6/7 [source:vb community annotation].
+
+TODO

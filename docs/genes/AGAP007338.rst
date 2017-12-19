@@ -1,0 +1,9 @@
+
+AGAP007338
+=============
+
+
+
+Description: Sodium/potassium/calcium exchanger 6 [source:vb community annotation].
+
+TODO

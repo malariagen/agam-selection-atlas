@@ -1,0 +1,9 @@
+
+AGAP010064
+=============
+
+
+
+Description: Dna-directed rna polymerases i, ii, and iii subunit rpabc1 [source:vb community annotation].
+
+TODO

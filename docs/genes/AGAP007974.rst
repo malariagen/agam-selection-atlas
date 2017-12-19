@@ -1,0 +1,9 @@
+
+AGAP007974
+=============
+
+Name: **drm**
+
+Description: Protein drumstick [source:uniprotkb/swiss-prot;acc:q7pn68].
+
+TODO

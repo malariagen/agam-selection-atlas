@@ -1,0 +1,9 @@
+
+AGAP010120
+=============
+
+Name: **CPR97**
+
+Description: Cuticular protein rr-2 family 97 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010936
+=============
+
+Name: **Med18**
+
+Description: Mediator of rna polymerase ii transcription subunit 18 [source:vb community annotation].
+
+TODO

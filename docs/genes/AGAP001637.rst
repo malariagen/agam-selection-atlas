@@ -1,0 +1,9 @@
+
+AGAP001637
+=============
+
+Name: **sosie**
+
+Description: Protein sosie [source:vb community annotation].
+
+TODO

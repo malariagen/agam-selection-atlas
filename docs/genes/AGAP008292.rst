@@ -1,0 +1,9 @@
+
+AGAP008292
+=============
+
+Name: **TRYP4**
+
+Description: Trypsin 4 [source:vb community annotation].
+
+TODO

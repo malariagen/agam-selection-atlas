@@ -1,0 +1,9 @@
+
+AGAP003222
+=============
+
+
+
+Description: Phosphatidylinositol glycan, class n [source:vb community annotation].
+
+TODO

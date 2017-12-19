@@ -1,0 +1,9 @@
+
+AGAP005514
+=============
+
+Name: **Gr47**
+
+Description: Gustatory receptor 47 [source:vb community annotation].
+
+TODO

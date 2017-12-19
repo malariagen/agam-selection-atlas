@@ -1,0 +1,9 @@
+
+AGAP005772
+=============
+
+
+
+Description: Cyclin-dependent kinase 5 [source:vb community annotation].
+
+TODO

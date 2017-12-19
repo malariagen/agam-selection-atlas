@@ -1,0 +1,9 @@
+
+AGAP000708
+=============
+
+
+
+Description: Phosphorylase kinase alpha/beta subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000700
+=============
+
+
+
+Description: Vesicle-associated membrane protein 7 [source:vb community annotation].
+
+TODO

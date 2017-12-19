@@ -1,0 +1,9 @@
+
+AGAP008528
+=============
+
+
+
+Description: Pre-mrna-splicing factor atp-dependent rna helicase prp16 [source:vb community annotation].
+
+TODO

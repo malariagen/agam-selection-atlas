@@ -1,0 +1,9 @@
+
+AGAP006392
+=============
+
+
+
+Description: High mobility group protein 2-like 1 [source:vb community annotation].
+
+TODO

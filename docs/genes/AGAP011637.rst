@@ -1,0 +1,9 @@
+
+AGAP011637
+=============
+
+Name: **snRNP-U1-A**
+
+Description: U1 small nuclear ribonucleoprotein a [source:vb community annotation].
+
+TODO

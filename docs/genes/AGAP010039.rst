@@ -1,0 +1,9 @@
+
+AGAP010039
+=============
+
+Name: **NADH_dehyd**
+
+Description: Nadh dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (fragment) [source:uniprotkb/trembl;acc:q7pmh3].
+
+TODO

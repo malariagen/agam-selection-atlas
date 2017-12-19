@@ -1,0 +1,9 @@
+
+AGAP003192
+=============
+
+
+
+Description: Alpha-soluble nsf attachment protein [source:vb community annotation].
+
+TODO

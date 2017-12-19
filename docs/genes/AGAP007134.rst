@@ -1,0 +1,9 @@
+
+AGAP007134
+=============
+
+
+
+Description: Elongation of very long chain fatty acids protein [source:uniprotkb/trembl;acc:q7qiy7].
+
+TODO

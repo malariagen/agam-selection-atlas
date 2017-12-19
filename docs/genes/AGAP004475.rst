@@ -1,0 +1,9 @@
+
+AGAP004475
+=============
+
+Name: **IR100i**
+
+Description: Ionotropic receptor ir100i [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010164
+=============
+
+Name: **whd**
+
+Description: Protein withered, carnitine o-palmitoyltransferase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009988
+=============
+
+Name: **mRpL10**
+
+Description: 39s ribosomal protein l10, mitochondrial [source:vb community annotation].
+
+TODO

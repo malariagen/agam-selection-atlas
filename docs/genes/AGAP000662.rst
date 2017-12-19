@@ -1,0 +1,9 @@
+
+AGAP000662
+=============
+
+
+
+Description: Forkhead box protein k [source:vb community annotation].
+
+TODO

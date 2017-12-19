@@ -1,0 +1,9 @@
+
+AGAP006394
+=============
+
+
+
+Description: Adp-dependent glucokinase [source:vb community annotation].
+
+TODO

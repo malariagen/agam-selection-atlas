@@ -1,0 +1,9 @@
+
+AGAP007670
+=============
+
+
+
+Description: U2 small nuclear ribonucleoprotein a [source:vb community annotation].
+
+TODO

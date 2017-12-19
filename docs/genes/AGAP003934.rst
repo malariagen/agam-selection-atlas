@@ -1,0 +1,9 @@
+
+AGAP003934
+=============
+
+
+
+Description: Battenin [source:uniprotkb/trembl;acc:q7q2b1].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005427
+=============
+
+Name: **RpL28**
+
+Description: 60s ribosomal protein l28 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003413
+=============
+
+
+
+Description: Alanyl-trna synthetase domain-containing protein 1 [source:vb community annotation].
+
+TODO

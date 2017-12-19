@@ -1,0 +1,9 @@
+
+AGAP001945
+=============
+
+
+
+Description: Uncharacterized protein cg12001 [source:vb community annotation].
+
+TODO

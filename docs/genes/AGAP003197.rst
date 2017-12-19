@@ -1,0 +1,9 @@
+
+AGAP003197
+=============
+
+
+
+Description: Fatty acyl-coa elongase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008440
+=============
+
+
+
+Description: Urate oxidase [source:vb community annotation].
+
+TODO

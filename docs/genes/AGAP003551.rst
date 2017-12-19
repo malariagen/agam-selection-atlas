@@ -1,0 +1,9 @@
+
+AGAP003551
+=============
+
+
+
+Description: Beta-1,4-mannosyltransferase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010509
+=============
+
+
+
+Description: Organic cation transporter 3 [source:vb community annotation].
+
+TODO

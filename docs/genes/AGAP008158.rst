@@ -1,0 +1,9 @@
+
+AGAP008158
+=============
+
+
+
+Description: Dcmp deaminase [source:vb community annotation].
+
+TODO

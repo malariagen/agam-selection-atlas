@@ -1,0 +1,9 @@
+
+AGAP004064
+=============
+
+
+
+Description: Rna-binding protein nob1 [source:vb community annotation].
+
+TODO

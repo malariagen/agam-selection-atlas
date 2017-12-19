@@ -1,0 +1,9 @@
+
+AGAP006532
+=============
+
+
+
+Description: Udpglucose 6-dehydrogenase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002227
+=============
+
+
+
+Description: Pyridoxamine 5'-phosphate oxidase [source:vb community annotation].
+
+TODO

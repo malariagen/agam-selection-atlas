@@ -1,0 +1,9 @@
+
+AGAP008926
+=============
+
+
+
+Description: Shingomyelin synthase [source:vb community annotation].
+
+TODO

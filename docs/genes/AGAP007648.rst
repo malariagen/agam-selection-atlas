@@ -1,0 +1,9 @@
+
+AGAP007648
+=============
+
+Name: **pk**
+
+Description: Protein prickle [source:uniprotkb/swiss-prot;acc:q7qjt4].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012098
+=============
+
+
+
+Description: Kinase [source:vb community annotation].
+
+TODO

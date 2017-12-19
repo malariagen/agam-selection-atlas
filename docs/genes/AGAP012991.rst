@@ -1,0 +1,9 @@
+
+AGAP012991
+=============
+
+
+
+Description: Fascin [source:uniprotkb/trembl;acc:f5hlz2].
+
+TODO

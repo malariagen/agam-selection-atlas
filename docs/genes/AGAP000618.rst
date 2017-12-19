@@ -1,0 +1,9 @@
+
+AGAP000618
+=============
+
+
+
+Description: Succinate dehydrogenase (ubiquinone) membrane anchor subunit [source:vb community annotation].
+
+TODO

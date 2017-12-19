@@ -1,0 +1,9 @@
+
+AGAP001490
+=============
+
+
+
+Description: 26s proteasome non-atpase regulatory subunit 5 [source:vb community annotation].
+
+TODO

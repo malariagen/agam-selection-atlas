@@ -1,0 +1,9 @@
+
+AGAP004989
+=============
+
+
+
+Description: Abelson tyrosine-protein kinase 1 [source:vb community annotation].
+
+TODO

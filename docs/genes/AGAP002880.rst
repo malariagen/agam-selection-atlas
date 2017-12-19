@@ -1,0 +1,9 @@
+
+AGAP002880
+=============
+
+
+
+Description: Cop9 signalosome complex subunit 5 [source:vb community annotation].
+
+TODO

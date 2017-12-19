@@ -1,0 +1,9 @@
+
+AGAP008941
+=============
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 d/e [source:vb community annotation].
+
+TODO

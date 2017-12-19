@@ -1,0 +1,9 @@
+
+AGAP001032
+=============
+
+
+
+Description: Interferon-related developmental regulator 1 [source:vb community annotation].
+
+TODO

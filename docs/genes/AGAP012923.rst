@@ -1,0 +1,9 @@
+
+AGAP012923
+=============
+
+
+
+Description: Asparagine synthetase b [source:vb community annotation].
+
+TODO

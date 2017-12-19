@@ -1,0 +1,9 @@
+
+AGAP003237
+=============
+
+
+
+Description: Tubulin, alpha 1 [source:vb community annotation].
+
+TODO

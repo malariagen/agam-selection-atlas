@@ -1,0 +1,9 @@
+
+AGAP003264
+=============
+
+
+
+Description: Histone acetyltransferase 1 [source:vb community annotation].
+
+TODO

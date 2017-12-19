@@ -1,0 +1,9 @@
+
+AGAP010812
+=============
+
+Name: **TEP4**
+
+Description: Thioester-containing protein 4 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008234
+=============
+
+
+
+Description: Ntf2-related export protein 1/2 [source:vb community annotation].
+
+TODO

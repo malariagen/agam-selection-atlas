@@ -1,0 +1,9 @@
+
+AGAP004359
+=============
+
+
+
+Description: Integrator complex subunit 12 [source:vb community annotation].
+
+TODO

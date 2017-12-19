@@ -1,0 +1,9 @@
+
+AGAP003490
+=============
+
+
+
+Description: Alanine-glyoxylate aminotransferase [source:vb community annotation].
+
+TODO

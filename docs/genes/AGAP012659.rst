@@ -1,0 +1,9 @@
+
+AGAP012659
+=============
+
+Name: **Obp67**
+
+Description: Odorant-binding protein [source:vb community annotation].
+
+TODO

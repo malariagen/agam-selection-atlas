@@ -1,0 +1,9 @@
+
+AGAP007390
+=============
+
+
+
+Description: Peptide-n4-(n-acetyl-beta-glucosaminyl)asparagine amidase [source:vb community annotation].
+
+TODO

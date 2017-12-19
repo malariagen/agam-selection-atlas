@@ -1,0 +1,9 @@
+
+AGAP009738
+=============
+
+Name: **GRX3**
+
+Description: Glutaredoxin [source:vb community annotation].
+
+TODO

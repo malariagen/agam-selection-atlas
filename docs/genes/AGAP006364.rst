@@ -1,0 +1,9 @@
+
+AGAP006364
+=============
+
+Name: **ABCB4**
+
+Description: Atp-binding cassette transporter (abc transporter) family b member 4 [source:vb community annotation].
+
+TODO

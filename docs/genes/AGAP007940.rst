@@ -1,0 +1,9 @@
+
+AGAP007940
+=============
+
+
+
+Description: Reticulon-like protein [source:uniprotkb/trembl;acc:a0a1s4gwr7].
+
+TODO

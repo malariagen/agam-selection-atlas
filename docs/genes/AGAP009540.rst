@@ -1,0 +1,9 @@
+
+AGAP009540
+=============
+
+
+
+Description: Glucose dehydrogenase (acceptor) [source:vb community annotation].
+
+TODO

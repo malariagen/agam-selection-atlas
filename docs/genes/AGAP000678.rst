@@ -1,0 +1,9 @@
+
+AGAP000678
+=============
+
+
+
+Description: Wd repeat-containing protein 68 [source:vb community annotation].
+
+TODO

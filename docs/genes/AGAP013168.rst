@@ -1,0 +1,9 @@
+
+AGAP013168
+=============
+
+Name: **Mocs2**
+
+Description: Molybdopterin synthase catalytic subunit [source:uniprotkb/swiss-prot;acc:q7qad7].
+
+TODO

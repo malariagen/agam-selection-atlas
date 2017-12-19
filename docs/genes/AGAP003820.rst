@@ -1,0 +1,9 @@
+
+AGAP003820
+=============
+
+
+
+Description: Lin-10 homolog [source:vb community annotation].
+
+TODO

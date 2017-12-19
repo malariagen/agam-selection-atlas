@@ -1,0 +1,9 @@
+
+AGAP002600
+=============
+
+
+
+Description: Trna nucleotidyltransferase (cca-adding enzyme) [source:vb community annotation].
+
+TODO

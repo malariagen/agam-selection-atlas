@@ -1,0 +1,9 @@
+
+AGAP009750
+=============
+
+
+
+Description: Centrosomal protein cep104 [source:vb community annotation].
+
+TODO

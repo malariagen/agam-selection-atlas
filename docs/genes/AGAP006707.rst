@@ -1,0 +1,9 @@
+
+AGAP006707
+=============
+
+
+
+Description: Serine-type enodpeptidase [source:vb community annotation].
+
+TODO

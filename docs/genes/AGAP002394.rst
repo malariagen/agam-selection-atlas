@@ -1,0 +1,9 @@
+
+AGAP002394
+=============
+
+
+
+Description: Dna-directed rna polymerase iii subunit rpc3 [source:vb community annotation].
+
+TODO

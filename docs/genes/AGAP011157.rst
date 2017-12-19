@@ -1,0 +1,9 @@
+
+AGAP011157
+=============
+
+
+
+Description: Cytosolic prostaglandin-e synthase [source:vb community annotation].
+
+TODO

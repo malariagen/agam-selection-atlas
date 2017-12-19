@@ -1,0 +1,9 @@
+
+AGAP007864
+=============
+
+
+
+Description: F-actin capping protein subunit beta [source:vb community annotation].
+
+TODO

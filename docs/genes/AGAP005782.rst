@@ -1,0 +1,9 @@
+
+AGAP005782
+=============
+
+Name: **ASNA1**
+
+Description: Arsenical pump-driving atpase [source:vb community annotation].
+
+TODO

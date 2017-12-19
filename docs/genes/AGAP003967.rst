@@ -1,0 +1,9 @@
+
+AGAP003967
+=============
+
+
+
+Description: Dna-dependent protein kinase catalytic subunit [source:vb community annotation].
+
+TODO

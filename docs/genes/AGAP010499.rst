@@ -1,0 +1,9 @@
+
+AGAP010499
+=============
+
+Name: **AD20590**
+
+Description: S-(hydroxymethyl)glutathione dehydrogenase [source:uniprotkb/trembl;acc:a0a1s4h465].
+
+TODO

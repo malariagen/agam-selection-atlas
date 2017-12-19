@@ -1,0 +1,9 @@
+
+AGAP007391
+=============
+
+
+
+Description: Coenzyme q10 homolog b (s. cerevisiae) [source:vb community annotation].
+
+TODO

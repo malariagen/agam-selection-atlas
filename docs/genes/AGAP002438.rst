@@ -1,0 +1,9 @@
+
+AGAP002438
+=============
+
+
+
+Description: Tyrosine-protein phosphatase non-receptor type 11 [source:vb community annotation].
+
+TODO

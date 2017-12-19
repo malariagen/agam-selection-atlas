@@ -1,0 +1,9 @@
+
+AGAP007068
+=============
+
+
+
+Description: Ring finger protein 113a [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP028617
+=============
+
+
+
+Description: Sortilin-related receptor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009842
+=============
+
+
+
+Description: Ribonuclease t2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003244
+=============
+
+Name: **GPRGHP2**
+
+Description: Putative growth hormone releasing hormone receptor 2 [source:vb community annotation].
+
+TODO

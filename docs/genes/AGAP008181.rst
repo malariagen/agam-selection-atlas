@@ -1,0 +1,9 @@
+
+AGAP008181
+=============
+
+
+
+Description: Protein smg5 [source:vb community annotation].
+
+TODO

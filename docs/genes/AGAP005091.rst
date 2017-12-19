@@ -1,0 +1,9 @@
+
+AGAP005091
+=============
+
+
+
+Description: Protein gdap2 homolog [source:vb community annotation].
+
+TODO

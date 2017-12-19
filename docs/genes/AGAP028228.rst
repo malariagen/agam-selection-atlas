@@ -1,0 +1,9 @@
+
+AGAP028228
+=============
+
+Name: **CPLCP4**
+
+Description: Cuticular protein (putative) cplcp4 [source:vb community annotation].
+
+TODO

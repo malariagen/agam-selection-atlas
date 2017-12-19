@@ -1,0 +1,9 @@
+
+AGAP000530
+=============
+
+
+
+Description: Werner syndrome-like exonuclease [source:vb community annotation].
+
+TODO

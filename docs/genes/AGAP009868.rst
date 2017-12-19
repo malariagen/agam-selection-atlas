@@ -1,0 +1,9 @@
+
+AGAP009868
+=============
+
+Name: **CPR73**
+
+Description: Cuticular protein rr-1 family 73 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006167
+=============
+
+Name: **Or6**
+
+Description: Odorant receptor 6 [source:vb community annotation].
+
+TODO

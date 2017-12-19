@@ -1,0 +1,9 @@
+
+AGAP007240
+=============
+
+
+
+Description: Enkurin, trpc channel interacting protein [source:vb community annotation].
+
+TODO

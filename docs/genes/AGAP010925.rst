@@ -1,0 +1,9 @@
+
+AGAP010925
+=============
+
+
+
+Description: Eukaryotic translation initiation factor 2-alpha kinase 1 [source:vb community annotation].
+
+TODO

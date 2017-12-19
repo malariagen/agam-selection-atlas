@@ -1,0 +1,9 @@
+
+AGAP002350
+=============
+
+
+
+Description: Troponin t, fast skeletal muscle [source:vb community annotation].
+
+TODO

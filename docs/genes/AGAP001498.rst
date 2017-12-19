@@ -1,0 +1,9 @@
+
+AGAP001498
+=============
+
+Name: **GPROPDR**
+
+Description: Putative opioid receptor [source:vb community annotation].
+
+TODO

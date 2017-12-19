@@ -1,0 +1,9 @@
+
+AGAP000320
+=============
+
+
+
+Description: Dynein intermediate chain, cytosolic [source:vb community annotation].
+
+TODO

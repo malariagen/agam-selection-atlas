@@ -1,0 +1,9 @@
+
+AGAP001377
+=============
+
+Name: **SRPN11**
+
+Description: Serine protease inhibitor (serpin) 11 [source:vb community annotation].
+
+TODO

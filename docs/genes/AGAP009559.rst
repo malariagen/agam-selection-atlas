@@ -1,0 +1,9 @@
+
+AGAP009559
+=============
+
+
+
+Description: Transcription initiation factor tfiib [source:vb community annotation].
+
+TODO

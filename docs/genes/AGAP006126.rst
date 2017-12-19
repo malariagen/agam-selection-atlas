@@ -1,0 +1,9 @@
+
+AGAP006126
+=============
+
+Name: **GPROP8**
+
+Description: Ultraviolet wavelength sensitive opsin [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008550
+=============
+
+
+
+Description: Polycomb protein eed [source:vb community annotation].
+
+TODO

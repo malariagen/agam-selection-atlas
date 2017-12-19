@@ -1,0 +1,9 @@
+
+AGAP001952
+=============
+
+
+
+Description: Cytosol aminopeptidase [source:vb community annotation].
+
+TODO

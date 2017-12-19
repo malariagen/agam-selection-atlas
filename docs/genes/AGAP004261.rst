@@ -1,0 +1,9 @@
+
+AGAP004261
+=============
+
+Name: **CRY2**
+
+Description: Cryptochrome 2 [source:vb community annotation].
+
+TODO

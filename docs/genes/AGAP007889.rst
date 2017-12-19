@@ -1,0 +1,9 @@
+
+AGAP007889
+=============
+
+
+
+Description: Udp-n-acetylglucosamine pyrophosphorylase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006389
+=============
+
+
+
+Description: Ribonuclease kappa [source:vb community annotation].
+
+TODO

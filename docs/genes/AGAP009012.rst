@@ -1,0 +1,9 @@
+
+AGAP009012
+=============
+
+
+
+Description: Ubiquitin-like modifier-activating enzyme 5 [source:vb community annotation].
+
+TODO

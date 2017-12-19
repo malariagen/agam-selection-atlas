@@ -1,0 +1,9 @@
+
+AGAP012083
+=============
+
+
+
+Description: Trafficking protein particle complex 5 [source:vb community annotation].
+
+TODO

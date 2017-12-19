@@ -1,0 +1,9 @@
+
+AGAP011915
+=============
+
+Name: **Gr35**
+
+Description: Gustatory receptor 35 [source:vb community annotation].
+
+TODO

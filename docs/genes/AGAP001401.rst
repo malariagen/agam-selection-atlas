@@ -1,0 +1,9 @@
+
+AGAP001401
+=============
+
+
+
+Description: Optic atrophy 3 family protein [source:vb community annotation].
+
+TODO

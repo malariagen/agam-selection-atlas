@@ -1,0 +1,9 @@
+
+AGAP000500
+=============
+
+Name: **Cpr**
+
+Description: Nadph cytochrome p450 reductase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012641
+=============
+
+
+
+Description: Aldose reductase [source:vb community annotation].
+
+TODO

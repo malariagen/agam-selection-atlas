@@ -1,0 +1,9 @@
+
+AGAP002320
+=============
+
+
+
+Description: Isochorismatase domain-containing protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005177
+=============
+
+
+
+Description: Intraflagellar transport 46 homolog [source:vb community annotation].
+
+TODO

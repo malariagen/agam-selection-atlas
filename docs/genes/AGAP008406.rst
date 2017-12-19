@@ -1,0 +1,9 @@
+
+AGAP008406
+=============
+
+
+
+Description: Geranylgeranyl transferase type-1 subunit beta [source:vb community annotation].
+
+TODO

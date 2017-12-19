@@ -1,0 +1,9 @@
+
+AGAP010735
+=============
+
+Name: **HPX12**
+
+Description: Heme peroxidase 12 [source:uniprotkb/trembl;acc:a0a1s4h5n0].
+
+TODO

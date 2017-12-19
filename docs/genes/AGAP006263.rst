@@ -1,0 +1,9 @@
+
+AGAP006263
+=============
+
+Name: **ARR2**
+
+Description: Arrestin arr2-like [source:vb community annotation].
+
+TODO

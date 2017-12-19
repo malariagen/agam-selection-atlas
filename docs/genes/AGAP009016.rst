@@ -1,0 +1,9 @@
+
+AGAP009016
+=============
+
+
+
+Description: Lix1-like protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009500
+=============
+
+
+
+Description: Pou domain transcription factor, class 2 [source:vb community annotation].
+
+TODO

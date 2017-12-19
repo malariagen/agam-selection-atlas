@@ -1,0 +1,9 @@
+
+AGAP006625
+=============
+
+
+
+Description: Coatomer subunit epsilon [source:uniprotkb/trembl;acc:q7q558].
+
+TODO

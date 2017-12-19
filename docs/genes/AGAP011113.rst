@@ -1,0 +1,9 @@
+
+AGAP011113
+=============
+
+
+
+Description: Potassium voltage-gated channel kqt-like subfamily member 1 [source:vb community annotation].
+
+TODO

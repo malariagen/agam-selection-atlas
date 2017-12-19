@@ -1,0 +1,9 @@
+
+AGAP006871
+=============
+
+Name: **RpS4**
+
+Description: 40s ribosomal protein s4 [source:uniprotkb/trembl;acc:q7pt95].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003571
+=============
+
+
+
+Description: Threonine dehydratase [source:vb community annotation].
+
+TODO

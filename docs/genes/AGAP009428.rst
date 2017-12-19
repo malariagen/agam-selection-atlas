@@ -1,0 +1,9 @@
+
+AGAP009428
+=============
+
+
+
+Description: Ankyrin repeat domain-containing protein 29 [source:vb community annotation].
+
+TODO

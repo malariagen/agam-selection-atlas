@@ -1,0 +1,9 @@
+
+AGAP012447
+=============
+
+Name: **GLURIIe**
+
+Description: Ionotropic receptor gluriie [source:vb community annotation].
+
+TODO

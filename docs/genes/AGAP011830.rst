@@ -1,0 +1,9 @@
+
+AGAP011830
+=============
+
+
+
+Description: Myo-inositol-1-phosphate synthase [source:vb community annotation].
+
+TODO

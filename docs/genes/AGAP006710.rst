@@ -1,0 +1,9 @@
+
+AGAP006710
+=============
+
+Name: **CHYM2**
+
+Description: Chymotrypsin [source:vb community annotation].
+
+TODO

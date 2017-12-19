@@ -1,0 +1,9 @@
+
+AGAP002917
+=============
+
+Name: **mRpL34**
+
+Description: 39s ribosomal protein l34, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002216
+=============
+
+
+
+Description: Cation transport regulator-like protein 2 [source:vb community annotation].
+
+TODO

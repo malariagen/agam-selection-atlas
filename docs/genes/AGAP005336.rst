@@ -1,0 +1,9 @@
+
+AGAP005336
+=============
+
+
+
+Description: Swi/snf-related matrix-associated actin-dependent regulator of chromatin subfamily d member 1 [source:vb community annotation].
+
+TODO

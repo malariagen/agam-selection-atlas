@@ -1,0 +1,9 @@
+
+AGAP005173
+=============
+
+
+
+Description: Px serine/threonine kinase [source:vb community annotation].
+
+TODO

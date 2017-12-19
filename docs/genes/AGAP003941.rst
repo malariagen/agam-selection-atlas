@@ -1,0 +1,9 @@
+
+AGAP003941
+=============
+
+
+
+Description: Lyr motif-containing protein 5 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002706
+=============
+
+
+
+Description: Small nuclear ribonucleoprotein g [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004046
+=============
+
+
+
+Description: Mpv17-like protein [source:vb community annotation].
+
+TODO

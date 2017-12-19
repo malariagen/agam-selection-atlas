@@ -1,0 +1,9 @@
+
+AGAP000119
+=============
+
+
+
+Description: Golgi to er traffic protein 4 homolog [source:vb community annotation].
+
+TODO

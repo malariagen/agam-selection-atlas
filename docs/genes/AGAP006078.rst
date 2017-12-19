@@ -1,0 +1,9 @@
+
+AGAP006078
+=============
+
+Name: **OBP52**
+
+Description: Odorant-binding protein 52 [source:vb community annotation].
+
+TODO

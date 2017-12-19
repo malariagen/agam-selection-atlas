@@ -1,0 +1,9 @@
+
+AGAP010703
+=============
+
+
+
+Description: Sister chromatid cohesion protein dcc1 [source:vb community annotation].
+
+TODO

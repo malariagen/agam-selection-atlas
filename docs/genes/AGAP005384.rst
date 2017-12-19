@@ -1,0 +1,9 @@
+
+AGAP005384
+=============
+
+
+
+Description: Phosphatidylinositol transfer protein sec14 [source:vb community annotation].
+
+TODO

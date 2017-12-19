@@ -1,0 +1,9 @@
+
+AGAP013238
+=============
+
+
+
+Description: Lsm domain containing 1 [source:vb community annotation].
+
+TODO

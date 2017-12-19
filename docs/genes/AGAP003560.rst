@@ -1,0 +1,9 @@
+
+AGAP003560
+=============
+
+
+
+Description: Udp-glucose:glycoprotein glucosyltransferase [source:vb community annotation].
+
+TODO

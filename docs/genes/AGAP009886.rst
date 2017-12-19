@@ -1,0 +1,9 @@
+
+AGAP009886
+=============
+
+Name: **Med15**
+
+Description: Mediator of rna polymerase ii transcription subunit 15 [source:uniprotkb/swiss-prot;acc:q5tp13].
+
+TODO

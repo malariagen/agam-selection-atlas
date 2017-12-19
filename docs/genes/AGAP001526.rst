@@ -1,0 +1,9 @@
+
+AGAP001526
+=============
+
+
+
+Description: Rio kinase 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008296
+=============
+
+Name: **TRYP1**
+
+Description: Trypsin 1 [source:vb community annotation].
+
+TODO

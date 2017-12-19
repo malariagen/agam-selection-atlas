@@ -1,0 +1,9 @@
+
+AGAP002233
+=============
+
+
+
+Description: Retinal guanylate cyclase [source:vb community annotation].
+
+TODO

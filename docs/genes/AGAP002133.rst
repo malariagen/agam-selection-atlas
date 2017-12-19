@@ -1,0 +1,9 @@
+
+AGAP002133
+=============
+
+
+
+Description: Trna modification gtpase [source:vb community annotation].
+
+TODO

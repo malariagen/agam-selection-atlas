@@ -1,0 +1,9 @@
+
+AGAP002518
+=============
+
+
+
+Description: Delta-1-pyrroline-5-carboxylate synthetase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005352
+=============
+
+
+
+Description: Tyrosine-protein phosphatase non-receptor type 1 [source:vb community annotation].
+
+TODO

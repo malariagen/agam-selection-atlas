@@ -1,0 +1,9 @@
+
+AGAP002231
+=============
+
+
+
+Description: Histone acetyltransferase [source:uniprotkb/trembl;acc:q7qk98].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010895
+=============
+
+
+
+Description: Spectrin beta chain [source:uniprotkb/trembl;acc:q7psh4].
+
+TODO

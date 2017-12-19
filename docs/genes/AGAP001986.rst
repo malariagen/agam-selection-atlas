@@ -1,0 +1,9 @@
+
+AGAP001986
+=============
+
+
+
+Description: Nuclear protein localization protein 4 homolog [source:vb community annotation].
+
+TODO

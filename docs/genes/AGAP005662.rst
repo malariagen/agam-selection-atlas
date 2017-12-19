@@ -1,0 +1,9 @@
+
+AGAP005662
+=============
+
+
+
+Description: Acyl-coa dehydrogenase [source:vb community annotation].
+
+TODO

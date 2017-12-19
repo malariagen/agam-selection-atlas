@@ -1,0 +1,9 @@
+
+AGAP010738
+=============
+
+
+
+Description: Glycosylphosphatidylinositol transamidase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001729
+=============
+
+
+
+Description: Protein farnesyltransferase subunit beta [source:vb community annotation].
+
+TODO

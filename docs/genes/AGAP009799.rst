@@ -1,0 +1,9 @@
+
+AGAP009799
+=============
+
+Name: **ABCC13**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 13 [source:vb community annotation].
+
+TODO

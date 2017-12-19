@@ -1,0 +1,9 @@
+
+AGAP010671
+=============
+
+
+
+Description: Actin-related protein 8 [source:vb community annotation].
+
+TODO

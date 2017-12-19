@@ -1,0 +1,9 @@
+
+AGAP001375
+=============
+
+Name: **SRPN12**
+
+Description: Serine protease inhibitor (serpin) 12 [source:vb community annotation].
+
+TODO

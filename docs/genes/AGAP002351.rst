@@ -1,0 +1,9 @@
+
+AGAP002351
+=============
+
+
+
+Description: Nuclear pore complex protein nup98-nup96 [source:vb community annotation].
+
+TODO

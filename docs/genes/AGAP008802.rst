@@ -1,0 +1,9 @@
+
+AGAP008802
+=============
+
+Name: **Pgk**
+
+Description: Phosphoglycerate kinase [source:uniprotkb/trembl;acc:q7q850].
+
+TODO

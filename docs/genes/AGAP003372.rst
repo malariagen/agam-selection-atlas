@@ -1,0 +1,9 @@
+
+AGAP003372
+=============
+
+
+
+Description: Haloacid dehalogenase-like hydrolase domain-containing protein 1a [source:vb community annotation].
+
+TODO

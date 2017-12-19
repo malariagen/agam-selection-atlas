@@ -1,0 +1,9 @@
+
+AGAP004165
+=============
+
+Name: **GSTD2**
+
+Description: Glutathione s-transferase delta class 2 [source:vb community annotation].
+
+TODO

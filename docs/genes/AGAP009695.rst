@@ -1,0 +1,9 @@
+
+AGAP009695
+=============
+
+
+
+Description: Palmitoyl-protein thioesterase [source:vb community annotation].
+
+TODO

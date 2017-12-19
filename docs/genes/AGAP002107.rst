@@ -1,0 +1,9 @@
+
+AGAP002107
+=============
+
+
+
+Description: Calcyclin binding protein [source:vb community annotation].
+
+TODO

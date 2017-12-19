@@ -1,0 +1,9 @@
+
+AGAP000012
+=============
+
+Name: **TTRNA1**
+
+Description: Tyrosyl-trna synthetase [source:vb community annotation].
+
+TODO

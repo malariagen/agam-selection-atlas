@@ -1,0 +1,9 @@
+
+AGAP002044
+=============
+
+Name: **Or77**
+
+Description: Odorant receptor 77 [source:vb community annotation].
+
+TODO

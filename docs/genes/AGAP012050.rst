@@ -1,0 +1,9 @@
+
+AGAP012050
+=============
+
+
+
+Description: Cell differentiation protein rcd1 homolog [source:vb community annotation].
+
+TODO

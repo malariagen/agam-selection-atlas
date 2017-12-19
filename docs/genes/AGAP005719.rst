@@ -1,0 +1,9 @@
+
+AGAP005719
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 4 [source:vb community annotation].
+
+TODO

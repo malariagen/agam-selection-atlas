@@ -1,0 +1,9 @@
+
+AGAP010042
+=============
+
+
+
+Description: Solute carrier organic anion transporter family member (fragment) [source:uniprotkb/trembl;acc:q7q103].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012244
+=============
+
+
+
+Description: Br serine/threonine kinase [source:vb community annotation].
+
+TODO

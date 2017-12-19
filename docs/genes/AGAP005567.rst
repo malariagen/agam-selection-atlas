@@ -1,0 +1,9 @@
+
+AGAP005567
+=============
+
+
+
+Description: Bone morphogenetic protein receptor type-2 [source:vb community annotation].
+
+TODO

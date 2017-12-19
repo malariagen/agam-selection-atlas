@@ -1,0 +1,9 @@
+
+AGAP011117
+=============
+
+Name: **LRIM19**
+
+Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
+
+TODO

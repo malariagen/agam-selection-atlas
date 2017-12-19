@@ -1,0 +1,9 @@
+
+AGAP009878
+=============
+
+Name: **CPR80**
+
+Description: Cuticular protein rr-1 family 80 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003015
+=============
+
+
+
+Description: Argininosuccinate synthase [source:uniprotkb/swiss-prot;acc:q7pr38].
+
+TODO

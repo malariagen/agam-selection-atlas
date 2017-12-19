@@ -1,0 +1,9 @@
+
+AGAP004573
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase rnf19a [source:vb community annotation].
+
+TODO

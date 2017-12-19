@@ -1,0 +1,9 @@
+
+AGAP002554
+=============
+
+
+
+Description: Digeorge syndrome critical region gene 8 [source:vb community annotation].
+
+TODO

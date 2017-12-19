@@ -1,0 +1,9 @@
+
+AGAP008604
+=============
+
+
+
+Description: Glycyl-trna synthetase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005814
+=============
+
+
+
+Description: Ecdysoneless homolog [source:vb community annotation].
+
+TODO

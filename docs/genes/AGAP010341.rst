@@ -1,0 +1,9 @@
+
+AGAP010341
+=============
+
+
+
+Description: Testis-specific serine kinase [source:vb community annotation].
+
+TODO

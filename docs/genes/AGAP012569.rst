@@ -1,0 +1,9 @@
+
+AGAP012569
+=============
+
+
+
+Description: 2fe-2s ferredoxin [source:vb community annotation].
+
+TODO

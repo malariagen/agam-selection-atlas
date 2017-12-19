@@ -1,0 +1,9 @@
+
+AGAP000960
+=============
+
+
+
+Description: Stam-binding protein [source:vb community annotation].
+
+TODO

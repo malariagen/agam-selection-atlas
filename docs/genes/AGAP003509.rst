@@ -1,0 +1,9 @@
+
+AGAP003509
+=============
+
+
+
+Description: Complexin, isoform v [source:vb community annotation].
+
+TODO

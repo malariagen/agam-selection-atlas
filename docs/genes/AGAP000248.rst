@@ -1,0 +1,9 @@
+
+AGAP000248
+=============
+
+
+
+Description: Protein phosphatase 1h [source:vb community annotation].
+
+TODO

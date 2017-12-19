@@ -1,0 +1,9 @@
+
+AGAP004810
+=============
+
+Name: **CTL3**
+
+Description: C-type lectin (ctl) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007583
+=============
+
+
+
+Description: Golgi-associated plant pathogenesis-related protein 1 [source:vb community annotation].
+
+TODO

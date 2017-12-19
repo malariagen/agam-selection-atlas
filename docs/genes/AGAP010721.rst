@@ -1,0 +1,9 @@
+
+AGAP010721
+=============
+
+
+
+Description: Cysteine-rich pdz-binding protein [source:vb community annotation].
+
+TODO

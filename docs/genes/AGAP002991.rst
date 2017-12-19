@@ -1,0 +1,9 @@
+
+AGAP002991
+=============
+
+
+
+Description: Ras-related gtp-binding protein a/b [source:vb community annotation].
+
+TODO

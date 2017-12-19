@@ -1,0 +1,9 @@
+
+AGAP002567
+=============
+
+
+
+Description: Hormone-sensitive lipase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005824
+=============
+
+
+
+Description: Presqualene diphosphate phosphatase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008133
+=============
+
+
+
+Description: Retinaldehyde binding protein 1 [source:vb community annotation].
+
+TODO

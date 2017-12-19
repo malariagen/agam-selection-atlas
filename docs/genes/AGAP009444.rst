@@ -1,0 +1,9 @@
+
+AGAP009444
+=============
+
+
+
+Description: Chromobox protein 5 [source:vb community annotation].
+
+TODO

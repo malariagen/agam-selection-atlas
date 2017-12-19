@@ -1,0 +1,9 @@
+
+AGAP007933
+=============
+
+
+
+Description: Beat protein [source:vb community annotation].
+
+TODO

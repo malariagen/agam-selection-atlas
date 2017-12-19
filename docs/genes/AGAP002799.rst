@@ -1,0 +1,9 @@
+
+AGAP002799
+=============
+
+Name: **GNBPB3**
+
+Description: 3-glucan binding protein [source:vb community annotation].
+
+TODO

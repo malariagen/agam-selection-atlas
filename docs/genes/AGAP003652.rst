@@ -1,0 +1,9 @@
+
+AGAP003652
+=============
+
+
+
+Description: Aldehyde dehydrogenase (nad ) [source:vb community annotation].
+
+TODO

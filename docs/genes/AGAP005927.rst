@@ -1,0 +1,9 @@
+
+AGAP005927
+=============
+
+Name: **mRpL36**
+
+Description: 39s ribosomal protein l36, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001512
+=============
+
+
+
+Description: Glutamate--cysteine ligase catalytic subunit [source:vb community annotation].
+
+TODO

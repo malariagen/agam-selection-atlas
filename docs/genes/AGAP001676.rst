@@ -1,0 +1,9 @@
+
+AGAP001676
+=============
+
+
+
+Description: Actin, cytoplasmic [source:vb community annotation].
+
+TODO

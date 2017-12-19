@@ -1,0 +1,9 @@
+
+AGAP010331
+=============
+
+
+
+Description: Heat shock protein 110kda [source:vb community annotation].
+
+TODO

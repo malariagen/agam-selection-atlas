@@ -1,0 +1,9 @@
+
+AGAP005569
+=============
+
+
+
+Description: Casein kinase ii subunit alpha [source:vb community annotation].
+
+TODO

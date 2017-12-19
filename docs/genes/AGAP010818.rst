@@ -1,0 +1,9 @@
+
+AGAP010818
+=============
+
+Name: **TEP11**
+
+Description: Thioester-containing protein 11 [source:vb community annotation].
+
+TODO

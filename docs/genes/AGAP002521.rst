@@ -1,0 +1,9 @@
+
+AGAP002521
+=============
+
+
+
+Description: Hydroxybutyrate dehydrogenase [source:vb community annotation].
+
+TODO

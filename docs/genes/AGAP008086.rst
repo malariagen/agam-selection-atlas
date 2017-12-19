@@ -1,0 +1,9 @@
+
+AGAP008086
+=============
+
+
+
+Description: Mitochondrial processing peptidase [source:vb community annotation].
+
+TODO

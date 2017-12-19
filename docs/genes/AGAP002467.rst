@@ -1,0 +1,9 @@
+
+AGAP002467
+=============
+
+
+
+Description: Lmbr1 domain-containing protein 2 homolog [source:vb community annotation].
+
+TODO

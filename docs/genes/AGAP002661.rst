@@ -1,0 +1,9 @@
+
+AGAP002661
+=============
+
+
+
+Description: Delta(3,5)-delta(2,4)-dienoyl-coa isomerase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002842
+=============
+
+
+
+Description: Clipd1 protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001283
+=============
+
+
+
+Description: Potassium inwardly-rectifying channel subfamily j [source:vb community annotation].
+
+TODO

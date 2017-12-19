@@ -1,0 +1,9 @@
+
+AGAP012167
+=============
+
+Name: **Pgi**
+
+Description: Phosphoglucose isomerase (glucose-6-phosphate isomerase) [source:vb community annotation].
+
+TODO

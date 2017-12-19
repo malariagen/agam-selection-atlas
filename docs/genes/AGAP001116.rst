@@ -1,0 +1,9 @@
+
+AGAP001116
+=============
+
+
+
+Description: D-amino-acid oxidase [source:vb community annotation].
+
+TODO

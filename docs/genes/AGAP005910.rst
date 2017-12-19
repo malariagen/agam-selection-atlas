@@ -1,0 +1,9 @@
+
+AGAP005910
+=============
+
+Name: **APG18B**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

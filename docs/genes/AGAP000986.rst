@@ -1,0 +1,9 @@
+
+AGAP000986
+=============
+
+Name: **CPAP3-D**
+
+Description: Cuticular protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007175
+=============
+
+
+
+Description: Phosphatidate cytidylyltransferase [source:uniprotkb/trembl;acc:q7qj08].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001491
+=============
+
+
+
+Description: Leucine-rich repeat-containing protein 57 [source:vb community annotation].
+
+TODO

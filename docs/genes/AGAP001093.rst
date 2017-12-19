@@ -1,0 +1,9 @@
+
+AGAP001093
+=============
+
+
+
+Description: Fos-like antigen, invertebrate [source:vb community annotation].
+
+TODO

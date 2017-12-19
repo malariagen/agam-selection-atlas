@@ -1,0 +1,9 @@
+
+AGAP005095
+=============
+
+
+
+Description: Actin beta/gamma 1 [source:vb community annotation].
+
+TODO

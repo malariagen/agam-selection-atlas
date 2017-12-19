@@ -1,0 +1,9 @@
+
+AGAP004460
+=============
+
+
+
+Description: Sialic acid synthase [source:vb community annotation].
+
+TODO

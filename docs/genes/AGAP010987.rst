@@ -1,0 +1,9 @@
+
+AGAP010987
+=============
+
+
+
+Description: Estrogen sulfotransferase [source:vb community annotation].
+
+TODO

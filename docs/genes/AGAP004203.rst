@@ -1,0 +1,9 @@
+
+AGAP004203
+=============
+
+Name: **Vg**
+
+Description: Vitellogenin [source:vb community annotation].
+
+TODO

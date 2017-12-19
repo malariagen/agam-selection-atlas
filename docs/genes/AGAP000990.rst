@@ -1,0 +1,9 @@
+
+AGAP000990
+=============
+
+
+
+Description: Testis development protein nyd-sp29 [source:vb community annotation].
+
+TODO

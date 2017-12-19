@@ -1,0 +1,9 @@
+
+AGAP007550
+=============
+
+
+
+Description: Carbonic anhydrase [source:vb community annotation].
+
+TODO

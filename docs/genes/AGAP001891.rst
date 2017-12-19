@@ -1,0 +1,9 @@
+
+AGAP001891
+=============
+
+
+
+Description: Arrestin domain-containing protein 3 [source:vb community annotation].
+
+TODO

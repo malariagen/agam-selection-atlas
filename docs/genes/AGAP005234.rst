@@ -1,0 +1,9 @@
+
+AGAP005234
+=============
+
+Name: **CuSOD2**
+
+Description: Copper-zinc superoxide dismutase 2 [source:vb community annotation].
+
+TODO

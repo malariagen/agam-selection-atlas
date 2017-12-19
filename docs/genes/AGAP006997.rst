@@ -1,0 +1,9 @@
+
+AGAP006997
+=============
+
+Name: **Aats-ala-m**
+
+Description: Alanyl-trna synthetase, mitochondrial [source:vb community annotation].
+
+TODO

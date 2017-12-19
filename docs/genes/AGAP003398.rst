@@ -1,0 +1,9 @@
+
+AGAP003398
+=============
+
+
+
+Description: Nucleosome-remodeling factor 38 kda subunit [source:vb community annotation].
+
+TODO

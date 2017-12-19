@@ -1,0 +1,9 @@
+
+AGAP002690
+=============
+
+
+
+Description: Atp-dependent dna helicase 2 subunit 1 [source:vb community annotation].
+
+TODO

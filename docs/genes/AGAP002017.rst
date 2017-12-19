@@ -1,0 +1,9 @@
+
+AGAP002017
+=============
+
+
+
+Description: Hexosyltransferase [source:uniprotkb/trembl;acc:q7pym6].
+
+TODO

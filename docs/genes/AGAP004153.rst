@@ -1,0 +1,9 @@
+
+AGAP004153
+=============
+
+
+
+Description: Serine palmitoyltransferase small subunit a [source:vb community annotation].
+
+TODO

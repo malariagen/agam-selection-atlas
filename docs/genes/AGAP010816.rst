@@ -1,0 +1,9 @@
+
+AGAP010816
+=============
+
+Name: **TEP3**
+
+Description: Thioester-containing protein 3 [source:vb community annotation].
+
+TODO

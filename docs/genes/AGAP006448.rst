@@ -1,0 +1,9 @@
+
+AGAP006448
+=============
+
+
+
+Description: Camp-dependent protein kinase regulator [source:vb community annotation].
+
+TODO

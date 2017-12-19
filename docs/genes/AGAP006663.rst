@@ -1,0 +1,9 @@
+
+AGAP006663
+=============
+
+
+
+Description: Trnaser (uridine44-2'-o)-methyltransferase [source:vb community annotation].
+
+TODO

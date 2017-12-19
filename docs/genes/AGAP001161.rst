@@ -1,0 +1,9 @@
+
+AGAP001161
+=============
+
+Name: **GPROP6**
+
+Description: Long wavelength sensitive opsin [source:vb community annotation].
+
+TODO

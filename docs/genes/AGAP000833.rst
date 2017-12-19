@@ -1,0 +1,9 @@
+
+AGAP000833
+=============
+
+Name: **MIP**
+
+Description: Myoinhibitory-like peptide [source:vb community annotation].
+
+TODO

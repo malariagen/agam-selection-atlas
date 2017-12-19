@@ -1,0 +1,9 @@
+
+AGAP003611
+=============
+
+
+
+Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7qan3].
+
+TODO

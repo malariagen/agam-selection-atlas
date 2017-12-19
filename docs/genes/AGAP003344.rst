@@ -1,0 +1,9 @@
+
+AGAP003344
+=============
+
+
+
+Description: Translation machinery-associated protein 20 [source:vb community annotation].
+
+TODO

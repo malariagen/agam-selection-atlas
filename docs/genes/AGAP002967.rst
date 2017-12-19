@@ -1,0 +1,9 @@
+
+AGAP002967
+=============
+
+
+
+Description: Bloom syndrome protein [source:vb community annotation].
+
+TODO

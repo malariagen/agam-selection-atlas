@@ -1,0 +1,9 @@
+
+AGAP002173
+=============
+
+
+
+Description: Wd repeat domain 20b [source:vb community annotation].
+
+TODO

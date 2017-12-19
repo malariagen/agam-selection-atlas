@@ -1,0 +1,9 @@
+
+AGAP000260
+=============
+
+
+
+Description: Mitochondrial atp synthase epsilon chain [source:vb community annotation].
+
+TODO

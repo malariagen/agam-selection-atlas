@@ -1,0 +1,9 @@
+
+AGAP003555
+=============
+
+
+
+Description: Multiple inositol-polyphosphate phosphatase [source:vb community annotation].
+
+TODO

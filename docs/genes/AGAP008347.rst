@@ -1,0 +1,9 @@
+
+AGAP008347
+=============
+
+Name: **GPRRK**
+
+Description: Putative glycoprotein hormone rk-like receptor [source:vb community annotation].
+
+TODO

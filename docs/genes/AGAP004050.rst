@@ -1,0 +1,9 @@
+
+AGAP004050
+=============
+
+
+
+Description: Doublesex female isoform [source:vb community annotation].
+
+TODO

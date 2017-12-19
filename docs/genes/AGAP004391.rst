@@ -1,0 +1,9 @@
+
+AGAP004391
+=============
+
+
+
+Description: N-acylneuraminate-9-phosphatase [source:vb community annotation].
+
+TODO

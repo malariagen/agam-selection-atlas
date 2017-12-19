@@ -1,0 +1,9 @@
+
+AGAP007589
+=============
+
+
+
+Description: Glucosyl/glucuronosyl transferases [source:vb community annotation].
+
+TODO

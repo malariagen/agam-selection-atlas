@@ -1,0 +1,9 @@
+
+AGAP008304
+=============
+
+
+
+Description: 3',5'-cyclic-nucleotide phosphodiesterase [source:vb community annotation].
+
+TODO

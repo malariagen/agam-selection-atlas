@@ -1,0 +1,9 @@
+
+AGAP001720
+=============
+
+
+
+Description: Rrnaad, ribosomal rna adenine dimethylase [source:vb community annotation].
+
+TODO

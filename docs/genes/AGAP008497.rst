@@ -1,0 +1,9 @@
+
+AGAP008497
+=============
+
+Name: **APG4B**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

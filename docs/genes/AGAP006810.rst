@@ -1,0 +1,9 @@
+
+AGAP006810
+=============
+
+
+
+Description: Chromatin modification-related protein eaf6 [source:vb community annotation].
+
+TODO

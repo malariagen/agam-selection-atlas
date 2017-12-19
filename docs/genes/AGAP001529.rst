@@ -1,0 +1,9 @@
+
+AGAP001529
+=============
+
+
+
+Description: H/aca ribonucleoprotein complex subunit [source:uniprotkb/trembl;acc:q7pxr0].
+
+TODO

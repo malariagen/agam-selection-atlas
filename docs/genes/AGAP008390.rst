@@ -1,0 +1,9 @@
+
+AGAP008390
+=============
+
+
+
+Description: Ino80 complex subunit c [source:vb community annotation].
+
+TODO

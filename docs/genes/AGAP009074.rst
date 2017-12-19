@@ -1,0 +1,9 @@
+
+AGAP009074
+=============
+
+
+
+Description: Atrophin-1 interacting protein 5 (ww domain containing e3 ubiquitin protein li [source:vb community annotation].
+
+TODO

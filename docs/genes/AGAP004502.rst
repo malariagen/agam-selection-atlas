@@ -1,0 +1,9 @@
+
+AGAP004502
+=============
+
+
+
+Description: Serine/threonine-protein phosphatase 2a 55 kda regulatory subunit b alpha isoform [source:vb community annotation].
+
+TODO

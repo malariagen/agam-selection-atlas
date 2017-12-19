@@ -1,0 +1,9 @@
+
+AGAP006946
+=============
+
+
+
+Description: Prefoldin subunit 4 [source:uniprotkb/trembl;acc:q7qim0].
+
+TODO

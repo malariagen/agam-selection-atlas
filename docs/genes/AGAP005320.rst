@@ -1,0 +1,9 @@
+
+AGAP005320
+=============
+
+
+
+Description: U3 small nucleolar rna-interacting protein 2 [source:vb community annotation].
+
+TODO

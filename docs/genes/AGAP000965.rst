@@ -1,0 +1,9 @@
+
+AGAP000965
+=============
+
+
+
+Description: Elav (embryonic lethal, abnormal vision drosophila)-like [source:vb community annotation].
+
+TODO

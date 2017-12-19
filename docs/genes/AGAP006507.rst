@@ -1,0 +1,9 @@
+
+AGAP006507
+=============
+
+Name: **SG3**
+
+Description: Salivary gland protein 3 [source:vb community annotation].
+
+TODO

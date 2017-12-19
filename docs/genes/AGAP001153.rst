@@ -1,0 +1,9 @@
+
+AGAP001153
+=============
+
+
+
+Description: Polymerase delta-interacting protein 2 [source:vb community annotation].
+
+TODO

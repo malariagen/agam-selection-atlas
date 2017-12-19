@@ -1,0 +1,9 @@
+
+AGAP007768
+=============
+
+
+
+Description: Mitochondrial cytochrome c oxidase subunit vic [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004802
+=============
+
+
+
+Description: 4-hydroxyphenylpyruvate dioxygenase [source:uniprotkb/trembl;acc:q7q2t3].
+
+TODO

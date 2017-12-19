@@ -1,0 +1,9 @@
+
+AGAP003265
+=============
+
+
+
+Description: Peptidyl-prolyl isomerase d [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011116
+=============
+
+
+
+Description: Solute carrier family 32 (vesicular inhibitory amino acid transporter) [source:vb community annotation].
+
+TODO

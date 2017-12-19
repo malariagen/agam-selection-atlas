@@ -1,0 +1,9 @@
+
+AGAP008479
+=============
+
+Name: **CPLCG26**
+
+Description: Cuticular protein cplcg family (cplcg26) [source:vb community annotation].
+
+TODO

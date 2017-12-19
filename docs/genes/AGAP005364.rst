@@ -1,0 +1,9 @@
+
+AGAP005364
+=============
+
+
+
+Description: Protein bat5 [source:vb community annotation].
+
+TODO

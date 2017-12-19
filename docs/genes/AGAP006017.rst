@@ -1,0 +1,9 @@
+
+AGAP006017
+=============
+
+
+
+Description: Serine/threonine-protein phosphatase 6 regulatory subunit 3 [source:vb community annotation].
+
+TODO

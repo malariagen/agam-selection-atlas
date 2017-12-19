@@ -1,0 +1,9 @@
+
+AGAP010813
+=============
+
+Name: **TEP18**
+
+Description: Thioester-containing protein 18 [source:vb community annotation].
+
+TODO

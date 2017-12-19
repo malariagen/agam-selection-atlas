@@ -1,0 +1,9 @@
+
+AGAP009296
+=============
+
+
+
+Description: Splicing factor 45 [source:vb community annotation].
+
+TODO

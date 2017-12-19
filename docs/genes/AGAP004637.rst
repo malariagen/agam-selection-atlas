@@ -1,0 +1,9 @@
+
+AGAP004637
+=============
+
+
+
+Description: Transcriptional activator cubitus interruptus [source:vb community annotation].
+
+TODO

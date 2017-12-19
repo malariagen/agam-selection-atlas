@@ -1,0 +1,9 @@
+
+AGAP002355
+=============
+
+
+
+Description: Glutamine synthetase [source:uniprotkb/trembl;acc:q7qbx9].
+
+TODO

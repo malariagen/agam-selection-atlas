@@ -1,0 +1,9 @@
+
+AGAP011352
+=============
+
+
+
+Description: Glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009443
+=============
+
+
+
+Description: Excitatory amino acid transporter 3 [source:vb community annotation].
+
+TODO

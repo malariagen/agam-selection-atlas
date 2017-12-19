@@ -1,0 +1,9 @@
+
+AGAP002788
+=============
+
+
+
+Description: Micos complex subunit [source:uniprotkb/trembl;acc:q7qcs7].
+
+TODO

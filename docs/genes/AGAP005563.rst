@@ -1,0 +1,9 @@
+
+AGAP005563
+=============
+
+Name: **Tret1**
+
+Description: Facilitated trehalose transporter tret1 [source:uniprotkb/swiss-prot;acc:q7pir5].
+
+TODO

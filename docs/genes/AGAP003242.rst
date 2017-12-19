@@ -1,0 +1,9 @@
+
+AGAP003242
+=============
+
+
+
+Description: Rna polymerase-associated protein leo1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006996
+=============
+
+
+
+Description: Mitochondrial translation elongation factor tu [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005279
+=============
+
+
+
+Description: Rho-type gtpase activating protein [source:vb community annotation].
+
+TODO

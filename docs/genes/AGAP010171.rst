@@ -1,0 +1,9 @@
+
+AGAP010171
+=============
+
+Name: **papi**
+
+Description: Tudor-domain protein [source:vb community annotation].
+
+TODO

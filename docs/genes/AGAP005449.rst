@@ -1,0 +1,9 @@
+
+AGAP005449
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase cbl [source:vb community annotation].
+
+TODO

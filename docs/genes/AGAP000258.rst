@@ -1,0 +1,9 @@
+
+AGAP000258
+=============
+
+
+
+Description: Hexosyltransferase [source:uniprotkb/trembl;acc:q7prx3].
+
+TODO

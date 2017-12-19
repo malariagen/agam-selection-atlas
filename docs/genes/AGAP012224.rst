@@ -1,0 +1,9 @@
+
+AGAP012224
+=============
+
+
+
+Description: Interferon-related developmental regulator 2 [source:vb community annotation].
+
+TODO

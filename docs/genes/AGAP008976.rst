@@ -1,0 +1,9 @@
+
+AGAP008976
+=============
+
+
+
+Description: Hyperpolarization activated cyclic nucleotide-gated potassium channel [source:vb community annotation].
+
+TODO

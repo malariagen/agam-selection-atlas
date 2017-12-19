@@ -1,0 +1,9 @@
+
+AGAP004425
+=============
+
+
+
+Description: Dephospho-coa kinase domain-containing protein [source:vb community annotation].
+
+TODO

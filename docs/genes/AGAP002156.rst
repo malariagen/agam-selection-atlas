@@ -1,0 +1,9 @@
+
+AGAP002156
+=============
+
+Name: **GPRGNR1**
+
+Description: Putative gonadotrophin releasing hormone receptor 1 [source:vb community annotation].
+
+TODO

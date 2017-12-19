@@ -1,0 +1,9 @@
+
+AGAP029062
+=============
+
+Name: **OBP1**
+
+Description: Odorant-binding protein 1 [source:vb community annotation].
+
+TODO

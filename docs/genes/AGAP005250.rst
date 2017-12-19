@@ -1,0 +1,9 @@
+
+AGAP005250
+=============
+
+
+
+Description: Protein kintoun [source:uniprotkb/swiss-prot;acc:q7q9f6].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010476
+=============
+
+
+
+Description: Alpha-endosulfine [source:vb community annotation].
+
+TODO

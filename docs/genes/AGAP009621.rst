@@ -1,0 +1,9 @@
+
+AGAP009621
+=============
+
+
+
+Description: Alpha-n-acetylgalactosaminidase [source:vb community annotation].
+
+TODO

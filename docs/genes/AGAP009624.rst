@@ -1,0 +1,9 @@
+
+AGAP009624
+=============
+
+Name: **CTPsyn**
+
+Description: Ctp synthase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012645
+=============
+
+
+
+Description: Mrna-decapping enzyme 1b [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001450
+=============
+
+
+
+Description: Elmo domain-containing protein 2 [source:vb community annotation].
+
+TODO

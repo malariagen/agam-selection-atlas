@@ -1,0 +1,9 @@
+
+AGAP006777
+=============
+
+
+
+Description: Btb/poz domain-containing protein 10 [source:vb community annotation].
+
+TODO

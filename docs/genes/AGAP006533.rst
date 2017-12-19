@@ -1,0 +1,9 @@
+
+AGAP006533
+=============
+
+
+
+Description: Surfeit locus 1 family protein [source:vb community annotation].
+
+TODO

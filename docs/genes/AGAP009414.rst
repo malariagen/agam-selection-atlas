@@ -1,0 +1,9 @@
+
+AGAP009414
+=============
+
+
+
+Description: 1-acyl-sn-glycerol-3-phosphate acyltransferase alpha [source:vb community annotation].
+
+TODO

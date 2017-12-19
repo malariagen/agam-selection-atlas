@@ -1,0 +1,9 @@
+
+AGAP010420
+=============
+
+
+
+Description: Valyl-trna synthetase [source:vb community annotation].
+
+TODO

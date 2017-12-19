@@ -1,0 +1,9 @@
+
+AGAP004467
+=============
+
+
+
+Description: Centromere/kinetochore protein zw10 [source:vb community annotation].
+
+TODO

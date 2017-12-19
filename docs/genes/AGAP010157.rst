@@ -1,0 +1,9 @@
+
+AGAP010157
+=============
+
+Name: **Ast2**
+
+Description: Allatostatin 2 [source:vb community annotation].
+
+TODO

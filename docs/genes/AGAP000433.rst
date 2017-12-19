@@ -1,0 +1,9 @@
+
+AGAP000433
+=============
+
+
+
+Description: Ras-related protein rab-39b [source:vb community annotation].
+
+TODO

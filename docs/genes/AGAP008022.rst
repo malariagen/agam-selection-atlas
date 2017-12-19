@@ -1,0 +1,9 @@
+
+AGAP008022
+=============
+
+Name: **CYP12F1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

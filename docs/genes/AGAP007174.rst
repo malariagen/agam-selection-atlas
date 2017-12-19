@@ -1,0 +1,9 @@
+
+AGAP007174
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase march1/8 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005529
+=============
+
+
+
+Description: Transmembrane bax inhibitor motif-containing protein 4 [source:vb community annotation].
+
+TODO

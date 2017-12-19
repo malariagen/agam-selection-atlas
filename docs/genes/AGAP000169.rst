@@ -1,0 +1,9 @@
+
+AGAP000169
+=============
+
+
+
+Description: Fanconi anemia group m protein [source:vb community annotation].
+
+TODO

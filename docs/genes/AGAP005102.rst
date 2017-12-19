@@ -1,0 +1,9 @@
+
+AGAP005102
+=============
+
+Name: **APG7B**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

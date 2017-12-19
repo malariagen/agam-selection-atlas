@@ -1,0 +1,9 @@
+
+AGAP007130
+=============
+
+
+
+Description: Protein-tyrosine phosphatase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005381
+=============
+
+
+
+Description: Hexosaminidase [source:vb community annotation].
+
+TODO

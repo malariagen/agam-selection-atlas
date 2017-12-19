@@ -1,0 +1,9 @@
+
+AGAP007343
+=============
+
+Name: **LYSC2**
+
+Description: C-type lysozyme [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008890
+=============
+
+Name: **CPLCP5**
+
+Description: Cuticular protein (putative) cplcp5 [source:vb community annotation].
+
+TODO

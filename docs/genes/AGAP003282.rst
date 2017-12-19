@@ -1,0 +1,9 @@
+
+AGAP003282
+=============
+
+
+
+Description: Histone-lysine n-methyltransferase, h3 lysine-79 specific [source:uniprotkb/trembl;acc:f5hir5].
+
+TODO

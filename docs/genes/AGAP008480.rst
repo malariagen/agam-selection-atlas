@@ -1,0 +1,9 @@
+
+AGAP008480
+=============
+
+Name: **CPLCG27**
+
+Description: Cuticular protein cplcg family (cplcg27) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009961
+=============
+
+
+
+Description: Serine/threonine-protein kinase 24/25/mst4 [source:vb community annotation].
+
+TODO

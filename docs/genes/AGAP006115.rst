@@ -1,0 +1,9 @@
+
+AGAP006115
+=============
+
+
+
+Description: Solute carrier family 4, anion exchanger [source:vb community annotation].
+
+TODO

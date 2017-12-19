@@ -1,0 +1,9 @@
+
+AGAP007966
+=============
+
+
+
+Description: F-type h -transporting atpase subunit gamma [source:vb community annotation].
+
+TODO

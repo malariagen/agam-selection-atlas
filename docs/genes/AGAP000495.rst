@@ -1,0 +1,9 @@
+
+AGAP000495
+=============
+
+
+
+Description: Sumo-conjugating enzyme ubc9 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000763
+=============
+
+
+
+Description: Activin receptor type-2, invertebrate [source:vb community annotation].
+
+TODO

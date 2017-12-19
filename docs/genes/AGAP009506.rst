@@ -1,0 +1,9 @@
+
+AGAP009506
+=============
+
+
+
+Description: U5 snrnp complex subunit [source:vb community annotation].
+
+TODO

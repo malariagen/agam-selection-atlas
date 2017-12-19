@@ -1,0 +1,9 @@
+
+AGAP005906
+=============
+
+Name: **Med24**
+
+Description: Mediator of rna polymerase ii transcription subunit 24 [source:uniprotkb/swiss-prot;acc:q7q6d9].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007813
+=============
+
+
+
+Description: Ankyrin repeat domain-containing protein 49 [source:vb community annotation].
+
+TODO

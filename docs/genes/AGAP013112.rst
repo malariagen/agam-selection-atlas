@@ -1,0 +1,9 @@
+
+AGAP013112
+=============
+
+
+
+Description: Mrna binding protein [source:vb community annotation].
+
+TODO

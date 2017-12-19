@@ -1,0 +1,9 @@
+
+AGAP000756
+=============
+
+
+
+Description: Carboxypeptidase m [source:vb community annotation].
+
+TODO

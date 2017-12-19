@@ -1,0 +1,9 @@
+
+AGAP004084
+=============
+
+
+
+Description: Aprataxin [source:vb community annotation].
+
+TODO

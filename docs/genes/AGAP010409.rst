@@ -1,0 +1,9 @@
+
+AGAP010409
+=============
+
+Name: **OBP22**
+
+Description: Odorant-binding protein 22 [source:vb community annotation].
+
+TODO

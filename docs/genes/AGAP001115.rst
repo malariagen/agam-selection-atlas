@@ -1,0 +1,9 @@
+
+AGAP001115
+=============
+
+Name: **Gr42**
+
+Description: Gustatory receptor 42 [source:vb community annotation].
+
+TODO

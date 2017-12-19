@@ -1,0 +1,9 @@
+
+AGAP003858
+=============
+
+Name: **APG6**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+TODO

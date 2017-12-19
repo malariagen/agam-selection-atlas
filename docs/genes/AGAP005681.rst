@@ -1,0 +1,9 @@
+
+AGAP005681
+=============
+
+Name: **GPRNNA21**
+
+Description: Putative gpcr class a orphan receptor 21 [source:vb community annotation].
+
+TODO

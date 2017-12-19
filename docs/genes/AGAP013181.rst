@@ -1,0 +1,9 @@
+
+AGAP013181
+=============
+
+
+
+Description: Carboxypeptidase a [source:vb community annotation].
+
+TODO

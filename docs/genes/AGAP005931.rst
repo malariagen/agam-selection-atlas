@@ -1,0 +1,9 @@
+
+AGAP005931
+=============
+
+
+
+Description: Differentially expressed in fdcp 8 homolog [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007571
+=============
+
+
+
+Description: Activating signal cointegrator 1 complex subunit [source:vb community annotation].
+
+TODO

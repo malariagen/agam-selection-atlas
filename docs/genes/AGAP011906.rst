@@ -1,0 +1,9 @@
+
+AGAP011906
+=============
+
+
+
+Description: Exosome complex component mtr3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001627
+=============
+
+
+
+Description: Solute carrier family 7 (cationic amino acid transporter, y  system) [source:vb community annotation].
+
+TODO

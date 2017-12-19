@@ -1,0 +1,9 @@
+
+AGAP003099
+=============
+
+
+
+Description: Hydroxypyruvate isomerase [source:vb community annotation].
+
+TODO

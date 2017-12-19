@@ -1,0 +1,9 @@
+
+AGAP000002
+=============
+
+Name: **KIBRLG**
+
+Description: Ww domain-containing protein [source:vb community annotation].
+
+TODO

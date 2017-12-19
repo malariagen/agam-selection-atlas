@@ -1,0 +1,9 @@
+
+AGAP000470
+=============
+
+
+
+Description: Methylthioribulose-1-phosphate dehydratase [source:vb community annotation].
+
+TODO

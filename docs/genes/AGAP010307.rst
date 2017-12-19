@@ -1,0 +1,9 @@
+
+AGAP010307
+=============
+
+
+
+Description: Pleckstrin homology domain containing, family f (with fyve domain) member 2 [source:vb community annotation].
+
+TODO

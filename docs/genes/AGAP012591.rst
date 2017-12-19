@@ -1,0 +1,9 @@
+
+AGAP012591
+=============
+
+Name: **CLIPA3**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

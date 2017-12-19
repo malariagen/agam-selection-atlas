@@ -1,0 +1,9 @@
+
+AGAP002972
+=============
+
+Name: **alpha2**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 2 [source:vb community annotation].
+
+TODO

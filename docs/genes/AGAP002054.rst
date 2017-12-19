@@ -1,0 +1,9 @@
+
+AGAP002054
+=============
+
+
+
+Description: Fermitin family homolog 2 [source:vb community annotation].
+
+TODO

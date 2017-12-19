@@ -1,0 +1,9 @@
+
+AGAP009852
+=============
+
+
+
+Description: Mitochondrial fission 1 protein [source:vb community annotation].
+
+TODO

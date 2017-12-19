@@ -1,0 +1,9 @@
+
+AGAP005834
+=============
+
+Name: **COEJHE2E**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

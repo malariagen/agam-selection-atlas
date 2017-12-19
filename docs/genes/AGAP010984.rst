@@ -1,0 +1,9 @@
+
+AGAP010984
+=============
+
+
+
+Description: Transcription initiation factor tfiih subunit 4 [source:vb community annotation].
+
+TODO

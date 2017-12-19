@@ -1,0 +1,9 @@
+
+AGAP001950
+=============
+
+
+
+Description: Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [source:vb community annotation].
+
+TODO

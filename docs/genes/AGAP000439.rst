@@ -1,0 +1,9 @@
+
+AGAP000439
+=============
+
+
+
+Description: 4a-hydroxytetrahydrobiopterin dehydratase [source:vb community annotation].
+
+TODO

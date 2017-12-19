@@ -1,0 +1,9 @@
+
+AGAP008693
+=============
+
+
+
+Description: Leptin receptor overlapping transcript-like 1 [source:vb community annotation].
+
+TODO

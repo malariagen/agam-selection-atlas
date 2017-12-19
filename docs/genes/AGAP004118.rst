@@ -1,0 +1,9 @@
+
+AGAP004118
+=============
+
+Name: **SCRAL1**
+
+Description: Class a scavenger receptor (srcr domain) with lysyl oxidase domain. [source:vb community annotation].
+
+TODO

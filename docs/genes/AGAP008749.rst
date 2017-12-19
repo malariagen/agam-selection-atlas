@@ -1,0 +1,9 @@
+
+AGAP008749
+=============
+
+
+
+Description: Er degradation enhancer, mannosidase alpha-like 3 [source:vb community annotation].
+
+TODO

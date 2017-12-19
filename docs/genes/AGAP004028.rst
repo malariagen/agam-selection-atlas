@@ -1,0 +1,9 @@
+
+AGAP004028
+=============
+
+
+
+Description: Intron-binding protein aquarius [source:vb community annotation].
+
+TODO

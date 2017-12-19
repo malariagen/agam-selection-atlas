@@ -1,0 +1,9 @@
+
+AGAP010451
+=============
+
+
+
+Description: Lon-like atp-dependent protease [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000289
+=============
+
+
+
+Description: Prostaglandin reductase 1, gene 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001435
+=============
+
+
+
+Description: Pyrazinamidase/nicotinamidase [source:vb community annotation].
+
+TODO

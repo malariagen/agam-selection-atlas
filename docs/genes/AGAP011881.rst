@@ -1,0 +1,9 @@
+
+AGAP011881
+=============
+
+
+
+Description: Polycomb protein suz12 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002420
+=============
+
+
+
+Description: Alpha-1,2-glucosyltransferase [source:vb community annotation].
+
+TODO

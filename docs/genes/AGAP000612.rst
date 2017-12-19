@@ -1,0 +1,9 @@
+
+AGAP000612
+=============
+
+Name: **SG1**
+
+Description: Salivary gland protein 1 [source:vb community annotation].
+
+TODO

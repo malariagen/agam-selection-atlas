@@ -1,0 +1,9 @@
+
+AGAP004378
+=============
+
+Name: **GSTD11**
+
+Description: Glutathione s-transferase delta class 11 [source:vb community annotation].
+
+TODO

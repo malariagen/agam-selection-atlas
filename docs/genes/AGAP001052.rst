@@ -1,0 +1,9 @@
+
+AGAP001052
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 2/21 [source:vb community annotation].
+
+TODO

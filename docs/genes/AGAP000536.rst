@@ -1,0 +1,9 @@
+
+AGAP000536
+=============
+
+Name: **PGRPS1**
+
+Description: Peptidoglycan recognition protein (short) [source:vb community annotation].
+
+TODO

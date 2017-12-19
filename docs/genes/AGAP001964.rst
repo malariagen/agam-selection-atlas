@@ -1,0 +1,9 @@
+
+AGAP001964
+=============
+
+Name: **CLIPA26**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

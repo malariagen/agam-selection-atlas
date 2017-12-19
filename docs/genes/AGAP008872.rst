@@ -1,0 +1,9 @@
+
+AGAP008872
+=============
+
+Name: **Ift57**
+
+Description: Intraflagellar transport 57 [source:vb community annotation].
+
+TODO

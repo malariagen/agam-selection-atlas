@@ -1,0 +1,9 @@
+
+AGAP005846
+=============
+
+
+
+Description: Alpha-galactosidase [source:vb community annotation].
+
+TODO

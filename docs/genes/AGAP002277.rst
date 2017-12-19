@@ -1,0 +1,9 @@
+
+AGAP002277
+=============
+
+
+
+Description: Mitochondrial import inner membrane translocase subunit tim13 [source:vb community annotation].
+
+TODO

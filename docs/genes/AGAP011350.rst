@@ -1,0 +1,9 @@
+
+AGAP011350
+=============
+
+
+
+Description: 4-nitrophenyl phosphatase [source:vb community annotation].
+
+TODO

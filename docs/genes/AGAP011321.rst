@@ -1,0 +1,9 @@
+
+AGAP011321
+=============
+
+
+
+Description: Monoamine oxidase [source:vb community annotation].
+
+TODO

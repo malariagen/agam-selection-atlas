@@ -1,0 +1,9 @@
+
+AGAP006877
+=============
+
+Name: **Gr32**
+
+Description: Gustatory receptor 32 [source:vb community annotation].
+
+TODO

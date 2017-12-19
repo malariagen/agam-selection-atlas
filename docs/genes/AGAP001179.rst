@@ -1,0 +1,9 @@
+
+AGAP001179
+=============
+
+
+
+Description: Nuclear pore complex protein nup88 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007957
+=============
+
+
+
+Description: Choline/ethanolamine kinase [source:vb community annotation].
+
+TODO

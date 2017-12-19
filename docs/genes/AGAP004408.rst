@@ -1,0 +1,9 @@
+
+AGAP004408
+=============
+
+
+
+Description: Dna replication licensing factor mcm5 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010219
+=============
+
+Name: **Mcm6**
+
+Description: Dna replication licensing factor mcm6 [source:uniprotkb/swiss-prot;acc:q7q0q1].
+
+TODO

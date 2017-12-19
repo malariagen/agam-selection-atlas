@@ -1,0 +1,9 @@
+
+AGAP010180
+=============
+
+
+
+Description: Centrosomal protein cep97 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP028224
+=============
+
+Name: **CPLCG12**
+
+Description: Cuticular protein cplcg family (cplcg12) [source:vb community annotation].
+
+TODO

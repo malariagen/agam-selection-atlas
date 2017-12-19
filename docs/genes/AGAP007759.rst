@@ -1,0 +1,9 @@
+
+AGAP007759
+=============
+
+
+
+Description: Defective proboscis extension response [source:vb community annotation].
+
+TODO

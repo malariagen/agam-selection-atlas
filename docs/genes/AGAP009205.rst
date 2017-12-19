@@ -1,0 +1,9 @@
+
+AGAP009205
+=============
+
+
+
+Description: Ankyrin repeat domain 39 [source:vb community annotation].
+
+TODO

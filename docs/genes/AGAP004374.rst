@@ -1,0 +1,9 @@
+
+AGAP004374
+=============
+
+
+
+Description: Wd repeat-containing protein 37 [source:vb community annotation].
+
+TODO

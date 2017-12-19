@@ -1,0 +1,9 @@
+
+AGAP001756
+=============
+
+
+
+Description: Solute carrier family 44, member 3 [source:vb community annotation].
+
+TODO

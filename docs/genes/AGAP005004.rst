@@ -1,0 +1,9 @@
+
+AGAP005004
+=============
+
+
+
+Description: Kelch domain-containing protein 10 [source:vb community annotation].
+
+TODO

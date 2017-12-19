@@ -1,0 +1,9 @@
+
+AGAP009193
+=============
+
+Name: **GSTE4**
+
+Description: Glutathione s-transferase epsilon class 4 [source:vb community annotation].
+
+TODO

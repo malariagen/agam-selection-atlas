@@ -1,0 +1,9 @@
+
+AGAP002761
+=============
+
+
+
+Description: 3-methylcrotonyl-coa carboxylase beta subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003156
+=============
+
+
+
+Description: Isoleucyl-trna synthetase [source:vb community annotation].
+
+TODO

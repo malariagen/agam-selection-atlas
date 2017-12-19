@@ -1,0 +1,9 @@
+
+AGAP008781
+=============
+
+
+
+Description: Elongation of very long chain fatty acids protein 5 [source:vb community annotation].
+
+TODO

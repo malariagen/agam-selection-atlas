@@ -1,0 +1,9 @@
+
+AGAP009926
+=============
+
+
+
+Description: Nucleoside diphosphate-linked moiety x motif 19, mitochondrial [source:vb community annotation].
+
+TODO

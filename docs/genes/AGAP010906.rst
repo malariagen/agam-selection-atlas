@@ -1,0 +1,9 @@
+
+AGAP010906
+=============
+
+Name: **CPFL5**
+
+Description: Cuticular protein 5 from cpfl family [source:vb community annotation].
+
+TODO

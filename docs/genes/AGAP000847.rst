@@ -1,0 +1,9 @@
+
+AGAP000847
+=============
+
+
+
+Description: Cdc-like kinase [source:vb community annotation].
+
+TODO

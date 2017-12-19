@@ -1,0 +1,9 @@
+
+AGAP009960
+=============
+
+
+
+Description: Tubulin monoglycylase ttll3/8 [source:vb community annotation].
+
+TODO

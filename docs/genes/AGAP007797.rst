@@ -1,0 +1,9 @@
+
+AGAP007797
+=============
+
+Name: **Or23**
+
+Description: Odorant receptor 23 [source:vb community annotation].
+
+TODO

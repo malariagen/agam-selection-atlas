@@ -1,0 +1,9 @@
+
+AGAP011145
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx56/dbp9 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004020
+=============
+
+
+
+Description: Alpha-mannosidase ii [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003194
+=============
+
+Name: **SRPN8**
+
+Description: Serine protease inhibitor (serpin) 8 [source:vb community annotation].
+
+TODO

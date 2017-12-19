@@ -1,0 +1,9 @@
+
+AGAP003053
+=============
+
+Name: **Or45**
+
+Description: Odorant receptor 45 [source:vb community annotation].
+
+TODO

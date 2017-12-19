@@ -1,0 +1,9 @@
+
+AGAP007459
+=============
+
+Name: **Bbs1**
+
+Description: Bardet-biedl syndrome 1 [source:vb community annotation].
+
+TODO

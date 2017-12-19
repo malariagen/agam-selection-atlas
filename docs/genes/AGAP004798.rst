@@ -1,0 +1,9 @@
+
+AGAP004798
+=============
+
+
+
+Description: Coatomer protein complex, subunit beta 2 [source:vb community annotation].
+
+TODO

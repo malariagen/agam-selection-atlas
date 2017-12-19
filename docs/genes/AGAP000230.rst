@@ -1,0 +1,9 @@
+
+AGAP000230
+=============
+
+Name: **Or52**
+
+Description: Odorant receptor 52 [source:vb community annotation].
+
+TODO

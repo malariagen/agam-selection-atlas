@@ -1,0 +1,9 @@
+
+AGAP000757
+=============
+
+
+
+Description: Peptide-o-fucosyltransferase [source:vb community annotation].
+
+TODO

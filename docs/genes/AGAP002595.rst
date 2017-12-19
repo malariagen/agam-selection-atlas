@@ -1,0 +1,9 @@
+
+AGAP002595
+=============
+
+
+
+Description: Outer mitochondrial translocase subunit [source:vb community annotation].
+
+TODO

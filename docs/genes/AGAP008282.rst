@@ -1,0 +1,9 @@
+
+AGAP008282
+=============
+
+Name: **D7r2**
+
+Description: D7 short form salivary protein [source:vb community annotation].
+
+TODO

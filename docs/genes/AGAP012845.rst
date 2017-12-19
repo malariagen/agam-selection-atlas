@@ -1,0 +1,9 @@
+
+AGAP012845
+=============
+
+
+
+Description: Selenium-binding protein [source:vb community annotation].
+
+TODO

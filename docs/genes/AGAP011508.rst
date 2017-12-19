@@ -1,0 +1,9 @@
+
+AGAP011508
+=============
+
+
+
+Description: Condensin complex subunit 2 [source:vb community annotation].
+
+TODO

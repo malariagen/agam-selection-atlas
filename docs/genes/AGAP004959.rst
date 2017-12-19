@@ -1,0 +1,9 @@
+
+AGAP004959
+=============
+
+Name: **IMD**
+
+Description: Imd pathway signalling immune deficiency (imd) [source:vb community annotation].
+
+TODO

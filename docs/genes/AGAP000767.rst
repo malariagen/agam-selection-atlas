@@ -1,0 +1,9 @@
+
+AGAP000767
+=============
+
+
+
+Description: Membrane-associated progesterone receptor component 2 [source:vb community annotation].
+
+TODO

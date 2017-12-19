@@ -1,0 +1,9 @@
+
+AGAP012940
+=============
+
+
+
+Description: Thioredoxin [source:vb community annotation].
+
+TODO

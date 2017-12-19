@@ -1,0 +1,9 @@
+
+AGAP005825
+=============
+
+
+
+Description: Acylglycerol kinase [source:vb community annotation].
+
+TODO

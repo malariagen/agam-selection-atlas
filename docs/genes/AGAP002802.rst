@@ -1,0 +1,9 @@
+
+AGAP002802
+=============
+
+
+
+Description: Neural cell adhesion molecule [source:vb community annotation].
+
+TODO

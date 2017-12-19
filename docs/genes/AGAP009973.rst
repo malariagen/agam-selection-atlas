@@ -1,0 +1,9 @@
+
+AGAP009973
+=============
+
+
+
+Description: Atp-dependent metalloprotease [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001120
+=============
+
+Name: **Gr40**
+
+Description: Gustatory receptor 40 [source:vb community annotation].
+
+TODO

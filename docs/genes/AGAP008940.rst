@@ -1,0 +1,9 @@
+
+AGAP008940
+=============
+
+
+
+Description: Solute carrier family 6 (neurotransmitter transporter, gaba) member 6/8/11/12/ [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001937
+=============
+
+Name: **mRpL33**
+
+Description: 39s ribosomal protein l33, mitochondrial [source:uniprotkb/swiss-prot;acc:q7pyh1].
+
+TODO

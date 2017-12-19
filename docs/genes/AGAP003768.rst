@@ -1,0 +1,9 @@
+
+AGAP003768
+=============
+
+Name: **RpS2**
+
+Description: 40s ribosomal protein s2 [source:vb community annotation].
+
+TODO

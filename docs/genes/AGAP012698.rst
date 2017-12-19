@@ -1,0 +1,9 @@
+
+AGAP012698
+=============
+
+Name: **GPROAR2**
+
+Description: Putative octopamine receptor 2 [source:vb community annotation].
+
+TODO

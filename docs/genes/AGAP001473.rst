@@ -1,0 +1,9 @@
+
+AGAP001473
+=============
+
+
+
+Description: Propionyl-coa synthetase [source:vb community annotation].
+
+TODO

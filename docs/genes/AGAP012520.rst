@@ -1,0 +1,9 @@
+
+AGAP012520
+=============
+
+
+
+Description: Protein regulator of cytokinesis 1 [source:vb community annotation].
+
+TODO

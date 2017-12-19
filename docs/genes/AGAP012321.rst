@@ -1,0 +1,9 @@
+
+AGAP012321
+=============
+
+Name: **OBP26**
+
+Description: Odorant-binding protein 26 [source:vb community annotation].
+
+TODO

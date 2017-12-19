@@ -1,0 +1,9 @@
+
+AGAP012197
+=============
+
+
+
+Description: Histone h3 [source:uniprotkb/trembl;acc:q7pcs9].
+
+TODO

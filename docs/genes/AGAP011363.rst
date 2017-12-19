@@ -1,0 +1,9 @@
+
+AGAP011363
+=============
+
+
+
+Description: Ras-related protein rab-6a [source:vb community annotation].
+
+TODO

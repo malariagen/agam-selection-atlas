@@ -1,0 +1,9 @@
+
+AGAP001301
+=============
+
+
+
+Description: Bardet-biedl syndrome 5 protein [source:vb community annotation].
+
+TODO

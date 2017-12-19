@@ -1,0 +1,9 @@
+
+AGAP008064
+=============
+
+
+
+Description: Uroporphyrinogen-iii synthase [source:vb community annotation].
+
+TODO

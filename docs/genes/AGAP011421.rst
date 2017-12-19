@@ -1,0 +1,9 @@
+
+AGAP011421
+=============
+
+
+
+Description: Iq motif and sec7 domain-containing protein [source:vb community annotation].
+
+TODO

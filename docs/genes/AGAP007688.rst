@@ -1,0 +1,9 @@
+
+AGAP007688
+=============
+
+
+
+Description: Pas domain containing serine/threonine kinase [source:vb community annotation].
+
+TODO

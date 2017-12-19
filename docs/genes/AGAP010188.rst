@@ -1,0 +1,9 @@
+
+AGAP010188
+=============
+
+
+
+Description: Stress-induced-phosphoprotein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006998
+=============
+
+
+
+Description: Cohesin complex subunit sa-1/2 [source:vb community annotation].
+
+TODO

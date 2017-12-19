@@ -1,0 +1,9 @@
+
+AGAP002444
+=============
+
+Name: **GPROP12**
+
+Description: Pteropsin [source:vb community annotation].
+
+TODO

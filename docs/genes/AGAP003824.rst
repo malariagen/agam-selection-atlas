@@ -1,0 +1,9 @@
+
+AGAP003824
+=============
+
+
+
+Description: Conserved oligomeric golgi complex subunit 2 [source:vb community annotation].
+
+TODO

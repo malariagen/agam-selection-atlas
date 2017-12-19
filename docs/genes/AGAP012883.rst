@@ -1,0 +1,9 @@
+
+AGAP012883
+=============
+
+
+
+Description: Acyl-protein thioesterase 1,2 [source:vb community annotation].
+
+TODO

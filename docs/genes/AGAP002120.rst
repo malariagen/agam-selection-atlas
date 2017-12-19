@@ -1,0 +1,9 @@
+
+AGAP002120
+=============
+
+
+
+Description: Run and tbc1 domain-containing protein 3 [source:vb community annotation].
+
+TODO

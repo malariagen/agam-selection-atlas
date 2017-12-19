@@ -1,0 +1,9 @@
+
+AGAP001173
+=============
+
+Name: **Gr52**
+
+Description: Gustatory receptor 52 [source:vb community annotation].
+
+TODO

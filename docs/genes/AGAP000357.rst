@@ -1,0 +1,9 @@
+
+AGAP000357
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase znrf1/2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005624
+=============
+
+
+
+Description: Mitochondrial inner membrane protein cox18 [source:vb community annotation].
+
+TODO

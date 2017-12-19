@@ -1,0 +1,9 @@
+
+AGAP005677
+=============
+
+Name: **IR133**
+
+Description: Ionotropic receptor ir133 [source:vb community annotation].
+
+TODO

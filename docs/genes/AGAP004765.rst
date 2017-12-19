@@ -1,0 +1,9 @@
+
+AGAP004765
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx1 [source:vb community annotation].
+
+TODO

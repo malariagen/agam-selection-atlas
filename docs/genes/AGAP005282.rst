@@ -1,0 +1,9 @@
+
+AGAP005282
+=============
+
+
+
+Description: Guanine deaminase [source:vb community annotation].
+
+TODO

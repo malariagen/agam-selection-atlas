@@ -1,0 +1,9 @@
+
+AGAP001745
+=============
+
+
+
+Description: 26s proteasome regulatory subunit rpn2 [source:vb community annotation].
+
+TODO

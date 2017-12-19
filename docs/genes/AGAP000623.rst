@@ -1,0 +1,9 @@
+
+AGAP000623
+=============
+
+
+
+Description: Dna ligase 4 [source:vb community annotation].
+
+TODO

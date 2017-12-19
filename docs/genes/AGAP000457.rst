@@ -1,0 +1,9 @@
+
+AGAP000457
+=============
+
+
+
+Description: Protein-l-isoaspartate(d-aspartate) o-methyltransferase [source:vb community annotation].
+
+TODO

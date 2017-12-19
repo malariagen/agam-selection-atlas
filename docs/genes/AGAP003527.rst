@@ -1,0 +1,9 @@
+
+AGAP003527
+=============
+
+
+
+Description: O-phospho-l-seryl-trnasec:l-selenocysteinyl-trna synthase [source:vb community annotation].
+
+TODO

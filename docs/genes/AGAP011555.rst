@@ -1,0 +1,9 @@
+
+AGAP011555
+=============
+
+
+
+Description: Protein muscleblind [source:vb community annotation].
+
+TODO

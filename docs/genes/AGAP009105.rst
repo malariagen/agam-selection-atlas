@@ -1,0 +1,9 @@
+
+AGAP009105
+=============
+
+
+
+Description: Serine/threonine-protein phosphatase 2a 65 kda regulatory subunit a beta isoform isoform c [source:vb community annotation].
+
+TODO

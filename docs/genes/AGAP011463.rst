@@ -1,0 +1,9 @@
+
+AGAP011463
+=============
+
+
+
+Description: Src homology 2 domain-containing transforming protein c [source:vb community annotation].
+
+TODO

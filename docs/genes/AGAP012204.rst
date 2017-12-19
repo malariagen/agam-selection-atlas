@@ -1,0 +1,9 @@
+
+AGAP012204
+=============
+
+
+
+Description: H/aca ribonucleoprotein complex subunit 2 [source:vb community annotation].
+
+TODO

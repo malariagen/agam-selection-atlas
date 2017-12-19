@@ -1,0 +1,9 @@
+
+AGAP004069
+=============
+
+
+
+Description: Dipeptidase 2 [source:vb community annotation].
+
+TODO

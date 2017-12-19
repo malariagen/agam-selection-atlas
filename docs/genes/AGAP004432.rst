@@ -1,0 +1,9 @@
+
+AGAP004432
+=============
+
+Name: **IR41t.1**
+
+Description: Ionotropic receptor ir41t.1 [source:vb community annotation].
+
+TODO

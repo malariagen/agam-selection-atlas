@@ -1,0 +1,9 @@
+
+AGAP004301
+=============
+
+
+
+Description: Phosphatidylinositol glycan, class k [source:vb community annotation].
+
+TODO

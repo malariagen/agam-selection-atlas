@@ -1,0 +1,9 @@
+
+AGAP000240
+=============
+
+
+
+Description: Htra serine peptidase 2 [source:vb community annotation].
+
+TODO

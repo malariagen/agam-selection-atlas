@@ -104,5 +104,6 @@ ENV/
 deps
 _build
 ngs.sanger.ac.uk
+vectorbase.org
 .idea
 

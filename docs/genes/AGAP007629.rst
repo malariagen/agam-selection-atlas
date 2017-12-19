@@ -1,0 +1,9 @@
+
+AGAP007629
+=============
+
+Name: **LANB2**
+
+Description: Laminin gamma 1 [source:vb community annotation].
+
+TODO

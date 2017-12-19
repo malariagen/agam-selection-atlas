@@ -1,0 +1,9 @@
+
+AGAP004715
+=============
+
+
+
+Description: Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial [source:vb community annotation].
+
+TODO

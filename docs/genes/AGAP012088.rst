@@ -1,0 +1,9 @@
+
+AGAP012088
+=============
+
+
+
+Description: Stromal membrane-associated protein [source:vb community annotation].
+
+TODO

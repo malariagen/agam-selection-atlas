@@ -1,0 +1,9 @@
+
+AGAP007499
+=============
+
+
+
+Description: Chloride channel 7 [source:vb community annotation].
+
+TODO

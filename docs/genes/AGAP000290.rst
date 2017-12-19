@@ -1,0 +1,9 @@
+
+AGAP000290
+=============
+
+Name: **CLIPA27**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006944
+=============
+
+Name: **eIF3e**
+
+Description: Eukaryotic translation initiation factor 3 subunit e [source:uniprotkb/swiss-prot;acc:q7qil8].
+
+TODO

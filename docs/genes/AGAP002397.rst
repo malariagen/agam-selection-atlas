@@ -1,0 +1,9 @@
+
+AGAP002397
+=============
+
+
+
+Description: 60 kda lysophospholipase [source:vb community annotation].
+
+TODO

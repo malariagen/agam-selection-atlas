@@ -1,0 +1,9 @@
+
+AGAP006132
+=============
+
+
+
+Description: Ganglioside-induced differentiation-associated-protein 1 [source:vb community annotation].
+
+TODO

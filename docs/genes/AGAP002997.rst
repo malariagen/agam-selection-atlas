@@ -1,0 +1,9 @@
+
+AGAP002997
+=============
+
+
+
+Description: Tumor necrosis factor alpha-induced protein 8-like protein [source:vb community annotation].
+
+TODO

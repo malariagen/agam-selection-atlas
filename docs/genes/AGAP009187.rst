@@ -1,0 +1,9 @@
+
+AGAP009187
+=============
+
+
+
+Description: Indanol dehydrogenase [source:vb community annotation].
+
+TODO

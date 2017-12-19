@@ -1,0 +1,9 @@
+
+AGAP006368
+=============
+
+Name: **Obp70**
+
+Description: Odorant-bnding protein [source:vb community annotation].
+
+TODO

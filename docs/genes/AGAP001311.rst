@@ -1,0 +1,9 @@
+
+AGAP001311
+=============
+
+Name: **RpL20**
+
+Description: 60s ribosomal protein l20 [source:vb community annotation].
+
+TODO

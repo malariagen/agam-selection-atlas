@@ -1,0 +1,9 @@
+
+AGAP000597
+=============
+
+
+
+Description: Dna cross-link repair 1c protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010900
+=============
+
+Name: **CPF1**
+
+Description: Cuticular protein 1 from fifty-one aa family [source:vb community annotation].
+
+TODO

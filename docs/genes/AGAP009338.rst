@@ -1,0 +1,9 @@
+
+AGAP009338
+=============
+
+
+
+Description: Cell division cycle 20, cofactor of apc complex [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008375
+=============
+
+
+
+Description: Mannose-p-dolichol utilization defect 1 [source:vb community annotation].
+
+TODO

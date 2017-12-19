@@ -1,0 +1,9 @@
+
+AGAP001548
+=============
+
+
+
+Description: Stress-associated endoplasmic reticulum protein 2 [source:vb community annotation].
+
+TODO

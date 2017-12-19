@@ -1,0 +1,9 @@
+
+AGAP001606
+=============
+
+
+
+Description: 5-oxoprolinase (atp-hydrolysing) [source:vb community annotation].
+
+TODO

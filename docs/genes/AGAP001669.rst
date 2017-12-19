@@ -1,0 +1,9 @@
+
+AGAP001669
+=============
+
+Name: **CPR6**
+
+Description: Cuticular protein rr-2 family 6 [source:vb community annotation].
+
+TODO

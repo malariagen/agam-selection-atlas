@@ -1,0 +1,9 @@
+
+AGAP006490
+=============
+
+
+
+Description: Receptor protein-tyrosine kinase [source:vb community annotation].
+
+TODO

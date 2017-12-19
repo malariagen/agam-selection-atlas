@@ -1,0 +1,9 @@
+
+AGAP007417
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase shprh [source:vb community annotation].
+
+TODO

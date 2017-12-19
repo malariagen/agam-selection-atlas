@@ -1,0 +1,9 @@
+
+AGAP013748
+=============
+
+
+
+Description: Mitochondrial import receptor subunit tom7 homolog [source:vb community annotation].
+
+TODO

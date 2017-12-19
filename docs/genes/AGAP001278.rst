@@ -1,0 +1,9 @@
+
+AGAP001278
+=============
+
+
+
+Description: Cysteine-rich hydrophobic domain 2 [source:vb community annotation].
+
+TODO

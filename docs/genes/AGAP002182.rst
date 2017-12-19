@@ -1,0 +1,9 @@
+
+AGAP002182
+=============
+
+Name: **ABCE1**
+
+Description: Atp-binding cassette transporter (abc transporter) family e member 1 [source:vb community annotation].
+
+TODO

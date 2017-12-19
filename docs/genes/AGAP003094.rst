@@ -1,0 +1,9 @@
+
+AGAP003094
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 9b [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006599
+=============
+
+
+
+Description: Atp-dependent rna helicase a [source:vb community annotation].
+
+TODO

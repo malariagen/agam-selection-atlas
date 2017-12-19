@@ -1,0 +1,9 @@
+
+AGAP002748
+=============
+
+
+
+Description: Protein kinase c [source:uniprotkb/trembl;acc:q7qcp8].
+
+TODO

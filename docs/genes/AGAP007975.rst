@@ -1,0 +1,9 @@
+
+AGAP007975
+=============
+
+
+
+Description: Pyruvate dehydrogenase e2 component (dihydrolipoamide acetyltransferase) [source:vb community annotation].
+
+TODO

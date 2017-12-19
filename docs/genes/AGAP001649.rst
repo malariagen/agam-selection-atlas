@@ -1,0 +1,9 @@
+
+AGAP001649
+=============
+
+
+
+Description: Glucosylceramidase [source:uniprotkb/trembl;acc:q7pxx9].
+
+TODO

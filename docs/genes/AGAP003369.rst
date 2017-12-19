@@ -1,0 +1,9 @@
+
+AGAP003369
+=============
+
+
+
+Description: Rna-binding protein 16 [source:vb community annotation].
+
+TODO

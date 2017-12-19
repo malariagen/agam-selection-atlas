@@ -1,0 +1,9 @@
+
+AGAP006604
+=============
+
+
+
+Description: U6 snrna-associated sm-like protein lsm5 [source:vb community annotation].
+
+TODO

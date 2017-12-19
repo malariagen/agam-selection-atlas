@@ -1,0 +1,9 @@
+
+AGAP012466
+=============
+
+Name: **CPR146**
+
+Description: Cuticular protein rr-2 family 146 [source:vb community annotation].
+
+TODO

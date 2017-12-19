@@ -1,0 +1,9 @@
+
+AGAP003098
+=============
+
+Name: **Gr23**
+
+Description: Gustatory receptor 23 [source:vb community annotation].
+
+TODO

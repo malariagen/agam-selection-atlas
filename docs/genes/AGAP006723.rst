@@ -1,0 +1,9 @@
+
+AGAP006723
+=============
+
+Name: **COEAE2G**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

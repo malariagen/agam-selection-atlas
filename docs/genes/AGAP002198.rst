@@ -1,0 +1,9 @@
+
+AGAP002198
+=============
+
+
+
+Description: Glycine n-methyltransferase [source:vb community annotation].
+
+TODO

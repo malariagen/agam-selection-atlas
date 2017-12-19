@@ -1,0 +1,9 @@
+
+AGAP008765
+=============
+
+
+
+Description: Serine kinase [source:vb community annotation].
+
+TODO

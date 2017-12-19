@@ -1,0 +1,9 @@
+
+AGAP004487
+=============
+
+
+
+Description: Snx5 protein [source:vb community annotation].
+
+TODO

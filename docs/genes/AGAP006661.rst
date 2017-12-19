@@ -1,0 +1,9 @@
+
+AGAP006661
+=============
+
+
+
+Description: Kinetochore protein ndc80 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000387
+=============
+
+
+
+Description: Udp-n-acetylglucosamine transporter [source:vb community annotation].
+
+TODO

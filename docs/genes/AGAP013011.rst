@@ -1,0 +1,9 @@
+
+AGAP013011
+=============
+
+
+
+Description: A-kinase anchoring protein akap120 [source:vb community annotation].
+
+TODO

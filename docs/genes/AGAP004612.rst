@@ -1,0 +1,9 @@
+
+AGAP004612
+=============
+
+
+
+Description: Phosphotransferase loc123688 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005002
+=============
+
+Name: **GPRNNA18**
+
+Description: Putative gpcr class a orphan receptor 18 [source:vb community annotation].
+
+TODO

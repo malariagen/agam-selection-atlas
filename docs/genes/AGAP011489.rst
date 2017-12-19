@@ -1,0 +1,9 @@
+
+AGAP011489
+=============
+
+
+
+Description: Ptk7 protein tyrosine kinase 7 [source:vb community annotation].
+
+TODO

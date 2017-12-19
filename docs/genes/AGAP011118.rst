@@ -1,0 +1,9 @@
+
+AGAP011118
+=============
+
+
+
+Description: Focal adhesion kinase 1 [source:vb community annotation].
+
+TODO

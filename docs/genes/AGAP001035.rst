@@ -1,0 +1,9 @@
+
+AGAP001035
+=============
+
+
+
+Description: Rapamycin-insensitive companion of mtor [source:vb community annotation].
+
+TODO

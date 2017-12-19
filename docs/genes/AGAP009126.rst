@@ -1,0 +1,9 @@
+
+AGAP009126
+=============
+
+
+
+Description: Protein expanded [source:vb community annotation].
+
+TODO

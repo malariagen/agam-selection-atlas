@@ -1,0 +1,9 @@
+
+AGAP006780
+=============
+
+
+
+Description: Isovaleryl-coa dehydrogenase [source:vb community annotation].
+
+TODO

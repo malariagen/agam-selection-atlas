@@ -1,0 +1,9 @@
+
+AGAP008613
+=============
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:vb community annotation].
+
+TODO

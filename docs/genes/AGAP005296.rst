@@ -1,0 +1,9 @@
+
+AGAP005296
+=============
+
+
+
+Description: U11/u12 small nuclear ribonucleoprotein 65 kda protein [source:vb community annotation].
+
+TODO

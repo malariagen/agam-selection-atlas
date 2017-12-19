@@ -1,0 +1,9 @@
+
+AGAP003621
+=============
+
+
+
+Description: Coiled-coil domain-containing protein 25 [source:vb community annotation].
+
+TODO

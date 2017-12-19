@@ -1,0 +1,9 @@
+
+AGAP009944
+=============
+
+
+
+Description: Retinal dehydrogenase 2 [source:vb community annotation].
+
+TODO

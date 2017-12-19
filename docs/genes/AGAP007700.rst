@@ -1,0 +1,9 @@
+
+AGAP007700
+=============
+
+
+
+Description: N-acetylneuraminate lyase [source:vb community annotation].
+
+TODO

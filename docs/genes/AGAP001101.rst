@@ -1,0 +1,9 @@
+
+AGAP001101
+=============
+
+Name: **COEBE2O**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001114
+=============
+
+Name: **Gr38**
+
+Description: Gustatory receptor 38 [source:vb community annotation].
+
+TODO

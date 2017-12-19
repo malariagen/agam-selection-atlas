@@ -1,0 +1,9 @@
+
+AGAP008332
+=============
+
+
+
+Description: Replication factor a2 [source:vb community annotation].
+
+TODO

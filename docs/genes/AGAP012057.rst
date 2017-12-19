@@ -1,0 +1,9 @@
+
+AGAP012057
+=============
+
+
+
+Description: Rna polymerase-associated protein rtf1 [source:vb community annotation].
+
+TODO

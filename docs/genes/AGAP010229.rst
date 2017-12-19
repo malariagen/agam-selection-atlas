@@ -1,0 +1,9 @@
+
+AGAP010229
+=============
+
+
+
+Description: Beta-ureidopropionase [source:vb community annotation].
+
+TODO

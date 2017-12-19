@@ -1,0 +1,9 @@
+
+AGAP012104
+=============
+
+
+
+Description: (dimethylallyl)adenosine trna methylthiotransferase miab [source:vb community annotation].
+
+TODO

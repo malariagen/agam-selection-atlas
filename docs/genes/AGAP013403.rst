@@ -1,0 +1,9 @@
+
+AGAP013403
+=============
+
+
+
+Description: Sodium-coupled monocarboxylate transporter 2 [source:vb community annotation].
+
+TODO

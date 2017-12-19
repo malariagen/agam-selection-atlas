@@ -1,0 +1,9 @@
+
+AGAP001933
+=============
+
+
+
+Description: Kinase [source:vb community annotation].
+
+TODO

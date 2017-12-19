@@ -1,0 +1,9 @@
+
+AGAP010444
+=============
+
+
+
+Description: Fas-binding factor 1 [source:vb community annotation].
+
+TODO

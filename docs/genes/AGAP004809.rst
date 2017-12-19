@@ -1,0 +1,9 @@
+
+AGAP004809
+=============
+
+Name: **APN1**
+
+Description: Alanyl aminopeptidase n 1 [source:vb community annotation].
+
+TODO

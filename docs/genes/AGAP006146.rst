@@ -1,0 +1,9 @@
+
+AGAP006146
+=============
+
+Name: **CPLCA2**
+
+Description: Cuticular protein 2 in cplca family [source:vb community annotation].
+
+TODO

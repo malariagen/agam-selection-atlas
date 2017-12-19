@@ -1,0 +1,9 @@
+
+AGAP005768
+=============
+
+Name: **HEX1A**
+
+Description: Hexamerin [source:vb community annotation].
+
+TODO

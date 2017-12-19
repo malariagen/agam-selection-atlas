@@ -1,0 +1,9 @@
+
+AGAP008114
+=============
+
+Name: **Or22**
+
+Description: Odorant receptor 22 [source:vb community annotation].
+
+TODO

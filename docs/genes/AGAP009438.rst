@@ -1,0 +1,9 @@
+
+AGAP009438
+=============
+
+
+
+Description: Pre-rrna-processing protein tsr1 [source:vb community annotation].
+
+TODO

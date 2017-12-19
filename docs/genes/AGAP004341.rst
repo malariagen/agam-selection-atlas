@@ -1,0 +1,9 @@
+
+AGAP004341
+=============
+
+
+
+Description: Metastasis-associated protein mta [source:vb community annotation].
+
+TODO

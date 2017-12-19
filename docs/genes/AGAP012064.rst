@@ -1,0 +1,9 @@
+
+AGAP012064
+=============
+
+
+
+Description: Map/microtubule affinity-regulating kinase [source:vb community annotation].
+
+TODO

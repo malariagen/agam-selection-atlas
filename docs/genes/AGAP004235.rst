@@ -1,0 +1,9 @@
+
+AGAP004235
+=============
+
+
+
+Description: Elongation factor 1-delta [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002647
+=============
+
+
+
+Description: Phosphorylase kinase gamma subunit [source:vb community annotation].
+
+TODO

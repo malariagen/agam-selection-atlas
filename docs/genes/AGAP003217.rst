@@ -1,0 +1,9 @@
+
+AGAP003217
+=============
+
+Name: **mRpS6**
+
+Description: 28s ribosomal protein s6, mitochondrial [source:vb community annotation].
+
+TODO

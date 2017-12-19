@@ -1,0 +1,9 @@
+
+AGAP005428
+=============
+
+
+
+Description: Transcription elongation factor spt4 1 [source:vb community annotation].
+
+TODO

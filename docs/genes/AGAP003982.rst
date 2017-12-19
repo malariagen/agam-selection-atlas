@@ -1,0 +1,9 @@
+
+AGAP003982
+=============
+
+
+
+Description: Methyl-cpg-binding domain protein 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012809
+=============
+
+
+
+Description: Bcs1 (mitochondrial chaperone) homolog family member [source:vb community annotation].
+
+TODO

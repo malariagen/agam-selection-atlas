@@ -1,0 +1,9 @@
+
+AGAP007108
+=============
+
+
+
+Description: Multiple pdz domain protein [source:vb community annotation].
+
+TODO

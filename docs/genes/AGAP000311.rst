@@ -1,0 +1,9 @@
+
+AGAP000311
+=============
+
+
+
+Description: Unc93-like protein mfsd11 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004972
+=============
+
+
+
+Description: Otu domain-containing protein 4 [source:vb community annotation].
+
+TODO

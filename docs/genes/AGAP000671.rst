@@ -1,0 +1,9 @@
+
+AGAP000671
+=============
+
+
+
+Description: Ras-related protein rab-10 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011366
+=============
+
+Name: **COE18026**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008654
+=============
+
+Name: **TEP12**
+
+Description: Thioester-containing protein 12 [source:vb community annotation].
+
+TODO

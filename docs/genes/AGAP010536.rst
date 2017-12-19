@@ -1,0 +1,9 @@
+
+AGAP010536
+=============
+
+
+
+Description: Nucleolar complex protein 2 [source:vb community annotation].
+
+TODO

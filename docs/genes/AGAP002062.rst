@@ -1,0 +1,9 @@
+
+AGAP002062
+=============
+
+
+
+Description: Protein fam50 homolog [source:uniprotkb/swiss-prot;acc:q7pyq5].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002810
+=============
+
+
+
+Description: 45 kda calcium-binding protein [source:vb community annotation].
+
+TODO

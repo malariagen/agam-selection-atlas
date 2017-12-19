@@ -1,0 +1,9 @@
+
+AGAP006438
+=============
+
+
+
+Description: Ribosomal biogenesis protein las1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009013
+=============
+
+
+
+Description: Methionyl aminopeptidase [source:vb community annotation].
+
+TODO

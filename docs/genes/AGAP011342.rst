@@ -1,0 +1,9 @@
+
+AGAP011342
+=============
+
+
+
+Description: Transmembrane 4 superfamily member 3 [source:vb community annotation].
+
+TODO

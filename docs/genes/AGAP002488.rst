@@ -1,0 +1,9 @@
+
+AGAP002488
+=============
+
+
+
+Description: Rest corepressor [source:vb community annotation].
+
+TODO

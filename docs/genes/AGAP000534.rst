@@ -1,0 +1,9 @@
+
+AGAP000534
+=============
+
+
+
+Description: Glutathione synthase [source:vb community annotation].
+
+TODO

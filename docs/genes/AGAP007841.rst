@@ -1,0 +1,9 @@
+
+AGAP007841
+=============
+
+
+
+Description: F-type h -transporting atpase subunit delta [source:vb community annotation].
+
+TODO

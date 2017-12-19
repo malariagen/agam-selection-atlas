@@ -1,0 +1,9 @@
+
+AGAP001826
+=============
+
+Name: **Lp**
+
+Description: Lipophorin [source:vb community annotation].
+
+TODO

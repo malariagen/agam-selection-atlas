@@ -1,0 +1,9 @@
+
+AGAP006637
+=============
+
+
+
+Description: Oatp58dc [source:vb community annotation].
+
+TODO

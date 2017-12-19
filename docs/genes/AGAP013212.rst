@@ -1,0 +1,9 @@
+
+AGAP013212
+=============
+
+
+
+Description: Import inner membrane translocase subunit tim16 [source:vb community annotation].
+
+TODO

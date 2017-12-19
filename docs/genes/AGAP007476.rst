@@ -1,0 +1,9 @@
+
+AGAP007476
+=============
+
+
+
+Description: Tp53 regulating kinase [source:vb community annotation].
+
+TODO

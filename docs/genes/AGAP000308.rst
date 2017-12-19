@@ -1,0 +1,9 @@
+
+AGAP000308
+=============
+
+
+
+Description: Proteasome activator subunit 3 (pa28 gamma) [source:vb community annotation].
+
+TODO

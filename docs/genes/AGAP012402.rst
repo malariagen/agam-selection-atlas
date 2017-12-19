@@ -1,0 +1,9 @@
+
+AGAP012402
+=============
+
+
+
+Description: Exosome complex component rrp43 [source:vb community annotation].
+
+TODO

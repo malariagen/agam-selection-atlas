@@ -1,0 +1,9 @@
+
+AGAP004880
+=============
+
+
+
+Description: L-lactate dehydrogenase [source:uniprotkb/trembl;acc:q7q981].
+
+TODO

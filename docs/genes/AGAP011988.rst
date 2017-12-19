@@ -1,0 +1,9 @@
+
+AGAP011988
+=============
+
+
+
+Description: Protein kinase c [source:uniprotkb/trembl;acc:a0a1s4h907].
+
+TODO

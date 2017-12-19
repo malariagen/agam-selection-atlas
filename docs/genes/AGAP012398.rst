@@ -1,0 +1,9 @@
+
+AGAP012398
+=============
+
+
+
+Description: Cop9 complex subunit 7a [source:vb community annotation].
+
+TODO

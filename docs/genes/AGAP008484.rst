@@ -1,0 +1,9 @@
+
+AGAP008484
+=============
+
+
+
+Description: Trna-dihydrouridine synthase 1 [source:vb community annotation].
+
+TODO

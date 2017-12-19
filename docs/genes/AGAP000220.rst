@@ -1,0 +1,9 @@
+
+AGAP000220
+=============
+
+
+
+Description: Xylulokinase [source:vb community annotation].
+
+TODO

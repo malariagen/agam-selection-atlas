@@ -1,0 +1,9 @@
+
+AGAP013767
+=============
+
+
+
+Description: Lactosylceramide 4-alpha-galactosyltransferase [source:vb community annotation].
+
+TODO

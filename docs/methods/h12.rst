@@ -1,0 +1,5 @@
+
+H12 (Garud et al. 20XX)
+=======================
+
+TODO describe the H12 statistic.

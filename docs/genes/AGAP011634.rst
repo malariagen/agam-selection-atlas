@@ -1,0 +1,9 @@
+
+AGAP011634
+=============
+
+
+
+Description: Fumarylacetoacetate hydrolase domain containing 2a [source:vb community annotation].
+
+TODO

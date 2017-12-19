@@ -1,0 +1,9 @@
+
+AGAP001407
+=============
+
+
+
+Description: 26s proteasome regulatory subunit t4 [source:vb community annotation].
+
+TODO

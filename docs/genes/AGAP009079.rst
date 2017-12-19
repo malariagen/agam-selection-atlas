@@ -1,0 +1,9 @@
+
+AGAP009079
+=============
+
+
+
+Description: 2',5'-phosphodiesterase 12 [source:vb community annotation].
+
+TODO

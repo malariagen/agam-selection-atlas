@@ -1,0 +1,9 @@
+
+AGAP004334
+=============
+
+Name: **SG5**
+
+Description: Salivary gland protein 5 [source:vb community annotation].
+
+TODO

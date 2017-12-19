@@ -1,0 +1,9 @@
+
+AGAP004738
+=============
+
+
+
+Description: Ik cytokine [source:vb community annotation].
+
+TODO

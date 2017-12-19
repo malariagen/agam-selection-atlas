@@ -1,0 +1,9 @@
+
+AGAP009568
+=============
+
+
+
+Description: Dynein heavy chain [source:vb community annotation].
+
+TODO

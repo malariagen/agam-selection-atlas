@@ -1,0 +1,9 @@
+
+AGAP009341
+=============
+
+
+
+Description: Protein phosphatase 2 (formerly 2a), regulatory subunit b' [source:vb community annotation].
+
+TODO

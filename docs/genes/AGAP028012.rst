@@ -1,0 +1,9 @@
+
+AGAP028012
+=============
+
+
+
+Description: Dna-directed rna polymerase subunit [source:uniprotkb/trembl;acc:a0a1s4hdz1].
+
+TODO

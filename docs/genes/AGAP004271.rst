@@ -1,0 +1,9 @@
+
+AGAP004271
+=============
+
+
+
+Description: Phospholipase/carboxylesterase [source:vb community annotation].
+
+TODO

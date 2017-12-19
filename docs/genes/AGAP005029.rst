@@ -1,0 +1,9 @@
+
+AGAP005029
+=============
+
+
+
+Description: Serine-threonine kinase receptor-associated protein [source:vb community annotation].
+
+TODO

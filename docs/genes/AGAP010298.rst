@@ -1,0 +1,9 @@
+
+AGAP010298
+=============
+
+
+
+Description: V-type h -transporting atpase subunit d [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004780
+=============
+
+
+
+Description: Cyclin-dependent kinase 12/13 [source:vb community annotation].
+
+TODO

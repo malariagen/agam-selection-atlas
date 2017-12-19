@@ -1,0 +1,9 @@
+
+AGAP001356
+=============
+
+Name: **ACE1**
+
+Description: Acetylcholinesterase [source:uniprotkb/swiss-prot;acc:q869c3].
+
+TODO

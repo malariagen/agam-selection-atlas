@@ -1,0 +1,9 @@
+
+AGAP000068
+=============
+
+Name: **NFI**
+
+Description: Nuclear factor i [source:vb community annotation].
+
+TODO

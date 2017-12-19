@@ -1,0 +1,9 @@
+
+AGAP006700
+=============
+
+Name: **COEAE8O**
+
+Description: Carboxylesterase alpha esterase [source:vb community annotation].
+
+TODO

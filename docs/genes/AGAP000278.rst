@@ -1,0 +1,9 @@
+
+AGAP000278
+=============
+
+Name: **OBP9**
+
+Description: Odorant-binding protein 9 [source:vb community annotation].
+
+TODO

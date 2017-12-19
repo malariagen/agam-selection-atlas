@@ -1,0 +1,9 @@
+
+AGAP001747
+=============
+
+
+
+Description: Ubiquitin domain-containing protein [source:vb community annotation].
+
+TODO

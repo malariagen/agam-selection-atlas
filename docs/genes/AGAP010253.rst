@@ -1,0 +1,9 @@
+
+AGAP010253
+=============
+
+Name: **Prosalpha6**
+
+Description: 26s proteasome alpha 6 subunit [source:vb community annotation].
+
+TODO

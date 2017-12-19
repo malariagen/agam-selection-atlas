@@ -1,0 +1,9 @@
+
+AGAP009291
+=============
+
+
+
+Description: Coatomer subunit gamma [source:vb community annotation].
+
+TODO

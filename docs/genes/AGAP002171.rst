@@ -1,0 +1,9 @@
+
+AGAP002171
+=============
+
+
+
+Description: Nucleolar protein 58 [source:vb community annotation].
+
+TODO

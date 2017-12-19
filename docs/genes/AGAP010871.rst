@@ -1,0 +1,9 @@
+
+AGAP010871
+=============
+
+
+
+Description: Peptidyl-trna hydrolase, pth2 family [source:vb community annotation].
+
+TODO

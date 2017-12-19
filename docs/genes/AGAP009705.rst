@@ -1,0 +1,9 @@
+
+AGAP009705
+=============
+
+Name: **Or69**
+
+Description: Odorant receptor 69 [source:vb community annotation].
+
+TODO

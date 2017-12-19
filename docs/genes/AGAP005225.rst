@@ -1,0 +1,9 @@
+
+AGAP005225
+=============
+
+
+
+Description: Zinc finger protein ubi-d4 [source:vb community annotation].
+
+TODO

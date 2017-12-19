@@ -1,0 +1,9 @@
+
+AGAP009629
+=============
+
+Name: **OBP5**
+
+Description: Odorant-binding protein antennal 5 [source:vb community annotation].
+
+TODO

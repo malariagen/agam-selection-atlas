@@ -1,0 +1,9 @@
+
+AGAP028373
+=============
+
+Name: **ND3**
+
+Description: Nadh dehydrogenase subunit 3 [source:european nucleotide archive;acc:nd3].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008454
+=============
+
+Name: **CPLCG10**
+
+Description: Cuticular protein cplcg family (cplcg10) [source:vb community annotation].
+
+TODO

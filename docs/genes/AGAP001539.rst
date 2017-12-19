@@ -1,0 +1,9 @@
+
+AGAP001539
+=============
+
+
+
+Description: Histone acetyltransferase htatip [source:vb community annotation].
+
+TODO

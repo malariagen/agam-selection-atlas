@@ -1,0 +1,9 @@
+
+AGAP009431
+=============
+
+Name: **RpS21**
+
+Description: 40s ribosomal protein s21 [source:uniprotkb/trembl;acc:q7ptn4].
+
+TODO

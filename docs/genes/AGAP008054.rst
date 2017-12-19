@@ -1,0 +1,9 @@
+
+AGAP008054
+=============
+
+Name: **SAP3**
+
+Description: Sensory appendage protein 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007497
+=============
+
+Name: **CuSOD1**
+
+Description: Copper-zinc superoxide dismutase 1 [source:vb community annotation].
+
+TODO

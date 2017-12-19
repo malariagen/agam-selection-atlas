@@ -1,0 +1,9 @@
+
+AGAP011722
+=============
+
+
+
+Description: Epithelial splicing regulatory protein [source:vb community annotation].
+
+TODO

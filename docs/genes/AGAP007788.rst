@@ -1,0 +1,9 @@
+
+AGAP007788
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase rnf31 [source:vb community annotation].
+
+TODO

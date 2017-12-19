@@ -1,0 +1,9 @@
+
+AGAP004469
+=============
+
+
+
+Description: Phosphatidylinositol transfer protein, beta like [source:vb community annotation].
+
+TODO

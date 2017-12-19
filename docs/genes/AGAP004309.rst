@@ -1,0 +1,9 @@
+
+AGAP004309
+=============
+
+
+
+Description: Solute carrier family 22 [source:vb community annotation].
+
+TODO

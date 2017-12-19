@@ -1,0 +1,9 @@
+
+AGAP004148
+=============
+
+Name: **CLIPB5**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

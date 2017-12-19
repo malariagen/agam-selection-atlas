@@ -1,0 +1,9 @@
+
+AGAP000626
+=============
+
+
+
+Description: Vesicle-associated membrane protein-associated protein b [source:vb community annotation].
+
+TODO

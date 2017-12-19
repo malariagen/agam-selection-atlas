@@ -1,0 +1,9 @@
+
+AGAP000162
+=============
+
+
+
+Description: Cystathionine beta-synthase [source:uniprotkb/trembl;acc:q7qev0].
+
+TODO

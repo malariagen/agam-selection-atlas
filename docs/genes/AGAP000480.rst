@@ -1,0 +1,9 @@
+
+AGAP000480
+=============
+
+
+
+Description: Nuclear pore complex protein nup43 [source:vb community annotation].
+
+TODO

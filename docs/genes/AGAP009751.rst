@@ -1,0 +1,9 @@
+
+AGAP009751
+=============
+
+Name: **ANCE2**
+
+Description: Angiotensin-converting enzyme 2 [source:vb community annotation].
+
+TODO

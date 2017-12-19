@@ -1,0 +1,9 @@
+
+AGAP004861
+=============
+
+
+
+Description: Tetraspanin [source:uniprotkb/trembl;acc:q7q961].
+
+TODO

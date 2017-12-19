@@ -1,0 +1,9 @@
+
+AGAP010600
+=============
+
+
+
+Description: Insulin-like peptide 2 precursor [source:vb community annotation].
+
+TODO

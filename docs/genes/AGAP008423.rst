@@ -1,0 +1,9 @@
+
+AGAP008423
+=============
+
+
+
+Description: Ww domain-containing oxidoreductase [source:vb community annotation].
+
+TODO

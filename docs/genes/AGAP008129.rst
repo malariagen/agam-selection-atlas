@@ -1,0 +1,9 @@
+
+AGAP008129
+=============
+
+
+
+Description: Mitogen-activated protein kinase organizer 1 [source:vb community annotation].
+
+TODO

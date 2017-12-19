@@ -1,0 +1,9 @@
+
+AGAP002454
+=============
+
+
+
+Description: Golgi snap receptor complex member 1 [source:uniprotkb/trembl;acc:q7qc51].
+
+TODO

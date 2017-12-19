@@ -1,0 +1,9 @@
+
+AGAP000304
+=============
+
+
+
+Description: Protein twisted gastrulation [source:vb community annotation].
+
+TODO

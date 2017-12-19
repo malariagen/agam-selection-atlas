@@ -1,0 +1,9 @@
+
+AGAP013742
+=============
+
+
+
+Description: 40s ribosomal protein s27a [source:vb community annotation].
+
+TODO

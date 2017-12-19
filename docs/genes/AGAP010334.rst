@@ -1,0 +1,9 @@
+
+AGAP010334
+=============
+
+
+
+Description: Glucosyl/glucuronosyl transferases [source:vb community annotation].
+
+TODO

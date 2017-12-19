@@ -1,0 +1,9 @@
+
+AGAP007856
+=============
+
+
+
+Description: Sugar transporter erd6-like 10 [source:vb community annotation].
+
+TODO

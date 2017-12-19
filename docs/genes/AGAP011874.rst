@@ -1,0 +1,9 @@
+
+AGAP011874
+=============
+
+
+
+Description: Kinesin-like protein kif12 [source:vb community annotation].
+
+TODO

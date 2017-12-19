@@ -1,0 +1,9 @@
+
+AGAP010281
+=============
+
+Name: **GPRGBB1**
+
+Description: Putative gaba-b receptor 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004402
+=============
+
+
+
+Description: Solute carrier family 17 member 7 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001820
+=============
+
+
+
+Description: Tata-binding protein-associated factor [source:vb community annotation].
+
+TODO

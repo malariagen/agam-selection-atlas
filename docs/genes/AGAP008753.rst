@@ -1,0 +1,9 @@
+
+AGAP008753
+=============
+
+
+
+Description: Barrier-to-autointegration factor b [source:vb community annotation].
+
+TODO

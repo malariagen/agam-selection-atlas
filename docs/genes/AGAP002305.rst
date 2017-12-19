@@ -1,0 +1,9 @@
+
+AGAP002305
+=============
+
+
+
+Description: Pre-mrna-splicing factor [source:vb community annotation].
+
+TODO

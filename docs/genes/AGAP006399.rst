@@ -1,0 +1,9 @@
+
+AGAP006399
+=============
+
+Name: **Gr14**
+
+Description: Gustatory receptor 14 [source:vb community annotation].
+
+TODO

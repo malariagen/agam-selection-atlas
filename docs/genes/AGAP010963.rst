@@ -1,0 +1,9 @@
+
+AGAP010963
+=============
+
+
+
+Description: Protein n-terminal asparagine amidohydrolase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP010228
+=============
+
+
+
+Description: 3-methylcrotonyl-coa carboxylase alpha subunit [source:vb community annotation].
+
+TODO

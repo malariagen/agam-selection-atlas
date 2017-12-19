@@ -1,0 +1,9 @@
+
+AGAP007666
+=============
+
+
+
+Description: Calcyphosin-like protein [source:vb community annotation].
+
+TODO

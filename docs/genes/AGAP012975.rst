@@ -1,0 +1,9 @@
+
+AGAP012975
+=============
+
+
+
+Description: Histamine-gated chloride channel subunit [source:vb community annotation].
+
+TODO

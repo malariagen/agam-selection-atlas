@@ -1,0 +1,9 @@
+
+AGAP012089
+=============
+
+
+
+Description: Nuclear inhibitor of protein phosphatase 1 [source:vb community annotation].
+
+TODO

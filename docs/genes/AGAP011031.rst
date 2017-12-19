@@ -1,0 +1,9 @@
+
+AGAP011031
+=============
+
+
+
+Description: Peptidylglycine alpha-amidating monooxygenase cooh-terminal interactor protein-1 [source:vb community annotation].
+
+TODO

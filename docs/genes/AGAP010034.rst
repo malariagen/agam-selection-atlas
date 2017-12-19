@@ -1,0 +1,9 @@
+
+AGAP010034
+=============
+
+Name: **Med6**
+
+Description: Mediator of rna polymerase ii transcription subunit 6 [source:uniprotkb/swiss-prot;acc:q7q107].
+
+TODO

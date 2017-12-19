@@ -1,0 +1,9 @@
+
+AGAP010800
+=============
+
+
+
+Description: Nuclear protein nhn1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004585
+=============
+
+
+
+Description: Translin-associated factor x [source:vb community annotation].
+
+TODO

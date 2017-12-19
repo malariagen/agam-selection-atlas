@@ -1,0 +1,9 @@
+
+AGAP002726
+=============
+
+Name: **CPR9**
+
+Description: Cuticular protein rr-1 family 9 [source:vb community annotation].
+
+TODO

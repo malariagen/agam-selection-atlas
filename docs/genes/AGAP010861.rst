@@ -1,0 +1,9 @@
+
+AGAP010861
+=============
+
+
+
+Description: Solute carrier family 6 (neurotransmitter transporter, serotonin) [source:vb community annotation].
+
+TODO

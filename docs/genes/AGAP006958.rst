@@ -1,0 +1,9 @@
+
+AGAP006958
+=============
+
+Name: **Hsp83**
+
+Description: Heat shock protein 83 [source:uniprotkb/swiss-prot;acc:q7pt10].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009633
+=============
+
+
+
+Description: 3-oxoacyl-(acyl-carrier protein) reductase fabg2 [source:vb community annotation].
+
+TODO

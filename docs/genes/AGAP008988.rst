@@ -1,0 +1,9 @@
+
+AGAP008988
+=============
+
+
+
+Description: Glutamine synthetase [source:uniprotkb/trembl;acc:q7pwf1].
+
+TODO

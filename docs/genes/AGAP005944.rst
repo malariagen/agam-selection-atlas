@@ -1,0 +1,9 @@
+
+AGAP005944
+=============
+
+
+
+Description: Purine nucleoside phosphorylase i, inosine and guanosine-specific family protein [source:vb community annotation].
+
+TODO

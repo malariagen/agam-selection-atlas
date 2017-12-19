@@ -1,0 +1,9 @@
+
+AGAP000580
+=============
+
+Name: **OBP38**
+
+Description: Odorant-binding protein 38 [source:vb community annotation].
+
+TODO

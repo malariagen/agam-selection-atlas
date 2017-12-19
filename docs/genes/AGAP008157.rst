@@ -1,0 +1,9 @@
+
+AGAP008157
+=============
+
+
+
+Description: Zinc finger protein 330 homolog [source:vb community annotation].
+
+TODO

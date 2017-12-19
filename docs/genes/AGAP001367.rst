@@ -1,0 +1,9 @@
+
+AGAP001367
+=============
+
+
+
+Description: Beta-1,3-glucuronyltransferase [source:vb community annotation].
+
+TODO

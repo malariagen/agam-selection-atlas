@@ -1,0 +1,9 @@
+
+AGAP001138
+=============
+
+
+
+Description: F-type h -transporting atpase subunit b [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009497
+=============
+
+
+
+Description: Mitochondrial import receptor subunit tom70 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002132
+=============
+
+
+
+Description: Yeats domain-containing protein 1/3 [source:vb community annotation].
+
+TODO

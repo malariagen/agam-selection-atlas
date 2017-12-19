@@ -1,0 +1,9 @@
+
+AGAP001110
+=============
+
+
+
+Description: Sorting nexin family member 27 isoform 1 [source:vb community annotation].
+
+TODO

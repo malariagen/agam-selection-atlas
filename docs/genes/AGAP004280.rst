@@ -1,0 +1,9 @@
+
+AGAP004280
+=============
+
+
+
+Description: Groucho protein [source:vb community annotation].
+
+TODO

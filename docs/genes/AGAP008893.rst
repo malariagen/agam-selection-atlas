@@ -1,0 +1,9 @@
+
+AGAP008893
+=============
+
+Name: **CPLCP8**
+
+Description: Cuticular protein cplcp8 [source:vb community annotation].
+
+TODO

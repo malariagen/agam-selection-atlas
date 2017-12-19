@@ -1,0 +1,9 @@
+
+AGAP002377
+=============
+
+
+
+Description: Fatty-acid amide hydrolase 2 [source:vb community annotation].
+
+TODO

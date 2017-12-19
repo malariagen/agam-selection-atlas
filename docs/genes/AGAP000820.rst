@@ -1,0 +1,9 @@
+
+AGAP000820
+=============
+
+Name: **CPR125**
+
+Description: Cuticular protein rr-2 family 125 [source:vb community annotation].
+
+TODO

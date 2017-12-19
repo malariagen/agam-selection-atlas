@@ -1,0 +1,9 @@
+
+AGAP000531
+=============
+
+
+
+Description: Lipoyl(octanoyl) transferase [source:vb community annotation].
+
+TODO

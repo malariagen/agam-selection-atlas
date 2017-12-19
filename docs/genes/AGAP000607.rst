@@ -1,0 +1,9 @@
+
+AGAP000607
+=============
+
+Name: **SG1c**
+
+Description: Salivary gland protein 1-like 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002375
+=============
+
+
+
+Description: Dna-directed rna polymerase i subunit rpa12 [source:vb community annotation].
+
+TODO

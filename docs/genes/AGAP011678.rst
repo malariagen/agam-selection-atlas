@@ -1,0 +1,9 @@
+
+AGAP011678
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 5 [source:vb community annotation].
+
+TODO

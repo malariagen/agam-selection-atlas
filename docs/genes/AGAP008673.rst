@@ -1,0 +1,9 @@
+
+AGAP008673
+=============
+
+
+
+Description: Cell cycle checkpoint protein [source:vb community annotation].
+
+TODO

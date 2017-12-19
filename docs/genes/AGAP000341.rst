@@ -1,0 +1,9 @@
+
+AGAP000341
+=============
+
+Name: **GALE2**
+
+Description: Galectin 2 [source:vb community annotation].
+
+TODO

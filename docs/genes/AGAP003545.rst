@@ -1,0 +1,9 @@
+
+AGAP003545
+=============
+
+Name: **Osk**
+
+Description: Protein oskar [source:vb community annotation].
+
+TODO

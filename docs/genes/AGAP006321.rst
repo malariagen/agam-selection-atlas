@@ -1,0 +1,9 @@
+
+AGAP006321
+=============
+
+Name: **CPR71**
+
+Description: Cuticular protein rr-2 family 71 [source:vb community annotation].
+
+TODO

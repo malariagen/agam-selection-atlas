@@ -1,0 +1,9 @@
+
+AGAP007492
+=============
+
+
+
+Description: Signal recognition particle subunit srp9 [source:vb community annotation].
+
+TODO

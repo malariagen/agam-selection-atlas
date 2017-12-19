@@ -1,0 +1,9 @@
+
+AGAP006948
+=============
+
+
+
+Description: Tubulin polymerization-promoting protein [source:vb community annotation].
+
+TODO

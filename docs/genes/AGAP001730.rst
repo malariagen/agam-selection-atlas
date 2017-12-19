@@ -1,0 +1,9 @@
+
+AGAP001730
+=============
+
+
+
+Description: Cyclin g2 [source:vb community annotation].
+
+TODO

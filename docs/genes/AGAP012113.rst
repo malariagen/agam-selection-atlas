@@ -1,0 +1,9 @@
+
+AGAP012113
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase l3 [source:vb community annotation].
+
+TODO

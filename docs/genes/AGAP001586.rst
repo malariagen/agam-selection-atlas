@@ -1,0 +1,9 @@
+
+AGAP001586
+=============
+
+
+
+Description: Cue domain-containing protein 2 [source:vb community annotation].
+
+TODO

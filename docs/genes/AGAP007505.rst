@@ -1,0 +1,9 @@
+
+AGAP007505
+=============
+
+
+
+Description: Vitellogenic carboxypeptidase-like protein [source:vb community annotation].
+
+TODO

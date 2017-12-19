@@ -1,0 +1,9 @@
+
+AGAP002531
+=============
+
+
+
+Description: Taspase, threonine aspartase 1 [source:vb community annotation].
+
+TODO

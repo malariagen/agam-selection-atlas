@@ -1,0 +1,9 @@
+
+AGAP028120
+=============
+
+Name: **D7L3**
+
+Description: D7 long form salivary protein [source:vb community annotation].
+
+TODO

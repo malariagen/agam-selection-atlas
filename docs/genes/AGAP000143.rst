@@ -1,0 +1,9 @@
+
+AGAP000143
+=============
+
+
+
+Description: Beta-mannosidase [source:vb community annotation].
+
+TODO

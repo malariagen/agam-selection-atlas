@@ -1,0 +1,9 @@
+
+AGAP003867
+=============
+
+Name: **Med28**
+
+Description: Mediator of rna polymerase ii transcription subunit 28 [source:vb community annotation].
+
+TODO

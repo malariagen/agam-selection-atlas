@@ -1,0 +1,9 @@
+
+AGAP002596
+=============
+
+
+
+Description: Metalloendopeptidase [source:uniprotkb/trembl;acc:q7qce7].
+
+TODO

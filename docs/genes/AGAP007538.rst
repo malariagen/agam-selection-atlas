@@ -1,0 +1,9 @@
+
+AGAP007538
+=============
+
+
+
+Description: Autocrine motility factor receptor [source:vb community annotation].
+
+TODO

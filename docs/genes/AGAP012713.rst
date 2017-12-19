@@ -1,0 +1,9 @@
+
+AGAP012713
+=============
+
+
+
+Description: Gustatory receptor [source:uniprotkb/trembl;acc:q7pu09].
+
+TODO

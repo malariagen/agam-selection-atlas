@@ -1,0 +1,9 @@
+
+AGAP006240
+=============
+
+
+
+Description: Splicing factor 3b subunit 2 [source:vb community annotation].
+
+TODO

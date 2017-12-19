@@ -1,0 +1,9 @@
+
+AGAP010417
+=============
+
+
+
+Description: Tetratricopeptide repeat protein 39b [source:vb community annotation].
+
+TODO

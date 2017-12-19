@@ -1,0 +1,9 @@
+
+AGAP003159
+=============
+
+
+
+Description: Integrator complex subunit 5 [source:vb community annotation].
+
+TODO

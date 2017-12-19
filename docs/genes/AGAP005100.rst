@@ -1,0 +1,9 @@
+
+AGAP005100
+=============
+
+
+
+Description: Charged multivesicular body protein 5 [source:vb community annotation].
+
+TODO

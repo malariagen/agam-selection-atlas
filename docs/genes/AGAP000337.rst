@@ -1,0 +1,9 @@
+
+AGAP000337
+=============
+
+
+
+Description: Regulator of nonsense transcripts 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004355
+=============
+
+Name: **Or27**
+
+Description: Odorant receptor 27 [source:vb community annotation].
+
+TODO

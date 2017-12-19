@@ -1,0 +1,9 @@
+
+AGAP009059
+=============
+
+
+
+Description: Glia maturation factor beta [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008645
+=============
+
+Name: **GAM1**
+
+Description: Gambicin anti-microbial peptide [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006535
+=============
+
+Name: **Oseg1**
+
+Description: Outer segment 1 [source:vb community annotation].
+
+TODO

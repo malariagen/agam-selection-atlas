@@ -1,0 +1,9 @@
+
+AGAP005536
+=============
+
+
+
+Description: Phosphodiesterase [source:uniprotkb/trembl;acc:q7pnp5].
+
+TODO

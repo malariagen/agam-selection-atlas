@@ -1,0 +1,9 @@
+
+AGAP008462
+=============
+
+Name: **CPLCG18**
+
+Description: Cuticular protein cplcg family (cplcg18) [source:vb community annotation].
+
+TODO

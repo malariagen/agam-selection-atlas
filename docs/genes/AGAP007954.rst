@@ -1,0 +1,9 @@
+
+AGAP007954
+=============
+
+
+
+Description: Ring finger protein 10 [source:vb community annotation].
+
+TODO

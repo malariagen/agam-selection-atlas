@@ -1,0 +1,9 @@
+
+AGAP000150
+=============
+
+Name: **SG6**
+
+Description: Salivary gland protein 6 [source:vb community annotation].
+
+TODO

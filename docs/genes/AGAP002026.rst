@@ -1,0 +1,9 @@
+
+AGAP002026
+=============
+
+
+
+Description: Ditrans,polycis-polyprenyl diphosphate synthase ((2e,6e)-farnesyl diphosphate specific) [source:uniprotkb/trembl;acc:f5hm82].
+
+TODO

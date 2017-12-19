@@ -1,0 +1,9 @@
+
+AGAP005189
+=============
+
+
+
+Description: Biogenesis of lysosome-related organelles complex 1 subunit 6 [source:uniprotkb/trembl;acc:a7ut99].
+
+TODO

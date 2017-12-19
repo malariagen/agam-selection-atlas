@@ -1,0 +1,9 @@
+
+AGAP013473
+=============
+
+Name: **IR141**
+
+Description: Ionotropic receptor ir141 [source:vb community annotation].
+
+TODO

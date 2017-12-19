@@ -1,0 +1,9 @@
+
+AGAP002569
+=============
+
+
+
+Description: Serine incorporator 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003841
+=============
+
+Name: **SG10**
+
+Description: Salivary gland protein 10 [source:vb community annotation].
+
+TODO

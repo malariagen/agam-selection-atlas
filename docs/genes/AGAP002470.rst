@@ -1,0 +1,9 @@
+
+AGAP002470
+=============
+
+Name: **mRpL27**
+
+Description: 39s ribosomal protein l27, mitochondrial [source:vb community annotation].
+
+TODO

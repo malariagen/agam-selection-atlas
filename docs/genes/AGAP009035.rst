@@ -1,0 +1,9 @@
+
+AGAP009035
+=============
+
+
+
+Description: Transcription elongation factor s-ii [source:vb community annotation].
+
+TODO

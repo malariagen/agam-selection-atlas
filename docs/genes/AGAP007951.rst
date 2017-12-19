@@ -1,0 +1,9 @@
+
+AGAP007951
+=============
+
+Name: **IR68a**
+
+Description: Ionotropic receptor ir68a [source:vb community annotation].
+
+TODO

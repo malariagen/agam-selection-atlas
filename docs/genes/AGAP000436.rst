@@ -1,0 +1,9 @@
+
+AGAP000436
+=============
+
+Name: **Cht11**
+
+Description: Chitinase [source:vb community annotation].
+
+TODO

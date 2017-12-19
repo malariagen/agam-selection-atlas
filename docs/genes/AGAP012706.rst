@@ -1,0 +1,9 @@
+
+AGAP012706
+=============
+
+
+
+Description: Acp34a-2 [source:vb community annotation].
+
+TODO

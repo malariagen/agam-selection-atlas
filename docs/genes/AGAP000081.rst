@@ -1,0 +1,9 @@
+
+AGAP000081
+=============
+
+
+
+Description: Glucuronyl/n-acetylglucosaminyl transferase [source:vb community annotation].
+
+TODO

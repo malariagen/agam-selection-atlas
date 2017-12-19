@@ -1,0 +1,9 @@
+
+AGAP013231
+=============
+
+
+
+Description: Nitrilase homolog 2 [source:vb community annotation].
+
+TODO

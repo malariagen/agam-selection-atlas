@@ -1,0 +1,9 @@
+
+AGAP010010
+=============
+
+
+
+Description: Oligosaccharyltransferase complex subunit gamma [source:vb community annotation].
+
+TODO

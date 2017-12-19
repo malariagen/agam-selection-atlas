@@ -1,0 +1,9 @@
+
+AGAP001227
+=============
+
+
+
+Description: Gamma-tubulin complex component 5 [source:vb community annotation].
+
+TODO

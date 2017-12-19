@@ -1,0 +1,9 @@
+
+AGAP010514
+=============
+
+
+
+Description: Activator of 90 kda heat shock protein atpase [source:vb community annotation].
+
+TODO

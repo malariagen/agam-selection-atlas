@@ -1,0 +1,9 @@
+
+AGAP012684
+=============
+
+
+
+Description: Vesicle-fusing atpase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP007050
+=============
+
+
+
+Description: Nucleolar gtp-binding protein 1 [source:uniprotkb/trembl;acc:q7qit0].
+
+TODO

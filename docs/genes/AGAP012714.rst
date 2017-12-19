@@ -1,0 +1,9 @@
+
+AGAP012714
+=============
+
+Name: **Obp72**
+
+Description: Odorant-binding protein [source:vb community annotation].
+
+TODO

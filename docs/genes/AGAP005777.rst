@@ -1,0 +1,9 @@
+
+AGAP005777
+=============
+
+
+
+Description: Chloride channel protein [source:uniprotkb/trembl;acc:q7q6l5].
+
+TODO

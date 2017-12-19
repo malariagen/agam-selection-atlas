@@ -1,0 +1,9 @@
+
+AGAP008452
+=============
+
+Name: **CPLCG8**
+
+Description: Cuticular protein cplcg family (cplcg8) [source:vb community annotation].
+
+TODO

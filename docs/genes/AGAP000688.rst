@@ -1,0 +1,9 @@
+
+AGAP000688
+=============
+
+
+
+Description: Carbonic anhydrase-related protein 10 [source:vb community annotation].
+
+TODO

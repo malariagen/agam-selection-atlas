@@ -1,0 +1,9 @@
+
+AGAP001380
+=============
+
+
+
+Description: Translation initiation factor 6 [source:vb community annotation].
+
+TODO

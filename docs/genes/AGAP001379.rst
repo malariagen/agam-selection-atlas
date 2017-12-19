@@ -1,0 +1,9 @@
+
+AGAP001379
+=============
+
+Name: **GPRCCK2**
+
+Description: Putative gastrin/cholecystokinin receptor 2 [source:vb community annotation].
+
+TODO

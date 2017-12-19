@@ -1,0 +1,9 @@
+
+AGAP000175
+=============
+
+
+
+Description: Stromal interaction molecule [source:vb community annotation].
+
+TODO

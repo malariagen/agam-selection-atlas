@@ -1,0 +1,9 @@
+
+AGAP000655
+=============
+
+Name: **RpS14-1**
+
+Description: 40s ribosomal protein s14a [source:uniprotkb/swiss-prot;acc:q7qeh1].
+
+TODO

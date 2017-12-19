@@ -1,0 +1,9 @@
+
+AGAP003460
+=============
+
+
+
+Description: Mrna (guanine-n7-)-methyltransferase [source:vb community annotation].
+
+TODO

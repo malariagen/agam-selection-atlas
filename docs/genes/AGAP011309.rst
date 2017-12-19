@@ -1,0 +1,9 @@
+
+AGAP011309
+=============
+
+
+
+Description: Nuclear gtp-binding protein [source:vb community annotation].
+
+TODO

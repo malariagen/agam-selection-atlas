@@ -1,0 +1,9 @@
+
+AGAP006855
+=============
+
+Name: **CPR40**
+
+Description: Cuticular protein rr-1 family 40 [source:vb community annotation].
+
+TODO

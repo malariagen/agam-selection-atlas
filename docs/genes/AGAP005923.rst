@@ -1,0 +1,9 @@
+
+AGAP005923
+=============
+
+
+
+Description: Phosphatidylinositol glycan, class c [source:vb community annotation].
+
+TODO

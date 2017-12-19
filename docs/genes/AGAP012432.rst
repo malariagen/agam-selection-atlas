@@ -1,0 +1,9 @@
+
+AGAP012432
+=============
+
+
+
+Description: Golgi apparatus membrane protein tvp23 homolog (fragment) [source:uniprotkb/trembl;acc:q7q901].
+
+TODO

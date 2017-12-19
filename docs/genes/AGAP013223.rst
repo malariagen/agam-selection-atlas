@@ -1,0 +1,9 @@
+
+AGAP013223
+=============
+
+
+
+Description: Ribosomal rna large subunit methyltransferase e [source:vb community annotation].
+
+TODO

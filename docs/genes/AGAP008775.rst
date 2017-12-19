@@ -1,0 +1,9 @@
+
+AGAP008775
+=============
+
+
+
+Description: Rasgef domain family, member 1b [source:vb community annotation].
+
+TODO

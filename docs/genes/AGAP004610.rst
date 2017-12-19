@@ -1,0 +1,9 @@
+
+AGAP004610
+=============
+
+
+
+Description: Signal recognition particle subunit srp54 [source:vb community annotation].
+
+TODO

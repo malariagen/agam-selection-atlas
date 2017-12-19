@@ -1,0 +1,9 @@
+
+AGAP003882
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 1 [source:vb community annotation].
+
+TODO

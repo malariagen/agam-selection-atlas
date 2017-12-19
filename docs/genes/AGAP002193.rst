@@ -1,0 +1,9 @@
+
+AGAP002193
+=============
+
+
+
+Description: Nuclear rna export factor 1/2 [source:vb community annotation].
+
+TODO

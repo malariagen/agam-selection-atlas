@@ -1,0 +1,9 @@
+
+AGAP008366
+=============
+
+Name: **TEP2**
+
+Description: Thioester-containing protein 2 [source:vb community annotation].
+
+TODO

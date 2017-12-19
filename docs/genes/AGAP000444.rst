@@ -1,0 +1,9 @@
+
+AGAP000444
+=============
+
+Name: **Ciao1**
+
+Description: Cytosolic iron-sulfur protein assembly protein [source:vb community annotation].
+
+TODO

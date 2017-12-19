@@ -1,0 +1,9 @@
+
+AGAP005532
+=============
+
+
+
+Description: Dehydrogenase/reductase sdr family protein 7-like [source:uniprotkb/swiss-prot;acc:q7q732].
+
+TODO

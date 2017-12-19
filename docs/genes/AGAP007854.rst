@@ -1,0 +1,9 @@
+
+AGAP007854
+=============
+
+
+
+Description: Membrane dipeptidase [source:vb community annotation].
+
+TODO

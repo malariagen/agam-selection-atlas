@@ -1,0 +1,9 @@
+
+AGAP003277
+=============
+
+
+
+Description: Cathepsin d [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP004123
+=============
+
+Name: **GPRNPY2**
+
+Description: Neuropeptide y receptor 2 [source:vb community annotation].
+
+TODO

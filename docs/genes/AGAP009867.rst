@@ -1,0 +1,9 @@
+
+AGAP009867
+=============
+
+
+
+Description: Afg1-family atpase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005533
+=============
+
+
+
+Description: Transformation/transcription domain-associated protein [source:vb community annotation].
+
+TODO

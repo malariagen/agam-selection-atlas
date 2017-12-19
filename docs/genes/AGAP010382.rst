@@ -1,0 +1,9 @@
+
+AGAP010382
+=============
+
+Name: **Ars2**
+
+Description: Serrate rna effector molecule homolog [source:uniprotkb/swiss-prot;acc:q5tuf1].
+
+TODO

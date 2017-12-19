@@ -1,0 +1,9 @@
+
+AGAP008457
+=============
+
+Name: **CPLCG13**
+
+Description: Cuticular protein cplcg family (cplcg13) [source:vb community annotation].
+
+TODO

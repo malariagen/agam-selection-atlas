@@ -1,0 +1,9 @@
+
+AGAP007333
+=============
+
+
+
+Description: P70 ribosomal s6 kinase [source:vb community annotation].
+
+TODO

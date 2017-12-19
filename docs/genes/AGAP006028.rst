@@ -1,0 +1,9 @@
+
+AGAP006028
+=============
+
+Name: **Rdl**
+
+Description: Gaba-gated chloride channel subunit [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002570
+=============
+
+
+
+Description: Glutamyl-trna synthetase [source:vb community annotation].
+
+TODO

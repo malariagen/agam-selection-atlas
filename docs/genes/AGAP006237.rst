@@ -1,0 +1,9 @@
+
+AGAP006237
+=============
+
+
+
+Description: Negative elongation factor e [source:vb community annotation].
+
+TODO

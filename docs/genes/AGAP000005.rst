@@ -1,0 +1,9 @@
+
+AGAP000005
+=============
+
+
+
+Description: High mobility group protein b1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006714
+=============
+
+
+
+Description: Btb/poz domain-containing protein 9 [source:vb community annotation].
+
+TODO

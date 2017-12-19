@@ -1,0 +1,9 @@
+
+AGAP003323
+=============
+
+
+
+Description: Microtubule plus end-directed kinesin motor 3a [source:vb community annotation].
+
+TODO

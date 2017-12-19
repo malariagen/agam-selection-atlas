@@ -1,0 +1,9 @@
+
+AGAP003191
+=============
+
+
+
+Description: Glycoprotein 3-alpha-l-fucosyltransferase [source:vb community annotation].
+
+TODO

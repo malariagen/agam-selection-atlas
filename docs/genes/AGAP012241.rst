@@ -1,0 +1,9 @@
+
+AGAP012241
+=============
+
+
+
+Description: Trp channel protein nanchung [source:vb community annotation].
+
+TODO

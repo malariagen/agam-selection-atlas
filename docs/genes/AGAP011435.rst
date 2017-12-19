@@ -1,0 +1,9 @@
+
+AGAP011435
+=============
+
+
+
+Description: Carboxypeptidase a [source:vb community annotation].
+
+TODO

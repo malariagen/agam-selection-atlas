@@ -1,0 +1,9 @@
+
+AGAP001312
+=============
+
+
+
+Description: Succinyl-coa synthetase alpha subunit [source:vb community annotation].
+
+TODO

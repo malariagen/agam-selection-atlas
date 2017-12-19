@@ -1,0 +1,9 @@
+
+AGAP009579
+=============
+
+
+
+Description: Dihydropyridine-sensitive l-type calcium channel [source:vb community annotation].
+
+TODO

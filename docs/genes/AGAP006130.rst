@@ -1,0 +1,9 @@
+
+AGAP006130
+=============
+
+Name: **eIF3l**
+
+Description: Eukaryotic translation initiation factor 3 subunit l [source:uniprotkb/swiss-prot;acc:q7q5y8].
+
+TODO

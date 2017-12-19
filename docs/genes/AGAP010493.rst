@@ -1,0 +1,9 @@
+
+AGAP010493
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 7 [source:vb community annotation].
+
+TODO

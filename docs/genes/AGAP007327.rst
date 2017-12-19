@@ -1,0 +1,9 @@
+
+AGAP007327
+=============
+
+
+
+Description: E74-like factor 1/2/4 [source:vb community annotation].
+
+TODO

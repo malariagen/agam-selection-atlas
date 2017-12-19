@@ -1,0 +1,9 @@
+
+AGAP005901
+=============
+
+
+
+Description: Sterile alpha and tir motif-containing protein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005652
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx5/dbp2 [source:vb community annotation].
+
+TODO

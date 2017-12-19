@@ -1,0 +1,9 @@
+
+AGAP010831
+=============
+
+Name: **TEP8**
+
+Description: Thioester-containing protein 8 [source:vb community annotation].
+
+TODO

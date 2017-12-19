@@ -1,0 +1,9 @@
+
+AGAP012846
+=============
+
+
+
+Description: Exodeoxyribonuclease 7 small subunit [source:vb community annotation].
+
+TODO

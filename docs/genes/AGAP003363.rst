@@ -1,0 +1,9 @@
+
+AGAP003363
+=============
+
+
+
+Description: Transmembrane and tpr repeat-containing protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002797
+=============
+
+Name: **GLURIId**
+
+Description: Ionotropic receptor gluriid [source:vb community annotation].
+
+TODO

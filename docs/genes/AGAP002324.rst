@@ -1,0 +1,9 @@
+
+AGAP002324
+=============
+
+
+
+Description: Mitochondrial sodium/hydrogen exchanger nha2 [source:vb community annotation].
+
+TODO

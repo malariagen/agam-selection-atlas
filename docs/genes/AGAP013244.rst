@@ -1,0 +1,9 @@
+
+AGAP013244
+=============
+
+
+
+Description: Adenosine deaminase, trna-specific 2, tad2 homolog [source:vb community annotation].
+
+TODO

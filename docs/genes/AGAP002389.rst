@@ -1,0 +1,9 @@
+
+AGAP002389
+=============
+
+
+
+Description: Ubiquitin-like 4a [source:vb community annotation].
+
+TODO

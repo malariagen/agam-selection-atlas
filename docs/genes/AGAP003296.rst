@@ -1,0 +1,9 @@
+
+AGAP003296
+=============
+
+
+
+Description: Letm1 and ef-hand domain-containing protein 1, mitochondrial precursor [source:vb community annotation].
+
+TODO

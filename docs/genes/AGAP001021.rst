@@ -1,0 +1,9 @@
+
+AGAP001021
+=============
+
+
+
+Description: Dihydropyrimidine dehydrogenase (nadp ) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009412
+=============
+
+Name: **Or50**
+
+Description: Odorant receptor 50 [source:vb community annotation].
+
+TODO

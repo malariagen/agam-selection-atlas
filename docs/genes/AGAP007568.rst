@@ -1,0 +1,9 @@
+
+AGAP007568
+=============
+
+
+
+Description: Condensin complex subunit 3 [source:vb community annotation].
+
+TODO

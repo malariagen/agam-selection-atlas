@@ -1,0 +1,9 @@
+
+AGAP004455
+=============
+
+Name: **GNBPB1**
+
+Description: 3-glucan binding protein [source:vb community annotation].
+
+TODO

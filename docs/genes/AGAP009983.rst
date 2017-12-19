@@ -1,0 +1,9 @@
+
+AGAP009983
+=============
+
+
+
+Description: Bhlh factor math6 [source:vb community annotation].
+
+TODO

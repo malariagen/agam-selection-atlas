@@ -1,0 +1,9 @@
+
+AGAP012144
+=============
+
+
+
+Description: Endoplasmic reticulum-golgi intermediate compartment protein 3 [source:vb community annotation].
+
+TODO

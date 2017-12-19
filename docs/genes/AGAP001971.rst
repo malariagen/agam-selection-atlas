@@ -1,0 +1,9 @@
+
+AGAP001971
+=============
+
+
+
+Description: Polyubiquitin-c [source:vb community annotation].
+
+TODO

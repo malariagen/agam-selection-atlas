@@ -1,0 +1,9 @@
+
+AGAP008247
+=============
+
+
+
+Description: Tgf-beta receptor type-1 [source:vb community annotation].
+
+TODO

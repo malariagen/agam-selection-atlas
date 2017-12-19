@@ -1,0 +1,9 @@
+
+AGAP002263
+=============
+
+
+
+Description: Choline-phosphate cytidylyltransferase [source:vb community annotation].
+
+TODO

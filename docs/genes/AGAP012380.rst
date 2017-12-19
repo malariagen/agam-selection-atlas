@@ -1,0 +1,9 @@
+
+AGAP012380
+=============
+
+
+
+Description: Small nuclear ribonucleoprotein d3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002640
+=============
+
+Name: **Or38**
+
+Description: Odorant receptor 38 [source:vb community annotation].
+
+TODO

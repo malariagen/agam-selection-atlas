@@ -1,0 +1,9 @@
+
+AGAP005021
+=============
+
+
+
+Description: Transcription elongation factor spt5 [source:uniprotkb/trembl;acc:a0ne83].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005331
+=============
+
+
+
+Description: Regulation of nuclear pre-mrna domain containing 1a [source:vb community annotation].
+
+TODO

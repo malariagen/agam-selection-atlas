@@ -1,0 +1,9 @@
+
+AGAP002506
+=============
+
+
+
+Description: Runt-related transcription factor [source:vb community annotation].
+
+TODO

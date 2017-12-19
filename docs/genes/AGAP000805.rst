@@ -1,0 +1,9 @@
+
+AGAP000805
+=============
+
+
+
+Description: Btb/poz domain-containing protein kctd16 [source:vb community annotation].
+
+TODO

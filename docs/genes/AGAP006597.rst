@@ -1,0 +1,9 @@
+
+AGAP006597
+=============
+
+Name: **CPR72**
+
+Description: Cuticular protein rr-2 family 72 [source:vb community annotation].
+
+TODO

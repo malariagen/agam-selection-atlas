@@ -1,0 +1,9 @@
+
+AGAP002028
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase rnf13 [source:vb community annotation].
+
+TODO

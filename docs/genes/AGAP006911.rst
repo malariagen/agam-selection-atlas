@@ -1,0 +1,9 @@
+
+AGAP006911
+=============
+
+Name: **SRPN2**
+
+Description: Serine protease inhibitor (serpin) 2 [source:vb community annotation].
+
+TODO

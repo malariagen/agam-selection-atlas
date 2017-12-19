@@ -1,0 +1,9 @@
+
+AGAP001814
+=============
+
+
+
+Description: Cytosolic carboxypeptidase 6 [source:vb community annotation].
+
+TODO

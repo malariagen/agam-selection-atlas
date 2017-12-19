@@ -1,0 +1,9 @@
+
+AGAP008392
+=============
+
+
+
+Description: Hsp70-interacting protein [source:vb community annotation].
+
+TODO

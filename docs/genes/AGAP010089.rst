@@ -1,0 +1,9 @@
+
+AGAP010089
+=============
+
+Name: **GPROP9**
+
+Description: Short wavelength sensitive opsin [source:vb community annotation].
+
+TODO

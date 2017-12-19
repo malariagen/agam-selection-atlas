@@ -1,0 +1,9 @@
+
+AGAP008737
+=============
+
+
+
+Description: Cytohesin-1 [source:vb community annotation].
+
+TODO

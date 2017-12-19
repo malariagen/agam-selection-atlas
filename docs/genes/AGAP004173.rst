@@ -1,0 +1,9 @@
+
+AGAP004173
+=============
+
+Name: **GSTD5**
+
+Description: Glutathione s-transferase delta class 5 [source:vb community annotation].
+
+TODO

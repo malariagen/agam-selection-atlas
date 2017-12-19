@@ -1,0 +1,9 @@
+
+AGAP001391
+=============
+
+
+
+Description: Tetracycline transporter [source:vb community annotation].
+
+TODO

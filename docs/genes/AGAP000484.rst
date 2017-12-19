@@ -1,0 +1,9 @@
+
+AGAP000484
+=============
+
+
+
+Description: Homeobox protein nkx-1 [source:vb community annotation].
+
+TODO

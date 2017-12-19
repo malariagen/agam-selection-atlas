@@ -1,0 +1,9 @@
+
+AGAP010480
+=============
+
+
+
+Description: Kinase [source:uniprotkb/trembl;acc:a0a1s4h446].
+
+TODO

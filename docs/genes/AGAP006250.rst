@@ -1,0 +1,9 @@
+
+AGAP006250
+=============
+
+
+
+Description: Eukaryotic elongation factor, selenocysteine-trna-specific [source:vb community annotation].
+
+TODO

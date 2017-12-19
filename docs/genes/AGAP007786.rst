@@ -1,0 +1,9 @@
+
+AGAP007786
+=============
+
+
+
+Description: Isocitrate dehydrogenase (nad ) [source:vb community annotation].
+
+TODO

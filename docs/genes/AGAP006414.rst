@@ -1,0 +1,9 @@
+
+AGAP006414
+=============
+
+Name: **Cht8**
+
+Description: Chitinase [source:vb community annotation].
+
+TODO

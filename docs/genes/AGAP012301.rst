@@ -1,0 +1,9 @@
+
+AGAP012301
+=============
+
+
+
+Description: N4-(beta-n-acetylglucosaminyl)-l-asparaginase [source:vb community annotation].
+
+TODO

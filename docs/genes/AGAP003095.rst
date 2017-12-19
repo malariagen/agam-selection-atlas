@@ -1,0 +1,9 @@
+
+AGAP003095
+=============
+
+
+
+Description: Yellow protein [source:vb community annotation].
+
+TODO

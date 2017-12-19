@@ -1,0 +1,9 @@
+
+AGAP004558
+=============
+
+
+
+Description: Nucleoporin ndc1 [source:vb community annotation].
+
+TODO

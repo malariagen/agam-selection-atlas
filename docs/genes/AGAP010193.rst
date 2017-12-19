@@ -1,0 +1,9 @@
+
+AGAP010193
+=============
+
+Name: **CTLGA3**
+
+Description: C-type lectin (ctl) - galactose binding [source:vb community annotation].
+
+TODO

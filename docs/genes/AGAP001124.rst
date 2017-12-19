@@ -1,0 +1,9 @@
+
+AGAP001124
+=============
+
+
+
+Description: Aminomethyltransferase [source:uniprotkb/trembl;acc:q7pwz1].
+
+TODO

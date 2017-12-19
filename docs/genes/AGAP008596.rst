@@ -1,0 +1,9 @@
+
+AGAP008596
+=============
+
+
+
+Description: Long-chain-fatty-acid--coa ligase acsbg [source:vb community annotation].
+
+TODO

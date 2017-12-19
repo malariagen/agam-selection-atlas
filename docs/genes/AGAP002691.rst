@@ -1,0 +1,9 @@
+
+AGAP002691
+=============
+
+
+
+Description: Arrestin domain containing 2 [source:vb community annotation].
+
+TODO

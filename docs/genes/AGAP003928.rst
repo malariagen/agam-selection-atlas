@@ -1,0 +1,9 @@
+
+AGAP003928
+=============
+
+
+
+Description: Alpha-1,3-glucosyltransferase [source:uniprotkb/trembl;acc:q7q2b4].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008632
+=============
+
+
+
+Description: Alpha-aminoadipic semialdehyde synthase [source:vb community annotation].
+
+TODO

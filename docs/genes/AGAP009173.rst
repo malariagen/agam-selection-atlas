@@ -1,0 +1,9 @@
+
+AGAP009173
+=============
+
+Name: **fbp**
+
+Description: Fructose-1,6-biphosphatase [source:vb community annotation].
+
+TODO

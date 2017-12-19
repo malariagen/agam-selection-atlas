@@ -1,0 +1,9 @@
+
+AGAP009257
+=============
+
+
+
+Description: Protein arrd-6, isoform a [source:vb community annotation].
+
+TODO

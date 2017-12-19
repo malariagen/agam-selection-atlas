@@ -1,0 +1,9 @@
+
+AGAP002280
+=============
+
+
+
+Description: Mitochondrial carrier triple repeat protein 1 [source:vb community annotation].
+
+TODO

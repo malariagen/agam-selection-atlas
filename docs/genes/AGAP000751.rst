@@ -1,0 +1,9 @@
+
+AGAP000751
+=============
+
+
+
+Description: Mitotic spindle assembly checkpoint protein mad2 [source:vb community annotation].
+
+TODO

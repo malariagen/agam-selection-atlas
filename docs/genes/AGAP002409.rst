@@ -1,0 +1,9 @@
+
+AGAP002409
+=============
+
+
+
+Description: Trna pseudouridine38-40 synthase [source:vb community annotation].
+
+TODO

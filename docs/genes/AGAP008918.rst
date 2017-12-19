@@ -1,0 +1,9 @@
+
+AGAP008918
+=============
+
+
+
+Description: Stip1 homology and u-box containing protein 1 [source:vb community annotation].
+
+TODO

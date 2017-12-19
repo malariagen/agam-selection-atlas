@@ -1,0 +1,9 @@
+
+AGAP004657
+=============
+
+
+
+Description: Mitochondrial inner membrane translocase subunit (tim17) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009234
+=============
+
+
+
+Description: Elongation factor ts, mitochondrial [source:vb community annotation].
+
+TODO

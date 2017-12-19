@@ -1,0 +1,9 @@
+
+AGAP009523
+=============
+
+
+
+Description: Major facilitator superfamily domain-containing protein 1 [source:vb community annotation].
+
+TODO

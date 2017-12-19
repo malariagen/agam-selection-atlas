@@ -1,0 +1,9 @@
+
+AGAP002667
+=============
+
+Name: **Tctp**
+
+Description: Translationally-controlled tumor protein homolog [source:uniprotkb/swiss-prot;acc:q7qck2].
+
+TODO

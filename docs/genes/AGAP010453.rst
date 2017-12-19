@@ -1,0 +1,9 @@
+
+AGAP010453
+=============
+
+
+
+Description: Ribosome biogenesis protein nsa1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006395
+=============
+
+
+
+Description: Phospholipase b, plb1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009137
+=============
+
+
+
+Description: Ecdysteroid udp-glucosyltransferase [source:vb community annotation].
+
+TODO

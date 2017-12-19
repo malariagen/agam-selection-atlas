@@ -1,0 +1,9 @@
+
+AGAP007168
+=============
+
+
+
+Description: Alpha-1,3-mannosyltransferase [source:vb community annotation].
+
+TODO

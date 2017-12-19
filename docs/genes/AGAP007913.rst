@@ -1,0 +1,9 @@
+
+AGAP007913
+=============
+
+
+
+Description: Ubiquitin-like protein nedd8 [source:vb community annotation].
+
+TODO

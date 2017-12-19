@@ -1,0 +1,9 @@
+
+AGAP004291
+=============
+
+
+
+Description: Protein phosphatase 1d (formerly 2c) [source:vb community annotation].
+
+TODO

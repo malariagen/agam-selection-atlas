@@ -1,0 +1,9 @@
+
+AGAP008339
+=============
+
+
+
+Description: Signal recognition particle subunit srp14 [source:vb community annotation].
+
+TODO

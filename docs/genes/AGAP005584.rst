@@ -1,0 +1,9 @@
+
+AGAP005584
+=============
+
+
+
+Description: Protein fat-free homolog [source:vb community annotation].
+
+TODO

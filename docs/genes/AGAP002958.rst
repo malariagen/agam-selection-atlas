@@ -1,0 +1,9 @@
+
+AGAP002958
+=============
+
+
+
+Description: Transcription initiation factor tfiia large subunit [source:vb community annotation].
+
+TODO

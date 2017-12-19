@@ -1,0 +1,9 @@
+
+AGAP010383
+=============
+
+
+
+Description: Solute carrier family 15 member 1 [source:vb community annotation].
+
+TODO

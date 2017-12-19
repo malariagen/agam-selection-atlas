@@ -1,0 +1,9 @@
+
+AGAP009593
+=============
+
+Name: **CP**
+
+Description: Zinc carboxypeptidase a 1 [source:uniprotkb/swiss-prot;acc:o02350].
+
+TODO

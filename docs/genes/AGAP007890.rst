@@ -1,0 +1,9 @@
+
+AGAP007890
+=============
+
+
+
+Description: Coiled-coil domain-containing protein 130 [source:vb community annotation].
+
+TODO

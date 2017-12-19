@@ -1,0 +1,9 @@
+
+AGAP002185
+=============
+
+
+
+Description: Developmentally-regulated gtp-binding protein 2 [source:vb community annotation].
+
+TODO

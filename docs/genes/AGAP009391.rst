@@ -1,0 +1,9 @@
+
+AGAP009391
+=============
+
+Name: **Or30**
+
+Description: Odorant receptor 30 [source:vb community annotation].
+
+TODO

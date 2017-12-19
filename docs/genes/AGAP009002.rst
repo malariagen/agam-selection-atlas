@@ -1,0 +1,9 @@
+
+AGAP009002
+=============
+
+Name: **HR3**
+
+Description: Hormone receptor 3 [source:vb community annotation].
+
+TODO

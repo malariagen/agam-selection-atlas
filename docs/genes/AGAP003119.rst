@@ -1,0 +1,9 @@
+
+AGAP003119
+=============
+
+
+
+Description: Translation initiation factor 1a [source:vb community annotation].
+
+TODO

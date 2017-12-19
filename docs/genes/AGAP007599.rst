@@ -1,0 +1,9 @@
+
+AGAP007599
+=============
+
+
+
+Description: Monolysocardiolipin acyltransferase [source:vb community annotation].
+
+TODO

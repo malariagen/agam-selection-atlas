@@ -1,0 +1,9 @@
+
+AGAP008481
+=============
+
+
+
+Description: Ribonuclease p/mrp protein subunit rpp1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001117
+=============
+
+Name: **Gr37**
+
+Description: Gustatory receptor 37 [source:vb community annotation].
+
+TODO

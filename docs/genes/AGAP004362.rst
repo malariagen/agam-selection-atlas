@@ -1,0 +1,9 @@
+
+AGAP004362
+=============
+
+
+
+Description: Glutamate dehydrogenase (nad(p) ) [source:vb community annotation].
+
+TODO

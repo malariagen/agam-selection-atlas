@@ -1,0 +1,9 @@
+
+AGAP007702
+=============
+
+
+
+Description: Histidine triad nucleotide binding protein 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005255
+=============
+
+
+
+Description: Ras-related protein rab-3c [source:vb community annotation].
+
+TODO

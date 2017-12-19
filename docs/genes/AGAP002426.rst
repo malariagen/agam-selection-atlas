@@ -1,0 +1,9 @@
+
+AGAP002426
+=============
+
+
+
+Description: Protein opi10 homolog [source:uniprotkb/swiss-prot;acc:q7prb5].
+
+TODO

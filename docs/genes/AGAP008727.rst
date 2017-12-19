@@ -1,0 +1,9 @@
+
+AGAP008727
+=============
+
+
+
+Description: Cytochrome c oxidase subunit 4, mitochondrial precursor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006711
+=============
+
+Name: **chym3**
+
+Description: Chymotrypsin-2 [source:uniprotkb/swiss-prot;acc:q17025].
+
+TODO

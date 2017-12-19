@@ -1,0 +1,9 @@
+
+AGAP003503
+=============
+
+
+
+Description: Nuclear pore complex protein nup133 [source:vb community annotation].
+
+TODO

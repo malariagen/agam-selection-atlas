@@ -1,0 +1,9 @@
+
+AGAP010730
+=============
+
+
+
+Description: Prophenoloxidase activating factor [source:vb community annotation].
+
+TODO

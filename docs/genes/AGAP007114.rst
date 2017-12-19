@@ -1,0 +1,9 @@
+
+AGAP007114
+=============
+
+
+
+Description: Ring finger and ccch-type zinc finger domain-containing protein [source:vb community annotation].
+
+TODO

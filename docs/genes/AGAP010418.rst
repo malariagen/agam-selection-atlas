@@ -1,0 +1,9 @@
+
+AGAP010418
+=============
+
+Name: **Oseg6**
+
+Description: Outer segment 6 [source:vb community annotation].
+
+TODO

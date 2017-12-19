@@ -1,0 +1,9 @@
+
+AGAP008015
+=============
+
+
+
+Description: Lamin [source:vb community annotation].
+
+TODO

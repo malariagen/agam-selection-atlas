@@ -1,0 +1,9 @@
+
+AGAP010733
+=============
+
+
+
+Description: Vanin-like protein 1 [source:vb community annotation].
+
+TODO

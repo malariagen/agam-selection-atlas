@@ -1,0 +1,9 @@
+
+AGAP010252
+=============
+
+Name: **RpL23**
+
+Description: 60s ribosomal protein l23 [source:vb community annotation].
+
+TODO

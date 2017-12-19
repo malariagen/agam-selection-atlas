@@ -1,0 +1,9 @@
+
+AGAP009702
+=============
+
+
+
+Description: Gtp-binding protein [source:vb community annotation].
+
+TODO

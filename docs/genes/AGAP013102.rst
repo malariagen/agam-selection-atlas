@@ -1,0 +1,9 @@
+
+AGAP013102
+=============
+
+Name: **mRpS12**
+
+Description: 28s ribosomal protein s12, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP002921
+=============
+
+Name: **RpL36**
+
+Description: 60s ribosomal protein l36 [source:uniprotkb/trembl;acc:q7pqy8].
+
+TODO

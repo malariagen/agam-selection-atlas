@@ -1,0 +1,9 @@
+
+AGAP004567
+=============
+
+
+
+Description: Transmembrane protease serine 11b [source:vb community annotation].
+
+TODO

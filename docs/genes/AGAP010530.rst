@@ -1,0 +1,9 @@
+
+AGAP010530
+=============
+
+Name: **CLIPE4**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

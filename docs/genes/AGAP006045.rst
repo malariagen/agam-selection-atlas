@@ -1,0 +1,9 @@
+
+AGAP006045
+=============
+
+
+
+Description: Protein yorkie [source:vb community annotation].
+
+TODO

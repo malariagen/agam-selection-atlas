@@ -1,0 +1,9 @@
+
+AGAP000654
+=============
+
+Name: **RpS30**
+
+Description: 40s ribosomal protein s30 [source:uniprotkb/trembl;acc:q7qeh2].
+
+TODO

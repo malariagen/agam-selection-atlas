@@ -1,0 +1,9 @@
+
+AGAP007873
+=============
+
+Name: **TOR**
+
+Description: Autophagy related tor protein (target of rapamycin) [source:vb community annotation].
+
+TODO

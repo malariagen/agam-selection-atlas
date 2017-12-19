@@ -1,0 +1,9 @@
+
+AGAP008842
+=============
+
+
+
+Description: Aquaporin aqpan.g [source:uniprotkb/swiss-prot;acc:q7pwv1].
+
+TODO

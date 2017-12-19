@@ -1,0 +1,9 @@
+
+AGAP003358
+=============
+
+
+
+Description: Sugar transporter sweet [source:uniprotkb/trembl;acc:a0ndw1].
+
+TODO

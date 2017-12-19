@@ -1,0 +1,9 @@
+
+AGAP007110
+=============
+
+
+
+Description: Protein vein [source:vb community annotation].
+
+TODO

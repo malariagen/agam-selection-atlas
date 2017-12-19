@@ -1,0 +1,9 @@
+
+AGAP007037
+=============
+
+Name: **LRIM3**
+
+Description: Leucine-rich immune protein (long) [source:vb community annotation].
+
+TODO

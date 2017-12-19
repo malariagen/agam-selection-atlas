@@ -1,0 +1,9 @@
+
+AGAP008050
+=============
+
+
+
+Description: Phosphorylated adapter rna export protein [source:vb community annotation].
+
+TODO

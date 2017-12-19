@@ -1,0 +1,9 @@
+
+AGAP006097
+=============
+
+
+
+Description: Target of myb-like protein 2 [source:vb community annotation].
+
+TODO

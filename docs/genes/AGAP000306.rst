@@ -1,0 +1,9 @@
+
+AGAP000306
+=============
+
+
+
+Description: Histone h2a [source:uniprotkb/trembl;acc:q7qf50].
+
+TODO

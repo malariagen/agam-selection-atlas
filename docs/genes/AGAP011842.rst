@@ -1,0 +1,9 @@
+
+AGAP011842
+=============
+
+
+
+Description: Signal peptidase complex subunit 2 [source:vb community annotation].
+
+TODO

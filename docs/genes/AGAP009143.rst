@@ -1,0 +1,9 @@
+
+AGAP009143
+=============
+
+Name: **SCRAC1**
+
+Description: Class a scavenger receptor (srcr domain) with c-type lectin domain. [source:vb community annotation].
+
+TODO

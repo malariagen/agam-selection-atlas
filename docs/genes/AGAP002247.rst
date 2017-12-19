@@ -1,0 +1,9 @@
+
+AGAP002247
+=============
+
+Name: **Med21**
+
+Description: Mediator of rna polymerase ii transcription subunit 21 [source:uniprotkb/swiss-prot;acc:q7ptl0].
+
+TODO

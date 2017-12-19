@@ -1,0 +1,9 @@
+
+AGAP012265
+=============
+
+
+
+Description: Glycoprotein-n-acetylgalactosamine 3-beta-galactosyltransferase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP028190
+=============
+
+
+
+Description: Protein quiver [source:uniprotkb/trembl;acc:a0a1s4he94].
+
+TODO

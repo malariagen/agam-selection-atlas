@@ -1,0 +1,9 @@
+
+AGAP010395
+=============
+
+
+
+Description: Calpain-c [source:vb community annotation].
+
+TODO

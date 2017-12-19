@@ -1,0 +1,9 @@
+
+AGAP007216
+=============
+
+
+
+Description: De-cadherin [source:vb community annotation].
+
+TODO

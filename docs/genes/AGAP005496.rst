@@ -1,0 +1,9 @@
+
+AGAP005496
+=============
+
+Name: **LRIM12**
+
+Description: Leucine-rich immune protein (short) [source:vb community annotation].
+
+TODO

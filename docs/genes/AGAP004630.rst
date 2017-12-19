@@ -1,0 +1,9 @@
+
+AGAP004630
+=============
+
+
+
+Description: Erg28-domain containing protein [source:vb community annotation].
+
+TODO

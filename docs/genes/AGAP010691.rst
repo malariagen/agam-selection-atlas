@@ -1,0 +1,9 @@
+
+AGAP010691
+=============
+
+
+
+Description: Tnf receptor-associated protein 1 [source:vb community annotation].
+
+TODO

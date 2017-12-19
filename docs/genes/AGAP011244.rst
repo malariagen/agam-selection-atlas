@@ -1,0 +1,9 @@
+
+AGAP011244
+=============
+
+
+
+Description: Rrna 2'-o-methyltransferase fibrillarin [source:vb community annotation].
+
+TODO

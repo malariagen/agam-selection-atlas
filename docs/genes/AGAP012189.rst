@@ -1,0 +1,9 @@
+
+AGAP012189
+=============
+
+
+
+Description: Abhydrolase domain-containing protein 12 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,58 @@
+adjacent_genes: []
+chromosome: '2'
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 11\n    # data points      = 149\n    # variables        = 1\n    chi-square\
+    \         = 0.008\n    reduced chi-square = 0.000\n    Akaike info crit   = -1460.121\n\
+    \    Bayesian info crit = -1457.117\n[[Variables]]\n    c:   0.01651818 +/- 0.000608\
+    \ (3.68%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 150\n    # variables        = 3\n   \
+    \ chi-square         = 0.006\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1519.835\n    Bayesian info crit = -1510.803\n[[Variables]]\n    amplitude:\
+    \   0.07179462 +/- 0.005414 (7.54%) (init= 0.5)\n    decay:       0.10000000 +/-\
+    \ 0.004564 (4.56%) (init= 0.2)\n    c:           0.01561063 +/- 0.000528 (3.38%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          =  0.492 \n    C(decay, c) \
+    \                 =  0.188 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 11\n    # data points      = 147\n    # variables        = 1\n   \
+    \ chi-square         = 0.015\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1350.463\n    Bayesian info crit = -1347.473\n[[Variables]]\n    c:\
+    \   0.02152743 +/- 0.000832 (3.86%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 40\n    # data points      = 148\n    # variables        = 3\n   \
+    \ chi-square         = 0.012\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1391.025\n    Bayesian info crit = -1382.033\n[[Variables]]\n    amplitude:\
+    \   0.08800859 +/- 0.018289 (20.78%) (init= 0.5)\n    decay:       0.10000006\
+    \ +/- 0.021196 (21.20%) (init= 0.2)\n    c:           0.02069142 +/- 0.000768\
+    \ (3.71%) (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported\
+    \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.832 \n   \
+    \ C(decay, c)                  = -0.190 \n"
+focus:
+  arm: 2R
+  start: 34420001
+  stop: 34460000
+overlapping_genes:
+- description: putative growth hormone releasing hormone receptor 2
+  id: AGAP003244
+  name: GPRGHP2
+- description: CLIP-domain serine protease
+  id: AGAP003245
+  name: CLIPA19
+- description: CLIP-domain serine protease
+  id: AGAP003246
+  name: CLIPB2
+- description: CLIP-domain serine protease
+  id: AGAP003247
+  name: CLIPB19
+- description: ''
+  id: AGAP003248
+  name: ''
+population:
+  id: bfs
+  label: Burkina Faso *An. gambiae*
+rank: 9
+statistic:
+  id: h12
+  label: H12

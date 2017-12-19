@@ -1,0 +1,9 @@
+
+AGAP006613
+=============
+
+Name: **eIF3j**
+
+Description: Eukaryotic translation initiation factor 3 subunit j [source:uniprotkb/swiss-prot;acc:q7q566].
+
+TODO

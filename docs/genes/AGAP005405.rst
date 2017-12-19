@@ -1,0 +1,9 @@
+
+AGAP005405
+=============
+
+
+
+Description: Solute carrier family 39 (zinc transporter), member 10 [source:vb community annotation].
+
+TODO

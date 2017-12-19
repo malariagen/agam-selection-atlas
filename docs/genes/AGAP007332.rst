@@ -1,0 +1,9 @@
+
+AGAP007332
+=============
+
+
+
+Description: Rab gtpase-activating protein 1 isoform a [source:vb community annotation].
+
+TODO

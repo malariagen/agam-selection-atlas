@@ -1,0 +1,9 @@
+
+AGAP008669
+=============
+
+Name: **JTBR**
+
+Description: Jumping translocation breakpoint protein [source:vb community annotation].
+
+TODO

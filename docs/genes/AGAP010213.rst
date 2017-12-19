@@ -1,0 +1,9 @@
+
+AGAP010213
+=============
+
+
+
+Description: N(6)-adenine-specific dna methyltransferase 2 homolog [source:vb community annotation].
+
+TODO

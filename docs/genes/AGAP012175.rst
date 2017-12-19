@@ -1,0 +1,9 @@
+
+AGAP012175
+=============
+
+
+
+Description: Phosphatidylinositol-bisphosphatase [source:vb community annotation].
+
+TODO

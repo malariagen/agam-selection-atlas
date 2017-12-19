@@ -1,0 +1,9 @@
+
+AGAP002310
+=============
+
+
+
+Description: Protocadherin-15 [source:vb community annotation].
+
+TODO

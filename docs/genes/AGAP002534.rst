@@ -1,0 +1,9 @@
+
+AGAP002534
+=============
+
+
+
+Description: Dihydropteridine reductase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP008718
+=============
+
+
+
+Description: Solute carrier family 9 (sodium/hydrogen exchanger), member 6/7 [source:vb community annotation].
+
+TODO

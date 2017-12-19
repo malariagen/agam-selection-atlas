@@ -1,0 +1,9 @@
+
+AGAP008300
+=============
+
+
+
+Description: Elongator complex protein 3 [source:vb community annotation].
+
+TODO

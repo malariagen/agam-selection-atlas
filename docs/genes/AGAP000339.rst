@@ -1,0 +1,9 @@
+
+AGAP000339
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase hakai [source:vb community annotation].
+
+TODO

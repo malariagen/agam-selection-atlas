@@ -1,0 +1,9 @@
+
+AGAP012990
+=============
+
+Name: **RpS23**
+
+Description: 40s ribosomal protein s23 [source:vb community annotation].
+
+TODO

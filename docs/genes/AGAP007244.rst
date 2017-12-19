@@ -1,0 +1,9 @@
+
+AGAP007244
+=============
+
+
+
+Description: Ribosome biogenesis protein wdr12 homolog [source:uniprotkb/swiss-prot;acc:q7qj33].
+
+TODO

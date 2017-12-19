@@ -1,0 +1,9 @@
+
+AGAP008268
+=============
+
+
+
+Description: Maternal tudor protein [source:vb community annotation].
+
+TODO

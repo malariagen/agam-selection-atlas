@@ -1,0 +1,9 @@
+
+AGAP012696
+=============
+
+
+
+Description: Sulfotransferase (sult) [source:vb community annotation].
+
+TODO

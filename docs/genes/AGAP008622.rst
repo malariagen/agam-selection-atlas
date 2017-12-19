@@ -1,0 +1,9 @@
+
+AGAP008622
+=============
+
+
+
+Description: Tubulin beta chain [source:uniprotkb/trembl;acc:a0a1s4gys5].
+
+TODO

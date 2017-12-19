@@ -1,0 +1,9 @@
+
+AGAP005698
+=============
+
+Name: **CPTC4**
+
+Description: Cuticular protein from two-cysteine family 4 [source:vb community annotation].
+
+TODO

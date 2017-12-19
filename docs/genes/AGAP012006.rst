@@ -1,0 +1,9 @@
+
+AGAP012006
+=============
+
+
+
+Description: Protein phosphatase 1 regulatory subunit 16a [source:vb community annotation].
+
+TODO

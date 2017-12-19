@@ -1,0 +1,9 @@
+
+AGAP003632
+=============
+
+
+
+Description: U3 small nucleolar rna-associated protein 14 [source:vb community annotation].
+
+TODO

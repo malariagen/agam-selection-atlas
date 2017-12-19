@@ -1,0 +1,9 @@
+
+AGAP008735
+=============
+
+
+
+Description: Testis-specific serine kinase [source:vb community annotation].
+
+TODO

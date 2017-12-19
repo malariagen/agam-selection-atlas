@@ -1,0 +1,9 @@
+
+AGAP012737
+=============
+
+
+
+Description: Nucleoside diphosphate-linked moiety x motif 19, mitochondrial precursor [source:vb community annotation].
+
+TODO

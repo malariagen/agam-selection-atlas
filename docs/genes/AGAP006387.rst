@@ -1,0 +1,9 @@
+
+AGAP006387
+=============
+
+
+
+Description: Dna primase large subunit [source:uniprotkb/trembl;acc:q7q5k2].
+
+TODO

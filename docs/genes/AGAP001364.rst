@@ -1,0 +1,9 @@
+
+AGAP001364
+=============
+
+
+
+Description: Ubiquitin-fold modifier 1 [source:uniprotkb/swiss-prot;acc:q7pxe2].
+
+TODO

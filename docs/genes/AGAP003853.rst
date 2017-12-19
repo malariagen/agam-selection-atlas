@@ -1,0 +1,9 @@
+
+AGAP003853
+=============
+
+
+
+Description: Ubiquitin thioesterase zranb1 [source:vb community annotation].
+
+TODO

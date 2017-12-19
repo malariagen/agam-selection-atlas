@@ -1,0 +1,9 @@
+
+AGAP009989
+=============
+
+
+
+Description: Nucleoporin-like protein 2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006830
+=============
+
+Name: **CPR58**
+
+Description: Cuticular protein rr-1 family 58 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005001
+=============
+
+Name: **GPRNNA17**
+
+Description: Putative gpcr class a orphan receptor 17 [source:vb community annotation].
+
+TODO

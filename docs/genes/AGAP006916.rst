@@ -1,0 +1,9 @@
+
+AGAP006916
+=============
+
+Name: **mRpL54**
+
+Description: 39s ribosomal protein l54, mitochondrial [source:vb community annotation].
+
+TODO

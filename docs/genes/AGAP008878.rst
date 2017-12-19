@@ -1,0 +1,9 @@
+
+AGAP008878
+=============
+
+
+
+Description: Defense protein [source:vb community annotation].
+
+TODO

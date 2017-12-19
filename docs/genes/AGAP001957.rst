@@ -1,0 +1,9 @@
+
+AGAP001957
+=============
+
+
+
+Description: Phosphatidylinositol transfer protein, beta [source:vb community annotation].
+
+TODO

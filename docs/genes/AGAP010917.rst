@@ -1,0 +1,9 @@
+
+AGAP010917
+=============
+
+Name: **COE09916**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+TODO

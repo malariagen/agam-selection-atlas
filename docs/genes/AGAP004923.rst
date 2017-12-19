@@ -1,0 +1,9 @@
+
+AGAP004923
+=============
+
+Name: **IR64a**
+
+Description: Ionotropic receptor ir64a [source:vb community annotation].
+
+TODO

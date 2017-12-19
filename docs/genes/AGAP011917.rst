@@ -1,0 +1,9 @@
+
+AGAP011917
+=============
+
+
+
+Description: Serine-type enodpeptidase [source:vb community annotation].
+
+TODO

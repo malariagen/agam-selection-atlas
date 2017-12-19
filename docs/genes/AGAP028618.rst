@@ -1,0 +1,9 @@
+
+AGAP028618
+=============
+
+
+
+Description: Carboxylic ester hydrolase [source:uniprotkb/trembl;acc:a0a1s4hdu1].
+
+TODO

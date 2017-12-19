@@ -1,0 +1,9 @@
+
+AGAP009182
+=============
+
+
+
+Description: Protein transport protein sec61 subunit alpha [source:vb community annotation].
+
+TODO

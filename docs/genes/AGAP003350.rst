@@ -1,0 +1,9 @@
+
+AGAP003350
+=============
+
+
+
+Description: Phosphoenolpyruvate carboxykinase (gtp) [source:vb community annotation].
+
+TODO

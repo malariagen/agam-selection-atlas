@@ -1,0 +1,9 @@
+
+AGAP001399
+=============
+
+
+
+Description: Coatomer subunit beta [source:uniprotkb/trembl;acc:q7pxg9].
+
+TODO

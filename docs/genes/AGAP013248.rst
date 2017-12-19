@@ -1,0 +1,9 @@
+
+AGAP013248
+=============
+
+Name: **CPR139**
+
+Description: Cuticular protein rr-2 family 139 [source:vb community annotation].
+
+TODO

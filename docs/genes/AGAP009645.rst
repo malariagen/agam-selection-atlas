@@ -1,0 +1,9 @@
+
+AGAP009645
+=============
+
+
+
+Description: Apoptosis inhibitor [source:vb community annotation].
+
+TODO

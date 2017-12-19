@@ -1,0 +1,9 @@
+
+AGAP003254
+=============
+
+Name: **Gr16**
+
+Description: Gustatory receptor 16 [source:vb community annotation].
+
+TODO

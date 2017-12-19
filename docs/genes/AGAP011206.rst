@@ -1,0 +1,9 @@
+
+AGAP011206
+=============
+
+
+
+Description: Amine oxidase (fragment) [source:uniprotkb/trembl;acc:q7qhj1].
+
+TODO

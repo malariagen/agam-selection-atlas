@@ -1,0 +1,9 @@
+
+AGAP008049
+=============
+
+
+
+Description: Cell division cycle 123 homolog [source:vb community annotation].
+
+TODO

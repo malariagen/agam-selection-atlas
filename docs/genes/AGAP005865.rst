@@ -1,0 +1,9 @@
+
+AGAP005865
+=============
+
+
+
+Description: Fumarylacetoacetase [source:vb community annotation].
+
+TODO

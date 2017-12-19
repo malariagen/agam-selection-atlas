@@ -1,0 +1,9 @@
+
+AGAP005921
+=============
+
+
+
+Description: Nucleoside-triphosphatase thep1 [source:vb community annotation].
+
+TODO

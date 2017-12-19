@@ -1,0 +1,9 @@
+
+AGAP008578
+=============
+
+
+
+Description: Atp-dependent rna helicase ddx4 [source:vb community annotation].
+
+TODO

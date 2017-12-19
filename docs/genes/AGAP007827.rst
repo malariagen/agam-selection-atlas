@@ -1,0 +1,9 @@
+
+AGAP007827
+=============
+
+Name: **Eno**
+
+Description: Enolase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006382
+=============
+
+
+
+Description: Rho guanine exchange factor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP000723
+=============
+
+
+
+Description: Cytoplasmic dynein 1 light intermediate chain 2 [source:vb community annotation].
+
+TODO

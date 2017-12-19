@@ -1,0 +1,9 @@
+
+AGAP008037
+=============
+
+
+
+Description: Kdel (lys-asp-glu-leu) containing 1, isoform cra_a [source:vb community annotation].
+
+TODO

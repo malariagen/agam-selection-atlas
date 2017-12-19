@@ -1,0 +1,9 @@
+
+AGAP004070
+=============
+
+Name: **Thoc1**
+
+Description: Tho complex subunit 1 [source:vb community annotation].
+
+TODO

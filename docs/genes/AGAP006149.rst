@@ -1,0 +1,9 @@
+
+AGAP006149
+=============
+
+Name: **CPLCX3**
+
+Description: Cuticular protein unclassified [source:vb community annotation].
+
+TODO

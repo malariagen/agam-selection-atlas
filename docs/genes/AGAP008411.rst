@@ -1,0 +1,9 @@
+
+AGAP008411
+=============
+
+
+
+Description: Repressor of rna polymerase iii transcription maf1 [source:uniprotkb/trembl;acc:a0a1s4gy73].
+
+TODO

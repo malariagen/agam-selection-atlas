@@ -1,0 +1,9 @@
+
+AGAP004596
+=============
+
+Name: **PyK**
+
+Description: Pyruvate kinase [source:vb community annotation].
+
+TODO

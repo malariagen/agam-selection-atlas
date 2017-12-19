@@ -1,0 +1,9 @@
+
+AGAP001871
+=============
+
+
+
+Description: Ro ribonucleoprotein autoantigen [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012160
+=============
+
+
+
+Description: Kinetochore-associated protein 1 [source:vb community annotation].
+
+TODO

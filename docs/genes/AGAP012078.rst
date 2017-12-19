@@ -1,0 +1,9 @@
+
+AGAP012078
+=============
+
+
+
+Description: Peptide chain release factor 1 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009085
+=============
+
+
+
+Description: Cysteine-rich secretory protein 2 precursor [source:vb community annotation].
+
+TODO

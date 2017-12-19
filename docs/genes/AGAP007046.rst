@@ -1,0 +1,9 @@
+
+AGAP007046
+=============
+
+
+
+Description: Potassium voltage-gated channel shal-related subfamily d, invertebrate [source:vb community annotation].
+
+TODO

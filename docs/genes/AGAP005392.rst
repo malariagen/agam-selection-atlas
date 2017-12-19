@@ -1,0 +1,9 @@
+
+AGAP005392
+=============
+
+
+
+Description: Post-gpi attachment to proteins factor 3 precursor [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005978
+=============
+
+
+
+Description: Zinc finger and scan domain containing 2 [source:vb community annotation].
+
+TODO

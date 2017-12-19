@@ -1,0 +1,9 @@
+
+AGAP000441
+=============
+
+
+
+Description: Nuclear transcription factor y, gamma [source:vb community annotation].
+
+TODO

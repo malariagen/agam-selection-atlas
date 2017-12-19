@@ -1,0 +1,9 @@
+
+AGAP006522
+=============
+
+
+
+Description: Copz1 protein [source:vb community annotation].
+
+TODO

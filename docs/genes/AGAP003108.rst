@@ -1,0 +1,9 @@
+
+AGAP003108
+=============
+
+
+
+Description: Fibroblast growth factor receptor 2 [source:vb community annotation].
+
+TODO

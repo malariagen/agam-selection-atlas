@@ -1,0 +1,9 @@
+
+AGAP012903
+=============
+
+
+
+Description: Cuticular protein 3 from two-cysteine family [source:vb community annotation].
+
+TODO

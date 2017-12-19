@@ -1,0 +1,9 @@
+
+AGAP028106
+=============
+
+Name: **CPLCP18**
+
+Description: Cuticular protein (putative) cplcp18 [source:vb community annotation].
+
+TODO

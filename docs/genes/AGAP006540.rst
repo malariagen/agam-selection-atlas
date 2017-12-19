@@ -1,0 +1,9 @@
+
+AGAP006540
+=============
+
+
+
+Description: Lim homeobox protein [source:vb community annotation].
+
+TODO

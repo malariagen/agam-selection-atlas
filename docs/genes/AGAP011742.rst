@@ -1,0 +1,9 @@
+
+AGAP011742
+=============
+
+
+
+Description: N-acetyltransferase [source:vb community annotation].
+
+TODO

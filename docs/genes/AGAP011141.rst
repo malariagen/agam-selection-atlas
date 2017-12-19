@@ -1,0 +1,9 @@
+
+AGAP011141
+=============
+
+
+
+Description: Tubulin-specific chaperone cofactor e-like protein [source:vb community annotation].
+
+TODO

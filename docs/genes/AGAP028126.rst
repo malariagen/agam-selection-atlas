@@ -1,0 +1,9 @@
+
+AGAP028126
+=============
+
+Name: **CPLCW5**
+
+Description: Cuticular protein cplcw family (cplcw5) [source:vb community annotation].
+
+TODO

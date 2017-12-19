@@ -1,0 +1,9 @@
+
+AGAP006369
+=============
+
+Name: **CPR144**
+
+Description: Cuticular protein rr-2 family 144 [source:vb community annotation].
+
+TODO

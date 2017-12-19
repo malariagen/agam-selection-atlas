@@ -1,0 +1,9 @@
+
+AGAP003424
+=============
+
+
+
+Description: Catenin alpha [source:vb community annotation].
+
+TODO

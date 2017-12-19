@@ -1,0 +1,9 @@
+
+AGAP012362
+=============
+
+
+
+Description: Nuclear pore complex protein nup85 [source:vb community annotation].
+
+TODO

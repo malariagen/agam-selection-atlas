@@ -1,0 +1,9 @@
+
+AGAP010513
+=============
+
+Name: **GPRMAC1**
+
+Description: Putative muscarinic acetylcholine receptor 1 [source:vb community annotation].
+
+TODO

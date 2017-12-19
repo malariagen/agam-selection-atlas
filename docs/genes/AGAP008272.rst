@@ -1,0 +1,9 @@
+
+AGAP008272
+=============
+
+
+
+Description: Secretion-regulating guanine nucleotide exchange factor [source:vb community annotation].
+
+TODO

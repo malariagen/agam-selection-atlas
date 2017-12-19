@@ -1,0 +1,9 @@
+
+AGAP011783
+=============
+
+Name: **CLIPA13**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+TODO

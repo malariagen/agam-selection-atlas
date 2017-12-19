@@ -1,0 +1,9 @@
+
+AGAP012369
+=============
+
+
+
+Description: Pre-mrna-splicing factor syf1 [source:vb community annotation].
+
+TODO

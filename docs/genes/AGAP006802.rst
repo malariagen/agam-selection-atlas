@@ -1,0 +1,9 @@
+
+AGAP006802
+=============
+
+Name: **mRpS35**
+
+Description: 28s ribosomal protein s35, mitochondrial [source:vb community annotation].
+
+TODO

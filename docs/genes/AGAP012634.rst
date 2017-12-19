@@ -1,0 +1,9 @@
+
+AGAP012634
+=============
+
+
+
+Description: Alkaline phosphatase [source:vb community annotation].
+
+TODO

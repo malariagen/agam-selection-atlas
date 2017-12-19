@@ -1,0 +1,9 @@
+
+AGAP004675
+=============
+
+Name: **GPRMAC2**
+
+Description: Putative muscarinic acetylcholine receptor 2 [source:vb community annotation].
+
+TODO

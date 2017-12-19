@@ -1,0 +1,9 @@
+
+AGAP005654
+=============
+
+
+
+Description: Nitric oxide synthase-interacting protein homolog [source:uniprotkb/trembl;acc:q7q6v1].
+
+TODO

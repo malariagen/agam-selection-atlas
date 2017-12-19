@@ -1,0 +1,9 @@
+
+AGAP004002
+=============
+
+
+
+Description: 60 kda heat shock protein, mitochondrial precursor [source:vb community annotation].
+
+TODO

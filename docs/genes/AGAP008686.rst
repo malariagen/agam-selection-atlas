@@ -1,0 +1,9 @@
+
+AGAP008686
+=============
+
+
+
+Description: Epoxide hydrolase domain protein [source:vb community annotation].
+
+TODO

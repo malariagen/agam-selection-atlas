@@ -1,0 +1,9 @@
+
+AGAP005763
+=============
+
+
+
+Description: Tyrosine-protein kinase receptor torso [source:vb community annotation].
+
+TODO

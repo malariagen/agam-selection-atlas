@@ -1,0 +1,9 @@
+
+AGAP028596
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase [source:uniprotkb/trembl;acc:a0a0e4g8e3].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011333
+=============
+
+
+
+Description: Dip2 disco-interacting protein 2 homolog c [source:vb community annotation].
+
+TODO

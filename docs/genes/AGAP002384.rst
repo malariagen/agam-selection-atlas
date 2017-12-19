@@ -1,0 +1,9 @@
+
+AGAP002384
+=============
+
+
+
+Description: Trna (guanine10-n2)-methyltransferase [source:vb community annotation].
+
+TODO

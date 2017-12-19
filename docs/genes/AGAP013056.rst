@@ -1,0 +1,9 @@
+
+AGAP013056
+=============
+
+
+
+Description: Salivary secreted peptide of the 13 kda family [source:vb community annotation].
+
+TODO

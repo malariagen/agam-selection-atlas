@@ -1,0 +1,9 @@
+
+AGAP000163
+=============
+
+Name: **GSTMS2**
+
+Description: Glutathione transferase microsomal 2 [source:vb community annotation].
+
+TODO

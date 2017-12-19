@@ -1,0 +1,9 @@
+
+AGAP008584
+=============
+
+
+
+Description: Lysosomal alpha-mannosidase [source:vb community annotation].
+
+TODO

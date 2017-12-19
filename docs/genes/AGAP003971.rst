@@ -1,0 +1,9 @@
+
+AGAP003971
+=============
+
+
+
+Description: Serine-type enodpeptidase [source:vb community annotation].
+
+TODO

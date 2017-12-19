@@ -1,0 +1,9 @@
+
+AGAP011568
+=============
+
+
+
+Description: Adp-ribosylation factor-binding protein gga [source:vb community annotation].
+
+TODO

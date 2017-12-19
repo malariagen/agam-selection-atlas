@@ -1,0 +1,9 @@
+
+AGAP012938
+=============
+
+
+
+Description: Serpin 9 inhibitory serine protease inhibitor [source:vb community annotation].
+
+TODO

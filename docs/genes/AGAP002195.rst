@@ -1,0 +1,9 @@
+
+AGAP002195
+=============
+
+Name: **CYP325F2**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+TODO

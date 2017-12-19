@@ -1,0 +1,9 @@
+
+AGAP008615
+=============
+
+
+
+Description: Canopy homolog 2 [source:vb community annotation].
+
+TODO

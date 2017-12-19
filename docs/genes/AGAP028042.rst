@@ -1,0 +1,9 @@
+
+AGAP028042
+=============
+
+Name: **CPLCP6**
+
+Description: Cuticular protien (putative) cplcp6 [source:vb community annotation].
+
+TODO

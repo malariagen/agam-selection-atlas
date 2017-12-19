@@ -1,0 +1,9 @@
+
+AGAP008368
+=============
+
+Name: **TEP14**
+
+Description: Thioester-containing protein 14 [source:vb community annotation].
+
+TODO

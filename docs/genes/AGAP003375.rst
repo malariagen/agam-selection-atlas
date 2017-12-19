@@ -1,0 +1,9 @@
+
+AGAP003375
+=============
+
+Name: **CPR114**
+
+Description: Cuticular protein rr-2 family 114 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001703
+=============
+
+
+
+Description: Ap-2 complex subunit sigma [source:vb community annotation].
+
+TODO

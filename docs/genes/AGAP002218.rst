@@ -1,0 +1,9 @@
+
+AGAP002218
+=============
+
+Name: **mRpL47**
+
+Description: 39s ribosomal protein l47, mitochondrial [source:vb community annotation].
+
+TODO

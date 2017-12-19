@@ -1,0 +1,9 @@
+
+AGAP011287
+=============
+
+Name: **GALE5**
+
+Description: Galectin 5 [source:vb community annotation].
+
+TODO

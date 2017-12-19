@@ -1,0 +1,9 @@
+
+AGAP001955
+=============
+
+
+
+Description: N-acetylglucosaminylphosphatidylinositol deacetylase [source:vb community annotation].
+
+TODO

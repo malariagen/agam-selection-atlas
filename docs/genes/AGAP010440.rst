@@ -1,0 +1,9 @@
+
+AGAP010440
+=============
+
+
+
+Description: Small nuclear ribonucleoprotein e [source:vb community annotation].
+
+TODO

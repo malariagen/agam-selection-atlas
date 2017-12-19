@@ -1,0 +1,9 @@
+
+AGAP006247
+=============
+
+
+
+Description: Survival of motor neuron-related-splicing factor 30 [source:vb community annotation].
+
+TODO

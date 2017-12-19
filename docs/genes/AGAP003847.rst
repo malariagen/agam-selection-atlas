@@ -1,0 +1,9 @@
+
+AGAP003847
+=============
+
+
+
+Description: Rna exonuclease 1 [source:vb community annotation].
+
+TODO

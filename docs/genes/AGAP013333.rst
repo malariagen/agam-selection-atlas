@@ -1,0 +1,9 @@
+
+AGAP013333
+=============
+
+
+
+Description: Phosphate carrier, mitochondrial [source:vb community annotation].
+
+TODO

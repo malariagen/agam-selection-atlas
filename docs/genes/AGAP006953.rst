@@ -1,0 +1,9 @@
+
+AGAP006953
+=============
+
+Name: **mRpS34**
+
+Description: 28s ribosomal protein s34, mitochondrial [source:vb community annotation].
+
+TODO

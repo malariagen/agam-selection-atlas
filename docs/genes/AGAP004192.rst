@@ -1,0 +1,9 @@
+
+AGAP004192
+=============
+
+
+
+Description: Heat shock 70kda protein 5 [source:vb community annotation].
+
+TODO

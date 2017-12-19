@@ -1,0 +1,9 @@
+
+AGAP005922
+=============
+
+
+
+Description: Dna-directed rna polymerase iii subunit rpc5 [source:vb community annotation].
+
+TODO

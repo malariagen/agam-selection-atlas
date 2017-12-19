@@ -1,0 +1,9 @@
+
+AGAP000398
+=============
+
+
+
+Description: Methionyl-trna formyltransferase [source:vb community annotation].
+
+TODO

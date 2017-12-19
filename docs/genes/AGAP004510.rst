@@ -1,0 +1,9 @@
+
+AGAP004510
+=============
+
+
+
+Description: Innexin inx2 [source:vb community annotation].
+
+TODO

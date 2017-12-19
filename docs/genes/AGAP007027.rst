@@ -1,0 +1,9 @@
+
+AGAP007027
+=============
+
+
+
+Description: Usher syndrome type-1g protein-like protein [source:vb community annotation].
+
+TODO

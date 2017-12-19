@@ -1,0 +1,9 @@
+
+AGAP000479
+=============
+
+
+
+Description: Pre-rrna-processing protein ipi3 [source:vb community annotation].
+
+TODO

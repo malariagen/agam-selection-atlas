@@ -1,0 +1,9 @@
+
+AGAP003135
+=============
+
+
+
+Description: Transcription initiation factor tfiid subunit 12 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006391
+=============
+
+
+
+Description: Ubx domain protein 6 [source:vb community annotation].
+
+TODO

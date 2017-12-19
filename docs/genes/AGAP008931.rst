@@ -1,0 +1,9 @@
+
+AGAP008931
+=============
+
+
+
+Description: Inorganic phosphate cotransporter [source:vb community annotation].
+
+TODO

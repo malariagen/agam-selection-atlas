@@ -1,0 +1,9 @@
+
+AGAP004933
+=============
+
+
+
+Description: Ankyrin repeat and mynd domain-containing protein 2 [source:vb community annotation].
+
+TODO

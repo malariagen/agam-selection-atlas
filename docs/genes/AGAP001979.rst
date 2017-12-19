@@ -1,0 +1,9 @@
+
+AGAP001979
+=============
+
+Name: **SCRASP3**
+
+Description: Class a scavenger receptor (srcr domain) with serine protease domain. [source:vb community annotation].
+
+TODO

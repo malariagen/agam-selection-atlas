@@ -1,0 +1,9 @@
+
+AGAP012608
+=============
+
+
+
+Description: 20s proteasome subunit beta 7 [source:vb community annotation].
+
+TODO

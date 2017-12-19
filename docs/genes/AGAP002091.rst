@@ -1,0 +1,9 @@
+
+AGAP002091
+=============
+
+
+
+Description: Phosphoribosylformylglycinamidine synthase [source:vb community annotation].
+
+TODO

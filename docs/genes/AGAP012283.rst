@@ -1,0 +1,9 @@
+
+AGAP012283
+=============
+
+
+
+Description: Cysteinyl-trna synthetase [source:vb community annotation].
+
+TODO

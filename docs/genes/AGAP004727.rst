@@ -1,0 +1,9 @@
+
+AGAP004727
+=============
+
+Name: **Gr25**
+
+Description: Gustatory receptor 25 [source:vb community annotation].
+
+TODO

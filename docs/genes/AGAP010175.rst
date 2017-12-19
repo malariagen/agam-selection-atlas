@@ -1,0 +1,9 @@
+
+AGAP010175
+=============
+
+
+
+Description: Adenylyl cyclase-associated protein 1 [source:vb community annotation].
+
+TODO

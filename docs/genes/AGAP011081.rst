@@ -1,0 +1,9 @@
+
+AGAP011081
+=============
+
+
+
+Description: Protein anon-73b1 [source:vb community annotation].
+
+TODO

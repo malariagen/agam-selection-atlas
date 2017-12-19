@@ -1,0 +1,9 @@
+
+AGAP007063
+=============
+
+
+
+Description: Origin recognition complex subunit 4 [source:uniprotkb/trembl;acc:q7qit4].
+
+TODO

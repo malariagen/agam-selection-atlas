@@ -1,0 +1,9 @@
+
+AGAP010347
+=============
+
+Name: **CuSOD3**
+
+Description: Copper-zinc superoxide dismutase 3 [source:vb community annotation].
+
+TODO

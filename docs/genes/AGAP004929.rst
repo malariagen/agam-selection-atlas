@@ -1,0 +1,9 @@
+
+AGAP004929
+=============
+
+
+
+Description: Eukaryotic translation elongation factor 1 epsilon-1 [source:vb community annotation].
+
+TODO

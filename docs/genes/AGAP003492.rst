@@ -1,0 +1,9 @@
+
+AGAP003492
+=============
+
+
+
+Description: Facilitated glucose transporter (solute carrier family 2) [source:vb community annotation].
+
+TODO

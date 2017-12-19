@@ -1,0 +1,9 @@
+
+AGAP002482
+=============
+
+
+
+Description: Lysophosphatidylglycerol acyltransferase 1 [source:vb community annotation].
+
+TODO

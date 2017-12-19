@@ -1,0 +1,9 @@
+
+AGAP001696
+=============
+
+
+
+Description: Signal peptidase, endoplasmic reticulum-type [source:vb community annotation].
+
+TODO

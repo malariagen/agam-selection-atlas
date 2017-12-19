@@ -1,0 +1,9 @@
+
+AGAP004419
+=============
+
+
+
+Description: Oligosaccharidyl-lipid flippase family [source:vb community annotation].
+
+TODO

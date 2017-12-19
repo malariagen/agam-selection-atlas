@@ -1,0 +1,9 @@
+
+AGAP000598
+=============
+
+
+
+Description: Scaffold protein nfu/nifu [source:vb community annotation].
+
+TODO

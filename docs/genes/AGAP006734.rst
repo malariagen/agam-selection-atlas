@@ -1,0 +1,9 @@
+
+AGAP006734
+=============
+
+
+
+Description: Dna-repair protein xrcc2 [source:vb community annotation].
+
+TODO

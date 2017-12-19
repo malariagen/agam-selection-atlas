@@ -1,0 +1,9 @@
+
+AGAP006363
+=============
+
+
+
+Description: Vitamin k-dependent gamma-carboxylase [source:vb community annotation].
+
+TODO

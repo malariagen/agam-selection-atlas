@@ -1,0 +1,9 @@
+
+AGAP008822
+=============
+
+
+
+Description: Fk506-binding protein 14 [source:vb community annotation].
+
+TODO

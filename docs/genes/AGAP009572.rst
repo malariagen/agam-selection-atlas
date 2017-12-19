@@ -1,0 +1,9 @@
+
+AGAP009572
+=============
+
+Name: **RpS15a-2**
+
+Description: 40s ribosomal protein s15a [source:vb community annotation].
+
+TODO

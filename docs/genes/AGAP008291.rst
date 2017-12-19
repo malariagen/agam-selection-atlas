@@ -1,0 +1,9 @@
+
+AGAP008291
+=============
+
+Name: **TRYP5**
+
+Description: Trypsin 5 [source:vb community annotation].
+
+TODO

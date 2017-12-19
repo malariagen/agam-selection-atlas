@@ -1,0 +1,9 @@
+
+AGAP010210
+=============
+
+
+
+Description: Translocase of inner mitochondrial membrane 23 homolog [source:vb community annotation].
+
+TODO

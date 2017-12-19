@@ -1,0 +1,9 @@
+
+AGAP004854
+=============
+
+
+
+Description: Histone demethylase jarid1 [source:vb community annotation].
+
+TODO

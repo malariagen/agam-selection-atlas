@@ -1,0 +1,9 @@
+
+AGAP011298
+=============
+
+Name: **RpL10a**
+
+Description: 60s ribosomal protein l10a [source:vb community annotation].
+
+TODO

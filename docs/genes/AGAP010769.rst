@@ -1,0 +1,9 @@
+
+AGAP010769
+=============
+
+
+
+Description: Glucosamine-phosphate n-acetyltransferase [source:vb community annotation].
+
+TODO

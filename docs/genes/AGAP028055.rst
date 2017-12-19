@@ -1,0 +1,9 @@
+
+AGAP028055
+=============
+
+
+
+Description: Udp-glucuronosyltransferase [source:uniprotkb/trembl;acc:a0a1s4hcp9].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP001042
+=============
+
+
+
+Description: Cytochrome b5 domain-containing protein 2 homolog [source:vb community annotation].
+
+TODO

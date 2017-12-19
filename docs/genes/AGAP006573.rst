@@ -1,0 +1,9 @@
+
+AGAP006573
+=============
+
+
+
+Description: Integrin-linked kinase [source:vb community annotation].
+
+TODO

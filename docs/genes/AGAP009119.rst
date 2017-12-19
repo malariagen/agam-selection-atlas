@@ -1,0 +1,9 @@
+
+AGAP009119
+=============
+
+
+
+Description: Suppressor of tumorigenicity protein 13 [source:vb community annotation].
+
+TODO

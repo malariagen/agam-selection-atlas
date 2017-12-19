@@ -1,0 +1,9 @@
+
+AGAP001932
+=============
+
+
+
+Description: Metalloendopeptidase [source:vb community annotation].
+
+TODO

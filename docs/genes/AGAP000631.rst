@@ -1,0 +1,9 @@
+
+AGAP000631
+=============
+
+
+
+Description: Integrator complex subunit 6 [source:vb community annotation].
+
+TODO

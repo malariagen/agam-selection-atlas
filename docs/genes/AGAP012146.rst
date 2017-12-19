@@ -1,0 +1,9 @@
+
+AGAP012146
+=============
+
+
+
+Description: Phosphatidylserine synthase 1 [source:vb community annotation].
+
+TODO

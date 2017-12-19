@@ -1,0 +1,9 @@
+
+AGAP011324
+=============
+
+
+
+Description: Alpha-1,2-mannosyltransferase [source:vb community annotation].
+
+TODO

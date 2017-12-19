@@ -1,0 +1,9 @@
+
+AGAP011535
+=============
+
+
+
+Description: Transcription elongation factor b, polypeptide 1 [source:vb community annotation].
+
+TODO

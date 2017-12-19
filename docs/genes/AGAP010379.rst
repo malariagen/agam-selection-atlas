@@ -1,0 +1,9 @@
+
+AGAP010379
+=============
+
+
+
+Description: F-box protein 28 [source:vb community annotation].
+
+TODO

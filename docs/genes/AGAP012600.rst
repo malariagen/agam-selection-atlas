@@ -1,0 +1,9 @@
+
+AGAP012600
+=============
+
+
+
+Description: Coup transcription factor 2 [source:vb community annotation].
+
+TODO

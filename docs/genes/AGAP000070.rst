@@ -1,0 +1,9 @@
+
+AGAP000070
+=============
+
+
+
+Description: Protein kinase [source:vb community annotation].
+
+TODO

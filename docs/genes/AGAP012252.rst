@@ -1,0 +1,9 @@
+
+AGAP012252
+=============
+
+
+
+Description: Classical protein kinase c [source:vb community annotation].
+
+TODO

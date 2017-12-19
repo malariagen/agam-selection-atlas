@@ -1,0 +1,9 @@
+
+AGAP008831
+=============
+
+
+
+Description: Stress-activated map kinase-interacting protein 1 [source:vb community annotation].
+
+TODO

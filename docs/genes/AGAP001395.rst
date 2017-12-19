@@ -1,0 +1,9 @@
+
+AGAP001395
+=============
+
+
+
+Description: Protease, serine [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP012440
+=============
+
+
+
+Description: Alpha-1,3-mannosyl-glycoprotein 4-beta-n-acetylglucosaminyltransferase a [source:vb community annotation].
+
+TODO

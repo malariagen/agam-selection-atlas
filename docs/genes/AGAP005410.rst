@@ -1,0 +1,9 @@
+
+AGAP005410
+=============
+
+
+
+Description: Peptide alpha-n-acetyltransferase [source:vb community annotation].
+
+TODO

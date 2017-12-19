@@ -1,0 +1,9 @@
+
+AGAP004696
+=============
+
+Name: **exd**
+
+Description: Homeobox protein extradenticle [source:uniprotkb/swiss-prot;acc:q7pmt1].
+
+TODO

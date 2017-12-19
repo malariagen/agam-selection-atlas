@@ -1,0 +1,9 @@
+
+AGAP005215
+=============
+
+
+
+Description: O-sialoglycoprotein endopeptidase [source:vb community annotation].
+
+TODO

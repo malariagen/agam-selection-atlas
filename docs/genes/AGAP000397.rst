@@ -1,0 +1,9 @@
+
+AGAP000397
+=============
+
+
+
+Description: Nucleolar protein 14 [source:vb community annotation].
+
+TODO

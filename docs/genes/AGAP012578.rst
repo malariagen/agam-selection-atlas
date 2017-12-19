@@ -1,0 +1,9 @@
+
+AGAP012578
+=============
+
+Name: **GPRMGL3**
+
+Description: Putative metabotropic glutamate receptor 3 [source:vb community annotation].
+
+TODO

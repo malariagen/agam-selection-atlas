@@ -1,0 +1,9 @@
+
+AGAP000962
+=============
+
+Name: **alpha7**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 7 [source:vb community annotation].
+
+TODO

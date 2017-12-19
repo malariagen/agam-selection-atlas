@@ -1,0 +1,9 @@
+
+AGAP006852
+=============
+
+Name: **CPR43**
+
+Description: Cuticular protein rr-1 family 43 [source:vb community annotation].
+
+TODO

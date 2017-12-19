@@ -1,0 +1,9 @@
+
+AGAP005715
+=============
+
+
+
+Description: Autophagy-related protein 13 [source:uniprotkb/trembl;acc:q7q6r5].
+
+TODO

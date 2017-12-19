@@ -1,0 +1,9 @@
+
+AGAP005909
+=============
+
+Name: **Med8**
+
+Description: Mediator of rna polymerase ii transcription subunit 8 [source:uniprotkb/swiss-prot;acc:q7q6d6].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005770
+=============
+
+
+
+Description: Suppressor of cancer cell invasion [source:vb community annotation].
+
+TODO

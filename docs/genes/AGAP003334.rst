@@ -1,0 +1,9 @@
+
+AGAP003334
+=============
+
+Name: **CPLCX2**
+
+Description: Cuticular protein unclassified [source:vb community annotation].
+
+TODO

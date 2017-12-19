@@ -1,0 +1,9 @@
+
+AGAP006081
+=============
+
+Name: **OBP55**
+
+Description: Odorant-binding protein 55 [source:vb community annotation].
+
+TODO

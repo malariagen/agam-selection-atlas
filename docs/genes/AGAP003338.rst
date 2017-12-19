@@ -1,0 +1,9 @@
+
+AGAP003338
+=============
+
+Name: **TRX3**
+
+Description: Thioredoxin [source:vb community annotation].
+
+TODO

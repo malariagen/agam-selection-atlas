@@ -1,0 +1,9 @@
+
+AGAP011374
+=============
+
+
+
+Description: Ap-1 complex subunit mu [source:vb community annotation].
+
+TODO

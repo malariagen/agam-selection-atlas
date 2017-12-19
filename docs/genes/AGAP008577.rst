@@ -1,0 +1,9 @@
+
+AGAP008577
+=============
+
+
+
+Description: Rna-binding protein 5/10 [source:vb community annotation].
+
+TODO

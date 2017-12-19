@@ -1,0 +1,9 @@
+
+AGAP004140
+=============
+
+Name: **disp**
+
+Description: Protein dispatched (segment polarity protein) [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP006910
+=============
+
+Name: **SRPN3**
+
+Description: Serine protease inhibitor (serpin) 3 [source:vb community annotation].
+
+TODO

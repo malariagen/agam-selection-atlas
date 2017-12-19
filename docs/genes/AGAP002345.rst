@@ -1,0 +1,9 @@
+
+AGAP002345
+=============
+
+
+
+Description: Anaphase-promoting complex subunit 4 [source:vb community annotation].
+
+TODO

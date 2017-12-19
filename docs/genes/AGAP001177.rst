@@ -1,0 +1,9 @@
+
+AGAP001177
+=============
+
+
+
+Description: Ca2 -triggered coelenterazine-binding protein 1 [source:vb community annotation].
+
+TODO

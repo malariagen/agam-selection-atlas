@@ -1,0 +1,9 @@
+
+AGAP009348
+=============
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 14 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005342
+=============
+
+
+
+Description: Malate synthase [source:vb community annotation].
+
+TODO

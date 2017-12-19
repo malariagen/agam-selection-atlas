@@ -1,0 +1,9 @@
+
+AGAP003648
+=============
+
+
+
+Description: Dna-directed rna polymerase ii subunit rpb2 [source:vb community annotation].
+
+TODO

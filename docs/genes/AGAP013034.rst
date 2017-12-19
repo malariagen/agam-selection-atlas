@@ -1,0 +1,9 @@
+
+AGAP013034
+=============
+
+Name: **IAP8**
+
+Description: Inhibitor of apoptosis 8 [source:vb community annotation].
+
+TODO

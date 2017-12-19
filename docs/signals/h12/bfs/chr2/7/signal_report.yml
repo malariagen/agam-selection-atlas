@@ -1,0 +1,61 @@
+adjacent_genes: []
+chromosome: '2'
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 12\n    # data points      = 149\n    # variables        = 1\n    chi-square\
+    \         = 0.004\n    reduced chi-square = 0.000\n    Akaike info crit   = -1579.873\n\
+    \    Bayesian info crit = -1576.869\n[[Variables]]\n    c:   0.01263363 +/- 0.000407\
+    \ (3.22%) (init= 0.04)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 150\n    # variables        = 3\n   \
+    \ chi-square         = 0.001\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1733.554\n    Bayesian info crit = -1724.522\n[[Variables]]\n    amplitude:\
+    \   0.03869332 +/- 0.002429 (6.28%) (init= 0.5)\n    decay:       0.16183676 +/-\
+    \ 0.016647 (10.29%) (init= 0.2)\n    c:           0.01170219 +/- 0.000265 (2.26%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.587 \n    C(decay, c) \
+    \                 = -0.239 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 11\n    # data points      = 148\n    # variables        = 1\n   \
+    \ chi-square         = 0.005\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1507.989\n    Bayesian info crit = -1504.992\n[[Variables]]\n    c:\
+    \   0.01301404 +/- 0.000502 (3.86%) (init= 0.04)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 27\n    # data points      = 149\n    # variables        = 3\n   \
+    \ chi-square         = 0.002\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1633.095\n    Bayesian info crit = -1624.083\n[[Variables]]\n    amplitude:\
+    \   0.03258401 +/- 0.003042 (9.34%) (init= 0.5)\n    decay:       0.36906784 +/-\
+    \ 0.049738 (13.48%) (init= 0.2)\n    c:           0.01129916 +/- 0.000389 (3.45%)\
+    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.701 \n    C(decay, c) \
+    \                 = -0.376 \n"
+focus:
+  arm: 2L
+  start: 46000001
+  stop: 46040000
+overlapping_genes:
+- description: phosphatidylinositol transfer protein SEC14
+  id: AGAP007353
+  name: ''
+- description: phosphatidylinositol transfer protein SEC14
+  id: AGAP007354
+  name: ''
+- description: cellular retinaldehyde binding protein
+  id: AGAP007355
+  name: ''
+- description: cellular retinaldehyde binding protein
+  id: AGAP007356
+  name: ''
+- description: retinaldehyde-binding protein 1-like protein 1
+  id: AGAP007357
+  name: ''
+- description: cellular retinaldehyde binding protein
+  id: AGAP007358
+  name: ''
+population:
+  id: bfs
+  label: Burkina Faso *An. gambiae*
+rank: 7
+statistic:
+  id: h12
+  label: H12

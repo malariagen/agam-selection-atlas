@@ -1,0 +1,9 @@
+
+AGAP005375
+=============
+
+
+
+Description: Nonsense-mediated mrna decay protein [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011460
+=============
+
+
+
+Description: Salivary cysteine-rich protein [source:vb community annotation].
+
+TODO

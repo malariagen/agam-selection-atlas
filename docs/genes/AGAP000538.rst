@@ -1,0 +1,9 @@
+
+AGAP000538
+=============
+
+Name: **TWDL9**
+
+Description: Cuticular protein twdl family (twdl9) [source:vb community annotation].
+
+TODO

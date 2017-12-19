@@ -1,0 +1,9 @@
+
+AGAP005203
+=============
+
+Name: **PGRPLC**
+
+Description: Peptidoglycan recognition protein (long) [source:vb community annotation].
+
+TODO

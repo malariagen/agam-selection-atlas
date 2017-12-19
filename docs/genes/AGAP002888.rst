@@ -1,0 +1,9 @@
+
+AGAP002888
+=============
+
+Name: **GPRNNA3**
+
+Description: Putative gpcr class a orphan receptor 3 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP003501
+=============
+
+
+
+Description: Lipase [source:uniprotkb/trembl;acc:q5tvs6].
+
+TODO

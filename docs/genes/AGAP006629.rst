@@ -1,0 +1,9 @@
+
+AGAP006629
+=============
+
+
+
+Description: Regulator of g-protein signaling [source:vb community annotation].
+
+TODO

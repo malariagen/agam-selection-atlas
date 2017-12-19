@@ -1,0 +1,9 @@
+
+AGAP000327
+=============
+
+
+
+Description: Tyrosine aminotransferase [source:vb community annotation].
+
+TODO

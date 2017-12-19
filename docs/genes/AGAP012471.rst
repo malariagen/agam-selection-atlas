@@ -1,0 +1,9 @@
+
+AGAP012471
+=============
+
+
+
+Description: Kinesin-like protein [source:uniprotkb/trembl;acc:q7ql44].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP009584
+=============
+
+Name: **TRX1**
+
+Description: Thioredoxin [source:uniprotkb/trembl;acc:q9ngz1].
+
+TODO

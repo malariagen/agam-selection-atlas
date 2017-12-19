@@ -1,0 +1,9 @@
+
+AGAP005469
+=============
+
+
+
+Description: S10e ribosomal protein [source:vb community annotation].
+
+TODO

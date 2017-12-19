@@ -1,0 +1,9 @@
+
+AGAP012796
+=============
+
+
+
+Description: Dna-directed rna polymerases i and iii subunit rpac1 [source:vb community annotation].
+
+TODO

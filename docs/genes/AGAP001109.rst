@@ -1,0 +1,9 @@
+
+AGAP001109
+=============
+
+
+
+Description: Protein-tyrosine phosphatase [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011179
+=============
+
+Name: **GPRNNA15**
+
+Description: Putative gpcr class a orphan receptor 15 [source:vb community annotation].
+
+TODO

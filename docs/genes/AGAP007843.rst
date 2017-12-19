@@ -1,0 +1,9 @@
+
+AGAP007843
+=============
+
+
+
+Description: Diacylglycerol o-acyltransferase 1 [source:vb community annotation].
+
+TODO

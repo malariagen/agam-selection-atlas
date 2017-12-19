@@ -1,0 +1,9 @@
+
+AGAP004096
+=============
+
+
+
+Description: Serine/threonine-protein phosphatase 2a 56 kda regulatory subunit epsilon [source:vb community annotation].
+
+TODO

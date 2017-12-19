@@ -1,0 +1,9 @@
+
+AGAP029122
+=============
+
+Name: **G-s-alpha-60A**
+
+Description: Guanine nucleotide-binding protein g(s) subunit alpha [source:uniprotkb/swiss-prot;acc:q7pd79].
+
+TODO

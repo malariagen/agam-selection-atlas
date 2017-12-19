@@ -1,0 +1,9 @@
+
+AGAP001167
+=============
+
+
+
+Description: Pre-rrna-processing protein tsr2 [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP011158
+=============
+
+
+
+Description: Kynurenine--oxoglutarate transaminase 3 isoform 1 [source:vb community annotation].
+
+TODO

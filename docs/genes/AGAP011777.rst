@@ -1,0 +1,9 @@
+
+AGAP011777
+=============
+
+Name: **RpSA**
+
+Description: 40s ribosomal protein sa [source:uniprotkb/swiss-prot;acc:q7pz81].
+
+TODO

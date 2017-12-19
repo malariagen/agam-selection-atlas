@@ -1,0 +1,9 @@
+
+AGAP004412
+=============
+
+
+
+Description: Diphthine synthase [source:vb community annotation].
+
+TODO

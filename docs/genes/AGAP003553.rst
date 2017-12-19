@@ -1,0 +1,9 @@
+
+AGAP003553
+=============
+
+
+
+Description: Transmembrane emp24 protein transport domain containing 9 [source:vb community annotation].
+
+TODO

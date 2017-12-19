@@ -1,0 +1,9 @@
+
+AGAP002260
+=============
+
+
+
+Description: Wd repeat-containing protein 40a [source:vb community annotation].
+
+TODO

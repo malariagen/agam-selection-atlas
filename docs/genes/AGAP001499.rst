@@ -1,0 +1,9 @@
+
+AGAP001499
+=============
+
+Name: **GPRMTN**
+
+Description: Putative melatonin receptor [source:vb community annotation].
+
+TODO

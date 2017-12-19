@@ -1,0 +1,9 @@
+
+AGAP012383
+=============
+
+
+
+Description: Organic cation transporter [source:vb community annotation].
+
+TODO

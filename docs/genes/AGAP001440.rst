@@ -1,0 +1,9 @@
+
+AGAP001440
+=============
+
+
+
+Description: Proteasome 26s non-atpase subunit 11 [source:vb community annotation].
+
+TODO

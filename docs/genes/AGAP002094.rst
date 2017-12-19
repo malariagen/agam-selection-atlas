@@ -1,0 +1,9 @@
+
+AGAP002094
+=============
+
+
+
+Description: Ancient conserved domain-containing protein 2 [source:vb community annotation].
+
+TODO

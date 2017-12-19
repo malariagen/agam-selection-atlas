@@ -1,0 +1,9 @@
+
+AGAP008099
+=============
+
+
+
+Description: Ubiquitin-fold modifier-conjugating enzyme 1 [source:uniprotkb/swiss-prot;acc:q7pnd3].
+
+TODO

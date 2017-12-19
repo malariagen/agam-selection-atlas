@@ -1,0 +1,9 @@
+
+AGAP010623
+=============
+
+
+
+Description: X box-binding protein 1 [source:vb community annotation].
+
+TODO

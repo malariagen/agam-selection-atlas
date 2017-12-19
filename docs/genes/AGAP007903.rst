@@ -1,0 +1,9 @@
+
+AGAP007903
+=============
+
+
+
+Description: Excitatory amino acid transporter 2 isoform 2 [source:vb community annotation].
+
+TODO

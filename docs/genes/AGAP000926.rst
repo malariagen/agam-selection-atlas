@@ -1,0 +1,9 @@
+
+AGAP000926
+=============
+
+
+
+Description: Inositol hexakisphosphate/diphosphoinositol-pentakisphosphate kinase [source:vb community annotation].
+
+TODO

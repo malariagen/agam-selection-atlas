@@ -1,0 +1,9 @@
+
+AGAP001998
+=============
+
+Name: **mRpS10**
+
+Description: 28s ribosomal protein s10, mitochondrial [source:vb community annotation].
+
+TODO

@@ -1,0 +1,9 @@
+
+AGAP005884
+=============
+
+
+
+Description: Sphingomyelin synthase-related 1 [source:vb community annotation].
+
+TODO

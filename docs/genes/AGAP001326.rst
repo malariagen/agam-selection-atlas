@@ -1,0 +1,9 @@
+
+AGAP001326
+=============
+
+
+
+Description: Mitotic spindle assembly checkpoint protein mad2b [source:vb community annotation].
+
+TODO

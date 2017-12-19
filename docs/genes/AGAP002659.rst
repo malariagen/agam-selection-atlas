@@ -1,0 +1,9 @@
+
+AGAP002659
+=============
+
+
+
+Description: Solute carrier family 10 (sodium/bile acid cotransporter) [source:vb community annotation].
+
+TODO

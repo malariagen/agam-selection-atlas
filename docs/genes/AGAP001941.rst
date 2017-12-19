@@ -1,0 +1,9 @@
+
+AGAP001941
+=============
+
+
+
+Description: Phosphatidic acid phosphatase type 2 domain-containing protein 1b [source:vb community annotation].
+
+TODO

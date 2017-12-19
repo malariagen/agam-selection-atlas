@@ -1,0 +1,9 @@
+
+AGAP011497
+=============
+
+
+
+Description: Vacuolar protein sorting protein 25 [source:vb community annotation].
+
+TODO

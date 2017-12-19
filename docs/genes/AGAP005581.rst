@@ -1,0 +1,9 @@
+
+AGAP005581
+=============
+
+
+
+Description: 3-hydroxyisobutyrate dehydrogenase [source:uniprotkb/trembl;acc:q7pnn6].
+
+TODO

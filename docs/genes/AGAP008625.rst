@@ -1,0 +1,9 @@
+
+AGAP008625
+=============
+
+Name: **GPRSMO**
+
+Description: Putative smoothened receptor [source:vb community annotation].
+
+TODO

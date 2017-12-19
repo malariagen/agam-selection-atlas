@@ -1,0 +1,9 @@
+
+AGAP006138
+=============
+
+
+
+Description: Atp-dependent rna helicase dhx33 [source:vb community annotation].
+
+TODO

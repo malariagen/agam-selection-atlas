@@ -1,0 +1,9 @@
+
+AGAP005845
+=============
+
+
+
+Description: V-type h -transporting atpase subunit c [source:vb community annotation].
+
+TODO

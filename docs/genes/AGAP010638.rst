@@ -1,0 +1,9 @@
+
+AGAP010638
+=============
+
+
+
+Description: Ca2  transporting atpase, plasma membrane [source:vb community annotation].
+
+TODO

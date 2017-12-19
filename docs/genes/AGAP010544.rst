@@ -1,0 +1,9 @@
+
+AGAP010544
+=============
+
+
+
+Description: Cell cycle arrest protein bub3 [source:vb community annotation].
+
+TODO

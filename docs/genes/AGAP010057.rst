@@ -1,0 +1,9 @@
+
+AGAP010057
+=============
+
+
+
+Description: Nicotinic acetylcholine receptor, beta-2 subunit [source:vb community annotation].
+
+TODO

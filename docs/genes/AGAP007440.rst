@@ -1,0 +1,9 @@
+
+AGAP007440
+=============
+
+
+
+Description: Dna topoisomerase 2-associated protein pat1 [source:vb community annotation].
+
+TODO

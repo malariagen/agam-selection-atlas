@@ -1,0 +1,9 @@
+
+AGAP000056
+=============
+
+
+
+Description: Neuronal pas domain-containing protein [source:vb community annotation].
+
+TODO

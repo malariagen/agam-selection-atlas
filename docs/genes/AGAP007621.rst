@@ -1,0 +1,9 @@
+
+AGAP007621
+=============
+
+
+
+Description: Cytochrome c oxidase viic [source:vb community annotation].
+
+TODO

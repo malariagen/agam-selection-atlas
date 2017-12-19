@@ -1,0 +1,9 @@
+
+AGAP012227
+=============
+
+
+
+Description: Haloacid dehalogenase-like hydrolase domain-containing protein 2 [source:vb community annotation].
+
+TODO

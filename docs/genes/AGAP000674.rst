@@ -1,0 +1,9 @@
+
+AGAP000674
+=============
+
+
+
+Description: Transcription factor sp, invertebrate [source:vb community annotation].
+
+TODO

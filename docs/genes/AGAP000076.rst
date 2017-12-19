@@ -1,0 +1,9 @@
+
+AGAP000076
+=============
+
+
+
+Description: Sterol regulatory element-binding transcription factor 1 [source:vb community annotation].
+
+TODO

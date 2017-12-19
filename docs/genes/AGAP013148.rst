@@ -1,0 +1,9 @@
+
+AGAP013148
+=============
+
+
+
+Description: Nad-dependent deacetylase [source:vb community annotation].
+
+TODO

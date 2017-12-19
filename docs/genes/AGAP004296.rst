@@ -1,0 +1,9 @@
+
+AGAP004296
+=============
+
+
+
+Description: Signal peptidase complex subunit 1 [source:vb community annotation].
+
+TODO

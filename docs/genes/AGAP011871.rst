@@ -1,0 +1,9 @@
+
+AGAP011871
+=============
+
+
+
+Description: E3 ubiquitin-protein ligase [source:uniprotkb/trembl;acc:a0a1s4h8v4].
+
+TODO

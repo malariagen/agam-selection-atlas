@@ -1,0 +1,9 @@
+
+AGAP005680
+=============
+
+
+
+Description: Pab-dependent poly(a)-specific ribonuclease subunit 3 [source:vb community annotation].
+
+TODO
