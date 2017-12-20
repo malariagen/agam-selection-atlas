@@ -1,0 +1,180 @@
+delta_aics (5547, 2)
+scan progress 0 0.04
+scan progress 100 4.04
+scan progress 200 8.04
+scan progress 300 12.04
+scan progress 400 16.04
+scan progress 500 20.04
+scan progress 600 24.04
+scan progress 700 28.04
+scan progress 800 32.04
+scan progress 900 36.04
+scan progress 1000 40.04
+scan progress 1100 44.04
+scan progress 1200 48.04
+scan progress 1300 52.04
+scan progress 1400 56.04
+scan progress 1500 60.04
+scan progress 1600 64.04
+scan progress 1700 68.04
+scan progress 1800 72.04
+scan progress 1900 76.04
+scan progress 2000 80.04
+scan progress 2100 84.04
+scan progress 2200 88.04
+scan progress 2300 92.04
+scan progress 2400 96.04
+scan progress 2500 100.04
+scan progress 2600 104.04
+scan progress 2700 108.04
+scan progress 2800 112.04
+scan progress 2900 116.04
+scan progress 3000 118.4871655
+scan progress 3100 119.479718
+scan progress 3200 120.479718
+scan progress 3300 123.909718
+scan progress 3400 126.844847
+scan progress 3500 130.844847
+scan progress 3600 134.844847
+scan progress 3700 138.844847
+scan progress 3800 142.844847
+scan progress 3900 146.844847
+scan progress 4000 150.844847
+scan progress 4100 154.844847
+scan progress 4200 158.844847
+scan progress 4300 162.844847
+scan progress 4400 166.844847
+scan progress 4500 170.844847
+scan progress 4600 174.844847
+scan progress 4700 178.844847
+scan progress 4800 182.844847
+scan progress 4900 186.844847
+scan progress 5000 190.844847
+scan progress 5100 194.844847
+scan progress 5200 198.844847
+scan progress 5300 202.844847
+scan progress 5400 206.844847
+scan progress 5500 210.844847
+first pass 3199 837.5649137331548
+********************************************************************************
+Iteration 1
+Peak index: 3199
+Delta AIC: [ 837.56491373  890.5123164 ]
+Window: 63965106 63985105
+********************************************************************************
+find extent of region under selection
+extend hit right 1723.60647561
+extend hit right 1720.15512144
+extend hit right 1715.67317594
+extend hit right 1711.30029142
+extend hit right 1705.36185623
+extend hit right 1700.93623975
+extend hit right 1688.63472201
+extend hit right 1686.88039657
+extend hit right 1679.80980317
+extend hit right 1673.88704625
+extend hit right 1659.88980612
+extend hit right 1652.89377952
+extend hit right 1646.34177145
+find flanking region
+rescan 2611 3641
+scan progress 2700 108.04
+scan progress 2800 112.04
+scan progress 2900 116.04
+scan progress 3000 118.4871655
+scan progress 3100 119.479718
+scan progress 3200 120.479718
+scan progress 3300 123.909718
+scan progress 3400 126.844847
+scan progress 3500 130.844847
+scan progress 3600 134.844847
+next peak: 4505 [ 394.04966113  683.29606627]
+********************************************************************************
+Iteration 2
+Peak index: 4505
+Delta AIC: [ 394.04966113  683.29606627]
+Window: 90085106 90105105
+********************************************************************************
+find extent of region under selection
+extend hit left 1074.03206259
+extend hit left 1061.27829654
+extend hit right 1065.91741709
+extend hit right 1044.58415457
+find flanking region
+rescan 4105 4905
+scan progress 4200 158.844847
+scan progress 4300 162.844847
+scan progress 4400 166.844847
+scan progress 4500 170.844847
+scan progress 4600 174.844847
+scan progress 4700 178.844847
+scan progress 4800 182.844847
+scan progress 4900 186.844847
+next peak: 1423 [ 472.04717292  493.29806152]
+********************************************************************************
+Iteration 3
+Peak index: 1423
+Delta AIC: [ 472.04717292  493.29806152]
+Window: 28460001 28480000
+********************************************************************************
+find extent of region under selection
+extend hit left 944.718062194
+extend hit right 933.450718707
+find flanking region
+rescan 1023 1823
+scan progress 1100 44.04
+scan progress 1200 48.04
+scan progress 1300 52.04
+scan progress 1400 56.04
+scan progress 1500 60.04
+scan progress 1600 64.04
+scan progress 1700 68.04
+scan progress 1800 72.04
+next peak: 2045 [ 338.63109929  130.47590342]
+********************************************************************************
+Iteration 4
+Peak index: 2045
+Delta AIC: [ 338.63109929  130.47590342]
+Window: 40900001 40920000
+********************************************************************************
+find extent of region under selection
+extend hit left 468.812171169
+extend hit left 463.711343724
+extend hit left 460.950113942
+extend hit left 457.154423326
+extend hit left 447.664035447
+extend hit right 468.739417218
+extend hit right 463.89884946
+extend hit right 458.099272136
+extend hit right 450.583176483
+find flanking region
+rescan 1646 2445
+scan progress 1700 68.04
+scan progress 1800 72.04
+scan progress 1900 76.04
+scan progress 2000 80.04
+scan progress 2100 84.04
+scan progress 2200 88.04
+scan progress 2300 92.04
+scan progress 2400 96.04
+next peak: 4347 [ 217.53650226  147.64183061]
+********************************************************************************
+Iteration 5
+Peak index: 4347
+Delta AIC: [ 217.53650226  147.64183061]
+Window: 86925106 86945105
+********************************************************************************
+find extent of region under selection
+extend hit right 347.992884914
+find flanking region
+rescan 3947 4748
+scan progress 4000 150.844847
+scan progress 4100 154.844847
+scan progress 4200 158.844847
+scan progress 4300 162.844847
+scan progress 4400 166.844847
+scan progress 4500 170.844847
+scan progress 4600 174.844847
+scan progress 4700 178.844847
+next peak: 0 [ 0.  0.]
+all done

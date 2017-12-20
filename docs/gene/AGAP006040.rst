@@ -1,0 +1,43 @@
+:orphan:
+
+AGAP006040
+=============
+
+
+
+
+
+Description: Peroxisomal membrane protein 2 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006040>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:25546090-25548795#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFM/chr2/2/index`,":25400001-25500000",1180
+    :doc:`/signal/H12/GAS/chr2/1/index`,":25460001-25540000",568
+    
+
+

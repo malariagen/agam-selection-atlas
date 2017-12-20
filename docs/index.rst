@@ -1,20 +1,23 @@
-.. Ag1000G Selection Atlas documentation master file, created by
-   sphinx-quickstart on Fri Dec 15 12:44:44 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Ag1000G Selection Atlas's documentation!
-===================================================
+Ag1000G Selection Atlas
+=======================
+
+**Work in progress.**
+
+Welcome to the *Anopheles gambiae* 1000 Genomes Project atlas of recent
+selection. This site provides information about signals of recent evolutionary
+selection in one or more natural populations of the malaria vector species
+*Anopheles gambiae* and *Anopheles coluzzii*.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
-
+    signals
+    populations
+    methods
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

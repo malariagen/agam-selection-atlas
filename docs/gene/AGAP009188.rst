@@ -1,0 +1,46 @@
+:orphan:
+
+AGAP009188
+=============
+
+
+
+
+
+Description: Solute carrier family 39 (zinc transporter), member 9 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009188>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:28573573-28575403#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/CMS/chr3/1/index`,":28540001-28640000",1425
+    :doc:`/signal/H12/BFS/chr3/1/index`,":28480001-28620000",1057
+    :doc:`/signal/H12/GNS/chr3/1/index`,":28480001-28600000",968
+    :doc:`/signal/H12/UGS/chr3/1/index`,":28560001-28620000",881
+    :doc:`/signal/H12/BFM/chr3/1/index`,":28520001-28620000",730
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+No signals.
+
+
