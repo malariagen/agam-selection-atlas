@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-2R between position 28,420,001 and
-28,520,000.
+**2R** between positions **28,420,001** and
+**28,520,000**.
 
 
 

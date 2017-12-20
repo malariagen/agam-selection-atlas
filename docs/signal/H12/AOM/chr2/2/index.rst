@@ -8,8 +8,8 @@ Angola *An. coluzzii* | H12 | Chromosome 2 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/AOM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-2R between position 8,320,001 and
-8,380,000.
+**2R** between positions **8,320,001** and
+**8,380,000**.
 
 
 

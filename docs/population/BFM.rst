@@ -18,8 +18,7 @@ Chromosome 2
     :doc:`/signal/H12/BFM/chr2/2/index`,"2L:25,400,001-25,500,000",1180
     :doc:`/signal/H12/BFM/chr2/3/index`,"2R:40,880,001-40,980,000",512
     :doc:`/signal/H12/BFM/chr2/4/index`,"2R:28,380,001-28,500,000",442
-    :doc:`/signal/H12/BFM/chr2/5/index`,"2L:740,001-820,000",345
-    :doc:`/signal/H12/BFM/chr2/6/index`,"2R:24,820,001-24,860,000",247
+    :doc:`/signal/H12/BFM/chr2/5/index`,"2R:24,820,001-24,860,000",247
     
 
 

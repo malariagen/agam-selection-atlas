@@ -8,8 +8,8 @@ Guinea-Bissau | H12 | Chromosome 2 | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/GWA` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-2L between position 11,260,001 and
-11,340,000.
+**2L** between positions **11,260,001** and
+**11,340,000**.
 
 
 

@@ -8,8 +8,8 @@ Gabon *An. gambiae* | H12 | Chromosome X | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/GAS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-X between position 9,160,001 and
-9,200,000.
+**X** between positions **9,160,001** and
+**9,200,000**.
 
 
 No genes overlap the focal region.

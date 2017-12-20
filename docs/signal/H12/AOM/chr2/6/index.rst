@@ -8,8 +8,8 @@ Angola *An. coluzzii* | H12 | Chromosome 2 | Signal #6
 This page describes a signal of selection found in the
 :doc:`/population/AOM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-2R between position 34,440,001 and
-34,540,000.
+**2R** between positions **34,440,001** and
+**34,540,000**.
 
 
 
@@ -36,18 +36,7 @@ Overlapping signals
 -------------------
 
 
-
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal, Focus, Score
-
-    :doc:`/signal/H12/BFS/chr2/11/index`,"2R:34,420,001-34,540,000",90
-    
-
+No overlapping signals.
 
 
 Diagnostics

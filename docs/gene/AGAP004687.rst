@@ -20,13 +20,7 @@ The following signals have a focus which overlaps this gene:
 
 
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    :doc:`/signal/H12/BFM/chr2/5/index`,":740001-820000",345
-    
+No signals.
 
 
 

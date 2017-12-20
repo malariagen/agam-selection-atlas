@@ -18,10 +18,8 @@ Chromosome 2
     :doc:`/signal/H12/UGS/chr2/2/index`,"2L:1,940,001-3,080,000",1332
     :doc:`/signal/H12/UGS/chr2/3/index`,"2L:34,040,001-34,160,000",1197
     :doc:`/signal/H12/UGS/chr2/4/index`,"2L:8,600,001-8,780,000",237
-    :doc:`/signal/H12/UGS/chr2/8/index`,"2R:58,080,001-58,700,000",217
     :doc:`/signal/H12/UGS/chr2/5/index`,"2R:50,420,001-50,820,000",117
     :doc:`/signal/H12/UGS/chr2/6/index`,"2L:42,760,001-42,800,000",111
-    :doc:`/signal/H12/UGS/chr2/7/index`,"2L:220,001-320,000",90
     
 
 

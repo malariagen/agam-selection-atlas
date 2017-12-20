@@ -8,8 +8,8 @@ Burkina Faso *An. coluzzii* | H12 | Chromosome 3 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/BFM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-3L between position 11,200,001 and
-11,240,000.
+**3L** between positions **11,200,001** and
+**11,240,000**.
 
 
 

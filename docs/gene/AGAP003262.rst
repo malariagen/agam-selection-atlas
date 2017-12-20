@@ -37,7 +37,6 @@ The following signals have a focus which occurs within 50 kbp of this gene:
     :header: Signal,Focus,Score
 
     :doc:`/signal/H12/AOM/chr2/6/index`,":34440001-34540000",205
-    :doc:`/signal/H12/BFS/chr2/11/index`,":34420001-34540000",90
     
 
 

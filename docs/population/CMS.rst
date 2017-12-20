@@ -17,7 +17,6 @@ Chromosome 2
     :doc:`/signal/H12/CMS/chr2/1/index`,"2R:28,400,001-28,460,000",1231
     :doc:`/signal/H12/CMS/chr2/2/index`,"2L:2,460,001-2,960,000",635
     :doc:`/signal/H12/CMS/chr2/3/index`,"2R:40,620,001-41,020,000",451
-    :doc:`/signal/H12/CMS/chr2/4/index`,"2L:3,660,001-3,700,000",143
     
 
 

@@ -153,25 +153,5 @@ scan progress 2100 84.04
 scan progress 2200 88.04
 scan progress 2300 92.04
 scan progress 2400 96.04
-next peak: 3261 [ 76.84953099  66.74328531]
-********************************************************************************
-Iteration 4
-Peak index: 3261
-Delta AIC: [ 76.84953099  66.74328531]
-Window: 65205106 65225105
-********************************************************************************
-find extent of region under selection
-find flanking region
-rescan 2658 3688
-scan progress 2700 108.04
-scan progress 2800 112.04
-scan progress 2900 116.04
-scan progress 3000 118.4871655
-scan progress 3100 119.479718
-scan progress 3200 120.479718
-scan progress 3300 123.909718
-scan progress 3400 126.844847
-scan progress 3500 130.844847
-scan progress 3600 134.844847
 next peak: 0 [ 0.  0.]
 all done

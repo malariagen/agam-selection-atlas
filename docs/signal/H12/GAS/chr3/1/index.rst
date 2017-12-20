@@ -8,8 +8,8 @@ Gabon *An. gambiae* | H12 | Chromosome 3 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/GAS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-3L between position 9,740,001 and
-10,020,000.
+**3L** between positions **9,740,001** and
+**10,020,000**.
 
 
 
