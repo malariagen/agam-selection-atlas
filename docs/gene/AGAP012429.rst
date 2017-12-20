@@ -10,10 +10,24 @@ Name: **NMDAR2**
 Description: Ionotropic receptor nmdar2 [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012429>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012429>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=UNKN:284129-301557#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
 
 
 

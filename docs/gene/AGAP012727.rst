@@ -10,10 +10,24 @@ AGAP012727
 Description: Nadh dehydrogenase i, m subunit [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012727>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012727>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=UNKN:25591108-25592481#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
 
 
 

@@ -10,10 +10,24 @@ AGAP001636
 Description: Serine/threonine-protein kinase greatwall [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001636>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001636>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:7217530-7220383#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
 
 
 

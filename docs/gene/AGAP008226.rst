@@ -10,10 +10,24 @@ AGAP008226
 Description: Protein yipf [source:uniprotkb/trembl;acc:a0a1s4gyb9].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008226>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008226>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:7165454-7166891#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
 
 
 

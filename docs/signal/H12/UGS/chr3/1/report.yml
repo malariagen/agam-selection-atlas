@@ -1,46 +1,55 @@
 chromosome: '3'
 epicenter:
-  arm: 3R
-  start: 28560001
-  stop: 28600000
+  start: !!python/tuple
+  - 3R
+  - 28580001
+  stop: !!python/tuple
+  - 3R
+  - 28620000
 fit_reports:
   left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
-    \   = 10\n    # data points      = 150\n    # variables        = 1\n    chi-square\
-    \         = 0.117\n    reduced chi-square = 0.001\n    Akaike info crit   = -1071.074\n\
-    \    Bayesian info crit = -1068.063\n[[Variables]]\n    c:   0.02518365 +/- 0.002290\
-    \ (9.10%) (init= 0.04)\n"
+    \   = 6\n    # data points      = 196\n    # variables        = 1\n    chi-square\
+    \         = 0.190\n    reduced chi-square = 0.001\n    Akaike info crit   = -1358.301\n\
+    \    Bayesian info crit = -1355.023\n[[Variables]]\n    c:   0.02374043 +/- 0.002227\
+    \ (9.38%) (init= 0.03)\n"
   left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 27\n    # data points      = 151\n    # variables        = 3\n   \
-    \ chi-square         = 0.007\n    reduced chi-square = 0.000\n    Akaike info\
-    \ crit   = -1497.293\n    Bayesian info crit = -1488.241\n[[Variables]]\n    amplitude:\
-    \   0.26111748 +/- 0.005388 (2.06%) (init= 0.5)\n    decay:       0.17530508 +/-\
-    \ 0.005890 (3.36%) (init= 0.5)\n    c:           0.01840311 +/- 0.000603 (3.27%)\
-    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(amplitude, decay)          = -0.592 \n    C(decay, c) \
-    \                 = -0.249 \n"
+    \ evals   = 27\n    # data points      = 197\n    # variables        = 3\n   \
+    \ chi-square         = 0.010\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1935.792\n    Bayesian info crit = -1925.943\n[[Variables]]\n    amplitude:\
+    \   0.29439897 +/- 0.005428 (1.84%) (init= 0.5)\n    decay:       0.19848762 +/-\
+    \ 0.005861 (2.95%) (init= 0.5)\n    c:           0.01688617 +/- 0.000548 (3.25%)\
+    \ (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.608 \n    C(decay, c) \
+    \                 = -0.231 \n"
   right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 9\n    # data points      = 127\n    # variables        = 1\n    chi-square\
-    \         = 0.196\n    reduced chi-square = 0.002\n    Akaike info crit   = -820.499\n\
-    \    Bayesian info crit = -817.655\n[[Variables]]\n    c:   0.03397464 +/- 0.003495\
-    \ (10.29%) (init= 0.04)\n"
+    \ evals   = 6\n    # data points      = 165\n    # variables        = 1\n    chi-square\
+    \         = 0.142\n    reduced chi-square = 0.001\n    Akaike info crit   = -1162.825\n\
+    \    Bayesian info crit = -1159.719\n[[Variables]]\n    c:   0.02997512 +/- 0.002288\
+    \ (7.64%) (init= 0.03)\n"
   right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
-    \ evals   = 35\n    # data points      = 128\n    # variables        = 3\n   \
-    \ chi-square         = 0.016\n    reduced chi-square = 0.000\n    Akaike info\
-    \ crit   = -1144.356\n    Bayesian info crit = -1135.800\n[[Variables]]\n    amplitude:\
-    \   0.34255756 +/- 0.011732 (3.43%) (init= 0.5)\n    decay:       0.21937578 +/-\
-    \ 0.010149 (4.63%) (init= 0.5)\n    c:           0.02258692 +/- 0.001098 (4.86%)\
-    \ (init= 0.04)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
-    \ are <  0.100)\n    C(amplitude, decay)          = -0.743 \n    C(decay, c) \
-    \                 = -0.305 \n"
+    \ evals   = 43\n    # data points      = 166\n    # variables        = 3\n   \
+    \ chi-square         = 0.023\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1466.922\n    Bayesian info crit = -1457.586\n[[Variables]]\n    amplitude:\
+    \   0.31750086 +/- 0.013576 (4.28%) (init= 0.5)\n    decay:       0.19309746 +/-\
+    \ 0.010822 (5.60%) (init= 0.5)\n    c:           0.02322353 +/- 0.000986 (4.25%)\
+    \ (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.760 \n    C(decay, c) \
+    \                 = -0.248 \n"
 focus:
-  arm: 3R
-  start: 28560001
-  stop: 28620000
-minor_delta_aic: 323.856352981731
+  start: !!python/tuple
+  - 3R
+  - 28560001
+  stop: !!python/tuple
+  - 3R
+  - 28620000
+minor_delta_aic: 304.09658264022573
 peak:
-  arm: 3R
-  start: 28220001
-  stop: 29220000
+  start: !!python/tuple
+  - 3R
+  - 28220001
+  stop: !!python/tuple
+  - 3R
+  - 29140000
 population:
   id: UGS
   label: Uganda *An. gambiae*
@@ -48,4 +57,4 @@ rank: 1
 statistic:
   id: H12
   label: H12
-sum_delta_aic: 750.0754152163116
+sum_delta_aic: 881.5883146466535

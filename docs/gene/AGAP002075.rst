@@ -10,10 +10,24 @@ AGAP002075
 Description: Serine/threonine-protein kinase ttk/mps1 [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002075>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002075>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:14823864-14826298#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
 
 
 

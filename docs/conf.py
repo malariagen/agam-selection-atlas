@@ -17,7 +17,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
+os.environ['BOKEH_DOCS_MISSING_API_KEY_OK'] = 'yes'
+
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import sphinx_bootstrap_theme
@@ -34,7 +36,10 @@ import sphinx_bootstrap_theme
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
+    'bokeh.sphinxext.bokeh_plot',
 ]
+
+bokeh_plot_pyfile_include_dirs = ["../scripts"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

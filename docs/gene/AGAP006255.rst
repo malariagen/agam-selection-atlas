@@ -16,8 +16,33 @@ External links:
 Overlapping signals
 -------------------
 
+The following signals have a focus which overlaps this gene:
 
 
-No signals.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFS/chr2/7/index`,":28640001-28980000",144
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFS/chr2/2/index`,":28500001-28620000",1077
+    
 
 

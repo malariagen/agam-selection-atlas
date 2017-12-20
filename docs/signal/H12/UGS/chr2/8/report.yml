@@ -1,0 +1,61 @@
+chromosome: '2'
+epicenter:
+  start: !!python/tuple
+  - 2R
+  - 58100001
+  stop: !!python/tuple
+  - 2R
+  - 58140000
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 6\n    # data points      = 192\n    # variables        = 1\n    chi-square\
+    \         = 0.111\n    reduced chi-square = 0.001\n    Akaike info crit   = -1429.815\n\
+    \    Bayesian info crit = -1426.557\n[[Variables]]\n    c:   0.06282859 +/- 0.001738\
+    \ (2.77%) (init= 0.03)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 23\n    # data points      = 193\n    # variables        = 3\n   \
+    \ chi-square         = 0.046\n    reduced chi-square = 0.000\n    Akaike info\
+    \ crit   = -1605.875\n    Bayesian info crit = -1596.087\n[[Variables]]\n    amplitude:\
+    \   0.08338211 +/- 0.005492 (6.59%) (init= 0.5)\n    decay:       1.25548089 +/-\
+    \ 0.156320 (12.45%) (init= 0.5)\n    c:           0.04992233 +/- 0.001809 (3.62%)\
+    \ (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(decay, c)                  = -0.665 \n    C(amplitude,\
+    \ decay)          = -0.499 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 6\n    # data points      = 370\n    # variables        = 1\n    chi-square\
+    \         = 1.133\n    reduced chi-square = 0.003\n    Akaike info crit   = -2139.940\n\
+    \    Bayesian info crit = -2136.027\n[[Variables]]\n    c:   0.05752517 +/- 0.002880\
+    \ (5.01%) (init= 0.03)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 31\n    # data points      = 371\n    # variables        = 3\n   \
+    \ chi-square         = 1.019\n    reduced chi-square = 0.003\n    Akaike info\
+    \ crit   = -2181.772\n    Bayesian info crit = -2170.023\n[[Variables]]\n    amplitude:\
+    \   0.14943670 +/- 0.028711 (19.21%) (init= 0.5)\n    decay:       0.58098579\
+    \ +/- 0.161263 (27.76%) (init= 0.5)\n    c:           0.05155210 +/- 0.003296\
+    \ (6.39%) (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported\
+    \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.673 \n   \
+    \ C(decay, c)                  = -0.487 \n    C(amplitude, c)              = \
+    \ 0.124 \n"
+focus:
+  start: !!python/tuple
+  - 2R
+  - 58080001
+  stop: !!python/tuple
+  - 2R
+  - 58700000
+minor_delta_aic: 41.83178756353527
+peak:
+  start: !!python/tuple
+  - 2R
+  - 56340001
+  stop: !!python/tuple
+  - 2R
+  - 59940000
+population:
+  id: UGS
+  label: Uganda *An. gambiae*
+rank: 8
+statistic:
+  id: H12
+  label: H12
+sum_delta_aic: 217.89250162813346

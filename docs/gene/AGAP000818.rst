@@ -10,10 +10,13 @@ Name: **CYP9K1**
 Description: Cytochrome p450 [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000818>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000818>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:15240572-15242864#genomebrowser>`_
 
 Overlapping signals
 -------------------
+
+The following signals have a focus which overlaps this gene:
 
 
 
@@ -22,7 +25,25 @@ Overlapping signals
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chrX/1/index`,"X:15120001-15260000",836
+    :doc:`/signal/H12/BFM/chrX/1/index`,":15100001-15380000",1272
+    :doc:`/signal/H12/BFS/chrX/1/index`,":15120001-15260000",1073
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/GNS/chrX/1/index`,":15100001-15220000",595
     
 
 

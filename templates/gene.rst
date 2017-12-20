@@ -31,4 +31,13 @@ External links:
 Overlapping signals
 -------------------
 
+The following signals have a focus which overlaps this gene:
+
 {{ signals_table(overlapping_signals) }}
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+{{ signals_table(adjacent_signals) }}

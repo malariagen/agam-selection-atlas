@@ -1,0 +1,60 @@
+chromosome: '2'
+epicenter:
+  start: !!python/tuple
+  - 2L
+  - 760001
+  stop: !!python/tuple
+  - 2L
+  - 800000
+fit_reports:
+  left_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
+    \   = 6\n    # data points      = 299\n    # variables        = 1\n    chi-square\
+    \         = 0.559\n    reduced chi-square = 0.002\n    Akaike info crit   = -1876.150\n\
+    \    Bayesian info crit = -1872.449\n[[Variables]]\n    c:   0.02911329 +/- 0.002505\
+    \ (8.61%) (init= 0.03)\n"
+  left_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 27\n    # data points      = 300\n    # variables        = 3\n   \
+    \ chi-square         = 0.231\n    reduced chi-square = 0.001\n    Akaike info\
+    \ crit   = -2144.392\n    Bayesian info crit = -2133.281\n[[Variables]]\n    amplitude:\
+    \   0.22470128 +/- 0.013660 (6.08%) (init= 0.5)\n    decay:       0.15575859 +/-\
+    \ 0.015806 (10.15%) (init= 0.5)\n    c:           0.01897882 +/- 0.001758 (9.27%)\
+    \ (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported correlations\
+    \ are <  0.100)\n    C(amplitude, decay)          = -0.654 \n    C(decay, c) \
+    \                 = -0.285 \n"
+  right_null: "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 6\n    # data points      = 287\n    # variables        = 1\n    chi-square\
+    \         = 0.471\n    reduced chi-square = 0.002\n    Akaike info crit   = -1838.383\n\
+    \    Bayesian info crit = -1834.724\n[[Variables]]\n    c:   0.03613673 +/- 0.002395\
+    \ (6.63%) (init= 0.03)\n"
+  right_peak: "[[Model]]\n    Model(exponential)\n[[Fit Statistics]]\n    # function\
+    \ evals   = 39\n    # data points      = 288\n    # variables        = 3\n   \
+    \ chi-square         = 0.364\n    reduced chi-square = 0.001\n    Akaike info\
+    \ crit   = -1915.827\n    Bayesian info crit = -1904.838\n[[Variables]]\n    amplitude:\
+    \   0.09716035 +/- 0.011972 (12.32%) (init= 0.5)\n    decay:       0.40785483\
+    \ +/- 0.080818 (19.82%) (init= 0.5)\n    c:           0.02437690 +/- 0.002678\
+    \ (10.99%) (init= 0.03)\n    cap:         1 (fixed)\n[[Correlations]] (unreported\
+    \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.620 \n   \
+    \ C(decay, c)                  = -0.427 \n"
+focus:
+  start: !!python/tuple
+  - 2L
+  - 740001
+  stop: !!python/tuple
+  - 2L
+  - 820000
+minor_delta_aic: 77.44315482020488
+peak:
+  start: !!python/tuple
+  - 2R
+  - 61300001
+  stop: !!python/tuple
+  - 2L
+  - 3040000
+population:
+  id: BFM
+  label: Burkina Faso *An. coluzzii*
+rank: 5
+statistic:
+  id: H12
+  label: H12
+sum_delta_aic: 345.6852596864958

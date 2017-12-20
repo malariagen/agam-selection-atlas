@@ -4,20 +4,20 @@
 The table below lists signals of recent selection discovered in the
 {{ population.label }} population.
 
-{% macro signals_table(signals) %}
-{% if signals|length > 0 %}
+{% macro signals_table(signals) -%}
+{% if signals|length > 0 -%}
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
     :header: Signal,Focus,Score
 
     {% for signal in signals -%}
-    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
+    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop_arm }}:{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
     {% endfor %}
 {% else %}
 No signals.
 {% endif %}
-{% endmacro %}
+{%- endmacro %}
 
 Chromosome 2
 ------------

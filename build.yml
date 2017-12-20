@@ -38,6 +38,7 @@ rule build_signal_pages:
     input:
         "scripts/build_signal_pages.py",
         "templates/signal.rst",
+        rules.tabulate_signals.input,
         rules.tabulate_signals.output,
     output:
         touch("docs/signal/docs.done"),

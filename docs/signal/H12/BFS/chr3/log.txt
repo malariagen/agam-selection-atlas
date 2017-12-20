@@ -47,54 +47,46 @@ scan progress 4400 166.2628445
 scan progress 4500 170.2628445
 scan progress 4600 174.2628445
 scan progress 4700 178.2628445
-first pass 1426 318.39406579452873
+first pass 1426 404.7823029640688
 ********************************************************************************
 Iteration 1
 Peak index: 1426
-Delta AIC: [ 500.53689237  318.39406579]
+Delta AIC: [ 652.56248148  404.78230296]
 Window: 28520001 28540000
 ********************************************************************************
 find extent of region under selection
-extend hit left 811.141894285
-extend hit left 787.625673016
-extend hit right 814.470844311
-extend hit right 794.63693065
-extend hit right 791.68757114
+extend hit left 1048.18388531
+extend hit left 1019.56125019
+extend hit right 1050.30715128
+extend hit right 1023.73079046
+extend hit right 1017.21297348
 find flanking region
-rescan 1126 1726
+rescan 1026 1826
+scan progress 1100 44.04
 scan progress 1200 48.04
 scan progress 1300 52.04
 scan progress 1400 56.04
 scan progress 1500 60.04
 scan progress 1600 64.04
 scan progress 1700 68.04
-next peak: 4754 [ 403.74206888    1.55421755]
-********************************************************************************
-Iteration 2
-Peak index: 4754
-Delta AIC: [ 403.74206888    1.55421755]
-Window: 95060685 95080684
-********************************************************************************
-SKIPPING: POOR FLANK
-find extent of region under selection
-extend hit left 398.447578473
-find flanking region
-rescan 4455 4760
-scan progress 4500 170.2628445
-scan progress 4600 174.2628445
-scan progress 4700 178.2628445
-next peak: 4005 [ 210.85104333   41.54644105]
+scan progress 1800 72.04
+next peak: 4005 [ 213.70220268   43.78587854]
 ********************************************************************************
 Iteration 2
 Peak index: 4005
-Delta AIC: [ 210.85104333   41.54644105]
+Delta AIC: [ 213.70220268   43.78587854]
 Window: 80080685 80100684
 ********************************************************************************
 find extent of region under selection
 find flanking region
-rescan 3705 4306
+rescan 3605 4405
+scan progress 3700 138.2628445
 scan progress 3800 142.2628445
 scan progress 3900 146.2628445
 scan progress 4000 150.2628445
 scan progress 4100 154.2628445
 scan progress 4200 158.2628445
+scan progress 4300 162.2628445
+scan progress 4400 166.2628445
+next peak: 0 [ 0.  0.]
+all done

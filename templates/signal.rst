@@ -16,8 +16,15 @@
 This page describes a signal of selection found in the
 :doc:`/population/{{ population.id }}` population using the
 :doc:`/method/{{ statistic.id }}` statistic.
-The inferred focus of this signal is on chromosome arm {{ focus.arm }} from
-position {{ "{:,}".format(focus.start) }} to {{ "{:,}".format(focus.stop) }}.
+{%- if focus.start[0] == focus.stop[0] -%}
+The inferred focus of this signal is on chromosome arm
+**{{ focus.start[0] }} between position {{ "{:,}".format(focus.start[1]) }} and
+{{ "{:,}".format(focus.stop[1]) }}**.
+{%- else -%}
+The inferred focus of this signal is between
+**{{ focus.start[0] }}:{{ "{:,}".format(focus.start[1]) }} and
+{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
+{%- endif %}
 
 {% if overlapping_genes|length == 0 %}
 No genes overlap the focal region.
@@ -32,7 +39,7 @@ The following {{ overlapping_genes|length }} genes overlap the focal region:
 {% endif %}
 {% if adjacent_genes|length == 0 %}
 
-No genes are within 40 kbp of the focal region.
+No genes are within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length == 1 %}
 Gene {{ gene(adjacent_genes[0]) }} is within 40 kbp of the focal region.
@@ -67,7 +74,7 @@ focus of this signal:
     :header: Signal, Focus, Score
 
     {% for signal in overlapping_signals -%}
-    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.signal_arm }}:{{ signal.signal_start }}-{{ signal.signal_stop }}",{{ signal.sum_delta_aic|int }}
+    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
     {% endfor %}
 
 {% else %}
@@ -78,7 +85,7 @@ Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` procedure.
+:doc:`/method/peak_modelling` algorithm.
 
 .. figure:: peak_context.png
 

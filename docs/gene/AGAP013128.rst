@@ -10,13 +10,42 @@ Name: **CYP6AA2**
 Description: Cytochrome p450 [source:vb community annotation].
 
 External links:
-* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013128>`_
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013128>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:28483301-28484921#genomebrowser>`_
 
 Overlapping signals
 -------------------
 
+The following signals have a focus which overlaps this gene:
 
 
-No signals.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/UGS/chr2/1/index`,":28420001-28520000",1602
+    :doc:`/signal/H12/GNS/chr2/2/index`,":28420001-28540000",1069
+    :doc:`/signal/H12/BFS/chr2/3/index`,":28440001-28520000",965
+    :doc:`/signal/H12/BFM/chr2/4/index`,":28380001-28500000",442
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/CMS/chr2/1/index`,":28400001-28460000",1231
+    
 
 

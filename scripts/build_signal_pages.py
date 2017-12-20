@@ -6,6 +6,14 @@ from glob import glob
 import os
 import allel
 import pandas as pd
+import sys
+sys.path.insert(0, 'agam-report-base/src/python')
+from ag1k import phase1_ar3
+# setup data sources
+ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
+phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
+genome = phase1_ar3.genome
+chromosomes = '2R', '2L', '3R', '3L', 'X'
 
 
 if __name__ == '__main__':
@@ -29,25 +37,46 @@ if __name__ == '__main__':
         # load the basic signal report
         with open(path, mode='rb') as f:
             signal_report = yaml.load(f)
+
+        # figure out what chromosome arm
+        epicenter = signal_report['epicenter']
+        # check epicenter does not span centromere - not sure how to handle that
+        # case
+        assert epicenter['start'][0] == epicenter['stop'][0]
+        epicenter_arm = epicenter['start'][0]
+
+        # obtain focus
         focus = signal_report['focus']
+        focus_start_arm = focus['start'][0]
+        focus_stop_arm = focus['stop'][0]
+        focus_start = focus['start'][1]
+        focus_stop = focus['stop'][1]
+
+        # crude way to deal with rare case where focus spans centromere
+        if focus_start_arm != epicenter_arm:
+            focus_start = 1
+        if focus_stop_arm != epicenter_arm:
+            focus_stop = len(genome[epicenter_arm])
 
         # augment report with gene information
         overlapping_genes = genes[(
-                (genes.seqid == focus['arm']) &
-                (genes.start <= focus['stop']) &
-                (genes.end >= focus['start'])
+            (genes.seqid == epicenter_arm) &
+            (genes.start <= focus_stop) &
+            (genes.end >= focus_start)
         )]
+
         signal_report['overlapping_genes'] = [
             {'id': gene.ID,
              'name': gene.Name,
              'description': gene.description.split('[Source:')[0].strip()}
             for _, gene in overlapping_genes.iterrows()
         ]
+
         adjacent_genes = genes[(
-                (genes.seqid == focus['arm']) &
-                ((genes.end < focus['start']) | (genes.start > focus['stop'])) &
-                (genes.start <= (focus['stop'] + 40000)) &
-                (genes.end >= (focus['start'] - 40000))
+                (genes.seqid == epicenter_arm) &
+                ((genes.end < focus_start) | (genes.start > focus_stop)) &
+                (genes.start <= (focus_stop + 50000)) &
+                (genes.end >= (focus_start - 50000))
 
         )]
         signal_report['adjacent_genes'] = [
@@ -58,10 +87,12 @@ if __name__ == '__main__':
         ]
 
         # augment report with related signals information
+        # TODO this doesn't properly handle overlapping signals spanning a
+        # centromere
         overlapping_signals = signals[(
-                (signals.focus_arm == focus['arm']) &
-                (signals.focus_start <= focus['stop']) &
-                (signals.focus_stop >= focus['start']) &
+                (signals.epicenter_arm == epicenter_arm) &
+                (signals.focus_start <= focus_stop) &
+                (signals.focus_stop >= focus_start) &
                 # don't include self
                 ((signals.population != signal_report['population']['id']) |
                  (signals.statistic != signal_report['statistic']['id']))

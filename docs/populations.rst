@@ -13,5 +13,4 @@ Signals by population
     population/CMS
     population/UGS
     population/GAS
-    population/KES
     

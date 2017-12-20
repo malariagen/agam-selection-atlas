@@ -35,24 +35,24 @@ pop_labels = {
 }
 
 
-def split_coords(chromosome, start, stop):
+def split_arms(chromosome, coord):
+    assert chromosome is not None
+    assert coord is not None
     if chromosome == '2':
-        if start > len(genome['2R']):
+        if coord > len(genome['2R']):
             arm = '2L'
-            start = start - len(genome['2R'])
-            stop = stop - len(genome['2R'])
+            coord = coord - len(genome['2R'])
         else:
             arm = '2R'
     elif chromosome == '3':
-        if start > len(genome['3R']):
+        if coord > len(genome['3R']):
             arm = '3L'
-            start = start - len(genome['3R'])
-            stop = stop - len(genome['3R'])
+            coord = coord - len(genome['3R'])
         else:
             arm = '3R'
     else:
         arm = chromosome
-    return arm, start, stop
+    return arm, coord
 
 
 def compile_signal_report(rank, peak, chromosome, population):
@@ -65,29 +65,17 @@ def compile_signal_report(rank, peak, chromosome, population):
     report['statistic'] = {'id': 'H12',
                            'label': 'H12'}
 
-    epicenter_arm, epicenter_start, epicenter_stop = split_coords(
-        chromosome, peak.epicenter_start, peak.epicenter_stop
-    )
-    report['epicenter'] = {'arm': epicenter_arm,
-                           'start': epicenter_start,
-                           'stop': epicenter_stop}
+    epicenter_start = split_arms(chromosome, peak.epicenter_start)
+    epicenter_stop = split_arms(chromosome, peak.epicenter_stop)
+    report['epicenter'] = {'start': epicenter_start, 'stop': epicenter_stop}
 
-    focus_arm, focus_start, focus_stop = split_coords(
-        chromosome, peak.focus_start, peak.focus_stop
-    )
-    report['focus'] = {'arm': focus_arm,
-                       'start': focus_start,
-                       'stop': focus_stop}
+    focus_start = split_arms(chromosome, peak.focus_start)
+    focus_stop = split_arms(chromosome, peak.focus_stop)
+    report['focus'] = {'start': focus_start, 'stop': focus_stop}
 
-    if peak.peak_start is not None and peak.peak_stop is not None:
-        peak_arm, peak_start, peak_stop = split_coords(
-            chromosome, peak.peak_start, peak.peak_stop
-        )
-    else:
-        peak_arm = peak_start = peak_stop = None
-    report['peak'] = {'arm': peak_arm,
-                      'start': peak_start,
-                      'stop': peak_stop}
+    peak_start = split_arms(chromosome, peak.peak_start)
+    peak_stop = split_arms(chromosome, peak.peak_stop)
+    report['peak'] = {'start': peak_start, 'stop': peak_stop}
 
     report['fit_reports'] = {
         'left_peak': peak.best_fit.peak_result[0].fit_report(),
@@ -102,9 +90,10 @@ def compile_signal_report(rank, peak, chromosome, population):
     return report
 
 
-def main(population, chromosome, amplitude=0.5, min_amplitude=0, decay=0.5,
-         min_decay=0.15, baseline=0.04, min_baseline=0, min_minor_di=40, min_total_di=80,
-         extend_di_frc=0.05, flank=6, cap=1, vary_cap=False):
+def main(population, chromosome, amplitude, min_amplitude, decay,
+         min_decay, max_decay, baseline, min_baseline,
+         max_baseline, min_minor_di, min_total_di,
+         extend_di_frc, flank, cap, vary_cap):
 
     # crude recombination rate lookup, keyed off chromatin state
     # use units of cM / bp, assume 2 cM / Mbp == 2x10^-6 cM / bp
@@ -126,9 +115,12 @@ def main(population, chromosome, amplitude=0.5, min_amplitude=0, decay=0.5,
 
     # setup peak fitter
     peak_fitter = rockies.PairExponentialPeakFitter(
-        amplitude=lmfit.Parameter(value=amplitude, vary=True, min=min_amplitude),
-        decay=lmfit.Parameter(value=decay, vary=True, min=min_decay),
-        c=lmfit.Parameter(value=baseline, vary=True, min=min_baseline),
+        amplitude=lmfit.Parameter(value=amplitude, vary=True,
+                                  min=min_amplitude),
+        decay=lmfit.Parameter(value=decay, vary=True, min=min_decay,
+                              max=max_decay),
+        c=lmfit.Parameter(value=baseline, vary=True, min=min_baseline,
+                          max=max_baseline),
         cap=lmfit.Parameter(value=cap, vary=vary_cap)
     )
 
@@ -177,12 +169,14 @@ if __name__ == '__main__':
     parser.add_argument('--min-amplitude', type=float, default=0)
     parser.add_argument('--decay', type=float, default=0.5)
     parser.add_argument('--min-decay', type=float, default=0.15)
-    parser.add_argument('--baseline', type=float, default=0.04)
+    parser.add_argument('--max-decay', type=float, default=3.0)
+    parser.add_argument('--baseline', type=float, default=0.03)
     parser.add_argument('--min-baseline', type=float, default=0)
+    parser.add_argument('--max-baseline', type=float, default=0.06)
     parser.add_argument('--min-minor-di', type=float, default=40)
     parser.add_argument('--min-total-di', type=float, default=80)
     parser.add_argument('--extend-di-frc', type=float, default=0.05)
-    parser.add_argument('--flank', type=float, default=6)
+    parser.add_argument('--flank', type=float, default=8)
     parser.add_argument('--cap', type=float, default=1)
     parser.add_argument('--vary-cap', action='store_true', default=False)
     args = parser.parse_args()
