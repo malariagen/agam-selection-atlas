@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004284
+=============
+
+
+
+
+
+Description: Tubulin--tyrosine ligase-like protein 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004284>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

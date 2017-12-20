@@ -1,9 +1,0 @@
-
-AGAP000120
-=============
-
-
-
-Description: Tubulin folding cofactor b [source:vb community annotation].
-
-TODO

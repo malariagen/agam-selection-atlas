@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002400
+=============
+
+
+
+Name: **mRpL37**
+
+Description: 39s ribosomal protein l37, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002400>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

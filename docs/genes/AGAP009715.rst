@@ -1,9 +1,0 @@
-
-AGAP009715
-=============
-
-
-
-Description: Cadherin [source:vb community annotation].
-
-TODO

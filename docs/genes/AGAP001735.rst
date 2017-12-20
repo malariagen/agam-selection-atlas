@@ -1,9 +1,0 @@
-
-AGAP001735
-=============
-
-
-
-Description: Rib43a domain with coiled-coils 1 [source:vb community annotation].
-
-TODO

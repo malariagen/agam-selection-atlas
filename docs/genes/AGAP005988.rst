@@ -1,9 +1,0 @@
-
-AGAP005988
-=============
-
-
-
-Description: Pyrimidine nucleoside transport protein [source:vb community annotation].
-
-TODO

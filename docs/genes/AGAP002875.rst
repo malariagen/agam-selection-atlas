@@ -1,9 +1,0 @@
-
-AGAP002875
-=============
-
-
-
-Description: Protein hexim1/2 [source:vb community annotation].
-
-TODO

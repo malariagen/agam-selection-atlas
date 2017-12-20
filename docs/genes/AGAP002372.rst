@@ -1,9 +1,0 @@
-
-AGAP002372
-=============
-
-
-
-Description: Homeo domain only family, other [source:vb community annotation].
-
-TODO

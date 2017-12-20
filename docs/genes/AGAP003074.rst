@@ -1,9 +1,0 @@
-
-AGAP003074
-=============
-
-Name: **SLC25A10**
-
-Description: Mitochondrial dicarboxylate transporter (solute carrier family 25) [source:vb community annotation].
-
-TODO

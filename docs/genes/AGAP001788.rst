@@ -1,9 +1,0 @@
-
-AGAP001788
-=============
-
-
-
-Description: M-type 9 protein [source:vb community annotation].
-
-TODO

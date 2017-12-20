@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009466
+=============
+
+
+
+Name: **ABCG8**
+
+Description: Atp-binding cassette transporter (abc transporter) family g member 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009466>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

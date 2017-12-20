@@ -1,9 +1,0 @@
-
-AGAP001166
-=============
-
-
-
-Description: Gins complex subunit 4 [source:vb community annotation].
-
-TODO

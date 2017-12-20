@@ -1,9 +1,0 @@
-
-AGAP011514
-=============
-
-
-
-Description: Cytoplasmic actin [source:vb community annotation].
-
-TODO

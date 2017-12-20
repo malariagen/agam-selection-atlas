@@ -1,9 +1,0 @@
-
-AGAP000388
-=============
-
-Name: **TRAF6**
-
-Description: Toll pathway signalling tnf receptor-associated factor (traf). [source:vb community annotation].
-
-TODO

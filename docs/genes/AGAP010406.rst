@@ -1,9 +1,0 @@
-
-AGAP010406
-=============
-
-
-
-Description: Origin recognition complex subunit 3 [source:vb community annotation].
-
-TODO

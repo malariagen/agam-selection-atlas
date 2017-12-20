@@ -1,9 +1,0 @@
-
-AGAP010830
-=============
-
-Name: **TEP9**
-
-Description: Thioester-containing protein 9 [source:vb community annotation].
-
-TODO

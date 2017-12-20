@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010672
+=============
+
+
+
+
+
+Description: Succinate dehydrogenase (ubiquinone) cytochrome b560 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010672>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

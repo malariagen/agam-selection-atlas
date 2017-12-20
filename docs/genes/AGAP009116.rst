@@ -1,9 +1,0 @@
-
-AGAP009116
-=============
-
-
-
-Description: Er-derived vesicles protein erv14 [source:vb community annotation].
-
-TODO

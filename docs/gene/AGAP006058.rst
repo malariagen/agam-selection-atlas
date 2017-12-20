@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006058
+=============
+
+
+
+
+
+Description: Heparan sulfate 2-o-sulfotransferase [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006058>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:25676498-25719836#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

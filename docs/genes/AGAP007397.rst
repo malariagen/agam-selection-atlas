@@ -1,9 +1,0 @@
-
-AGAP007397
-=============
-
-
-
-Description: Yrdc domain-containing protein, mitochondrial [source:vb community annotation].
-
-TODO

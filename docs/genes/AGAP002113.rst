@@ -1,9 +1,0 @@
-
-AGAP002113
-=============
-
-
-
-Description: Cytochrome b5 [source:vb community annotation].
-
-TODO

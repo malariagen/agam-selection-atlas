@@ -1,9 +1,0 @@
-
-AGAP011961
-=============
-
-
-
-Description: Cell division control protein 45 [source:vb community annotation].
-
-TODO

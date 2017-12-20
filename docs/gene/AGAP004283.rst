@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004283
+=============
+
+
+
+
+
+Description: Ap-1 complex subunit sigma 1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004283>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

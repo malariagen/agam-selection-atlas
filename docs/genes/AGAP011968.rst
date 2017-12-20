@@ -1,9 +1,0 @@
-
-AGAP011968
-=============
-
-Name: **IR76b**
-
-Description: Ionotropic receptor ir76b [source:vb community annotation].
-
-TODO

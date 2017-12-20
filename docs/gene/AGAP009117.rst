@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009117
+=============
+
+
+
+
+
+Description: Calcium uptake protein 1, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009117>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

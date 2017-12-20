@@ -1,9 +1,0 @@
-
-AGAP002839
-=============
-
-
-
-Description: Wd repeat-containing protein 85 [source:vb community annotation].
-
-TODO

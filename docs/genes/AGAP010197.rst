@@ -1,9 +1,0 @@
-
-AGAP010197
-=============
-
-
-
-Description: Spry domain-containing socs box protein 1 [source:vb community annotation].
-
-TODO

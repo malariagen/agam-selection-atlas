@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013285
+=============
+
+
+
+Name: **IR7u**
+
+Description: Ionotropic receptor ir7u [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013285>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

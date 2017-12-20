@@ -1,9 +1,0 @@
-
-AGAP002087
-=============
-
-
-
-Description: Protein kish [source:uniprotkb/trembl;acc:q380t1].
-
-TODO

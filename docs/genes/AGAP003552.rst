@@ -1,9 +1,0 @@
-
-AGAP003552
-=============
-
-
-
-Description: Set and mynd domain-containing protein 5 [source:vb community annotation].
-
-TODO

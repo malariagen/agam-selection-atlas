@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003543
+=============
+
+
+
+
+
+Description: Translation machinery-associated protein 16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003543>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002939
-=============
-
-
-
-Description: Solute carrier family 25 (mitochondrial 2-oxodicarboxylate transporter) [source:vb community annotation].
-
-TODO

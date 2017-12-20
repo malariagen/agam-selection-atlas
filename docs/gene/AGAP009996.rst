@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009996
+=============
+
+
+
+
+
+Description: Peptidyl-prolyl cis-trans isomerase-like 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009996>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

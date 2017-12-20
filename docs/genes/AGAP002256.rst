@@ -1,9 +1,0 @@
-
-AGAP002256
-=============
-
-
-
-Description: Rna-binding protein 7 [source:vb community annotation].
-
-TODO

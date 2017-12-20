@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010327
+=============
+
+
+
+
+
+Description: Sh3-binding domain kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010327>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

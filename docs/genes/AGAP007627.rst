@@ -1,9 +1,0 @@
-
-AGAP007627
-=============
-
-
-
-Description: Carboxyl-terminal pdz ligand of neuronal nitric oxide synthase protein [source:vb community annotation].
-
-TODO

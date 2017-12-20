@@ -1,9 +1,0 @@
-
-AGAP012967
-=============
-
-
-
-Description: Adp-ribosylation factor-like protein 2-binding protein [source:vb community annotation].
-
-TODO

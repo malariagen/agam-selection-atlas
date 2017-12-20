@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008363
+=============
+
+
+
+
+
+Description: Cytochrome b5 outer mitochondrial membrane isoform [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008363>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002752
-=============
-
-
-
-Description: Dnaj (hsp40) homolog, subfamily c, member 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012970
-=============
-
-
-
-Description: Cysteine-rich venom protein [source:vb community annotation].
-
-TODO

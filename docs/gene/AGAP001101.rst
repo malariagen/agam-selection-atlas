@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001101
+=============
+
+
+
+Name: **COEBE2O**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001101>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013449
+=============
+
+
+
+
+
+Description: Rhythmically expressed gene 2 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013449>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

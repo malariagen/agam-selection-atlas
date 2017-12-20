@@ -1,9 +1,0 @@
-
-AGAP002465
-=============
-
-
-
-Description: Ferritin heavy chain [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007565
-=============
-
-
-
-Description: Chaperone dnaj protein [source:vb community annotation].
-
-TODO

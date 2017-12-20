@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010703
+=============
+
+
+
+
+
+Description: Sister chromatid cohesion protein dcc1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010703>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

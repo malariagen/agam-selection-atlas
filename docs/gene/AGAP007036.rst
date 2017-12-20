@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007036
+=============
+
+
+
+Name: **APL1A**
+
+Description: Anopheles plasmodium-responsive leucine-rich repeat 1a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007036>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

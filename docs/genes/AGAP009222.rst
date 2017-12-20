@@ -1,9 +1,0 @@
-
-AGAP009222
-=============
-
-
-
-Description: Dna ligase 1 [source:vb community annotation].
-
-TODO

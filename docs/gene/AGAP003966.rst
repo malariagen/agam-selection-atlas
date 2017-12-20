@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003966
+=============
+
+
+
+
+
+Description: Trna (adenine57-n1/adenine58-n1)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003966>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

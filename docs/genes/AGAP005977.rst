@@ -1,9 +1,0 @@
-
-AGAP005977
-=============
-
-
-
-Description: Ariadne-2 [source:vb community annotation].
-
-TODO

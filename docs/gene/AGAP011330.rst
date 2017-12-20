@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011330
+=============
+
+
+
+
+
+Description: Glutaredoxin-like protein (fragment) [source:uniprotkb/trembl;acc:a7us51].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011330>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

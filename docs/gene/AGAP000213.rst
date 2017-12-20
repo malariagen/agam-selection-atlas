@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000213
+=============
+
+
+
+
+
+Description: Ankyrin repeat and socs box protein 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000213>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

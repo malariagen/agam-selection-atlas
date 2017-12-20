@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010798
+=============
+
+
+
+
+
+Description: Female reproductive tract protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010798>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

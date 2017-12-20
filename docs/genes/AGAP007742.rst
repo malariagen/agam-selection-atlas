@@ -1,9 +1,0 @@
-
-AGAP007742
-=============
-
-
-
-Description: E3 ufm1-protein ligase 1 homolog [source:uniprotkb/swiss-prot;acc:q7q373].
-
-TODO

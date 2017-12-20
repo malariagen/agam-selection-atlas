@@ -1,9 +1,0 @@
-
-AGAP009166
-=============
-
-Name: **IKK1**
-
-Description: Imd pathway signalling ikk-beta). (ird5orthologue immune response deficient 5) [source:vb community annotation].
-
-TODO

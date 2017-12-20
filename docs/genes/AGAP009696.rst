@@ -1,9 +1,0 @@
-
-AGAP009696
-=============
-
-Name: **CYP325C3**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

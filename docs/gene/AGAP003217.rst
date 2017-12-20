@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003217
+=============
+
+
+
+Name: **mRpS6**
+
+Description: 28s ribosomal protein s6, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003217>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

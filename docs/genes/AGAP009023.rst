@@ -1,9 +1,0 @@
-
-AGAP009023
-=============
-
-
-
-Description: Cytosolic fe-s cluster assembly factor agap009023 [source:vb community annotation].
-
-TODO

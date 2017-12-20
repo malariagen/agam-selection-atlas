@@ -1,9 +1,0 @@
-
-AGAP009466
-=============
-
-Name: **ABCG8**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 8 [source:vb community annotation].
-
-TODO

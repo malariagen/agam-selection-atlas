@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003336
+=============
+
+
+
+
+
+Description: Tetratricopeptide repeat domain 1 variant [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003336>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

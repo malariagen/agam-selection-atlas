@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001371
+=============
+
+
+
+
+
+Description: D-tyrosyl-trna(tyr) deacylase [source:uniprotkb/trembl;acc:q7pkm9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001371>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

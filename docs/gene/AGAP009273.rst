@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009273
+=============
+
+
+
+
+
+Description: Seminal fluid protein hacp027 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009273>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

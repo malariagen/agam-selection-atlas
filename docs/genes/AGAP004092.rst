@@ -1,9 +1,0 @@
-
-AGAP004092
-=============
-
-Name: **APG2**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

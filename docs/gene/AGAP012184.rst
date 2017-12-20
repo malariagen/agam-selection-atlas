@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012184
+=============
+
+
+
+
+
+Description: Fk506-binding protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012184>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

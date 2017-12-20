@@ -1,9 +1,0 @@
-
-AGAP003541
-=============
-
-
-
-Description: Eukaryotic translation elongation factor 1 alpha 1 [source:vb community annotation].
-
-TODO

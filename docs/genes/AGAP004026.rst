@@ -1,9 +1,0 @@
-
-AGAP004026
-=============
-
-Name: **GPRMTH6**
-
-Description: Methuselah receptor 6 [source:vb community annotation].
-
-TODO

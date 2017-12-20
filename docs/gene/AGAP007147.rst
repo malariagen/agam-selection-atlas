@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007147
+=============
+
+
+
+
+
+Description: Exosome complex protein lrp1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007147>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013425
+=============
+
+
+
+Name: **IR101**
+
+Description: Ionotropic receptor ir101 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013425>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

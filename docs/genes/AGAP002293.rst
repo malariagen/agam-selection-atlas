@@ -1,9 +1,0 @@
-
-AGAP002293
-=============
-
-
-
-Description: Intraflagellar transport 81 homolog [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009734
+=============
+
+
+
+
+
+Description: Wingless-type mmtv integration site family, member 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009734>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

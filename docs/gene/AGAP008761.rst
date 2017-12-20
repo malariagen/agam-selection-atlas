@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008761
+=============
+
+
+
+
+
+Description: Translocon-associated protein subunit gamma [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008761>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

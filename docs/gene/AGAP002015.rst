@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002015
+=============
+
+
+
+
+
+Description: Dynein heavy chain 1, cytosolic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002015>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

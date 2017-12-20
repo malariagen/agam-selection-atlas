@@ -1,9 +1,0 @@
-
-AGAP011790
-=============
-
-Name: **CLIPA2**
-
-Description: Clip-domain serine protease [source:vb community annotation].
-
-TODO

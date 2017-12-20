@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009049
+=============
+
+
+
+Name: **Cht16**
+
+Description: Chitinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009049>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

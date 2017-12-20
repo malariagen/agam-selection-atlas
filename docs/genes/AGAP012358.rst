@@ -1,9 +1,0 @@
-
-AGAP012358
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx52/rok1 [source:vb community annotation].
-
-TODO

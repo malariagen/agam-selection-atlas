@@ -1,9 +1,0 @@
-
-AGAP002030
-=============
-
-
-
-Description: Bromodomain and wd repeat domain containing protein 1/3 [source:vb community annotation].
-
-TODO

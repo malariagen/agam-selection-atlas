@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010558
+=============
+
+
+
+
+
+Description: Er membrane protein complex subunit 4 [source:uniprotkb/trembl;acc:q7q8u0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010558>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

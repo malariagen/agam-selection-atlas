@@ -1,9 +1,0 @@
-
-AGAP003412
-=============
-
-Name: **RpS28**
-
-Description: 40s ribosomal protein s28 [source:vb community annotation].
-
-TODO

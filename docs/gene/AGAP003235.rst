@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003235
+=============
+
+
+
+
+
+Description: Lachesin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003235>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

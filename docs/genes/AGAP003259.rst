@@ -1,9 +1,0 @@
-
-AGAP003259
-=============
-
-Name: **Gr20**
-
-Description: Gustatory receptor 20 [source:vb community annotation].
-
-TODO

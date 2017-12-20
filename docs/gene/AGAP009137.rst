@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009137
+=============
+
+
+
+
+
+Description: Ecdysteroid udp-glucosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009137>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

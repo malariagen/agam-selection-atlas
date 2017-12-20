@@ -1,9 +1,0 @@
-
-AGAP004725
-=============
-
-Name: **eIF3c**
-
-Description: Eukaryotic translation initiation factor 3 subunit c [source:uniprotkb/swiss-prot;acc:q7pmu8].
-
-TODO

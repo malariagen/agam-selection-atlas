@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001267
+=============
+
+
+
+
+
+Description: Adaptor-related protein complex 2, beta 1 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001267>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

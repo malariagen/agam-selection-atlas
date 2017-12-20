@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001257
+=============
+
+
+
+
+
+Description: Utp--glucose-1-phosphate uridylyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001257>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

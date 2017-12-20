@@ -1,9 +1,0 @@
-
-AGAP006876
-=============
-
-Name: **Gr31**
-
-Description: Gustatory receptor 31 [source:vb community annotation].
-
-TODO

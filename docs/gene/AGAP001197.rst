@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001197
+=============
+
+
+
+Name: **GALE10**
+
+Description: Galectin 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001197>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

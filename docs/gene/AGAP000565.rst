@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000565
+=============
+
+
+
+Name: **TRXR**
+
+Description: Thioredoxin reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000565>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

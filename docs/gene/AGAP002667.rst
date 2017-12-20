@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002667
+=============
+
+
+
+Name: **Tctp**
+
+Description: Translationally-controlled tumor protein homolog [source:uniprotkb/swiss-prot;acc:q7qck2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002667>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012137
-=============
-
-
-
-Description: Rna binding motif protein 18 [source:vb community annotation].
-
-TODO

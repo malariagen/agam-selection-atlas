@@ -1,9 +1,0 @@
-
-AGAP001872
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 19 [source:vb community annotation].
-
-TODO

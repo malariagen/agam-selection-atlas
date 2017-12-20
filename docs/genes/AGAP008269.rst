@@ -1,9 +1,0 @@
-
-AGAP008269
-=============
-
-
-
-Description: Protein pelota [source:vb community annotation].
-
-TODO

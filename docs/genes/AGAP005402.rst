@@ -1,9 +1,0 @@
-
-AGAP005402
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 58 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003271
+=============
+
+
+
+
+
+Description: Dynein, axonemal, heavy chain 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003271>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

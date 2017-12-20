@@ -1,9 +1,0 @@
-
-AGAP008008
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 72 homolog [source:vb community annotation].
-
-TODO

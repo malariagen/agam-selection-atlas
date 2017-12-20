@@ -1,9 +1,0 @@
-
-AGAP005505
-=============
-
-
-
-Description: Rna-binding protein 45 [source:vb community annotation].
-
-TODO

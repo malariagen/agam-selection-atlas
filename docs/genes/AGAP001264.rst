@@ -1,9 +1,0 @@
-
-AGAP001264
-=============
-
-
-
-Description: Plasma glutamate carboxypeptidase [source:vb community annotation].
-
-TODO

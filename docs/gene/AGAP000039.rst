@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000039
+=============
+
+
+
+
+
+Description: Gamma-aminobutyric acid receptor subunit alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000039>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

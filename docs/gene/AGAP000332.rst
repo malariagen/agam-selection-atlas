@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000332
+=============
+
+
+
+Name: **Vir**
+
+Description: Protein virilizer [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000332>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

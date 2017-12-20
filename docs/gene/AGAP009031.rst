@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009031
+=============
+
+
+
+Name: **RpL5**
+
+Description: 60s ribosomal protein l5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009031>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

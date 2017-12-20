@@ -1,9 +1,0 @@
-
-AGAP007062
-=============
-
-Name: **ETH**
-
-Description: Ecdysis-triggering hormone [source:vb community annotation].
-
-TODO

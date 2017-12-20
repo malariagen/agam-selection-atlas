@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001461
+=============
+
+
+
+
+
+Description: Jnk1/mapk8-associated membrane protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001461>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

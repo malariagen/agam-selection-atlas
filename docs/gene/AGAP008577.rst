@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008577
+=============
+
+
+
+
+
+Description: Rna-binding protein 5/10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008577>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008542
-=============
-
-
-
-Description: Abhydrolase domain-containing protein 2 [source:vb community annotation].
-
-TODO

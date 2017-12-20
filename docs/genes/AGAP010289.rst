@@ -1,9 +1,0 @@
-
-AGAP010289
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 14 [source:vb community annotation].
-
-TODO

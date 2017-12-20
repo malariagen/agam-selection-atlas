@@ -1,9 +1,0 @@
-
-AGAP002608
-=============
-
-
-
-Description: Ribokinase [source:uniprotkb/trembl;acc:q7qcf9].
-
-TODO

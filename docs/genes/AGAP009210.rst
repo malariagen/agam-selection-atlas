@@ -1,9 +1,0 @@
-
-AGAP009210
-=============
-
-
-
-Description: Cap-gly domain-containing linker protein 1 [source:vb community annotation].
-
-TODO

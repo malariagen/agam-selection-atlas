@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002339
+=============
+
+
+
+
+
+Description: An1-type zinc finger protein 2b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002339>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

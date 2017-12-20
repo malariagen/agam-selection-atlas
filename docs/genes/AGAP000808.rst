@@ -1,9 +1,0 @@
-
-AGAP000808
-=============
-
-
-
-Description: Dna damage-regulated autophagy modulator protein 2 [source:vb community annotation].
-
-TODO

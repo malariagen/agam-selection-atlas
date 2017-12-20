@@ -1,9 +1,0 @@
-
-AGAP000798
-=============
-
-Name: **GLURIIc**
-
-Description: Ionotropic receptor gluriic [source:vb community annotation].
-
-TODO

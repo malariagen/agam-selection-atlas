@@ -1,9 +1,0 @@
-
-AGAP003711
-=============
-
-
-
-Description: V-type h -transporting atpase subunit i [source:vb community annotation].
-
-TODO

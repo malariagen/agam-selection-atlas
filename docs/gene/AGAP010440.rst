@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010440
+=============
+
+
+
+
+
+Description: Small nuclear ribonucleoprotein e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010440>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

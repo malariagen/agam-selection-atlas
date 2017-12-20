@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010442
+=============
+
+
+
+Name: **Fz2**
+
+Description: Frizzled 2 transmembrane receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010442>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

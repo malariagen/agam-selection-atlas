@@ -1,9 +1,0 @@
-
-AGAP002370
-=============
-
-Name: **ChAT**
-
-Description: Choline o-acetyltransferase [source:vb community annotation].
-
-TODO

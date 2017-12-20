@@ -1,9 +1,0 @@
-
-AGAP001286
-=============
-
-
-
-Description: Integrator complex subunit 4 [source:vb community annotation].
-
-TODO

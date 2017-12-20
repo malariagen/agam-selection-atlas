@@ -1,9 +1,0 @@
-
-AGAP007728
-=============
-
-
-
-Description: Mitochondrial intermediate peptidase [source:vb community annotation].
-
-TODO

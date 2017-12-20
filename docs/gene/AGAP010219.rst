@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010219
+=============
+
+
+
+Name: **Mcm6**
+
+Description: Dna replication licensing factor mcm6 [source:uniprotkb/swiss-prot;acc:q7q0q1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010219>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

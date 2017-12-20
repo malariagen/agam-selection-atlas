@@ -1,9 +1,0 @@
-
-AGAP001862
-=============
-
-Name: **GPRNNA1**
-
-Description: Putative gpcr class a orphan receptor 1 [source:vb community annotation].
-
-TODO

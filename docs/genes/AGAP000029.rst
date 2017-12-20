@@ -1,9 +1,0 @@
-
-AGAP000029
-=============
-
-
-
-Description: E1a/creb-binding protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010359
+=============
+
+
+
+
+
+Description: Pairberry [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010359>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

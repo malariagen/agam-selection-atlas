@@ -1,9 +1,0 @@
-
-AGAP006767
-=============
-
-
-
-Description: Nad kinase domain-containing protein 1 [source:vb community annotation].
-
-TODO

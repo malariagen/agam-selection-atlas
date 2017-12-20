@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010358
+=============
+
+
+
+
+
+Description: Paired box protein 3/7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010358>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

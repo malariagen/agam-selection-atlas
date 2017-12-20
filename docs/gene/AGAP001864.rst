@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001864
+=============
+
+
+
+Name: **CYP4H15**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001864>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

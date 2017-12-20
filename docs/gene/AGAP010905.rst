@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010905
+=============
+
+
+
+Name: **CPFL4**
+
+Description: Cuticular protein 4 from cpfl family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010905>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

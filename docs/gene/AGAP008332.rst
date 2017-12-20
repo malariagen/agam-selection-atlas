@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008332
+=============
+
+
+
+
+
+Description: Replication factor a2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008332>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

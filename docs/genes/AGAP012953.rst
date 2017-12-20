@@ -1,9 +1,0 @@
-
-AGAP012953
-=============
-
-
-
-Description: Epidermal retinal dehydrogenase [source:vb community annotation].
-
-TODO

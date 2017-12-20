@@ -1,9 +1,0 @@
-
-AGAP010919
-=============
-
-
-
-Description: Transcription factor sox1/3/14/21 (sox group b) [source:vb community annotation].
-
-TODO

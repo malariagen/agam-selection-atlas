@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003848
+=============
+
+
+
+
+
+Description: Acyl-coa thioesterase 9.1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003848>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004176
-=============
-
-
-
-Description: Serine/threonine-protein kinase/endoribonuclease ire1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011718
+=============
+
+
+
+
+
+Description: Lysosomal acid lipase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011718>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

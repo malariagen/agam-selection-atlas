@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009838
+=============
+
+
+
+
+
+Description: Non-imprinted in prader-willi/angelman syndrome region protein 2-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009838>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

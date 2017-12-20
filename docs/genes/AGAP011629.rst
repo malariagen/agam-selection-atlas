@@ -1,9 +1,0 @@
-
-AGAP011629
-=============
-
-
-
-Description: Dihydrolipoamide dehydrogenase [source:vb community annotation].
-
-TODO

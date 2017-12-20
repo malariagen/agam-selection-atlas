@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002223
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase dhx57 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002223>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

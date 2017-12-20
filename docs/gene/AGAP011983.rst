@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011983
+=============
+
+
+
+
+
+Description: Atp-dependent (s)-nad(p)h-hydrate dehydratase [source:uniprotkb/trembl;acc:a0a1s4h960].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011983>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

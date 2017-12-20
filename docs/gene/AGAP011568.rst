@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011568
+=============
+
+
+
+
+
+Description: Adp-ribosylation factor-binding protein gga [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011568>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

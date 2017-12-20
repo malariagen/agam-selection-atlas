@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007974
+=============
+
+
+
+Name: **drm**
+
+Description: Protein drumstick [source:uniprotkb/swiss-prot;acc:q7pn68].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007974>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

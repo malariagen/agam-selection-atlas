@@ -1,9 +1,0 @@
-
-AGAP013449
-=============
-
-
-
-Description: Rhythmically expressed gene 2 protein [source:vb community annotation].
-
-TODO

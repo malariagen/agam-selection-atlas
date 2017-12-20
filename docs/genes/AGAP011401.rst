@@ -1,9 +1,0 @@
-
-AGAP011401
-=============
-
-
-
-Description: Angel homolog 2 (drosophila) [source:vb community annotation].
-
-TODO

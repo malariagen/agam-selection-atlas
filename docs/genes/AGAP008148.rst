@@ -1,9 +1,0 @@
-
-AGAP008148
-=============
-
-
-
-Description: Ring finger and spry domain-containing protein 1 [source:vb community annotation].
-
-TODO

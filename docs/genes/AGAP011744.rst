@@ -1,9 +1,0 @@
-
-AGAP011744
-=============
-
-
-
-Description: Tryptophanyl-trna synthetase [source:vb community annotation].
-
-TODO

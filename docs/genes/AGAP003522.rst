@@ -1,9 +1,0 @@
-
-AGAP003522
-=============
-
-Name: **CYP329A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

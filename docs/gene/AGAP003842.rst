@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003842
+=============
+
+
+
+
+
+Description: Proline-, glutamic acid- and leucine-rich protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003842>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

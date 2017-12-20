@@ -1,9 +1,0 @@
-
-AGAP003622
-=============
-
-
-
-Description: Queuine trna-ribosyltransferase catalytic subunit 1 [source:uniprotkb/trembl;acc:q7qam7].
-
-TODO

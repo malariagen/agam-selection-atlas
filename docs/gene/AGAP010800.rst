@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010800
+=============
+
+
+
+
+
+Description: Nuclear protein nhn1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010800>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

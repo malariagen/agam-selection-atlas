@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009889
+=============
+
+
+
+
+
+Description: Cabut [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009889>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

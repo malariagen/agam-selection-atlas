@@ -1,9 +1,0 @@
-
-AGAP008398
-=============
-
-Name: **OBP21**
-
-Description: Odorant-binding protein 21 [source:vb community annotation].
-
-TODO

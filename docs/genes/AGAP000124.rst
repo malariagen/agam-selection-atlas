@@ -1,9 +1,0 @@
-
-AGAP000124
-=============
-
-
-
-Description: Inositol polyphosphate-4-phosphatase [source:vb community annotation].
-
-TODO

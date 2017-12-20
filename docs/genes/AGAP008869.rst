@@ -1,9 +1,0 @@
-
-AGAP008869
-=============
-
-
-
-Description: Chromosome transmission fidelity protein 18 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006795
-=============
-
-Name: **Aper1**
-
-Description: Peritrophin 1 [source:vb community annotation].
-
-TODO

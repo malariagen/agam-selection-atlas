@@ -1,9 +1,0 @@
-
-AGAP003678
-=============
-
-Name: **LST2**
-
-Description: Lateral signalling target protein 2 [source:vb community annotation].
-
-TODO

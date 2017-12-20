@@ -1,9 +1,0 @@
-
-AGAP003167
-=============
-
-
-
-Description: Nad(p) transhydrogenase [source:vb community annotation].
-
-TODO

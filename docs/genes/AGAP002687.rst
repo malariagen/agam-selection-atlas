@@ -1,9 +1,0 @@
-
-AGAP002687
-=============
-
-
-
-Description: Atp-dependent rna helicase dhx37/dhr1 [source:vb community annotation].
-
-TODO

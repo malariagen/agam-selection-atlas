@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009966
+=============
+
+
+
+
+
+Description: Female reproductive tract protease gleanr_896 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009966>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

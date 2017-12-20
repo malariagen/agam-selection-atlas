@@ -1,9 +1,0 @@
-
-AGAP010217
-=============
-
-
-
-Description: Protein disulfide-isomerase [source:vb community annotation].
-
-TODO

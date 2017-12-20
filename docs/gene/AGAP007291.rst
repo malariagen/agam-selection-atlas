@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007291
+=============
+
+
+
+Name: **IAP4**
+
+Description: Inhibitor of apoptosis 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007291>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

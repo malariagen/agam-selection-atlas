@@ -1,9 +1,0 @@
-
-AGAP007295
-=============
-
-
-
-Description: Protein kri1 [source:vb community annotation].
-
-TODO

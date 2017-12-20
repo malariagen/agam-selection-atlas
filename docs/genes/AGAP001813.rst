@@ -1,9 +1,0 @@
-
-AGAP001813
-=============
-
-
-
-Description: Histone h3 [source:uniprotkb/trembl;acc:q7puq8].
-
-TODO

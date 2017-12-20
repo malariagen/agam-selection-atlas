@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009668
+=============
+
+
+
+
+
+Description: Lysosomal-associated membrane protein 1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009668>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

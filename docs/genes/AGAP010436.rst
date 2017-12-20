@@ -1,9 +1,0 @@
-
-AGAP010436
-=============
-
-
-
-Description: Adenylate cyclase 2 [source:vb community annotation].
-
-TODO

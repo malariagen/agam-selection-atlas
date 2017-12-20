@@ -1,9 +1,0 @@
-
-AGAP000957
-=============
-
-Name: **Osi23**
-
-Description: Osiris 23 [source:vb community annotation].
-
-TODO

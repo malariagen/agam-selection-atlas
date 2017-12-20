@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001710
+=============
+
+
+
+
+
+Description: Pax-interacting protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001710>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

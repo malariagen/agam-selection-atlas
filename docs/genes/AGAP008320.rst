@@ -1,9 +1,0 @@
-
-AGAP008320
-=============
-
-
-
-Description: Sidestep protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012339
-=============
-
-
-
-Description: Translocase of outer mitochondrial membrane 20 homolog [source:vb community annotation].
-
-TODO

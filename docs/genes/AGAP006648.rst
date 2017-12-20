@@ -1,9 +1,0 @@
-
-AGAP006648
-=============
-
-Name: **Exo6**
-
-Description: Exocyst complex component 6 [source:vb community annotation].
-
-TODO

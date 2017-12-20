@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009593
+=============
+
+
+
+Name: **CP**
+
+Description: Zinc carboxypeptidase a 1 [source:uniprotkb/swiss-prot;acc:o02350].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009593>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

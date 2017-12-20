@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007977
+=============
+
+
+
+
+
+Description: Fas-associated factor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007977>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

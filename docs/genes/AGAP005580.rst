@@ -1,9 +1,0 @@
-
-AGAP005580
-=============
-
-
-
-Description: Chchd10 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000945
-=============
-
-
-
-Description: Sn1-specific diacylglycerol lipase [source:vb community annotation].
-
-TODO

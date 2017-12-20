@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010918
+=============
+
+
+
+
+
+Description: Cleavage stimulation factor subunit 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010918>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007306
+=============
+
+
+
+
+
+Description: Mob1, mps one binder kinase activator-like 3 (yeast) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007306>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

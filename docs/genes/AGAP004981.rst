@@ -1,9 +1,0 @@
-
-AGAP004981
-=============
-
-Name: **PPO4**
-
-Description: Prophenoloxidase 4 [source:vb community annotation].
-
-TODO

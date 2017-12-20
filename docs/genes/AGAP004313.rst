@@ -1,9 +1,0 @@
-
-AGAP004313
-=============
-
-Name: **Gr54**
-
-Description: Gustatory receptor 54 [source:vb community annotation].
-
-TODO

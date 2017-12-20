@@ -1,9 +1,0 @@
-
-AGAP006805
-=============
-
-
-
-Description: Lariat debranching enzyme [source:vb community annotation].
-
-TODO

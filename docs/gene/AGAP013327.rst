@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013327
+=============
+
+
+
+Name: **HPX15**
+
+Description: Heme peroxidase 15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013327>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

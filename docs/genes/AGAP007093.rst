@@ -1,9 +1,0 @@
-
-AGAP007093
-=============
-
-
-
-Description: Collagen type iv alpha-3-binding protein [source:vb community annotation].
-
-TODO

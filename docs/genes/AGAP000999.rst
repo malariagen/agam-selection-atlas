@@ -1,9 +1,0 @@
-
-AGAP000999
-=============
-
-Name: **TOLL5A**
-
-Description: Toll-like receptor 5a [source:vb community annotation].
-
-TODO

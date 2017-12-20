@@ -1,9 +1,0 @@
-
-AGAP012216
-=============
-
-
-
-Description: Sterol o-acyltransferase [source:vb community annotation].
-
-TODO

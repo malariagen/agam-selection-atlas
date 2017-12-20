@@ -1,9 +1,0 @@
-
-AGAP028154
-=============
-
-
-
-Description: V-type proton atpase proteolipid subunit [source:uniprotkb/trembl;acc:a0a1s4hcy4].
-
-TODO

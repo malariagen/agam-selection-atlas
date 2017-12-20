@@ -1,9 +1,0 @@
-
-AGAP010182
-=============
-
-
-
-Description: Wd repeat-containing protein 32 [source:vb community annotation].
-
-TODO

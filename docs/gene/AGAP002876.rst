@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002876
+=============
+
+
+
+
+
+Description: Single-strand selective monofunctional uracil dna glycosylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002876>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

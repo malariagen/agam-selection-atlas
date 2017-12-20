@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002535
+=============
+
+
+
+
+
+Description: Serine/threonine-protein phosphatase pgam5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002535>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010388
-=============
-
-
-
-Description: Glucuronyl/n-acetylglucosaminyl transferase ext1 [source:vb community annotation].
-
-TODO

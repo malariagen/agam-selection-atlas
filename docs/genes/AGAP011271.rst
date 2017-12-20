@@ -1,9 +1,0 @@
-
-AGAP011271
-=============
-
-
-
-Description: Cation-transporting atpase 13a3/4/5 [source:vb community annotation].
-
-TODO

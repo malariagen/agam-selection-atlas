@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010594
+=============
+
+
+
+
+
+Description: Protein cwc15 homolog a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010594>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

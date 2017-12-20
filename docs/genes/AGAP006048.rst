@@ -1,9 +1,0 @@
-
-AGAP006048
-=============
-
-Name: **CYP4J5**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000960
+=============
+
+
+
+
+
+Description: Stam-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000960>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

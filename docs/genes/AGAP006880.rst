@@ -1,9 +1,0 @@
-
-AGAP006880
-=============
-
-
-
-Description: Protein lmbr1l [source:vb community annotation].
-
-TODO

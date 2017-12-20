@@ -1,9 +1,0 @@
-
-AGAP004267
-=============
-
-
-
-Description: O-glucosyltransferase rumi homolog [source:uniprotkb/swiss-prot;acc:a0ndg6].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002666
-=============
-
-
-
-Description: Dolichyldiphosphatase [source:vb community annotation].
-
-TODO

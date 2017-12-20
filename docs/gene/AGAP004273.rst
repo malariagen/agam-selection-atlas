@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004273
+=============
+
+
+
+
+
+Description: Synapse-associated protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004273>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002407
+=============
+
+
+
+Name: **mRpS18A**
+
+Description: 28s ribosomal protein s18a, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002407>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

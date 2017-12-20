@@ -1,9 +1,0 @@
-
-AGAP011303
-=============
-
-
-
-Description: Alkaline phosphatase [source:uniprotkb/trembl;acc:a0a1s4h697].
-
-TODO

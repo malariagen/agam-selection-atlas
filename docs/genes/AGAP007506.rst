@@ -1,9 +1,0 @@
-
-AGAP007506
-=============
-
-
-
-Description: Williams-beuren syndrome chromosome region 16 homolog (human) [source:vb community annotation].
-
-TODO

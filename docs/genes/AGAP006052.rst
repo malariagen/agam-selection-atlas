@@ -1,9 +1,0 @@
-
-AGAP006052
-=============
-
-
-
-Description: Protein phosphatase 1, regulatory (inhibitor) subunit 3 [source:vb community annotation].
-
-TODO

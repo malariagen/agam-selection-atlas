@@ -1,9 +1,0 @@
-
-AGAP002754
-=============
-
-Name: **RpL35a**
-
-Description: 60s ribosomal protein l35a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003737
-=============
-
-
-
-Description: Esf2/abp1 family protein [source:vb community annotation].
-
-TODO

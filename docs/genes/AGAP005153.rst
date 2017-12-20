@@ -1,9 +1,0 @@
-
-AGAP005153
-=============
-
-
-
-Description: Cysteine dioxygenase [source:vb community annotation].
-
-TODO

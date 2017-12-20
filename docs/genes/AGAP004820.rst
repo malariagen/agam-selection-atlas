@@ -1,9 +1,0 @@
-
-AGAP004820
-=============
-
-
-
-Description: Rna 3'-terminal phosphate cyclase [source:vb community annotation].
-
-TODO

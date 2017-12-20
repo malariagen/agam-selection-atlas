@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008979
+=============
+
+
+
+
+
+Description: Lim homeobox protein 2/9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008979>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

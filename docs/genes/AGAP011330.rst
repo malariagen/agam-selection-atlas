@@ -1,9 +1,0 @@
-
-AGAP011330
-=============
-
-
-
-Description: Glutaredoxin-like protein (fragment) [source:uniprotkb/trembl;acc:a7us51].
-
-TODO

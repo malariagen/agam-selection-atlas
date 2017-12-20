@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013725
+=============
+
+
+
+
+
+Description: Hemk methyltransferase family member 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013725>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

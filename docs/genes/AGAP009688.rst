@@ -1,9 +1,0 @@
-
-AGAP009688
-=============
-
-
-
-Description: Leucine-rich repeats and immunoglobulin-like domains protein 3 [source:vb community annotation].
-
-TODO

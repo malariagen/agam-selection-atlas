@@ -1,9 +1,0 @@
-
-AGAP002501
-=============
-
-
-
-Description: Serine/threonine-protein phosphatase 4 regulatory subunit 2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009598
+=============
+
+
+
+
+
+Description: Voltage-dependent calcium channel alpha-2/delta, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009598>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

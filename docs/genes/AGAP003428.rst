@@ -1,9 +1,0 @@
-
-AGAP003428
-=============
-
-
-
-Description: Speckle-type poz protein [source:vb community annotation].
-
-TODO

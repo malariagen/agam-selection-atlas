@@ -1,9 +1,0 @@
-
-AGAP011211
-=============
-
-
-
-Description: Exosome complex component rrp4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008360
-=============
-
-Name: **SPZ3**
-
-Description: Spaetzle-like cytokine 3 [source:vb community annotation].
-
-TODO

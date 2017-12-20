@@ -1,9 +1,0 @@
-
-AGAP002564
-=============
-
-Name: **Aldo**
-
-Description: Fructose biphosphate aldolase [source:vb community annotation].
-
-TODO

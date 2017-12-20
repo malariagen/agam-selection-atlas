@@ -1,9 +1,0 @@
-
-AGAP002306
-=============
-
-Name: **RpL4**
-
-Description: 60s ribosomal protein l4 [source:vb community annotation].
-
-TODO

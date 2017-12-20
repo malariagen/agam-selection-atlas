@@ -1,9 +1,0 @@
-
-AGAP002378
-=============
-
-
-
-Description: Adenylosuccinate lyase [source:uniprotkb/trembl;acc:q7qbz6].
-
-TODO

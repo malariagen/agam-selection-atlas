@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009792
+=============
+
+
+
+
+
+Description: Importin subunit alpha-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009792>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

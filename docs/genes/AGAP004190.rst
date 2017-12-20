@@ -1,9 +1,0 @@
-
-AGAP004190
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 7 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000823
+=============
+
+
+
+
+
+Description: Cd81 antigen [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000823>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

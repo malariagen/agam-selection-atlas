@@ -1,9 +1,0 @@
-
-AGAP011768
-=============
-
-
-
-Description: Growth factor receptor-binding protein 2 [source:vb community annotation].
-
-TODO

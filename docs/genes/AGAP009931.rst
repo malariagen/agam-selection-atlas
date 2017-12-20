@@ -1,9 +1,0 @@
-
-AGAP009931
-=============
-
-
-
-Description: Vacuolar fusion protein mon1 homolog a [source:vb community annotation].
-
-TODO

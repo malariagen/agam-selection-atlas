@@ -1,9 +1,0 @@
-
-AGAP010887
-=============
-
-Name: **CPR113**
-
-Description: Cuticular protein rr-2 family 113 [source:vb community annotation].
-
-TODO

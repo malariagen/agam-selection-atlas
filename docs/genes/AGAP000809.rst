@@ -1,9 +1,0 @@
-
-AGAP000809
-=============
-
-
-
-Description: Proteasome 26s non-atpase subunit 10 [source:vb community annotation].
-
-TODO

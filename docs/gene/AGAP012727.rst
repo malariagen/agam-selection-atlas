@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012727
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase i, m subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012727>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

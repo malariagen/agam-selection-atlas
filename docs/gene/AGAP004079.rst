@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004079
+=============
+
+
+
+
+
+Description: Low molecular weight phosphotyrosine protein phosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004079>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

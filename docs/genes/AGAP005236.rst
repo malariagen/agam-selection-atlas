@@ -1,9 +1,0 @@
-
-AGAP005236
-=============
-
-
-
-Description: Solute carrier family 50 (sugar transporter) [source:vb community annotation].
-
-TODO

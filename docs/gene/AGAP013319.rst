@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013319
+=============
+
+
+
+Name: **TWDL6**
+
+Description: Cuticular protein twdl family (twdl6) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013319>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

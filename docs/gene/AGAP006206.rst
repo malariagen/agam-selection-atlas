@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006206
+=============
+
+
+
+
+
+Description: Carboxypeptidase b [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006206>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:28239196-28243323#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

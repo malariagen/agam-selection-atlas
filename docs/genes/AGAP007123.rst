@@ -1,9 +1,0 @@
-
-AGAP007123
-=============
-
-
-
-Description: Sarcosine dehydrogenase [source:vb community annotation].
-
-TODO

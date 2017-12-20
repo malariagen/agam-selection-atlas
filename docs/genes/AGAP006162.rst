@@ -1,9 +1,0 @@
-
-AGAP006162
-=============
-
-
-
-Description: Tatd dnase family protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012678
-=============
-
-Name: **G6PD**
-
-Description: Glucose-6-phosphate 1-dehydrogenase [source:uniprotkb/trembl;acc:q7qlh1].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005445
-=============
-
-
-
-Description: Ras-related c3 botulinum toxin substrate [source:vb community annotation].
-
-TODO

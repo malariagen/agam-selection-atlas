@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010272
+=============
+
+
+
+Name: **IR25a**
+
+Description: Ionotropic receptor ir25a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010272>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005292
+=============
+
+
+
+
+
+Description: Nucleolysin tia-1/tiar [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005292>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:13765648-13780618#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

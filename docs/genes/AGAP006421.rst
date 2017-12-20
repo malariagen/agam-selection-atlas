@@ -1,9 +1,0 @@
-
-AGAP006421
-=============
-
-Name: **A5R1**
-
-Description: Antigen 5 related protein 1 [source:vb community annotation].
-
-TODO

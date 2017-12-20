@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002877
+=============
+
+
+
+
+
+Description: Tetratricopeptide repeat protein 30 homolog [source:uniprotkb/swiss-prot;acc:q7pra4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002877>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

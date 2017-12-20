@@ -1,9 +1,0 @@
-
-AGAP002512
-=============
-
-
-
-Description: Protein frg1 [source:vb community annotation].
-
-TODO

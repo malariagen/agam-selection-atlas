@@ -1,9 +1,0 @@
-
-AGAP011952
-=============
-
-Name: **CASPS3**
-
-Description: Short caspase 3 [source:vb community annotation].
-
-TODO

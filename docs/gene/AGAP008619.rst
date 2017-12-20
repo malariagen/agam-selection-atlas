@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008619
+=============
+
+
+
+
+
+Description: Nuclear pore complex protein nup53 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008619>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

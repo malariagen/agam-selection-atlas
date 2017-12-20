@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000136
+=============
+
+
+
+
+
+Description: Tetratricopeptide repeat domain 21b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000136>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010963
+=============
+
+
+
+
+
+Description: Protein n-terminal asparagine amidohydrolase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010963>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

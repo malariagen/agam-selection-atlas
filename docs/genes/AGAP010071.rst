@@ -1,9 +1,0 @@
-
-AGAP010071
-=============
-
-
-
-Description: Acyl-coa synthetase [source:vb community annotation].
-
-TODO

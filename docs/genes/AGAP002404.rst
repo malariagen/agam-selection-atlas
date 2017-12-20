@@ -1,9 +1,0 @@
-
-AGAP002404
-=============
-
-
-
-Description: Cullin 5 [source:vb community annotation].
-
-TODO

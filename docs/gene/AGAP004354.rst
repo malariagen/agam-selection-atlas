@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004354
+=============
+
+
+
+Name: **Or26**
+
+Description: Odorant receptor 26 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004354>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

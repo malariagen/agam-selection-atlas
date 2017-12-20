@@ -1,9 +1,0 @@
-
-AGAP007378
-=============
-
-
-
-Description: N-acetyltransferase 9 [source:vb community annotation].
-
-TODO

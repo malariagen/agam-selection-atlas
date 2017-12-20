@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010592
+=============
+
+
+
+Name: **S7**
+
+Description: 40s ribosomal protein s7 [source:uniprotkb/swiss-prot;acc:p33514].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010592>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

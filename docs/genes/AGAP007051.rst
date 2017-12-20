@@ -1,9 +1,0 @@
-
-AGAP007051
-=============
-
-
-
-Description: Piopio protein [source:vb community annotation].
-
-TODO

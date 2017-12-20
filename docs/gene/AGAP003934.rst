@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003934
+=============
+
+
+
+
+
+Description: Battenin [source:uniprotkb/trembl;acc:q7q2b1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003934>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

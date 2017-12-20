@@ -1,9 +1,0 @@
-
-AGAP003989
-=============
-
-
-
-Description: Ammonium transporter [source:uniprotkb/trembl;acc:q7z1m1].
-
-TODO

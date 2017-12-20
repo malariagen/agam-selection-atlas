@@ -1,9 +1,0 @@
-
-AGAP004023
-=============
-
-Name: **APG4A**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

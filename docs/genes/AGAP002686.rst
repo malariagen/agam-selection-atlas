@@ -1,9 +1,0 @@
-
-AGAP002686
-=============
-
-
-
-Description: 5'-amp-activated protein kinase, catalytic alpha subunit [source:vb community annotation].
-
-TODO

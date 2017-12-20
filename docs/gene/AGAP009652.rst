@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009652
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009652>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006611
-=============
-
-
-
-Description: Traf-interacting protein [source:vb community annotation].
-
-TODO

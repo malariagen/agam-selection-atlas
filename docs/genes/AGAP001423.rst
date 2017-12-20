@@ -1,9 +1,0 @@
-
-AGAP001423
-=============
-
-
-
-Description: Bifunctional purine biosynthesis protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008912
-=============
-
-
-
-Description: Rac gtpase-activating protein 1 [source:vb community annotation].
-
-TODO

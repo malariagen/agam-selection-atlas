@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008053
+=============
+
+
+
+
+
+Description: Sphingomyelin phosphodiesterase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008053>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

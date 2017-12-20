@@ -1,9 +1,0 @@
-
-AGAP006686
-=============
-
-
-
-Description: Spectrin alpha [source:vb community annotation].
-
-TODO

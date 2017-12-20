@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013741
+=============
+
+
+
+Name: **Med11**
+
+Description: Mediator of rna polymerase ii transcription subunit 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013741>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

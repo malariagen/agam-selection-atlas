@@ -1,9 +1,0 @@
-
-AGAP003153
-=============
-
-Name: **VATA**
-
-Description: V-type proton atpase catalytic subunit a [source:uniprotkb/swiss-prot;acc:q5ttg1].
-
-TODO

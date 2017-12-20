@@ -1,9 +1,0 @@
-
-AGAP004273
-=============
-
-
-
-Description: Synapse-associated protein [source:vb community annotation].
-
-TODO

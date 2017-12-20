@@ -1,9 +1,0 @@
-
-AGAP011828
-=============
-
-Name: **Cp1**
-
-Description: Cathepsin l [source:uniprotkb/trembl;acc:a0a1s4h7p0].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006098
-=============
-
-Name: **NOS**
-
-Description: Nanos [source:vb community annotation].
-
-TODO

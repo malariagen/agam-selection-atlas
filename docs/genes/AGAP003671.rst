@@ -1,9 +1,0 @@
-
-AGAP003671
-=============
-
-Name: **Bap**
-
-Description: Protein bagpipe [source:vb community annotation].
-
-TODO

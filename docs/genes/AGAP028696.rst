@@ -1,9 +1,0 @@
-
-AGAP028696
-=============
-
-Name: **COE09895**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

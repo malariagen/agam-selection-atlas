@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007200
+=============
+
+
+
+Name: **DEF5**
+
+Description: Defensin anti-microbial peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007200>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

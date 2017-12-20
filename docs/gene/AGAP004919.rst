@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004919
+=============
+
+
+
+Name: **RpL15**
+
+Description: 60s ribosomal protein l15 [source:uniprotkb/swiss-prot;acc:p52818].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004919>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:6015229-6016503#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

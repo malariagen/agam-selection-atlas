@@ -1,9 +1,0 @@
-
-AGAP009433
-=============
-
-
-
-Description: Arylformamidase [source:vb community annotation].
-
-TODO

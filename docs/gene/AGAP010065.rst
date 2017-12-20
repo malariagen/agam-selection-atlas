@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010065
+=============
+
+
+
+Name: **RpL12**
+
+Description: 60s ribosomal protein l12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010065>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

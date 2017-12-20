@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011991
+=============
+
+
+
+Name: **Or61**
+
+Description: Odorant receptor 61 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011991>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

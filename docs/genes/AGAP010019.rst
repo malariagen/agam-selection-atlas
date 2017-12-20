@@ -1,9 +1,0 @@
-
-AGAP010019
-=============
-
-
-
-Description: Rwd domain-containing protein 4a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001302
-=============
-
-
-
-Description: Rna polymerase ii-associated factor 1 [source:vb community annotation].
-
-TODO

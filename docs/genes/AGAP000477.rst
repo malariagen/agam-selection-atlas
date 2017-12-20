@@ -1,9 +1,0 @@
-
-AGAP000477
-=============
-
-
-
-Description: Serine/threonine kinase 32 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004776
-=============
-
-
-
-Description: Pre-mrna-processing factor slu7 [source:vb community annotation].
-
-TODO

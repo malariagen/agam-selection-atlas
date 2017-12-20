@@ -1,9 +1,0 @@
-
-AGAP004597
-=============
-
-
-
-Description: Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000284
-=============
-
-Name: **CYP315A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

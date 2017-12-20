@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010382
+=============
+
+
+
+Name: **Ars2**
+
+Description: Serrate rna effector molecule homolog [source:uniprotkb/swiss-prot;acc:q5tuf1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010382>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

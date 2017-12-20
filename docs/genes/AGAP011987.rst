@@ -1,9 +1,0 @@
-
-AGAP011987
-=============
-
-
-
-Description: Fas apoptotic inhibitory molecule [source:vb community annotation].
-
-TODO

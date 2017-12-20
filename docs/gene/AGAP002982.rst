@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002982
+=============
+
+
+
+
+
+Description: E3 sumo-protein ligase ranbp2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002982>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

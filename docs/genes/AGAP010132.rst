@@ -1,9 +1,0 @@
-
-AGAP010132
-=============
-
-Name: **SCRBQ1**
-
-Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
-
-TODO

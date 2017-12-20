@@ -1,9 +1,0 @@
-
-AGAP003089
-=============
-
-
-
-Description: Atp-dependent rna helicase [source:vb community annotation].
-
-TODO

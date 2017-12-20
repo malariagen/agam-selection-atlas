@@ -1,9 +1,0 @@
-
-AGAP001762
-=============
-
-Name: **APG9**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

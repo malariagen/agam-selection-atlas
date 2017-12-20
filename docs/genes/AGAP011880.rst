@@ -1,9 +1,0 @@
-
-AGAP011880
-=============
-
-
-
-Description: G patch domain containing 1 [source:vb community annotation].
-
-TODO

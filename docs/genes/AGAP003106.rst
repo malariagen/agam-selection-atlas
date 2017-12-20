@@ -1,9 +1,0 @@
-
-AGAP003106
-=============
-
-Name: **Nep4**
-
-Description: Neprilysin, neutral endopeptidase 4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007243
-=============
-
-
-
-Description: 26s protease regulatory subunit 8 [source:vb community annotation].
-
-TODO

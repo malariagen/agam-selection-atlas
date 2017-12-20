@@ -1,9 +1,0 @@
-
-AGAP005874
-=============
-
-
-
-Description: Protein downstream neighbor of son homolog [source:vb community annotation].
-
-TODO

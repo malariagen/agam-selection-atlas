@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012265
+=============
+
+
+
+
+
+Description: Glycoprotein-n-acetylgalactosamine 3-beta-galactosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012265>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

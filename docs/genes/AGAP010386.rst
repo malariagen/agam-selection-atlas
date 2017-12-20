@@ -1,9 +1,0 @@
-
-AGAP010386
-=============
-
-
-
-Description: Translocating chain-associated membrane protein 2 [source:vb community annotation].
-
-TODO

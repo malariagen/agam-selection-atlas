@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002438
+=============
+
+
+
+
+
+Description: Tyrosine-protein phosphatase non-receptor type 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002438>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

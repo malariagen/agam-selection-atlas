@@ -1,9 +1,0 @@
-
-AGAP007586
-=============
-
-
-
-Description: Conserved oligomeric golgi complex subunit 6 [source:vb community annotation].
-
-TODO

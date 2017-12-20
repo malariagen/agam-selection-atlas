@@ -1,9 +1,0 @@
-
-AGAP007622
-=============
-
-Name: **ANCE1**
-
-Description: Angiotensin-converting enzyme 1 [source:vb community annotation].
-
-TODO

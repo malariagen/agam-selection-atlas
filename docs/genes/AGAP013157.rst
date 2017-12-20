@@ -1,9 +1,0 @@
-
-AGAP013157
-=============
-
-
-
-Description: Antp family [source:vb community annotation].
-
-TODO

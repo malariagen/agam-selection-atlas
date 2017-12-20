@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010425
+=============
+
+
+
+
+
+Description: Trimethylguanosine synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010425>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

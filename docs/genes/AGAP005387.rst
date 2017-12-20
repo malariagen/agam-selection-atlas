@@ -1,9 +1,0 @@
-
-AGAP005387
-=============
-
-
-
-Description: Cellular retinaldehyde binding protein [source:vb community annotation].
-
-TODO

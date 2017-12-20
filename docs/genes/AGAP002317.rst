@@ -1,9 +1,0 @@
-
-AGAP002317
-=============
-
-Name: **Alpha_amylase**
-
-Description: Amylase [source:vb community annotation].
-
-TODO

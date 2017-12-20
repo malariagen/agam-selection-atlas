@@ -1,9 +1,0 @@
-
-AGAP009587
-=============
-
-
-
-Description: Ap endonuclease 1 [source:vb community annotation].
-
-TODO

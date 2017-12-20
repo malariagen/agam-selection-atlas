@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009034
+=============
+
+
+
+
+
+Description: Doublecortin and cam kinase-like 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009034>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

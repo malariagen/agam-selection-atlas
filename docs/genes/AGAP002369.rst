@@ -1,9 +1,0 @@
-
-AGAP002369
-=============
-
-
-
-Description: Vesicular acetylcholine transporter [source:vb community annotation].
-
-TODO

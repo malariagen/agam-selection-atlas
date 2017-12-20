@@ -1,9 +1,0 @@
-
-AGAP001522
-=============
-
-
-
-Description: Thyroid receptor-interacting protein 13 [source:vb community annotation].
-
-TODO

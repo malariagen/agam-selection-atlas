@@ -1,9 +1,0 @@
-
-AGAP003160
-=============
-
-
-
-Description: Map kinase interacting serine/threonine kinase [source:vb community annotation].
-
-TODO

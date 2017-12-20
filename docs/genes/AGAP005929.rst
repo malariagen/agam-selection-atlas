@@ -1,9 +1,0 @@
-
-AGAP005929
-=============
-
-
-
-Description: Pyridoxine kinase [source:vb community annotation].
-
-TODO

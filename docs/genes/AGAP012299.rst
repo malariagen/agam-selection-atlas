@@ -1,9 +1,0 @@
-
-AGAP012299
-=============
-
-
-
-Description: Cyclin d2 [source:vb community annotation].
-
-TODO

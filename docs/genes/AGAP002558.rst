@@ -1,9 +1,0 @@
-
-AGAP002558
-=============
-
-Name: **Or40**
-
-Description: Odorant receptor 40 [source:vb community annotation].
-
-TODO

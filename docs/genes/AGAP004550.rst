@@ -1,9 +1,0 @@
-
-AGAP004550
-=============
-
-
-
-Description: Dolichol-phosphate mannosyltransferase subunit 3 [source:vb community annotation].
-
-TODO

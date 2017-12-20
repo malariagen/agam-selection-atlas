@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009670
+=============
+
+
+
+Name: **SRPN4**
+
+Description: Serine protease inhibitor (serpin) 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009670>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

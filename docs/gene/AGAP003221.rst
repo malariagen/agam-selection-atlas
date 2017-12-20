@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003221
+=============
+
+
+
+Name: **ABCC3**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003221>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

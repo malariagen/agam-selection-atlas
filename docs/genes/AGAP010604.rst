@@ -1,9 +1,0 @@
-
-AGAP010604
-=============
-
-
-
-Description: Insulin-like peptide 3 precursor [source:vb community annotation].
-
-TODO

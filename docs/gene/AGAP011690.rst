@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011690
+=============
+
+
+
+Name: **DCTN2-p50**
+
+Description: Dynactin subunit 2 [source:uniprotkb/swiss-prot;acc:q7pz25].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011690>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

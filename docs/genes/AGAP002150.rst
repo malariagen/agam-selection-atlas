@@ -1,9 +1,0 @@
-
-AGAP002150
-=============
-
-
-
-Description: Hyperpolarization activated cyclic nucleotide-gated potassium channel 2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003536
+=============
+
+
+
+
+
+Description: Solute carrier family 25 (mitochondrial s-adenosylmethionine transporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003536>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

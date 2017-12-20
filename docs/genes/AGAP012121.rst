@@ -1,9 +1,0 @@
-
-AGAP012121
-=============
-
-
-
-Description: Rio kinase 1 [source:vb community annotation].
-
-TODO

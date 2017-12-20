@@ -1,9 +1,0 @@
-
-AGAP004468
-=============
-
-
-
-Description: Phosducin-like protein [source:vb community annotation].
-
-TODO

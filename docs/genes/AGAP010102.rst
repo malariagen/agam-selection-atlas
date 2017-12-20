@@ -1,9 +1,0 @@
-
-AGAP010102
-=============
-
-Name: **CPR148**
-
-Description: Cuticular protein rr-2 family 148 [source:vb community annotation].
-
-TODO

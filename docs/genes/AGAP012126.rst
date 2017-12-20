@@ -1,9 +1,0 @@
-
-AGAP012126
-=============
-
-
-
-Description: Lysophospholipase ii [source:vb community annotation].
-
-TODO

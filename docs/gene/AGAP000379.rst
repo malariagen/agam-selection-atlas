@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000379
+=============
+
+
+
+Name: **PBD3**
+
+Description: Piggybac-derived 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000379>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

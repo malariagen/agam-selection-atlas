@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008151
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerase iii subunit rpc2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008151>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

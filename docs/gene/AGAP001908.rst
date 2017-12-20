@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001908
+=============
+
+
+
+
+
+Description: Glyceronephosphate o-acyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001908>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002752
+=============
+
+
+
+
+
+Description: Dnaj (hsp40) homolog, subfamily c, member 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002752>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

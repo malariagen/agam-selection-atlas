@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011881
+=============
+
+
+
+
+
+Description: Polycomb protein suz12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011881>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

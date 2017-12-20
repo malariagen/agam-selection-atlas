@@ -1,9 +1,0 @@
-
-AGAP004884
-=============
-
-
-
-Description: Muskelin [source:vb community annotation].
-
-TODO

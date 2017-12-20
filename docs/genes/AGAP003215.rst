@@ -1,9 +1,0 @@
-
-AGAP003215
-=============
-
-
-
-Description: 26s proteasome regulatory subunit t2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002931
-=============
-
-Name: **Arf2**
-
-Description: Adp-ribosylation factor 2 [source:vb community annotation].
-
-TODO

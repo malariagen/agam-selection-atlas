@@ -1,9 +1,0 @@
-
-AGAP000634
-=============
-
-
-
-Description: Regulator of telomere elongation helicase 1 homolog [source:uniprotkb/swiss-prot;acc:q7qei1].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006520
+=============
+
+
+
+
+
+Description: Fatty acid elongase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006520>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

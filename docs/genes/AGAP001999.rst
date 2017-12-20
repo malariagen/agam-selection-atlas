@@ -1,9 +1,0 @@
-
-AGAP001999
-=============
-
-
-
-Description: Protein neuralized [source:vb community annotation].
-
-TODO

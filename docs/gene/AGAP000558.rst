@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000558
+=============
+
+
+
+
+
+Description: Mannosyl-oligosaccharide alpha-1,2-mannosidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000558>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

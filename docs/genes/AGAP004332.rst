@@ -1,9 +1,0 @@
-
-AGAP004332
-=============
-
-
-
-Description: Macrophage erythroblast attacher [source:vb community annotation].
-
-TODO

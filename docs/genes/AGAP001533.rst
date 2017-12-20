@@ -1,9 +1,0 @@
-
-AGAP001533
-=============
-
-
-
-Description: Rab3 gtpase-activating protein regulatory subunit [source:vb community annotation].
-
-TODO

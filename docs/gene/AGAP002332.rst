@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002332
+=============
+
+
+
+Name: **mRpL11**
+
+Description: 39s ribosomal protein l11, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002332>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

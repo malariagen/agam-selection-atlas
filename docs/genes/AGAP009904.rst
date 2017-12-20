@@ -1,9 +1,0 @@
-
-AGAP009904
-=============
-
-
-
-Description: Trna (adenine-n(1)-)-methyltransferase non-catalytic subunit [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005218
-=============
-
-
-
-Description: Zinc finger ran-binding domain-containing protein 2 [source:uniprotkb/trembl;acc:q7q9i7].
-
-TODO

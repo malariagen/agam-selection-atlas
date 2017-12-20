@@ -1,9 +1,0 @@
-
-AGAP011246
-=============
-
-
-
-Description: Origin recognition complex subunit 6 [source:vb community annotation].
-
-TODO

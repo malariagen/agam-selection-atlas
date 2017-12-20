@@ -1,9 +1,0 @@
-
-AGAP006413
-=============
-
-
-
-Description: Solute carrier family 37 (glycerol-3-phosphate transporter), member 1 [source:vb community annotation].
-
-TODO

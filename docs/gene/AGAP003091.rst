@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003091
+=============
+
+
+
+
+
+Description: Sterol carrier protein 2 variant 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003091>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

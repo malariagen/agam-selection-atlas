@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013499
+=============
+
+
+
+Name: **pink**
+
+Description: Hermansky-pudlak syndrome 5 protein (protein pink) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013499>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

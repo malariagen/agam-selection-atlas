@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002767
+=============
+
+
+
+
+
+Description: C-4 methylsterol oxidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002767>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006422
-=============
-
-
-
-Description: Cyanogenic beta-glucosidase [source:vb community annotation].
-
-TODO

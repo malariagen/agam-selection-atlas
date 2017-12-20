@@ -1,9 +1,0 @@
-
-AGAP001050
-=============
-
-
-
-Description: Chondroitin polymerizing factor [source:vb community annotation].
-
-TODO

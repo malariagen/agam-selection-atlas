@@ -1,9 +1,0 @@
-
-AGAP013182
-=============
-
-Name: **Obp69**
-
-Description: General odorant-binding protein 69 [source:uniprotkb/swiss-prot;acc:f5hk49].
-
-TODO

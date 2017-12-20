@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009225
+=============
+
+
+
+
+
+Description: Dimeric dihydrodiol dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009225>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

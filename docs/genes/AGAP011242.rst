@@ -1,9 +1,0 @@
-
-AGAP011242
-=============
-
-
-
-Description: E3 ubiquitin ligase smurf1/2 [source:vb community annotation].
-
-TODO

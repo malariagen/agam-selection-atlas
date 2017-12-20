@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009087
+=============
+
+
+
+
+
+Description: Ph domain and leucine-rich repeat-containing protein phosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009087>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012477
-=============
-
-
-
-Description: Gamma-butyrobetaine dioxygenase [source:vb community annotation].
-
-TODO

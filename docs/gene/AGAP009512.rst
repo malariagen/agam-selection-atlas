@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009512
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase ubr7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009512>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

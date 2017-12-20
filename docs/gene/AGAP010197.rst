@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010197
+=============
+
+
+
+
+
+Description: Spry domain-containing socs box protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010197>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

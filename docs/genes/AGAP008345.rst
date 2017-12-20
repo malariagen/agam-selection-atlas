@@ -1,9 +1,0 @@
-
-AGAP008345
-=============
-
-
-
-Description: Methionyl aminopeptidase [source:vb community annotation].
-
-TODO

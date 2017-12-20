@@ -1,9 +1,0 @@
-
-AGAP005283
-=============
-
-
-
-Description: Cat eye syndrome chromosome region, candidate 1 [source:vb community annotation].
-
-TODO

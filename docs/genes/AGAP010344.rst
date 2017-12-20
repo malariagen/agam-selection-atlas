@@ -1,9 +1,0 @@
-
-AGAP010344
-=============
-
-
-
-Description: Solute carrier family 26, other [source:vb community annotation].
-
-TODO

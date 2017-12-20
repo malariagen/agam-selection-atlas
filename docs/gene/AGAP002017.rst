@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002017
+=============
+
+
+
+
+
+Description: Hexosyltransferase [source:uniprotkb/trembl;acc:q7pym6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002017>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

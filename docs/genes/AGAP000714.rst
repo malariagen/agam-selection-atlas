@@ -1,9 +1,0 @@
-
-AGAP000714
-=============
-
-Name: **IR7n**
-
-Description: Ionotropic receptor ir7n [source:vb community annotation].
-
-TODO

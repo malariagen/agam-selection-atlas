@@ -1,9 +1,0 @@
-
-AGAP005213
-=============
-
-
-
-Description: Myosin xv [source:vb community annotation].
-
-TODO

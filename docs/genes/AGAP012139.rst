@@ -1,9 +1,0 @@
-
-AGAP012139
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 12/46 [source:vb community annotation].
-
-TODO

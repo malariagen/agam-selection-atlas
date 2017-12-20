@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001036
+=============
+
+
+
+
+
+Description: G protein beta subunit-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001036>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

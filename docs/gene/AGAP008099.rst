@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008099
+=============
+
+
+
+
+
+Description: Ubiquitin-fold modifier-conjugating enzyme 1 [source:uniprotkb/swiss-prot;acc:q7pnd3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008099>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

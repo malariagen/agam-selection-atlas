@@ -1,9 +1,0 @@
-
-AGAP009426
-=============
-
-
-
-Description: Ephrin-b [source:vb community annotation].
-
-TODO

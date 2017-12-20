@@ -1,9 +1,0 @@
-
-AGAP006650
-=============
-
-Name: **mRpS28**
-
-Description: 28s ribosomal protein s28, mitochondrial [source:vb community annotation].
-
-TODO

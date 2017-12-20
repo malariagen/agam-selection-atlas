@@ -1,9 +1,0 @@
-
-AGAP004383
-=============
-
-Name: **GSTD10**
-
-Description: Glutathione s-transferase delta class 10 [source:vb community annotation].
-
-TODO

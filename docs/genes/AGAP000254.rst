@@ -1,9 +1,0 @@
-
-AGAP000254
-=============
-
-
-
-Description: Potassium voltage-gated channel shaker-related subfamily a [source:vb community annotation].
-
-TODO

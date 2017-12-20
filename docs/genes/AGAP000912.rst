@@ -1,9 +1,0 @@
-
-AGAP000912
-=============
-
-
-
-Description: Sorting nexin-25 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012770
-=============
-
-
-
-Description: Molecular chaperone grpe [source:vb community annotation].
-
-TODO

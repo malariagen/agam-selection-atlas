@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000261
+=============
+
+
+
+
+
+Description: Dnaj-like protein subfamily c [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000261>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

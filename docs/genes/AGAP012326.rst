@@ -1,9 +1,0 @@
-
-AGAP012326
-=============
-
-Name: **TOLL7**
-
-Description: Toll-like receptor 7 [source:vb community annotation].
-
-TODO

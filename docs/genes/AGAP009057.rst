@@ -1,9 +1,0 @@
-
-AGAP009057
-=============
-
-
-
-Description: Ccr4-not transcription complex, subunit 1 [source:vb community annotation].
-
-TODO

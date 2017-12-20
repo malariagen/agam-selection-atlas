@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009489
+=============
+
+
+
+
+
+Description: Cytidine deaminase [source:uniprotkb/trembl;acc:q7qg43].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009489>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

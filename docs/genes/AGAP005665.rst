@@ -1,9 +1,0 @@
-
-AGAP005665
-=============
-
-
-
-Description: Chymotrypsin-like protease [source:vb community annotation].
-
-TODO

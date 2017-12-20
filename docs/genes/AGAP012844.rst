@@ -1,9 +1,0 @@
-
-AGAP012844
-=============
-
-
-
-Description: Calmodulin [source:vb community annotation].
-
-TODO

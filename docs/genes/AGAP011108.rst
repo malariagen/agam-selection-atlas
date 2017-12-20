@@ -1,9 +1,0 @@
-
-AGAP011108
-=============
-
-
-
-Description: Secretory phospholipase a2 [source:vb community annotation].
-
-TODO

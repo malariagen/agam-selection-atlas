@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002931
+=============
+
+
+
+Name: **Arf2**
+
+Description: Adp-ribosylation factor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002931>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

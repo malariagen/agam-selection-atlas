@@ -1,9 +1,0 @@
-
-AGAP002335
-=============
-
-
-
-Description: Nucleolysin tia-1/tiar [source:vb community annotation].
-
-TODO

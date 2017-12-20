@@ -1,9 +1,0 @@
-
-AGAP002656
-=============
-
-
-
-Description: General transcription factor 3c polypeptide 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007498
+=============
+
+
+
+Name: **IR75k**
+
+Description: Ionotropic receptor ir75k [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007498>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

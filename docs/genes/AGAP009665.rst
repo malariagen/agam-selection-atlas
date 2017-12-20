@@ -1,9 +1,0 @@
-
-AGAP009665
-=============
-
-
-
-Description: Coiled-coil domain containing 43 [source:vb community annotation].
-
-TODO

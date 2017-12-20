@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001146
+=============
+
+
+
+
+
+Description: U3 small nucleolar rna-associated protein 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001146>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

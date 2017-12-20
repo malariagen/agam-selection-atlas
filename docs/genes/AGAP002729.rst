@@ -1,9 +1,0 @@
-
-AGAP002729
-=============
-
-
-
-Description: Ras gtpase-activating protein 1 [source:vb community annotation].
-
-TODO

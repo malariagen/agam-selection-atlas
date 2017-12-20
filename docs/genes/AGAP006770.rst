@@ -1,9 +1,0 @@
-
-AGAP006770
-=============
-
-
-
-Description: Jumonji domain-containing protein 2 [source:vb community annotation].
-
-TODO

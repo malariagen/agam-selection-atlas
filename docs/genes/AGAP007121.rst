@@ -1,9 +1,0 @@
-
-AGAP007121
-=============
-
-
-
-Description: Cytochrome b5 protein [source:vb community annotation].
-
-TODO

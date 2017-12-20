@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009854
+=============
+
+
+
+Name: **Gr6**
+
+Description: Gustatory receptor 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009854>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

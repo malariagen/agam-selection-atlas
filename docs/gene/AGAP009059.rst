@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009059
+=============
+
+
+
+
+
+Description: Glia maturation factor beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009059>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

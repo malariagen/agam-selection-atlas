@@ -1,9 +1,0 @@
-
-AGAP012323
-=============
-
-Name: **OBP27**
-
-Description: Odorant-binding protein 27 [source:vb community annotation].
-
-TODO

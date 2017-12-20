@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013207
+=============
+
+
+
+
+
+Description: Poly(a) polymerase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013207>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

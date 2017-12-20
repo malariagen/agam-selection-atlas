@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004483
+=============
+
+
+
+
+
+Description: Lethal giant larvae [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004483>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

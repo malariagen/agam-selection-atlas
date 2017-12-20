@@ -1,9 +1,0 @@
-
-AGAP004671
-=============
-
-
-
-Description: Nuclear pore complex protein nup160 [source:vb community annotation].
-
-TODO

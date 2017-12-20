@@ -1,9 +1,0 @@
-
-AGAP002308
-=============
-
-
-
-Description: Pyrroline-5-carboxylate reductase [source:uniprotkb/trembl;acc:q7qbu0].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007306
-=============
-
-
-
-Description: Mob1, mps one binder kinase activator-like 3 (yeast) [source:vb community annotation].
-
-TODO

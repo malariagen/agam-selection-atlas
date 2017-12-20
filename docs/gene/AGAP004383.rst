@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004383
+=============
+
+
+
+Name: **GSTD10**
+
+Description: Glutathione s-transferase delta class 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004383>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

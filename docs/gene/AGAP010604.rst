@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010604
+=============
+
+
+
+
+
+Description: Insulin-like peptide 3 precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010604>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

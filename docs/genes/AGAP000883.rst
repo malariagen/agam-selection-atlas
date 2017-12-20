@@ -1,9 +1,0 @@
-
-AGAP000883
-=============
-
-
-
-Description: Elongation factor 1-gamma [source:vb community annotation].
-
-TODO

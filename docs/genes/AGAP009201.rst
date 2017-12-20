@@ -1,9 +1,0 @@
-
-AGAP009201
-=============
-
-
-
-Description: Collagen type iv alpha [source:vb community annotation].
-
-TODO

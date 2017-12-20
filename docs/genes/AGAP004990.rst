@@ -1,9 +1,0 @@
-
-AGAP004990
-=============
-
-Name: **mbf1**
-
-Description: Multiprotein bridging factor 1 [source:vb community annotation].
-
-TODO

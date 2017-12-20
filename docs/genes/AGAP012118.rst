@@ -1,9 +1,0 @@
-
-AGAP012118
-=============
-
-
-
-Description: Fgfr1 oncogene partner 2-like protein [source:vb community annotation].
-
-TODO

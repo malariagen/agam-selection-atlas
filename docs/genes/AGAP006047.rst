@@ -1,9 +1,0 @@
-
-AGAP006047
-=============
-
-Name: **CYP4J9**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

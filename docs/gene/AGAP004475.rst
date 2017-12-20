@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004475
+=============
+
+
+
+Name: **IR100i**
+
+Description: Ionotropic receptor ir100i [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004475>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

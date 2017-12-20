@@ -1,9 +1,0 @@
-
-AGAP012985
-=============
-
-Name: **GPROP4**
-
-Description: Long wavelength sensitive opsin [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001122
+=============
+
+
+
+Name: **Gr41**
+
+Description: Gustatory receptor 41 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001122>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009907
+=============
+
+
+
+
+
+Description: Leukotriene-a4 hydrolase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009907>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

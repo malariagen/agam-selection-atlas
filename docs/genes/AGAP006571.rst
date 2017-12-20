@@ -1,9 +1,0 @@
-
-AGAP006571
-=============
-
-
-
-Description: Nuclear receptor subfamily 1 group d member 3 [source:vb community annotation].
-
-TODO

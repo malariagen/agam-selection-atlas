@@ -1,9 +1,0 @@
-
-AGAP001765
-=============
-
-
-
-Description: Golgin subfamily a member 1 [source:vb community annotation].
-
-TODO

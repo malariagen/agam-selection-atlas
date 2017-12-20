@@ -1,9 +1,0 @@
-
-AGAP000328
-=============
-
-
-
-Description: Amme syndrome candidate gene 1 protein [source:vb community annotation].
-
-TODO

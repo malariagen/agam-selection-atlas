@@ -1,9 +1,0 @@
-
-AGAP006472
-=============
-
-
-
-Description: Centromeric protein e [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009984
+=============
+
+
+
+
+
+Description: Cell cycle control protein 50a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009984>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

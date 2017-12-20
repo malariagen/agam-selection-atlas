@@ -1,9 +1,0 @@
-
-AGAP000088
-=============
-
-Name: **CYP4H19**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008304
+=============
+
+
+
+
+
+Description: 3',5'-cyclic-nucleotide phosphodiesterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008304>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

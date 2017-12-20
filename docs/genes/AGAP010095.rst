@@ -1,9 +1,0 @@
-
-AGAP010095
-=============
-
-Name: **CPR82**
-
-Description: Cuticular protein rr-2 family 82 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001997
-=============
-
-
-
-Description: Interleukin enhancer-binding factor [source:vb community annotation].
-
-TODO

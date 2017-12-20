@@ -1,9 +1,0 @@
-
-AGAP002381
-=============
-
-
-
-Description: Disintegrin and metalloproteinase domain-containing protein 17 [source:vb community annotation].
-
-TODO

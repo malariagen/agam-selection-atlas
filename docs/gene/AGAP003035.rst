@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003035
+=============
+
+
+
+
+
+Description: Ap-3 complex subunit beta [source:uniprotkb/trembl;acc:a7usr3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003035>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

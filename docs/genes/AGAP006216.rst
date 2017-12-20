@@ -1,9 +1,0 @@
-
-AGAP006216
-=============
-
-Name: **GPRMTH2**
-
-Description: Methuselah receptor 2 [source:vb community annotation].
-
-TODO

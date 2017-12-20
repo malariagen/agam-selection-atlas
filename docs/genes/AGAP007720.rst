@@ -1,9 +1,0 @@
-
-AGAP007720
-=============
-
-
-
-Description: Chondroitin sulfate n-acetylgalactosaminyltransferase 1 [source:vb community annotation].
-
-TODO

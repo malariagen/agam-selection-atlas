@@ -1,9 +1,0 @@
-
-AGAP010216
-=============
-
-Name: **RpL25**
-
-Description: 60s ribosomal protein l25 [source:vb community annotation].
-
-TODO

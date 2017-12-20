@@ -1,9 +1,0 @@
-
-AGAP005251
-=============
-
-
-
-Description: Potassium voltage-gated channel [source:vb community annotation].
-
-TODO

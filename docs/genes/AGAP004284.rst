@@ -1,9 +1,0 @@
-
-AGAP004284
-=============
-
-
-
-Description: Tubulin--tyrosine ligase-like protein 12 [source:vb community annotation].
-
-TODO

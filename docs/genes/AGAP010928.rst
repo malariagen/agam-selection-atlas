@@ -1,9 +1,0 @@
-
-AGAP010928
-=============
-
-
-
-Description: Tetratricopeptide repeat protein 36 homolog [source:vb community annotation].
-
-TODO

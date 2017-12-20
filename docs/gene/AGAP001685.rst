@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001685
+=============
+
+
+
+
+
+Description: Nuclear pore complex protein nup107 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001685>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

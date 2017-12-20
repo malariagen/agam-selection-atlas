@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003903
+=============
+
+
+
+
+
+Description: Required for meiotic nuclear division 1 homolog (s. cerevisiae) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003903>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000073
-=============
-
-
-
-Description: Gamma-sarcoglycan [source:vb community annotation].
-
-TODO

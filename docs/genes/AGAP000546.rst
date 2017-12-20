@@ -1,9 +1,0 @@
-
-AGAP000546
-=============
-
-
-
-Description: Acyl-coa-binding protein [source:vb community annotation].
-
-TODO

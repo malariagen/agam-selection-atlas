@@ -1,9 +1,0 @@
-
-AGAP000155
-=============
-
-
-
-Description: Alkylated dna repair protein alkb homolog [source:vb community annotation].
-
-TODO

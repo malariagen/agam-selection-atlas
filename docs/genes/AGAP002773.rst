@@ -1,9 +1,0 @@
-
-AGAP002773
-=============
-
-
-
-Description: Early growth response protein 1 [source:vb community annotation].
-
-TODO

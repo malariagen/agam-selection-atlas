@@ -1,9 +1,0 @@
-
-AGAP004248
-=============
-
-Name: **GPXH3**
-
-Description: Glutathione peroxidase 3 [source:vb community annotation].
-
-TODO

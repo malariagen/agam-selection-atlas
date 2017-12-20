@@ -1,9 +1,0 @@
-
-AGAP009578
-=============
-
-
-
-Description: Adenosine monophosphate-protein transferase ficd homolog [source:vb community annotation].
-
-TODO

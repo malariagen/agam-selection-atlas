@@ -1,9 +1,0 @@
-
-AGAP011711
-=============
-
-
-
-Description: Transcription factor tbx4 [source:vb community annotation].
-
-TODO

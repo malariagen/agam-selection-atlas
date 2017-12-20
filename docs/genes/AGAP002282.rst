@@ -1,9 +1,0 @@
-
-AGAP002282
-=============
-
-
-
-Description: Torso-like protein [source:vb community annotation].
-
-TODO

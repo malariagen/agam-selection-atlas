@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001026
+=============
+
+
+
+
+
+Description: Carboxypeptidase a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

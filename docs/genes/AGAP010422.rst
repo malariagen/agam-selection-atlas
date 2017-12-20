@@ -1,9 +1,0 @@
-
-AGAP010422
-=============
-
-
-
-Description: Limbic system-associated membrane protein [source:vb community annotation].
-
-TODO

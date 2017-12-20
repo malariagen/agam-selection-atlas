@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004656
+=============
+
+
+
+
+
+Description: Histone-lysine n-methyltransferase nsd2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004656>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

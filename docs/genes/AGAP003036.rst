@@ -1,9 +1,0 @@
-
-AGAP003036
-=============
-
-
-
-Description: Histone deacetylase complex subunit sap18 [source:vb community annotation].
-
-TODO

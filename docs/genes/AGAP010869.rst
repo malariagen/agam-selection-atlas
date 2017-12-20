@@ -1,9 +1,0 @@
-
-AGAP010869
-=============
-
-
-
-Description: Fibrinogen [source:vb community annotation].
-
-TODO

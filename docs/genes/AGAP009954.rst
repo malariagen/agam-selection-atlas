@@ -1,9 +1,0 @@
-
-AGAP009954
-=============
-
-
-
-Description: Ankyrin repeat domain-containing protein 13c [source:vb community annotation].
-
-TODO

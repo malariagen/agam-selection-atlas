@@ -1,9 +1,0 @@
-
-AGAP012030
-=============
-
-Name: **mRpL21**
-
-Description: 39s ribosomal protein l21, mitochondrial [source:vb community annotation].
-
-TODO

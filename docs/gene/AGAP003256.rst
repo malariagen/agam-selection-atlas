@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003256
+=============
+
+
+
+Name: **Gr18**
+
+Description: Gustatory receptor 18 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003256>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

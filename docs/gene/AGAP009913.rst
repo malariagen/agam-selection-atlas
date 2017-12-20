@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009913
+=============
+
+
+
+
+
+Description: Actin-binding protein ipp [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009913>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

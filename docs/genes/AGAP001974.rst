@@ -1,9 +1,0 @@
-
-AGAP001974
-=============
-
-
-
-Description: Organic solute transporter subunit alpha [source:vb community annotation].
-
-TODO

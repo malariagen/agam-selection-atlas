@@ -1,9 +1,0 @@
-
-AGAP009770
-=============
-
-Name: **GPRCAL1**
-
-Description: Putative calcitonin receptor 1 [source:vb community annotation].
-
-TODO

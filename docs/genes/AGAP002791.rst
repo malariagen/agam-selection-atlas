@@ -1,9 +1,0 @@
-
-AGAP002791
-=============
-
-
-
-Description: Trna-dihydrouridine synthase 4 [source:vb community annotation].
-
-TODO

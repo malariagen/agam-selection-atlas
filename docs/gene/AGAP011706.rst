@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011706
+=============
+
+
+
+Name: **RpL27a**
+
+Description: 60s ribosomal protein l27a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011706>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

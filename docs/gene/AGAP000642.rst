@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000642
+=============
+
+
+
+Name: **OBP35**
+
+Description: Odorant-binding protein 35 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000642>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

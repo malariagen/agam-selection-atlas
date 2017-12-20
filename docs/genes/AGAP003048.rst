@@ -1,9 +1,0 @@
-
-AGAP003048
-=============
-
-
-
-Description: Ribosome production factor 2 [source:vb community annotation].
-
-TODO

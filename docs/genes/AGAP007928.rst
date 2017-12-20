@@ -1,9 +1,0 @@
-
-AGAP007928
-=============
-
-
-
-Description: Turtle protein, isoform [source:vb community annotation].
-
-TODO

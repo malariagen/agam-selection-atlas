@@ -1,9 +1,0 @@
-
-AGAP007724
-=============
-
-
-
-Description: Glycogenin-1 [source:vb community annotation].
-
-TODO

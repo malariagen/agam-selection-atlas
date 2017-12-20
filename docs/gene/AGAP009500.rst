@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009500
+=============
+
+
+
+
+
+Description: Pou domain transcription factor, class 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009500>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

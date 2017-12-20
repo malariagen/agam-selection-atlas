@@ -1,9 +1,0 @@
-
-AGAP001393
-=============
-
-Name: **Sgf11**
-
-Description: Saga-associated factor 11 homolog [source:uniprotkb/swiss-prot;acc:q7pxg4].
-
-TODO

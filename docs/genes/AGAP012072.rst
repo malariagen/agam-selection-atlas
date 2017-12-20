@@ -1,9 +1,0 @@
-
-AGAP012072
-=============
-
-
-
-Description: Lactoylglutathione lyase [source:vb community annotation].
-
-TODO

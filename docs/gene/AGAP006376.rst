@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006376
+=============
+
+
+
+Name: **PDP1**
+
+Description: Par-domain protein 1 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006376>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:30776928-30826776#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

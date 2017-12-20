@@ -1,9 +1,0 @@
-
-AGAP004417
-=============
-
-
-
-Description: Zinc finger protein [source:vb community annotation].
-
-TODO

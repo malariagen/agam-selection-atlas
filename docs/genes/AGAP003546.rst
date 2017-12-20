@@ -1,9 +1,0 @@
-
-AGAP003546
-=============
-
-
-
-Description: Polychaetoid, isoform f [source:vb community annotation].
-
-TODO

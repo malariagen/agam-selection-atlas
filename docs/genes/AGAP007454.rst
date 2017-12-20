@@ -1,9 +1,0 @@
-
-AGAP007454
-=============
-
-Name: **LRIM8A**
-
-Description: Leucine-rich immune protein (short) [source:vb community annotation].
-
-TODO

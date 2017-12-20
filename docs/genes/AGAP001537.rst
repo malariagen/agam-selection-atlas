@@ -1,9 +1,0 @@
-
-AGAP001537
-=============
-
-
-
-Description: Chromosome transmission fidelity protein 1 [source:vb community annotation].
-
-TODO

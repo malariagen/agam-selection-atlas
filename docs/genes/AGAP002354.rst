@@ -1,9 +1,0 @@
-
-AGAP002354
-=============
-
-
-
-Description: Evi5-like protein [source:vb community annotation].
-
-TODO

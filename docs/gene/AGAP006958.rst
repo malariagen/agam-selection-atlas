@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006958
+=============
+
+
+
+Name: **Hsp83**
+
+Description: Heat shock protein 83 [source:uniprotkb/swiss-prot;acc:q7pt10].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006958>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

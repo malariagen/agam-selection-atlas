@@ -1,9 +1,0 @@
-
-AGAP007395
-=============
-
-
-
-Description: Dis3-like exonuclease 2 [source:uniprotkb/trembl;acc:q7qjb5].
-
-TODO

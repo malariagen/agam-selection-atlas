@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010510
+=============
+
+
+
+
+
+Description: Tubulin beta chain [source:uniprotkb/trembl;acc:q7ppr6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010510>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

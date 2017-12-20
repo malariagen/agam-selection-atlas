@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008158
+=============
+
+
+
+
+
+Description: Dcmp deaminase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008158>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

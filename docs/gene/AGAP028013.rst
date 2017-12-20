@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028013
+=============
+
+
+
+Name: **CPLCP25**
+
+Description: Cuticular protein (putative) cplcp25 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028013>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

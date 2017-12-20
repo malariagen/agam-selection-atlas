@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000901
+=============
+
+
+
+
+
+Description: Alanine transaminase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000901>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

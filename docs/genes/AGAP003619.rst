@@ -1,9 +1,0 @@
-
-AGAP003619
-=============
-
-
-
-Description: Transcription elongation factor spt6 [source:vb community annotation].
-
-TODO

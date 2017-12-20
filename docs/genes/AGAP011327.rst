@@ -1,9 +1,0 @@
-
-AGAP011327
-=============
-
-
-
-Description: Ribosomal rna-processing protein 8 [source:vb community annotation].
-
-TODO

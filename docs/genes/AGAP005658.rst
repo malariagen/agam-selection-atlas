@@ -1,9 +1,0 @@
-
-AGAP005658
-=============
-
-Name: **CYP15B1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002758
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase rnf115/126 [source:vb community annotation].
-
-TODO

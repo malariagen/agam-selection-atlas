@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009629
+=============
+
+
+
+Name: **OBP5**
+
+Description: Odorant-binding protein antennal 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009629>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

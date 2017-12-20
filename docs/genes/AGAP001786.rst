@@ -1,9 +1,0 @@
-
-AGAP001786
-=============
-
-
-
-Description: At-rich interactive domain-containing protein 1 [source:vb community annotation].
-
-TODO

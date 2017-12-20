@@ -1,9 +1,0 @@
-
-AGAP006824
-=============
-
-
-
-Description: 5-formyltetrahydrofolate cyclo-ligase [source:uniprotkb/trembl;acc:q7qig0].
-
-TODO

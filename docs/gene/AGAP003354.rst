@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003354
+=============
+
+
+
+Name: **A5R3**
+
+Description: Antigen 5 related protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003354>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

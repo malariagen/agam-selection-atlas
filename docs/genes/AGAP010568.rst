@@ -1,9 +1,0 @@
-
-AGAP010568
-=============
-
-
-
-Description: Lipoic acid synthetase [source:vb community annotation].
-
-TODO

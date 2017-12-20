@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003356
+=============
+
+
+
+
+
+Description: Kh domain-containing, rna-binding, signal transduction-associated protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003356>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

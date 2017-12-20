@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008889
+=============
+
+
+
+Name: **ABCG15**
+
+Description: Atp-binding cassette transporter (abc transporter) family g member 15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008889>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP007581
-=============
-
-
-
-Description: Glycerol kinase [source:vb community annotation].
-
-TODO

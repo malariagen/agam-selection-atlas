@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003769
+=============
+
+
+
+
+
+Description: Importin beta-3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003769>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

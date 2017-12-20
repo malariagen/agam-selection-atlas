@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006914
+=============
+
+
+
+
+
+Description: Fibrinogen-related protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006914>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

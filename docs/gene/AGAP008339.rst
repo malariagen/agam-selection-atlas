@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008339
+=============
+
+
+
+
+
+Description: Signal recognition particle subunit srp14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008339>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012097
+=============
+
+
+
+Name: **SLC25A11**
+
+Description: Mitochondrial 2-oxoglutarate/malate transporter (solute carrier family 25) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012097>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

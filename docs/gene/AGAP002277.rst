@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002277
+=============
+
+
+
+
+
+Description: Mitochondrial import inner membrane translocase subunit tim13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002277>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

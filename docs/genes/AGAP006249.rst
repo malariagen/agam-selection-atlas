@@ -1,9 +1,0 @@
-
-AGAP006249
-=============
-
-
-
-Description: Solute carrier family 12 (potassium/chloride transporters), member 8 [source:vb community annotation].
-
-TODO

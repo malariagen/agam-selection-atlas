@@ -1,9 +1,0 @@
-
-AGAP000704
-=============
-
-
-
-Description: Cell cycle control protein 50a [source:vb community annotation].
-
-TODO

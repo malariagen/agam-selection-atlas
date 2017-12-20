@@ -1,9 +1,0 @@
-
-AGAP004724
-=============
-
-
-
-Description: Intraflagellar transport 74 homolog [source:vb community annotation].
-
-TODO

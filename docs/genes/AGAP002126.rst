@@ -1,9 +1,0 @@
-
-AGAP002126
-=============
-
-Name: **Or37**
-
-Description: Odorant receptor 37 [source:vb community annotation].
-
-TODO

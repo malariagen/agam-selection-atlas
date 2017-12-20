@@ -1,9 +1,0 @@
-
-AGAP007173
-=============
-
-Name: **FADD**
-
-Description: Imd pathway signalling fas-associated death domain  (fadd). [source:vb community annotation].
-
-TODO

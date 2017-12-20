@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001170
+=============
+
+
+
+Name: **Gr48**
+
+Description: Gustatory receptor 48 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001170>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

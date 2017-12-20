@@ -1,9 +1,0 @@
-
-AGAP004546
-=============
-
-
-
-Description: Rna-binding protein 25 [source:vb community annotation].
-
-TODO

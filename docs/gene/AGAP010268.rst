@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010268
+=============
+
+
+
+Name: **mRpS9**
+
+Description: 28s ribosomal protein s9, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010268>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

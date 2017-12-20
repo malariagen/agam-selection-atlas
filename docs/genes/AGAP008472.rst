@@ -1,9 +1,0 @@
-
-AGAP008472
-=============
-
-
-
-Description: Methyltransferase-like protein 13 [source:vb community annotation].
-
-TODO

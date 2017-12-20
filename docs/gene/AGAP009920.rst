@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009920
+=============
+
+
+
+Name: **RpL37a**
+
+Description: 60s ribosomal protein l37a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009920>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

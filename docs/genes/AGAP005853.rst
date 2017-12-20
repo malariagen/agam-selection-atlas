@@ -1,9 +1,0 @@
-
-AGAP005853
-=============
-
-
-
-Description: Four way stop [source:vb community annotation].
-
-TODO

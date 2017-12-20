@@ -1,9 +1,0 @@
-
-AGAP006961
-=============
-
-
-
-Description: Molecular chaperone htpg [source:vb community annotation].
-
-TODO

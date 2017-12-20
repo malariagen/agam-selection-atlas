@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004023
+=============
+
+
+
+Name: **APG4A**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004023>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008814
-=============
-
-
-
-Description: Transcription factor 4/12 [source:vb community annotation].
-
-TODO

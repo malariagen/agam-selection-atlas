@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004642
+=============
+
+
+
+Name: **NPF**
+
+Description: Neuropeptide f [source:uniprotkb/swiss-prot;acc:q7q7r8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004642>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

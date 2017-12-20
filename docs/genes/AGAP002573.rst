@@ -1,9 +1,0 @@
-
-AGAP002573
-=============
-
-
-
-Description: Gtpase-activating rap/ran-gap domain-like protein 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009128
-=============
-
-
-
-Description: Mitochondrial carnitine/acylcarnitine carrier protein [source:vb community annotation].
-
-TODO

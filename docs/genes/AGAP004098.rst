@@ -1,9 +1,0 @@
-
-AGAP004098
-=============
-
-
-
-Description: Gtp-binding protein sar1 [source:vb community annotation].
-
-TODO

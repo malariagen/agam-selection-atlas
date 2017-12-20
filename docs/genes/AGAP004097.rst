@@ -1,9 +1,0 @@
-
-AGAP004097
-=============
-
-
-
-Description: 3-hydroxyisobutyryl-coa hydrolase, mitochondrial [source:uniprotkb/trembl;acc:q7ph36].
-
-TODO

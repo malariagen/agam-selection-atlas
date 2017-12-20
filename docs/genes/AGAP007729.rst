@@ -1,9 +1,0 @@
-
-AGAP007729
-=============
-
-
-
-Description: Activin receptor type-1 [source:vb community annotation].
-
-TODO

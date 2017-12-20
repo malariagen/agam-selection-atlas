@@ -1,9 +1,0 @@
-
-AGAP012422
-=============
-
-
-
-Description: Wnk lysine deficient protein kinase [source:vb community annotation].
-
-TODO

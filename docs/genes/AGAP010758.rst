@@ -1,9 +1,0 @@
-
-AGAP010758
-=============
-
-
-
-Description: Metalloendopeptidase (fragment) [source:uniprotkb/trembl;acc:q7q200].
-
-TODO

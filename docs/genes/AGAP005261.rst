@@ -1,9 +1,0 @@
-
-AGAP005261
-=============
-
-
-
-Description: G protein pathway suppressor 2 [source:vb community annotation].
-
-TODO

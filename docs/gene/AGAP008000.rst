@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008000
+=============
+
+
+
+
+
+Description: Sepiapterin reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008000>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009402
+=============
+
+
+
+Name: **OBP43**
+
+Description: Odorant-binding protein 43 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009402>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

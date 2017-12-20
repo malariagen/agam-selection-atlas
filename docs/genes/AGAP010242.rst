@@ -1,9 +1,0 @@
-
-AGAP010242
-=============
-
-
-
-Description: Roundabout [source:vb community annotation].
-
-TODO

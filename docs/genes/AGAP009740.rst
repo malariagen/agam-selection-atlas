@@ -1,9 +1,0 @@
-
-AGAP009740
-=============
-
-
-
-Description: Trna (guanine26-n2/guanine27-n2)-dimethyltransferase [source:vb community annotation].
-
-TODO

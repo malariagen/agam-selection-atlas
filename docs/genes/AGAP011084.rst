@@ -1,9 +1,0 @@
-
-AGAP011084
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx27 [source:vb community annotation].
-
-TODO

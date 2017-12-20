@@ -1,9 +1,0 @@
-
-AGAP006244
-=============
-
-
-
-Description: Ctl-like protein 1 [source:uniprotkb/swiss-prot;acc:q7q5r7].
-
-TODO

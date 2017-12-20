@@ -1,9 +1,0 @@
-
-AGAP004774
-=============
-
-
-
-Description: Host cell factor [source:vb community annotation].
-
-TODO

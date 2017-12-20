@@ -1,9 +1,0 @@
-
-AGAP002058
-=============
-
-
-
-Description: Beta-galactosidase [source:vb community annotation].
-
-TODO

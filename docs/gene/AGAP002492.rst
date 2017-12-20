@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002492
+=============
+
+
+
+
+
+Description: Nuclear respiratory factor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002492>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

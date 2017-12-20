@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000999
+=============
+
+
+
+Name: **TOLL5A**
+
+Description: Toll-like receptor 5a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000999>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

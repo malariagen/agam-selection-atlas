@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003923
+=============
+
+
+
+Name: **Carm1**
+
+Description: Histone-arginine methyltransferase carmer [source:uniprotkb/swiss-prot;acc:q7q2b7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003923>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

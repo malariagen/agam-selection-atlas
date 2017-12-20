@@ -1,9 +1,0 @@
-
-AGAP009175
-=============
-
-
-
-Description: Galactosylxylosylprotein 3-beta-galactosyltransferase [source:vb community annotation].
-
-TODO

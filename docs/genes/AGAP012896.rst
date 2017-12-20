@@ -1,9 +1,0 @@
-
-AGAP012896
-=============
-
-
-
-Description: N-ethylmaleimide-sensitive factor attachment protein, gamma [source:vb community annotation].
-
-TODO

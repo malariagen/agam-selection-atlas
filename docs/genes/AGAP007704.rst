@@ -1,9 +1,0 @@
-
-AGAP007704
-=============
-
-
-
-Description: Peptidyl-prolyl cis-trans isomerase sdccag10 [source:vb community annotation].
-
-TODO

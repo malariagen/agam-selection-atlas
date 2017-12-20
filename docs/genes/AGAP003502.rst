@@ -1,9 +1,0 @@
-
-AGAP003502
-=============
-
-Name: **HPX6**
-
-Description: Heme peroxidase 6 [source:vb community annotation].
-
-TODO

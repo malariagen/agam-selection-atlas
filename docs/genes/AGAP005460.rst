@@ -1,9 +1,0 @@
-
-AGAP005460
-=============
-
-
-
-Description: Phosphopantetheine adenylyltransferase / dephospho-coa kinase [source:vb community annotation].
-
-TODO

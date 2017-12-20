@@ -1,9 +1,0 @@
-
-AGAP002217
-=============
-
-
-
-Description: Pyruvate dehydrogenase phosphatase regulatory subunit [source:vb community annotation].
-
-TODO

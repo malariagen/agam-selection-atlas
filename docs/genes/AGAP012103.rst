@@ -1,9 +1,0 @@
-
-AGAP012103
-=============
-
-
-
-Description: Insulin-like growth factor 2 mrna-binding protein 2 [source:vb community annotation].
-
-TODO

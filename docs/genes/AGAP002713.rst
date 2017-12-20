@@ -1,9 +1,0 @@
-
-AGAP002713
-=============
-
-Name: **mRpL49**
-
-Description: 39s ribosomal protein l49, mitochondrial [source:vb community annotation].
-
-TODO

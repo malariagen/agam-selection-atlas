@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011967
+=============
+
+
+
+
+
+Description: Iq motif containing with aaa domain 1-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011967>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

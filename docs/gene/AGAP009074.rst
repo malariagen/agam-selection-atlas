@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009074
+=============
+
+
+
+
+
+Description: Atrophin-1 interacting protein 5 (ww domain containing e3 ubiquitin protein li [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009074>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007577
+=============
+
+
+
+
+
+Description: Histidine triad nucleotide binding protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007577>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

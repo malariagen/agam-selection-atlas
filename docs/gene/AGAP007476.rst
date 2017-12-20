@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007476
+=============
+
+
+
+
+
+Description: Tp53 regulating kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007476>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

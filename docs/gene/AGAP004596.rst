@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004596
+=============
+
+
+
+Name: **PyK**
+
+Description: Pyruvate kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004596>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

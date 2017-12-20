@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003259
+=============
+
+
+
+Name: **Gr20**
+
+Description: Gustatory receptor 20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003259>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

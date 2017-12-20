@@ -1,9 +1,0 @@
-
-AGAP002047
-=============
-
-
-
-Description: Atlastin [source:vb community annotation].
-
-TODO

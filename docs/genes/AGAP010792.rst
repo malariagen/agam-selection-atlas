@@ -1,9 +1,0 @@
-
-AGAP010792
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 9 [source:vb community annotation].
-
-TODO

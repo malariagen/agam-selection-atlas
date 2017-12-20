@@ -1,9 +1,0 @@
-
-AGAP002519
-=============
-
-Name: **GPRTYR**
-
-Description: Putative tyramine receptor [source:vb community annotation].
-
-TODO

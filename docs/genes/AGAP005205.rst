@@ -1,9 +1,0 @@
-
-AGAP005205
-=============
-
-Name: **PGRPLA**
-
-Description: Peptidoglycan recognition protein (long) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004272
-=============
-
-Name: **GPRBOS**
-
-Description: Putative boss-like receptor [source:vb community annotation].
-
-TODO

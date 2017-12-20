@@ -1,9 +1,0 @@
-
-AGAP011061
-=============
-
-
-
-Description: Phosphotriesterase-related protein [source:vb community annotation].
-
-TODO

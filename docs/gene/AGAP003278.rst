@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003278
+=============
+
+
+
+
+
+Description: 7sk snrna methylphosphate capping enzyme [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003278>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

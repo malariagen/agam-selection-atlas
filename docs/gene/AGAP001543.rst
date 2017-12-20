@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001543
+=============
+
+
+
+Name: **TWDL11**
+
+Description: Cuticular protein twdl family (twdl11) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001543>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

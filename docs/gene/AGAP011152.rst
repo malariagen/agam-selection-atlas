@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011152
+=============
+
+
+
+
+
+Description: Phosphatidylinositol phospholipase c, gamma-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011152>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

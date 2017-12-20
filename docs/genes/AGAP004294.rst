@@ -1,9 +1,0 @@
-
-AGAP004294
-=============
-
-Name: **Ubqn**
-
-Description: Ubiquilin [source:vb community annotation].
-
-TODO

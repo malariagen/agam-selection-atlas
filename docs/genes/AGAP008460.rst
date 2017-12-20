@@ -1,9 +1,0 @@
-
-AGAP008460
-=============
-
-Name: **CPLCG16**
-
-Description: Cuticular protein cplcg family (cplcg16) [source:vb community annotation].
-
-TODO

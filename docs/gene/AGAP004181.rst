@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004181
+=============
+
+
+
+
+
+Description: Fibroblast growth factor [source:uniprotkb/trembl;acc:a0ndd8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004181>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

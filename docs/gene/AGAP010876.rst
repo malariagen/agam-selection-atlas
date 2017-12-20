@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010876
+=============
+
+
+
+
+
+Description: Molecular chaperone dnak [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010876>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

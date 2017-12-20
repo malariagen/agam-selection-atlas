@@ -1,9 +1,0 @@
-
-AGAP003889
-=============
-
-
-
-Description: Nadph-dependent diflavin oxidoreductase 1 [source:uniprotkb/trembl;acc:q7qk01].
-
-TODO

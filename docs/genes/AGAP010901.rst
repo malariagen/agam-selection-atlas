@@ -1,9 +1,0 @@
-
-AGAP010901
-=============
-
-Name: **CPF2**
-
-Description: Cuticular protein 2 from fifty-one aa family [source:vb community annotation].
-
-TODO

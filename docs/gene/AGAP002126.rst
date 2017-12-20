@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002126
+=============
+
+
+
+Name: **Or37**
+
+Description: Odorant receptor 37 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002126>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

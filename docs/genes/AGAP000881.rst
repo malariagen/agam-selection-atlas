@@ -1,9 +1,0 @@
-
-AGAP000881
-=============
-
-
-
-Description: Aldehyde dehydrogenase family 7 member a1 [source:vb community annotation].
-
-TODO

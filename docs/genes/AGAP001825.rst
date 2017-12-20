@@ -1,9 +1,0 @@
-
-AGAP001825
-=============
-
-
-
-Description: Salivary lipase [source:vb community annotation].
-
-TODO

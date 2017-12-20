@@ -1,9 +1,0 @@
-
-AGAP001506
-=============
-
-
-
-Description: Guanine nucleotide-binding protein subunit beta, other [source:vb community annotation].
-
-TODO

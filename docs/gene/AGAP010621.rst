@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010621
+=============
+
+
+
+
+
+Description: Glycine transporter [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010621>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

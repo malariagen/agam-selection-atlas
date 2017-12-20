@@ -1,9 +1,0 @@
-
-AGAP006107
-=============
-
-
-
-Description: Triple functional domain (ptprf interacting) [source:vb community annotation].
-
-TODO

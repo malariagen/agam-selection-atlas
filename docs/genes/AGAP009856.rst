@@ -1,9 +1,0 @@
-
-AGAP009856
-=============
-
-Name: **Gr8**
-
-Description: Gustatory receptor 8 [source:vb community annotation].
-
-TODO

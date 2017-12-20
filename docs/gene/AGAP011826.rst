@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011826
+=============
+
+
+
+
+
+Description: Cytochrome c oxidase assembly protein subunit 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011826>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

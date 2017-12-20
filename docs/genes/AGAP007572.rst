@@ -1,9 +1,0 @@
-
-AGAP007572
-=============
-
-
-
-Description: All-trans/9-cis [source:vb community annotation].
-
-TODO

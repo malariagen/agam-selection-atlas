@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004035
+=============
+
+
+
+Name: **GPRFSH**
+
+Description: Putative glyco-protein hormone fsh-like receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004035>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

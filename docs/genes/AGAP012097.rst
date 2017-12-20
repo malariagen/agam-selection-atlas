@@ -1,9 +1,0 @@
-
-AGAP012097
-=============
-
-Name: **SLC25A11**
-
-Description: Mitochondrial 2-oxoglutarate/malate transporter (solute carrier family 25) [source:vb community annotation].
-
-TODO

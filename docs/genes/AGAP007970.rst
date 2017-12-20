@@ -1,9 +1,0 @@
-
-AGAP007970
-=============
-
-Name: **APG18A**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

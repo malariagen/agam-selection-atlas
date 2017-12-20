@@ -1,9 +1,0 @@
-
-AGAP006239
-=============
-
-
-
-Description: Protein tssc1 [source:vb community annotation].
-
-TODO

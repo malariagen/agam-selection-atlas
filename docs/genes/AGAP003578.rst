@@ -1,9 +1,0 @@
-
-AGAP003578
-=============
-
-
-
-Description: Aldehyde dehydrogenase (nad ) [source:vb community annotation].
-
-TODO

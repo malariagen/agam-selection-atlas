@@ -1,9 +1,0 @@
-
-AGAP009861
-=============
-
-
-
-Description: Profilin protein [source:vb community annotation].
-
-TODO

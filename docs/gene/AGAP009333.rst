@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009333
+=============
+
+
+
+
+
+Description: Mitochondrial carrier protein (rim2) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009333>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

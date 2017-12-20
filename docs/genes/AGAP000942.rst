@@ -1,9 +1,0 @@
-
-AGAP000942
-=============
-
-
-
-Description: Uncharacterized nudix hydrolase nudl [source:vb community annotation].
-
-TODO

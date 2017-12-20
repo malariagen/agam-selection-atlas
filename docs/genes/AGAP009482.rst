@@ -1,9 +1,0 @@
-
-AGAP009482
-=============
-
-
-
-Description: Zinc finger protein 500 [source:vb community annotation].
-
-TODO

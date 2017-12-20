@@ -1,9 +1,0 @@
-
-AGAP001774
-=============
-
-
-
-Description: Allatostatin receptor [source:vb community annotation].
-
-TODO

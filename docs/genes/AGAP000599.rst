@@ -1,9 +1,0 @@
-
-AGAP000599
-=============
-
-
-
-Description: Xk-related protein [source:uniprotkb/trembl;acc:q7qfp3].
-
-TODO

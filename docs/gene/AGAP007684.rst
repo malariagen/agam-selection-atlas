@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007684
+=============
+
+
+
+
+
+Description: Tubulointerstitial nephritis antigen [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007684>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

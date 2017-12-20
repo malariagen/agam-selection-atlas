@@ -1,9 +1,0 @@
-
-AGAP006359
-=============
-
-
-
-Description: Wd repeat-containing protein 92 [source:vb community annotation].
-
-TODO

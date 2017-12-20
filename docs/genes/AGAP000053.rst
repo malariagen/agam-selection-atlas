@@ -1,9 +1,0 @@
-
-AGAP000053
-=============
-
-
-
-Description: Mannose-6-phosphate isomerase [source:uniprotkb/trembl;acc:q7qel8].
-
-TODO

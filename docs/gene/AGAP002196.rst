@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002196
+=============
+
+
+
+Name: **CYP325G1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002196>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

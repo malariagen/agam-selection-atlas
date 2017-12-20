@@ -1,9 +1,0 @@
-
-AGAP002618
-=============
-
-
-
-Description: Symplekin [source:vb community annotation].
-
-TODO

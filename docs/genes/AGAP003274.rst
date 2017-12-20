@@ -1,9 +1,0 @@
-
-AGAP003274
-=============
-
-
-
-Description: Solute carrier family 12 (sodium/potassium/chloride transporter), member 2 [source:vb community annotation].
-
-TODO

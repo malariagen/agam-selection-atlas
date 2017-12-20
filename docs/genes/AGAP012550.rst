@@ -1,9 +1,0 @@
-
-AGAP012550
-=============
-
-
-
-Description: Kelch-like protein 28 [source:vb community annotation].
-
-TODO

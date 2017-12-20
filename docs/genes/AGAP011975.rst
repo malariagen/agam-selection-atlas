@@ -1,9 +1,0 @@
-
-AGAP011975
-=============
-
-
-
-Description: Ufm1-specific protease 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002571
-=============
-
-
-
-Description: Solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter) [source:vb community annotation].
-
-TODO

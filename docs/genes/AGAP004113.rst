@@ -1,9 +1,0 @@
-
-AGAP004113
-=============
-
-Name: **mRpL55**
-
-Description: 39s ribosomal protein l55, mitochondrial [source:vb community annotation].
-
-TODO

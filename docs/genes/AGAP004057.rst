@@ -1,9 +1,0 @@
-
-AGAP004057
-=============
-
-Name: **gatA**
-
-Description: Glutamyl-trna(gln) amidotransferase subunit a, mitochondrial [source:uniprotkb/swiss-prot;acc:q7qh64].
-
-TODO

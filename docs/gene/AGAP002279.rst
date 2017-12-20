@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002279
+=============
+
+
+
+
+
+Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7qkd9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002279>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

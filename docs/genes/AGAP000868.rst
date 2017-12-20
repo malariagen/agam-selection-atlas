@@ -1,9 +1,0 @@
-
-AGAP000868
-=============
-
-
-
-Description: Beta-1,4-mannosyltransferase egghead protein [source:vb community annotation].
-
-TODO

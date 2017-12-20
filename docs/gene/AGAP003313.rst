@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003313
+=============
+
+
+
+
+
+Description: Thap domain-containing protein 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003313>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

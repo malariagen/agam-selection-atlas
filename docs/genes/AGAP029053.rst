@@ -1,9 +1,0 @@
-
-AGAP029053
-=============
-
-Name: **DOME**
-
-Description: Jakstat pathway signalling domeless [source:vb community annotation].
-
-TODO

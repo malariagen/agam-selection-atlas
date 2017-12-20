@@ -1,9 +1,0 @@
-
-AGAP008093
-=============
-
-
-
-Description: Four-jointed box protein 1 [source:vb community annotation].
-
-TODO

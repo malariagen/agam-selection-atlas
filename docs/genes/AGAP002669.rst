@@ -1,9 +1,0 @@
-
-AGAP002669
-=============
-
-
-
-Description: Flap endonuclease [source:vb community annotation].
-
-TODO

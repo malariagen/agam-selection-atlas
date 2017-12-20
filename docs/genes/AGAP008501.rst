@@ -1,9 +1,0 @@
-
-AGAP008501
-=============
-
-
-
-Description: Glutaryl-coa dehydrogenase [source:vb community annotation].
-
-TODO

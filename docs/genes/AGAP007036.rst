@@ -1,9 +1,0 @@
-
-AGAP007036
-=============
-
-Name: **APL1A**
-
-Description: Anopheles plasmodium-responsive leucine-rich repeat 1a [source:vb community annotation].
-
-TODO

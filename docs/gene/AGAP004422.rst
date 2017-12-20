@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004422
+=============
+
+
+
+Name: **RpL19**
+
+Description: 60s ribosomal protein l19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004422>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

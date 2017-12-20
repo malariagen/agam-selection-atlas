@@ -1,9 +1,0 @@
-
-AGAP011126
-=============
-
-
-
-Description: Spermidine synthase [source:vb community annotation].
-
-TODO

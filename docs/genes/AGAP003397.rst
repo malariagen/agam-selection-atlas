@@ -1,9 +1,0 @@
-
-AGAP003397
-=============
-
-
-
-Description: Similar to atp-dependent rna helicase dbp5 [source:vb community annotation].
-
-TODO

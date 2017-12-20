@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013192
+=============
+
+
+
+
+
+Description: Venom allergen [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013192>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

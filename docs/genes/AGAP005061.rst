@@ -1,9 +1,0 @@
-
-AGAP005061
-=============
-
-Name: **RpS9**
-
-Description: 40s ribosomal protein s9 [source:vb community annotation].
-
-TODO

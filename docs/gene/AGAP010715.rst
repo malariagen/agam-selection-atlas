@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010715
+=============
+
+
+
+
+
+Description: Anillin/rhotekin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010715>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

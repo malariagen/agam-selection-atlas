@@ -1,9 +1,0 @@
-
-AGAP007701
-=============
-
-Name: **Cbc**
-
-Description: Protein clp1 homolog [source:uniprotkb/swiss-prot;acc:q7qjw7].
-
-TODO

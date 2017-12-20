@@ -1,9 +1,0 @@
-
-AGAP002902
-=============
-
-
-
-Description: Mothers against decapentaplegic homolog 4 [source:vb community annotation].
-
-TODO

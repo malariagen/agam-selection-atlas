@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002164
+=============
+
+
+
+
+
+Description: Broad-complex core protein isoforms 1/2/3/4/5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002164>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

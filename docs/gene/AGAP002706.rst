@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002706
+=============
+
+
+
+
+
+Description: Small nuclear ribonucleoprotein g [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002706>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

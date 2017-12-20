@@ -1,9 +1,0 @@
-
-AGAP012171
-=============
-
-
-
-Description: Sn1-specific diacylglycerol lipase beta [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002125
+=============
+
+
+
+Name: **Or34**
+
+Description: Odorant receptor 34 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002125>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

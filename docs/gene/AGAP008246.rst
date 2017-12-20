@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008246
+=============
+
+
+
+
+
+Description: Gamma-butyrobetaine dioxygenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008246>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

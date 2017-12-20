@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003115
+=============
+
+
+
+Name: **COE2580**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003115>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000128
+=============
+
+
+
+
+
+Description: Mfs transporter, vnt family, synaptic vesicle glycoprotein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000128>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

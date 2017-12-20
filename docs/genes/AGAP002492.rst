@@ -1,9 +1,0 @@
-
-AGAP002492
-=============
-
-
-
-Description: Nuclear respiratory factor 1 [source:vb community annotation].
-
-TODO

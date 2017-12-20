@@ -1,9 +1,0 @@
-
-AGAP000807
-=============
-
-
-
-Description: Helix-loop-helix transcription factor [source:vb community annotation].
-
-TODO

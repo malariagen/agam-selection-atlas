@@ -1,9 +1,0 @@
-
-AGAP007242
-=============
-
-
-
-Description: Cleavage and polyadenylation specificity factor subunit 5 [source:vb community annotation].
-
-TODO

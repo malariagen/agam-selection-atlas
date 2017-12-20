@@ -1,9 +1,0 @@
-
-AGAP006804
-=============
-
-
-
-Description: Ribosome-recycling factor, mitochondrial precursor [source:vb community annotation].
-
-TODO

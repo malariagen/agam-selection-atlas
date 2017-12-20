@@ -1,9 +1,0 @@
-
-AGAP002115
-=============
-
-
-
-Description: Rap1 gtpase-activating protein 1 [source:vb community annotation].
-
-TODO

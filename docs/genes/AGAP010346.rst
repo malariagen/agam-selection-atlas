@@ -1,9 +1,0 @@
-
-AGAP010346
-=============
-
-Name: **Mer**
-
-Description: Merlin (moesin-ezrin-radixin-like protein) [source:vb community annotation].
-
-TODO

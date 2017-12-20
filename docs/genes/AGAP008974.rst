@@ -1,9 +1,0 @@
-
-AGAP008974
-=============
-
-
-
-Description: Protein cornichon homolog [source:vb community annotation].
-
-TODO

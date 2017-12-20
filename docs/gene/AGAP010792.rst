@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010792
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010792>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

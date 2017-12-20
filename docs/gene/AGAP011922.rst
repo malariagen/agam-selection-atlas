@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011922
+=============
+
+
+
+
+
+Description: Lipase maturation factor [source:uniprotkb/trembl;acc:a0a1s4h7y4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011922>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

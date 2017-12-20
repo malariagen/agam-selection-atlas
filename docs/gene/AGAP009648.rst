@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009648
+=============
+
+
+
+
+
+Description: 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009648>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

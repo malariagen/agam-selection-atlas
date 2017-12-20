@@ -1,9 +1,0 @@
-
-AGAP002925
-=============
-
-
-
-Description: Poly(u)-specific endoribonuclease [source:vb community annotation].
-
-TODO

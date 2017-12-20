@@ -1,9 +1,0 @@
-
-AGAP008350
-=============
-
-Name: **DBLOX**
-
-Description: Double oxidase: two peroxidase domains. [source:vb community annotation].
-
-TODO

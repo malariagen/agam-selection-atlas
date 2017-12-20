@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002424
+=============
+
+
+
+
+
+Description: Sema domain, seven thrombospondin repeats (type 1 and type 1-like) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002424>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

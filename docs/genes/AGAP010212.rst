@@ -1,9 +1,0 @@
-
-AGAP010212
-=============
-
-
-
-Description: Prefoldin subunit 1 [source:vb community annotation].
-
-TODO

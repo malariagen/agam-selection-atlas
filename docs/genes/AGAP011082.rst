@@ -1,9 +1,0 @@
-
-AGAP011082
-=============
-
-
-
-Description: Heat shock transcription factor, invertebrate [source:vb community annotation].
-
-TODO

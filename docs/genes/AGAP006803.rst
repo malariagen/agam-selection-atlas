@@ -1,9 +1,0 @@
-
-AGAP006803
-=============
-
-
-
-Description: Kinesin family member 18/19 [source:vb community annotation].
-
-TODO

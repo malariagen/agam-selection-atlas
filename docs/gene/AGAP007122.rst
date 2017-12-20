@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007122
+=============
+
+
+
+
+
+Description: Tubulin, alpha 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007122>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

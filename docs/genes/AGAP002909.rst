@@ -1,9 +1,0 @@
-
-AGAP002909
-=============
-
-
-
-Description: Control protein hctl029 [source:vb community annotation].
-
-TODO

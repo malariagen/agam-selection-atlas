@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007586
+=============
+
+
+
+
+
+Description: Conserved oligomeric golgi complex subunit 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007586>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

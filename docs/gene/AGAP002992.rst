@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002992
+=============
+
+
+
+
+
+Description: Carbonic anhydrase [source:uniprotkb/trembl;acc:q5tu56].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002992>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006658
-=============
-
-
-
-Description: Snurportin-1 [source:vb community annotation].
-
-TODO

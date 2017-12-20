@@ -1,9 +1,0 @@
-
-AGAP009317
-=============
-
-
-
-Description: Adenylate kinase [source:vb community annotation].
-
-TODO

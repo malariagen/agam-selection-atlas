@@ -1,9 +1,0 @@
-
-AGAP011114
-=============
-
-
-
-Description: Mrna-decapping enzyme subunit 2 [source:vb community annotation].
-
-TODO

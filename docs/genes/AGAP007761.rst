@@ -1,9 +1,0 @@
-
-AGAP007761
-=============
-
-
-
-Description: Complement control protein [source:vb community annotation].
-
-TODO

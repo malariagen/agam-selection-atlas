@@ -1,9 +1,0 @@
-
-AGAP009514
-=============
-
-Name: **GPRGBB3**
-
-Description: Putative gaba-b receptor 3 [source:vb community annotation].
-
-TODO

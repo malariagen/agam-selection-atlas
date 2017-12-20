@@ -1,9 +1,0 @@
-
-AGAP011676
-=============
-
-
-
-Description: Uncoupling protein 2, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003266
-=============
-
-
-
-Description: Myotubularin-related protein 9 [source:vb community annotation].
-
-TODO

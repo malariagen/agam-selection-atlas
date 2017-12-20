@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007696
+=============
+
+
+
+
+
+Description: Dna-binding protein inhibitor id [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007696>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

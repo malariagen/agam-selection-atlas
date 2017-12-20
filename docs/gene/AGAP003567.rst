@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003567
+=============
+
+
+
+
+
+Description: Hepatitis b virus x-interacting protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003567>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

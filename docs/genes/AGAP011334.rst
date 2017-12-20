@@ -1,9 +1,0 @@
-
-AGAP011334
-=============
-
-
-
-Description: Failed axon connections protein [source:vb community annotation].
-
-TODO

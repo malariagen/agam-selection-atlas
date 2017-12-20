@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011283
+=============
+
+
+
+
+
+Description: Nf-kappa-b inhibitor-interacting ras-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011283>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

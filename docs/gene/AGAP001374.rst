@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001374
+=============
+
+
+
+Name: **trio**
+
+Description: Trio salivary gland protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001374>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

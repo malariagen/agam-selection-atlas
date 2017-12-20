@@ -1,9 +1,0 @@
-
-AGAP008828
-=============
-
-
-
-Description: Atp-binding protein involved in chromosome partitioning [source:vb community annotation].
-
-TODO

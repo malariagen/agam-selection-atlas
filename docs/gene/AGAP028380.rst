@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028380
+=============
+
+
+
+Name: **ND5**
+
+Description: Nadh dehydrogenase subunit 5 [source:european nucleotide archive;acc:nd5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028380>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

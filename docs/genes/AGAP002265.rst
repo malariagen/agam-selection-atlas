@@ -1,9 +1,0 @@
-
-AGAP002265
-=============
-
-
-
-Description: Splicing factor, arginine/serine-rich 12 [source:vb community annotation].
-
-TODO

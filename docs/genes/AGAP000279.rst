@@ -1,9 +1,0 @@
-
-AGAP000279
-=============
-
-Name: **OBP8**
-
-Description: Odorant-binding protein 8 [source:vb community annotation].
-
-TODO

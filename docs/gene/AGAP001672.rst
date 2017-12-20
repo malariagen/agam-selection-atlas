@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001672
+=============
+
+
+
+
+
+Description: Kl-5 beta dynein heavy chain [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001672>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008249
-=============
-
-
-
-Description: T-complex protein, epsilon subunit [source:vb community annotation].
-
-TODO

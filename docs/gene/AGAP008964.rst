@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008964
+=============
+
+
+
+
+
+Description: Maltase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008964>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

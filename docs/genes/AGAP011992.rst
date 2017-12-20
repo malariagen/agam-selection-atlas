@@ -1,9 +1,0 @@
-
-AGAP011992
-=============
-
-
-
-Description: Lysosomal acid lipase [source:vb community annotation].
-
-TODO

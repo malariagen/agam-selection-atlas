@@ -1,9 +1,0 @@
-
-AGAP013398
-=============
-
-
-
-Description: Ddrgk domain-containing protein 1 [source:vb community annotation].
-
-TODO

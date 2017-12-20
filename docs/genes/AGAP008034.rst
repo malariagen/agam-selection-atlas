@@ -1,9 +1,0 @@
-
-AGAP008034
-=============
-
-
-
-Description: Solute carrier family 39 (zinc transporter), member 7 [source:vb community annotation].
-
-TODO

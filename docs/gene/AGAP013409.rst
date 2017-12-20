@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013409
+=============
+
+
+
+Name: **IR7s**
+
+Description: Ionotropic receptor ir7s [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013409>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

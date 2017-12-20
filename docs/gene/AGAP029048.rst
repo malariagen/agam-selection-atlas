@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP029048
+=============
+
+
+
+
+
+Description: Electroneutral potassium-chloride cotransporter 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP029048>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

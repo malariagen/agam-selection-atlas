@@ -1,9 +1,0 @@
-
-AGAP028096
-=============
-
-
-
-Description: Alkaline phosphatase [source:uniprotkb/trembl;acc:a0a1s4hcw1].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012302
-=============
-
-
-
-Description: Sodium-independent sulfate anion transporter [source:vb community annotation].
-
-TODO

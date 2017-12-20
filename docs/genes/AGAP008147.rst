@@ -1,9 +1,0 @@
-
-AGAP008147
-=============
-
-
-
-Description: Trna-splicing ligase rtcb homolog [source:uniprotkb/swiss-prot;acc:q7q412].
-
-TODO

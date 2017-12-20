@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000606
+=============
+
+
+
+Name: **GPRNNA19**
+
+Description: Putative gpcr class a orphan receptor 19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000606>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

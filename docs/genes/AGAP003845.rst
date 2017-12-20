@@ -1,9 +1,0 @@
-
-AGAP003845
-=============
-
-
-
-Description: Bromodomain-containing protein 8 [source:vb community annotation].
-
-TODO

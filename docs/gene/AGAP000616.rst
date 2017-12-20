@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000616
+=============
+
+
+
+
+
+Description: 26s proteasome regulatory subunit t5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000616>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

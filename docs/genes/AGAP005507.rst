@@ -1,9 +1,0 @@
-
-AGAP005507
-=============
-
-
-
-Description: Synaptic vesicle-associated integral membrane protein [source:vb community annotation].
-
-TODO

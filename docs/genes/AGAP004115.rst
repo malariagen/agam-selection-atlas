@@ -1,9 +1,0 @@
-
-AGAP004115
-=============
-
-
-
-Description: Cystinosin [source:vb community annotation].
-
-TODO

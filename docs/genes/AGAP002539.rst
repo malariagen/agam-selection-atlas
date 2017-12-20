@@ -1,9 +1,0 @@
-
-AGAP002539
-=============
-
-
-
-Description: Integrator complex subunit 3 [source:vb community annotation].
-
-TODO

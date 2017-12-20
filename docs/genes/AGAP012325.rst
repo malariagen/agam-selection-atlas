@@ -1,9 +1,0 @@
-
-AGAP012325
-=============
-
-Name: **OBP28**
-
-Description: Odorant-binding protein 28 [source:vb community annotation].
-
-TODO

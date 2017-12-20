@@ -1,9 +1,0 @@
-
-AGAP009494
-=============
-
-
-
-Description: Ets-type family, other [source:vb community annotation].
-
-TODO

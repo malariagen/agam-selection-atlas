@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002016
+=============
+
+
+
+
+
+Description: Iron/zinc purple acid phosphatase-like protein precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002016>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

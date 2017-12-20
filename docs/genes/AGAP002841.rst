@@ -1,9 +1,0 @@
-
-AGAP002841
-=============
-
-
-
-Description: Pyridoxal phosphate phosphatase phospho2 [source:vb community annotation].
-
-TODO

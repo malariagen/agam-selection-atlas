@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028016
+=============
+
+
+
+Name: **CPLCP15**
+
+Description: Cuticular protein (putative) cplcp15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028016>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

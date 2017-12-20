@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002389
+=============
+
+
+
+
+
+Description: Ubiquitin-like 4a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002389>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

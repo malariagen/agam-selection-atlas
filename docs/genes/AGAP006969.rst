@@ -1,9 +1,0 @@
-
-AGAP006969
-=============
-
-
-
-Description: Solute carrier family 35, member f5 [source:vb community annotation].
-
-TODO

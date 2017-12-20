@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011620
+=============
+
+
+
+
+
+Description: Collagen, type i/ii/iii/v/xi/xxiv/xxvii alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011620>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

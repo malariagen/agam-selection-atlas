@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000120
+=============
+
+
+
+
+
+Description: Tubulin folding cofactor b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000120>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

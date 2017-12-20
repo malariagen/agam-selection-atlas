@@ -1,9 +1,0 @@
-
-AGAP009212
-=============
-
-Name: **SRPN6**
-
-Description: Serine protease inhibitor (serpin) 6 [source:vb community annotation].
-
-TODO

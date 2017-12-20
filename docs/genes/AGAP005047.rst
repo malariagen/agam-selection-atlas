@@ -1,9 +1,0 @@
-
-AGAP005047
-=============
-
-Name: **Gr43**
-
-Description: Gustatory receptor 43 [source:vb community annotation].
-
-TODO

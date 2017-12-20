@@ -1,9 +1,0 @@
-
-AGAP006904
-=============
-
-Name: **MMP1**
-
-Description: Matrix metalloprotease 1 [source:vb community annotation].
-
-TODO

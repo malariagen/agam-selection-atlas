@@ -1,9 +1,0 @@
-
-AGAP004674
-=============
-
-
-
-Description: Phenoloxidase inhibitor protein [source:vb community annotation].
-
-TODO

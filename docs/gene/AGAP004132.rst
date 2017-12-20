@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004132
+=============
+
+
+
+Name: **Osi10**
+
+Description: Protein osiris 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004132>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

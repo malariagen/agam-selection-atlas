@@ -1,9 +1,0 @@
-
-AGAP010646
-=============
-
-
-
-Description: Reversion-inducing cysteine-rich protein with kazal motifs [source:vb community annotation].
-
-TODO

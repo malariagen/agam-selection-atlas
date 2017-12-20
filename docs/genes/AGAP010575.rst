@@ -1,9 +1,0 @@
-
-AGAP010575
-=============
-
-
-
-Description: Rbbp5 protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001285
-=============
-
-
-
-Description: Charged multivesicular body protein 2a [source:vb community annotation].
-
-TODO

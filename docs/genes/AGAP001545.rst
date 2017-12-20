@@ -1,9 +1,0 @@
-
-AGAP001545
-=============
-
-
-
-Description: Ribosomal biogenesis protein rlp24 [source:vb community annotation].
-
-TODO

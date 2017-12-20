@@ -1,9 +1,0 @@
-
-AGAP010556
-=============
-
-
-
-Description: Phosphatidylinositol-bisphosphatase [source:vb community annotation].
-
-TODO

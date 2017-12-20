@@ -1,9 +1,0 @@
-
-AGAP010397
-=============
-
-
-
-Description: Protein n-terminal methyltransferase [source:vb community annotation].
-
-TODO

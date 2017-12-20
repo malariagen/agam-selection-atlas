@@ -1,9 +1,0 @@
-
-AGAP008191
-=============
-
-
-
-Description: Cyclin e [source:vb community annotation].
-
-TODO

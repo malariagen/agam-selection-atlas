@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001589
+=============
+
+
+
+
+
+Description: Methylthioribose-1-phosphate isomerase [source:uniprotkb/swiss-prot;acc:q7pks9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001589>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

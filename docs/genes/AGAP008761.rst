@@ -1,9 +1,0 @@
-
-AGAP008761
-=============
-
-
-
-Description: Translocon-associated protein subunit gamma [source:vb community annotation].
-
-TODO

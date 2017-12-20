@@ -1,9 +1,0 @@
-
-AGAP010088
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 9/24 [source:vb community annotation].
-
-TODO

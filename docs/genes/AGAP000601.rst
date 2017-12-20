@@ -1,9 +1,0 @@
-
-AGAP000601
-=============
-
-
-
-Description: Protein halfway [source:vb community annotation].
-
-TODO

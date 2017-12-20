@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009619
+=============
+
+
+
+
+
+Description: S-adenosylmethionine decarboxylase proenzyme [source:uniprotkb/trembl;acc:q7q1v3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009619>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

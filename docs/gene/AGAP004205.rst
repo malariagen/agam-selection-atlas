@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004205
+=============
+
+
+
+
+
+Description: N-sulfoglucosamine sulfohydrolase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004205>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010073
-=============
-
-
-
-Description: Type ii pantothenate kinase [source:vb community annotation].
-
-TODO

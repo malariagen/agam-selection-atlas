@@ -1,9 +1,0 @@
-
-AGAP003890
-=============
-
-
-
-Description: U3 small nucleolar ribonucleoprotein protein imp4 [source:vb community annotation].
-
-TODO

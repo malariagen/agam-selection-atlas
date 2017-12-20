@@ -1,9 +1,0 @@
-
-AGAP007264
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein 4 [source:vb community annotation].
-
-TODO

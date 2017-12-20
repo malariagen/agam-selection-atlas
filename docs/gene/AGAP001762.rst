@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001762
+=============
+
+
+
+Name: **APG9**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001762>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

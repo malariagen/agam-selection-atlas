@@ -1,9 +1,0 @@
-
-AGAP010105
-=============
-
-Name: **CPR88**
-
-Description: Cuticular protein rr-2 family 88 [source:vb community annotation].
-
-TODO

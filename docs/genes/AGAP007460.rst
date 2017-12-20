@@ -1,9 +1,0 @@
-
-AGAP007460
-=============
-
-
-
-Description: Acyl-coa-binding protein 2 [source:vb community annotation].
-
-TODO

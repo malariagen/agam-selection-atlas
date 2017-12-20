@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010519
+=============
+
+
+
+
+
+Description: Kinesin-like protein unc-104 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010519>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002555
-=============
-
-Name: **CYP325K1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

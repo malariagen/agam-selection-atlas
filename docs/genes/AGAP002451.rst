@@ -1,9 +1,0 @@
-
-AGAP002451
-=============
-
-Name: **SCRB1**
-
-Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
-
-TODO

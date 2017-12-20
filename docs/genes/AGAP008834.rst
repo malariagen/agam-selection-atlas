@@ -1,9 +1,0 @@
-
-AGAP008834
-=============
-
-Name: **Akh1**
-
-Description: Adipokinetic hormone 1 [source:vb community annotation].
-
-TODO

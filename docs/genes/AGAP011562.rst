@@ -1,9 +1,0 @@
-
-AGAP011562
-=============
-
-Name: **Oseg4**
-
-Description: Outer segment 4 [source:vb community annotation].
-
-TODO

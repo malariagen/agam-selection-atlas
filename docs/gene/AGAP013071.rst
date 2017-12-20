@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013071
+=============
+
+
+
+
+
+Description: Stearoyl-coa desaturase 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013071>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

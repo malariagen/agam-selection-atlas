@@ -1,9 +1,0 @@
-
-AGAP001371
-=============
-
-
-
-Description: D-tyrosyl-trna(tyr) deacylase [source:uniprotkb/trembl;acc:q7pkm9].
-
-TODO

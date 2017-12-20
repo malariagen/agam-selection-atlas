@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003749
+=============
+
+
+
+
+
+Description: Pancreatic triacylglycerol lipase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003749>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

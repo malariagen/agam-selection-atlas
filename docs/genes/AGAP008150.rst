@@ -1,9 +1,0 @@
-
-AGAP008150
-=============
-
-
-
-Description: Metaxin-2 [source:vb community annotation].
-
-TODO

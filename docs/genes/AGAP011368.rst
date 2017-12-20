@@ -1,9 +1,0 @@
-
-AGAP011368
-=============
-
-Name: **OBP57**
-
-Description: Odorant-binding protein 57 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006848
-=============
-
-Name: **CPR47**
-
-Description: Cuticular protein rr-1 family 47 [source:vb community annotation].
-
-TODO

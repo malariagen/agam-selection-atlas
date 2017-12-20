@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009866
+=============
+
+
+
+
+
+Description: Dolichol-phosphate mannosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009866>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

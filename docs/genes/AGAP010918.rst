@@ -1,9 +1,0 @@
-
-AGAP010918
-=============
-
-
-
-Description: Cleavage stimulation factor subunit 2 [source:vb community annotation].
-
-TODO

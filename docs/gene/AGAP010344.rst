@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010344
+=============
+
+
+
+
+
+Description: Solute carrier family 26, other [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010344>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

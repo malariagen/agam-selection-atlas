@@ -1,9 +1,0 @@
-
-AGAP010278
-=============
-
-
-
-Description: Dihydrofolate reductase [source:vb community annotation].
-
-TODO

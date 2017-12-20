@@ -1,9 +1,0 @@
-
-AGAP012879
-=============
-
-Name: **RpL18a-2**
-
-Description: 60s ribosomal protein l18a (partial) [source:vb community annotation].
-
-TODO

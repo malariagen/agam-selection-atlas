@@ -1,9 +1,0 @@
-
-AGAP012417
-=============
-
-Name: **Exo1**
-
-Description: Exocyst complex component 1 [source:vb community annotation].
-
-TODO

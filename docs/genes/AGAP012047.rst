@@ -1,9 +1,0 @@
-
-AGAP012047
-=============
-
-
-
-Description: Arylsulfatase b precursor [source:vb community annotation].
-
-TODO

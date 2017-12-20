@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010679
+=============
+
+
+
+Name: **TIM10**
+
+Description: Mitochrondrial inner membrane translocase subunit tim10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010679>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

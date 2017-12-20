@@ -1,9 +1,0 @@
-
-AGAP005113
-=============
-
-
-
-Description: Thiamine pyrophosphate carrier [source:vb community annotation].
-
-TODO

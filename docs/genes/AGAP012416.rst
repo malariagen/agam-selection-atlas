@@ -1,9 +1,0 @@
-
-AGAP012416
-=============
-
-
-
-Description: Dna-directed rna polymerase iii subunit rpc7 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006796
-=============
-
-
-
-Description: Peritrophin [source:vb community annotation].
-
-TODO

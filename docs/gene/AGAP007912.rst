@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007912
+=============
+
+
+
+
+
+Description: Ribosomal rna assembly protein mis3, expressed [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007912>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

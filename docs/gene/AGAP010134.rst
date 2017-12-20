@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010134
+=============
+
+
+
+
+
+Description: Arrestin-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010134>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

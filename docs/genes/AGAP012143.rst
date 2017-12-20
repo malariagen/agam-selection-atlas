@@ -1,9 +1,0 @@
-
-AGAP012143
-=============
-
-
-
-Description: Mterf domain-containing protein, mitochondrial [source:vb community annotation].
-
-TODO

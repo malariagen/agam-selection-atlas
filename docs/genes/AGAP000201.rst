@@ -1,9 +1,0 @@
-
-AGAP000201
-=============
-
-
-
-Description: 26s proteasome non-atpase regulatory subunit 9 [source:vb community annotation].
-
-TODO

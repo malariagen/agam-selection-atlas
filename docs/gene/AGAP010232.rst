@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010232
+=============
+
+
+
+
+
+Description: All-trans-retinol dehydrogenase (nad ) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010232>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

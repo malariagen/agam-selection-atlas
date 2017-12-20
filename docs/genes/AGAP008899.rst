@@ -1,9 +1,0 @@
-
-AGAP008899
-=============
-
-
-
-Description: Proto-oncogene tyrosine-protein kinase ret [source:vb community annotation].
-
-TODO

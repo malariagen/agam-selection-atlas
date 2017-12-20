@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007259
+=============
+
+
+
+
+
+Description: Tmem9 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007259>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

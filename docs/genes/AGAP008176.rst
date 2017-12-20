@@ -1,9 +1,0 @@
-
-AGAP008176
-=============
-
-
-
-Description: Dipeptidyl-peptidase 4 [source:vb community annotation].
-
-TODO

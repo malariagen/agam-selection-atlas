@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009493
+=============
+
+
+
+Name: **alpha9**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009493>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

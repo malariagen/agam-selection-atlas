@@ -1,9 +1,0 @@
-
-AGAP010836
-=============
-
-
-
-Description: Peroxin-2 [source:vb community annotation].
-
-TODO

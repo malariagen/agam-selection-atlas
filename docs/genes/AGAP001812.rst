@@ -1,9 +1,0 @@
-
-AGAP001812
-=============
-
-Name: **IR75h.2**
-
-Description: Ionotropic receptor ir75h.2 [source:vb community annotation].
-
-TODO

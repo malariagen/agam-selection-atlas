@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008750
+=============
+
+
+
+
+
+Description: Tripartite motif-containing protein 9/67 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008750>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

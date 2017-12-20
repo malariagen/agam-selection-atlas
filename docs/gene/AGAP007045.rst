@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007045
+=============
+
+
+
+Name: **LRIM15**
+
+Description: Leucine-rich immune protein (tm) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007045>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

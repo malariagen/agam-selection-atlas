@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013167
+=============
+
+
+
+
+
+Description: Sorting and assembly machinery component 50 homolog a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013167>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

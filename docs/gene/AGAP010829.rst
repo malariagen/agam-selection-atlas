@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010829
+=============
+
+
+
+Name: **CASPS12**
+
+Description: Short caspase 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010829>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

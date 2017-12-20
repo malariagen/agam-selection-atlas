@@ -1,9 +1,0 @@
-
-AGAP005060
-=============
-
-Name: **GPRNND2**
-
-Description: Putative gpcr class d orphan receptor 2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002150
+=============
+
+
+
+
+
+Description: Hyperpolarization activated cyclic nucleotide-gated potassium channel 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002150>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

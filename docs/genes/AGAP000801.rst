@@ -1,9 +1,0 @@
-
-AGAP000801
-=============
-
-Name: **GLURIIb**
-
-Description: Ionotropic receptor gluriib [source:vb community annotation].
-
-TODO

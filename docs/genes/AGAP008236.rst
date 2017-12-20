@@ -1,9 +1,0 @@
-
-AGAP008236
-=============
-
-Name: **Thoc2**
-
-Description: Tho complex subunit 2 [source:vb community annotation].
-
-TODO

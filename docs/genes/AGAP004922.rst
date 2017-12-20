@@ -1,9 +1,0 @@
-
-AGAP004922
-=============
-
-Name: **CASPS11**
-
-Description: Short caspase 11 [source:vb community annotation].
-
-TODO

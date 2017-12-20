@@ -1,9 +1,0 @@
-
-AGAP007573
-=============
-
-
-
-Description: Rad54-like protein 2 [source:vb community annotation].
-
-TODO

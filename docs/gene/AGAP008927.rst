@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008927
+=============
+
+
+
+
+
+Description: Protein tilb homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008927>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

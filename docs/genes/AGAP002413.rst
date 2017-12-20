@@ -1,9 +1,0 @@
-
-AGAP002413
-=============
-
-
-
-Description: Basic leucine zipper and w2 domain-containing protein 1 [source:vb community annotation].
-
-TODO

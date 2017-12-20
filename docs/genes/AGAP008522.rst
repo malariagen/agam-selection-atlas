@@ -1,9 +1,0 @@
-
-AGAP008522
-=============
-
-
-
-Description: Transcription initiation factor tfiih subunit 3 [source:vb community annotation].
-
-TODO

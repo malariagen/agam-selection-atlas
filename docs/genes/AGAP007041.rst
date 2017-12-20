@@ -1,9 +1,0 @@
-
-AGAP007041
-=============
-
-
-
-Description: Angiopoietin-like salivary protein [source:vb community annotation].
-
-TODO

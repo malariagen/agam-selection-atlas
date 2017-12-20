@@ -1,9 +1,0 @@
-
-AGAP008982
-=============
-
-
-
-Description: Czcd (cation-efflux system membrane protein) [source:vb community annotation].
-
-TODO

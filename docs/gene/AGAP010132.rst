@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010132
+=============
+
+
+
+Name: **SCRBQ1**
+
+Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010132>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

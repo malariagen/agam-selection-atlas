@@ -1,9 +1,0 @@
-
-AGAP009135
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx6/dhh1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006746
+=============
+
+
+
+
+
+Description: Myosin-light-chain kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006746>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003980
+=============
+
+
+
+
+
+Description: Vacuolar protein sorting-associated protein 45 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003980>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

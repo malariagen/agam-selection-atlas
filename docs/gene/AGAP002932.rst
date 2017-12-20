@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002932
+=============
+
+
+
+
+
+Description: Ceramide kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002932>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

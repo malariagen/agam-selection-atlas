@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004189
+=============
+
+
+
+
+
+Description: D-2-hydroxyglutarate dehydrogenase, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004189>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

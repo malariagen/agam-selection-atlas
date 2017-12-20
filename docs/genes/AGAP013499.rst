@@ -1,9 +1,0 @@
-
-AGAP013499
-=============
-
-Name: **pink**
-
-Description: Hermansky-pudlak syndrome 5 protein (protein pink) [source:vb community annotation].
-
-TODO

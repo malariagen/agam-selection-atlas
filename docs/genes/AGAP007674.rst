@@ -1,9 +1,0 @@
-
-AGAP007674
-=============
-
-
-
-Description: Gipc pdz domain containing family, member 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005599
-=============
-
-
-
-Description: Ph-sensitive chloride channel [source:vb community annotation].
-
-TODO

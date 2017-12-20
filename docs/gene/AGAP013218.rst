@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013218
+=============
+
+
+
+
+
+Description: Sodium-independent sulfate anion transporter [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013218>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

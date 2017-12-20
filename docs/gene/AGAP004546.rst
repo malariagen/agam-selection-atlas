@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004546
+=============
+
+
+
+
+
+Description: Rna-binding protein 25 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004546>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

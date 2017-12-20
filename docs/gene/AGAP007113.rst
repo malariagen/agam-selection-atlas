@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007113
+=============
+
+
+
+
+
+Description: 1-acyl-sn-glycerol-3-phosphate acyltransferase gamma [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007113>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

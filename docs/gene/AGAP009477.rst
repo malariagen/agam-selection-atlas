@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009477
+=============
+
+
+
+
+
+Description: Bruno [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009477>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

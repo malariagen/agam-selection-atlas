@@ -1,9 +1,0 @@
-
-AGAP011540
-=============
-
-
-
-Description: Dynein intermediate chain 2, axonemal [source:vb community annotation].
-
-TODO

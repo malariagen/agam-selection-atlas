@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000862
+=============
+
+
+
+
+
+Description: Alpha 1,3-glucosidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000862>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

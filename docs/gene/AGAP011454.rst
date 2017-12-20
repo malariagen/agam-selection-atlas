@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011454
+=============
+
+
+
+
+
+Description: Rotatin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011454>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

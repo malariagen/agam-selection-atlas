@@ -1,9 +1,0 @@
-
-AGAP012368
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 2-alpha kinase 4 [source:vb community annotation].
-
-TODO

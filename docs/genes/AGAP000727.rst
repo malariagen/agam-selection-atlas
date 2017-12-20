@@ -1,9 +1,0 @@
-
-AGAP000727
-=============
-
-
-
-Description: Adenylate cyclase 1 [source:vb community annotation].
-
-TODO

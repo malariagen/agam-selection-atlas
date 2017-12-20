@@ -1,9 +1,0 @@
-
-AGAP010815
-=============
-
-Name: **TEP1**
-
-Description: Thioester-containing protein 1 [source:vb community annotation].
-
-TODO

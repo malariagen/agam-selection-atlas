@@ -1,9 +1,0 @@
-
-AGAP012180
-=============
-
-
-
-Description: Transmembrane protein 234 homolog [source:uniprotkb/swiss-prot;acc:a0ngi1].
-
-TODO

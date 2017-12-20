@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001723
+=============
+
+
+
+Name: **COEAE1A**
+
+Description: Carboxylesterase alpha esterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001723>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

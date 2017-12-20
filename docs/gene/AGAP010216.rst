@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010216
+=============
+
+
+
+Name: **RpL25**
+
+Description: 60s ribosomal protein l25 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010216>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

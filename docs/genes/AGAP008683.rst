@@ -1,9 +1,0 @@
-
-AGAP008683
-=============
-
-
-
-Description: Adenylate cyclase 10 [source:vb community annotation].
-
-TODO

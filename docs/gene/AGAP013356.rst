@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013356
+=============
+
+
+
+
+
+Description: Otopetrin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013356>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

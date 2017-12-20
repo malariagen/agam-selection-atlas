@@ -1,9 +1,0 @@
-
-AGAP009094
-=============
-
-
-
-Description: Cysteine desulfurase [source:vb community annotation].
-
-TODO

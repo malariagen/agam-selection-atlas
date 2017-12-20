@@ -1,9 +1,0 @@
-
-AGAP010142
-=============
-
-Name: **Dat**
-
-Description: Dopamine n-acetyltransferase [source:vb community annotation].
-
-TODO

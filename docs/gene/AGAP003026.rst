@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003026
+=============
+
+
+
+
+
+Description: Chimerin (chimaerin) 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

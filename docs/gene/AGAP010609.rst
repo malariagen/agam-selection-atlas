@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010609
+=============
+
+
+
+
+
+Description: Dnaj (hsp40) homolog subfamily c [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010609>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

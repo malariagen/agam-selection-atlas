@@ -1,9 +1,0 @@
-
-AGAP009409
-=============
-
-Name: **Or51**
-
-Description: Odorant receptor 51 [source:vb community annotation].
-
-TODO

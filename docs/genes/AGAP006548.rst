@@ -1,9 +1,0 @@
-
-AGAP006548
-=============
-
-
-
-Description: Glycine cleavage system h protein [source:vb community annotation].
-
-TODO

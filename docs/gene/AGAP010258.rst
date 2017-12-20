@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010258
+=============
+
+
+
+
+
+Description: Kinesin light chain [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010258>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

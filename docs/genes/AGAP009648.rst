@@ -1,9 +1,0 @@
-
-AGAP009648
-=============
-
-
-
-Description: 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [source:vb community annotation].
-
-TODO

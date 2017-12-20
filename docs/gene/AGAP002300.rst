@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002300
+=============
+
+
+
+
+
+Description: Exosome complex exonuclease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002300>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

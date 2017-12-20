@@ -1,9 +1,0 @@
-
-AGAP004948
-=============
-
-
-
-Description: Duplex-specific nuclease [source:vb community annotation].
-
-TODO

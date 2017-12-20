@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011959
+=============
+
+
+
+Name: **king-tubby**
+
+Description: Protein king tubby [source:uniprotkb/swiss-prot;acc:q7pzk5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011959>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

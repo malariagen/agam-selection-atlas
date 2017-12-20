@@ -1,9 +1,0 @@
-
-AGAP004299
-=============
-
-
-
-Description: Helix-loop-helix protein hen [source:vb community annotation].
-
-TODO

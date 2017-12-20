@@ -1,9 +1,0 @@
-
-AGAP001318
-=============
-
-
-
-Description: Acetyl-coa c-acetyltransferase [source:vb community annotation].
-
-TODO

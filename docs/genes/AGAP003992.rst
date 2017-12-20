@@ -1,9 +1,0 @@
-
-AGAP003992
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 22 [source:vb community annotation].
-
-TODO

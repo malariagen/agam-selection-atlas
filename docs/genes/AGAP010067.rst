@@ -1,9 +1,0 @@
-
-AGAP010067
-=============
-
-
-
-Description: Voltage-gated potassium channel subunit beta-2 [source:vb community annotation].
-
-TODO

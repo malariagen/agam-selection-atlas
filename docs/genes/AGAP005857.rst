@@ -1,9 +1,0 @@
-
-AGAP005857
-=============
-
-
-
-Description: Actin-related protein 6 [source:vb community annotation].
-
-TODO

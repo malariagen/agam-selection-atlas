@@ -1,9 +1,0 @@
-
-AGAP006283
-=============
-
-Name: **CPR70**
-
-Description: Cuticular protein rr-2 family 70 [source:vb community annotation].
-
-TODO

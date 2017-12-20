@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009079
+=============
+
+
+
+
+
+Description: 2',5'-phosphodiesterase 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009079>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

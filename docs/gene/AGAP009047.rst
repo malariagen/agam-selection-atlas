@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009047
+=============
+
+
+
+
+
+Description: Replication factor c subunit 3/5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009047>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

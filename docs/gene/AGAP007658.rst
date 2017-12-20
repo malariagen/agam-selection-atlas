@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007658
+=============
+
+
+
+
+
+Description: Defective in cullin neddylation protein [source:uniprotkb/trembl;acc:q7qju2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007658>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

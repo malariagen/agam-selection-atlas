@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008416
+=============
+
+
+
+
+
+Description: Cyclic amp-dependent transcription factor atf-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008416>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

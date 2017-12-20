@@ -1,9 +1,0 @@
-
-AGAP011192
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase mll3 [source:vb community annotation].
-
-TODO

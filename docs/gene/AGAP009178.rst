@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009178
+=============
+
+
+
+
+
+Description: Reticulon 4 interacting protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009178>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

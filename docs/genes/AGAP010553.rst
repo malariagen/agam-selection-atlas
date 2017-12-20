@@ -1,9 +1,0 @@
-
-AGAP010553
-=============
-
-
-
-Description: Poly(u)-binding-splicing factor puf60 [source:vb community annotation].
-
-TODO

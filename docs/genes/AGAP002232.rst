@@ -1,9 +1,0 @@
-
-AGAP002232
-=============
-
-Name: **GPR5HT2A**
-
-Description: Putative serotonin 5ht-2a receptor [source:vb community annotation].
-
-TODO

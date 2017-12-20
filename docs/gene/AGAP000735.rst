@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000735
+=============
+
+
+
+
+
+Description: Histidyl-trna synthetase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000735>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

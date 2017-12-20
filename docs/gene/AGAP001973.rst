@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001973
+=============
+
+
+
+Name: **Prosalpha7**
+
+Description: 26s proteasome alpha 7 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001973>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004376
+=============
+
+
+
+
+
+Description: Aldose 1-epimerase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004376>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

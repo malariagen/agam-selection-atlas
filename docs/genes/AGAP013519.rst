@@ -1,9 +1,0 @@
-
-AGAP013519
-=============
-
-
-
-Description: U6 snrna-associated sm-like protein lsm3 [source:vb community annotation].
-
-TODO

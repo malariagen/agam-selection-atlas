@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012408
+=============
+
+
+
+
+
+Description: Trna (uracil-5-)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012408>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

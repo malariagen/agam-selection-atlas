@@ -1,9 +1,0 @@
-
-AGAP011402
-=============
-
-
-
-Description: Sphingolipid delta-4 desaturase [source:vb community annotation].
-
-TODO

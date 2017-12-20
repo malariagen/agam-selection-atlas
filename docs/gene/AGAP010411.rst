@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010411
+=============
+
+
+
+Name: **IR8a**
+
+Description: Ionotropic receptor ir8a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010411>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

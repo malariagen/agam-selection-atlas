@@ -1,9 +1,0 @@
-
-AGAP005341
-=============
-
-
-
-Description: Myotubularin related protein 6 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011834
+=============
+
+
+
+
+
+Description: Mitochondrial trans-2-enoyl-coa reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011834>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010005
-=============
-
-
-
-Description: Uncharacterized protein kiaa2013-like protein [source:vb community annotation].
-
-TODO

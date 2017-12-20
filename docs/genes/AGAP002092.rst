@@ -1,9 +1,0 @@
-
-AGAP002092
-=============
-
-
-
-Description: Ras-related protein rab-30 [source:vb community annotation].
-
-TODO

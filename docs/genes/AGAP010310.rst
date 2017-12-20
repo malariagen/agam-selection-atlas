@@ -1,9 +1,0 @@
-
-AGAP010310
-=============
-
-
-
-Description: Eukaryotic peptide chain release factor subunit [source:vb community annotation].
-
-TODO

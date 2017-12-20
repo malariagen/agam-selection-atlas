@@ -1,9 +1,0 @@
-
-AGAP002960
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 3 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009331
+=============
+
+
+
+
+
+Description: Slowpoke-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009331>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

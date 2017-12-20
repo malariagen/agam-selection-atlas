@@ -1,9 +1,0 @@
-
-AGAP013015
-=============
-
-
-
-Description: P53 and dna damage-regulated protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007617
-=============
-
-
-
-Description: Bromodomain and phd finger-containing protein 1 [source:vb community annotation].
-
-TODO

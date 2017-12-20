@@ -1,9 +1,0 @@
-
-AGAP002829
-=============
-
-Name: **SPN-E**
-
-Description: Atp-dependent rna helicase spindle-e [source:vb community annotation].
-
-TODO

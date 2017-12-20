@@ -1,9 +1,0 @@
-
-AGAP008447
-=============
-
-Name: **CPLCG4**
-
-Description: Cuticular protein cplcg family (cplcg4) [source:vb community annotation].
-
-TODO

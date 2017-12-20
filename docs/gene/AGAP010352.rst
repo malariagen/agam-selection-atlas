@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010352
+=============
+
+
+
+
+
+Description: Dna/rna-binding protein kin17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010352>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

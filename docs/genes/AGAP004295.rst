@@ -1,9 +1,0 @@
-
-AGAP004295
-=============
-
-
-
-Description: Dtw domain-containing protein 1 [source:vb community annotation].
-
-TODO

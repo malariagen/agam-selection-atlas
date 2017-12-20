@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007418
+=============
+
+
+
+
+
+Description: Proteasome inhibitor subunit 1 (pi31) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007418>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

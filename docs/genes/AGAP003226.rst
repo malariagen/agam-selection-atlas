@@ -1,9 +1,0 @@
-
-AGAP003226
-=============
-
-
-
-Description: Dynein heavy chain 2 [source:vb community annotation].
-
-TODO

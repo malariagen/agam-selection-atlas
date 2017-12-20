@@ -1,9 +1,0 @@
-
-AGAP009022
-=============
-
-Name: **Cht9**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

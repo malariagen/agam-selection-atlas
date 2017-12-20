@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011830
+=============
+
+
+
+
+
+Description: Myo-inositol-1-phosphate synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011830>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

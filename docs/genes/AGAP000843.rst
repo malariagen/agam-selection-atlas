@@ -1,9 +1,0 @@
-
-AGAP000843
-=============
-
-
-
-Description: Cardiolipin synthase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002713
+=============
+
+
+
+Name: **mRpL49**
+
+Description: 39s ribosomal protein l49, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002713>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

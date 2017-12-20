@@ -1,9 +1,0 @@
-
-AGAP011399
-=============
-
-
-
-Description: Protein casc3 [source:vb community annotation].
-
-TODO

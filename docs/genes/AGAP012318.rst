@@ -1,9 +1,0 @@
-
-AGAP012318
-=============
-
-Name: **OBP23**
-
-Description: Odorant-binding protein 23 [source:vb community annotation].
-
-TODO

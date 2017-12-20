@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007220
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerase iii subunit rpc9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007220>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

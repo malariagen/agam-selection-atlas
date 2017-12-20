@@ -1,9 +1,0 @@
-
-AGAP009491
-=============
-
-
-
-Description: F-type h -transporting atpase subunit g [source:vb community annotation].
-
-TODO

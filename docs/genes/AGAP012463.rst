@@ -1,9 +1,0 @@
-
-AGAP012463
-=============
-
-
-
-Description: Er degradation enhancer, mannosidase alpha-like 2 [source:vb community annotation].
-
-TODO

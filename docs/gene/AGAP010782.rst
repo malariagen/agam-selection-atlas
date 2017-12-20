@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010782
+=============
+
+
+
+
+
+Description: Ral guanine nucleotide exchange factor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010782>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

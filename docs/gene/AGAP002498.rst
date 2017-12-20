@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002498
+=============
+
+
+
+
+
+Description: Vam6/vps39-like protein isoform 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002498>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

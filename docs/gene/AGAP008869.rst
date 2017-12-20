@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008869
+=============
+
+
+
+
+
+Description: Chromosome transmission fidelity protein 18 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008869>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

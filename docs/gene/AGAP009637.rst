@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009637
+=============
+
+
+
+
+
+Description: Bardet-biedl syndrome 2 protein homolog [source:uniprotkb/trembl;acc:q7q1t6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009637>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

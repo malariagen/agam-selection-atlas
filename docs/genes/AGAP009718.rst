@@ -1,9 +1,0 @@
-
-AGAP009718
-=============
-
-Name: **Or72**
-
-Description: Odorant receptor 72 [source:vb community annotation].
-
-TODO

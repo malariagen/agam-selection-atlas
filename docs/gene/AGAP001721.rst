@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001721
+=============
+
+
+
+
+
+Description: Translocon-associated protein subunit alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001721>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

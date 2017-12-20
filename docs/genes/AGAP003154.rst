@@ -1,9 +1,0 @@
-
-AGAP003154
-=============
-
-
-
-Description: Transcription elongation factor b polypeptide 2 [source:vb community annotation].
-
-TODO

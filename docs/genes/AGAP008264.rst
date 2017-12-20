@@ -1,9 +1,0 @@
-
-AGAP008264
-=============
-
-
-
-Description: Palmitoyltransferase [source:uniprotkb/trembl;acc:a0a1s4gyf7].
-
-TODO

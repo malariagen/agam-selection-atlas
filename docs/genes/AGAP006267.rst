@@ -1,9 +1,0 @@
-
-AGAP006267
-=============
-
-Name: **CTL6**
-
-Description: C-type lectin (ctl) [source:vb community annotation].
-
-TODO

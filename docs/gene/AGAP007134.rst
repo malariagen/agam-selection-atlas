@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007134
+=============
+
+
+
+
+
+Description: Elongation of very long chain fatty acids protein [source:uniprotkb/trembl;acc:q7qiy7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007134>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

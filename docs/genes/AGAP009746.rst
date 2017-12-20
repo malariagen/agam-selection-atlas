@@ -1,9 +1,0 @@
-
-AGAP009746
-=============
-
-
-
-Description: Ruvb-like protein 2 [source:vb community annotation].
-
-TODO

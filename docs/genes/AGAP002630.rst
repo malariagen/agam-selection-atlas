@@ -1,9 +1,0 @@
-
-AGAP002630
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 beta subcomplex 2 [source:vb community annotation].
-
-TODO

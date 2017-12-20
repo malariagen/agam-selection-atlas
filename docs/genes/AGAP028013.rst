@@ -1,9 +1,0 @@
-
-AGAP028013
-=============
-
-Name: **CPLCP25**
-
-Description: Cuticular protein (putative) cplcp25 [source:vb community annotation].
-
-TODO

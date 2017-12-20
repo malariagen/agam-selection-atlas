@@ -1,9 +1,0 @@
-
-AGAP002018
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase setd3 [source:vb community annotation].
-
-TODO

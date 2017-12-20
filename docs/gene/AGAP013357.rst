@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013357
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase arkadia [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013357>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

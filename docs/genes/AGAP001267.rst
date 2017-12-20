@@ -1,9 +1,0 @@
-
-AGAP001267
-=============
-
-
-
-Description: Adaptor-related protein complex 2, beta 1 subunit [source:vb community annotation].
-
-TODO

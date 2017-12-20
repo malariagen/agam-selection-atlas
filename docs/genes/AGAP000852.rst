@@ -1,9 +1,0 @@
-
-AGAP000852
-=============
-
-
-
-Description: Small ubiquitin-related modifier [source:uniprotkb/trembl;acc:q7pnj2].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011876
+=============
+
+
+
+
+
+Description: Zinc finger protein 277 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011876>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

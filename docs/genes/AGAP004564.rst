@@ -1,9 +1,0 @@
-
-AGAP004564
-=============
-
-
-
-Description: Soluble guanylate cyclase 89da [source:vb community annotation].
-
-TODO

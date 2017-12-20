@@ -1,9 +1,0 @@
-
-AGAP001414
-=============
-
-
-
-Description: Wd40 repeat-containing protein smu1 [source:vb community annotation].
-
-TODO

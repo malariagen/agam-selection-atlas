@@ -1,9 +1,0 @@
-
-AGAP009948
-=============
-
-
-
-Description: Signal recognition particle subunit srp19 [source:vb community annotation].
-
-TODO

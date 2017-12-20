@@ -1,9 +1,0 @@
-
-AGAP002627
-=============
-
-
-
-Description: S-formylglutathione hydrolase [source:uniprotkb/trembl;acc:q7qch6].
-
-TODO

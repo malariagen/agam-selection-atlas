@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004097
+=============
+
+
+
+
+
+Description: 3-hydroxyisobutyryl-coa hydrolase, mitochondrial [source:uniprotkb/trembl;acc:q7ph36].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004097>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

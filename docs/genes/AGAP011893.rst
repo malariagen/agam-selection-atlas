@@ -1,9 +1,0 @@
-
-AGAP011893
-=============
-
-
-
-Description: Potentail helicase mov-10 [source:vb community annotation].
-
-TODO

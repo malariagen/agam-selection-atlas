@@ -1,9 +1,0 @@
-
-AGAP009204
-=============
-
-Name: **eIF3h**
-
-Description: Eukaryotic translation initiation factor 3 subunit h [source:uniprotkb/swiss-prot;acc:q7pvr3].
-
-TODO

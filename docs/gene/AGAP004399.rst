@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004399
+=============
+
+
+
+Name: **Pgm**
+
+Description: Phosphoglycerate mutase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004399>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

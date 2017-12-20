@@ -1,9 +1,0 @@
-
-AGAP028634
-=============
-
-Name: **EcR**
-
-Description: Ecdysone receptor [source:vb community annotation].
-
-TODO

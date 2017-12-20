@@ -1,9 +1,0 @@
-
-AGAP005709
-=============
-
-
-
-Description: Serine collagenase 1 [source:vb community annotation].
-
-TODO

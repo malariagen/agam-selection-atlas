@@ -1,9 +1,0 @@
-
-AGAP011300
-=============
-
-Name: **NADH_b5_red**
-
-Description: Nadh-cytochrome b5 reductase [source:uniprotkb/trembl;acc:q7qhq5].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002050
-=============
-
-Name: **ABCG13**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 13 [source:vb community annotation].
-
-TODO

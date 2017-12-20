@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009626
+=============
+
+
+
+
+
+Description: Kv channel-interacting protein 4 isoform 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009626>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

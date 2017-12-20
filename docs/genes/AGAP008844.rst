@@ -1,9 +1,0 @@
-
-AGAP008844
-=============
-
-Name: **GALE1**
-
-Description: Galectin 1 [source:vb community annotation].
-
-TODO

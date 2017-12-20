@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004114
+=============
+
+
+
+Name: **Gr1**
+
+Description: Gustatory receptor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

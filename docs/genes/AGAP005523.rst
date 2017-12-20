@@ -1,9 +1,0 @@
-
-AGAP005523
-=============
-
-
-
-Description: Small nuclear ribonucleoprotein b and b' [source:vb community annotation].
-
-TODO

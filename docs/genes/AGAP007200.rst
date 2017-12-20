@@ -1,9 +1,0 @@
-
-AGAP007200
-=============
-
-Name: **DEF5**
-
-Description: Defensin anti-microbial peptide [source:vb community annotation].
-
-TODO

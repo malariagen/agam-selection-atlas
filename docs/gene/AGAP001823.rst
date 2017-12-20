@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001823
+=============
+
+
+
+Name: **VATG**
+
+Description: V-type h -transporting atpase subunit g [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001823>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

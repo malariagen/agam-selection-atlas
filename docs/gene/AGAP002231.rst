@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002231
+=============
+
+
+
+
+
+Description: Histone acetyltransferase [source:uniprotkb/trembl;acc:q7qk98].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002231>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

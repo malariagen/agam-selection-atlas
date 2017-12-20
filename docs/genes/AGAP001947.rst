@@ -1,9 +1,0 @@
-
-AGAP001947
-=============
-
-
-
-Description: Tankyrase [source:vb community annotation].
-
-TODO

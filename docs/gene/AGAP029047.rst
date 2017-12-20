@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP029047
+=============
+
+
+
+Name: **CTL5**
+
+Description: C-type lectin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP029047>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012965
+=============
+
+
+
+
+
+
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012965>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

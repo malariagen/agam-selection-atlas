@@ -1,9 +1,0 @@
-
-AGAP001374
-=============
-
-Name: **trio**
-
-Description: Trio salivary gland protein [source:vb community annotation].
-
-TODO

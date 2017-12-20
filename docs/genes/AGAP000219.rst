@@ -1,9 +1,0 @@
-
-AGAP000219
-=============
-
-
-
-Description: Tektin-3 [source:vb community annotation].
-
-TODO

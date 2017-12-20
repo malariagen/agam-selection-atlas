@@ -1,9 +1,0 @@
-
-AGAP004198
-=============
-
-Name: **SRPN19**
-
-Description: Serine protease inhibitor (serpin) 19 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003085
+=============
+
+
+
+
+
+Description: Splicing factor 3a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003085>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

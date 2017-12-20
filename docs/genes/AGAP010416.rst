@@ -1,9 +1,0 @@
-
-AGAP010416
-=============
-
-Name: **ABCA8**
-
-Description: Atp-binding cassette transporter (abc transporter) family a member 8 [source:vb community annotation].
-
-TODO

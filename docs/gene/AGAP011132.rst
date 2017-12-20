@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011132
+=============
+
+
+
+
+
+Description: Gins complex subunit 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011132>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

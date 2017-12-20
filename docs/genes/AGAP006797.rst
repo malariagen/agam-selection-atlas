@@ -1,9 +1,0 @@
-
-AGAP006797
-=============
-
-
-
-Description: Double-strand break repair protein mre11 [source:vb community annotation].
-
-TODO

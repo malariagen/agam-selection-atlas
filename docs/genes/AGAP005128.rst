@@ -1,9 +1,0 @@
-
-AGAP005128
-=============
-
-
-
-Description: Elongation factor tu [source:vb community annotation].
-
-TODO

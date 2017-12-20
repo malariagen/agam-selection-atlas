@@ -1,9 +1,0 @@
-
-AGAP008649
-=============
-
-
-
-Description: Enterokinase light chain [source:vb community annotation].
-
-TODO

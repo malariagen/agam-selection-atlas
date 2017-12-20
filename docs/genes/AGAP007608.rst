@@ -1,9 +1,0 @@
-
-AGAP007608
-=============
-
-
-
-Description: Mads-box transcription enhancer factor 2, invertebrate [source:vb community annotation].
-
-TODO

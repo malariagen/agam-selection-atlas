@@ -1,9 +1,0 @@
-
-AGAP005220
-=============
-
-
-
-Description: Cytoplasmic trna 2-thiolation protein 1 [source:uniprotkb/swiss-prot;acc:q7q9i4].
-
-TODO

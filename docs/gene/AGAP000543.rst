@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000543
+=============
+
+
+
+
+
+Description: Vitamin-k-epoxide reductase (warfarin-sensitive) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000543>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

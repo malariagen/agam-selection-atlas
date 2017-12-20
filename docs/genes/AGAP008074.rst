@@ -1,9 +1,0 @@
-
-AGAP008074
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class u [source:vb community annotation].
-
-TODO

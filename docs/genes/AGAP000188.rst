@@ -1,9 +1,0 @@
-
-AGAP000188
-=============
-
-
-
-Description: Uridine phosphorylase [source:uniprotkb/trembl;acc:q7pfx7].
-
-TODO

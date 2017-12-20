@@ -1,9 +1,0 @@
-
-AGAP004237
-=============
-
-
-
-Description: Nuclear lamin l1 alpha [source:vb community annotation].
-
-TODO

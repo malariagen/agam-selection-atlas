@@ -1,9 +1,0 @@
-
-AGAP001033
-=============
-
-
-
-Description: Protein mab-21-like [source:uniprotkb/swiss-prot;acc:q7qhx4].
-
-TODO

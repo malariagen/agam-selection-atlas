@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000537
+=============
+
+
+
+Name: **TWDL8**
+
+Description: Cuticular protein twdl family (twdl8) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000537>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

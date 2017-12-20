@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001703
+=============
+
+
+
+
+
+Description: Ap-2 complex subunit sigma [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001703>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

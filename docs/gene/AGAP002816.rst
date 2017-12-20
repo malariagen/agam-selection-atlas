@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002816
+=============
+
+
+
+
+
+Description: Ero1-like protein alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002816>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

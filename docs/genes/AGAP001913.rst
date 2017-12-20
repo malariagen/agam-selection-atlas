@@ -1,9 +1,0 @@
-
-AGAP001913
-=============
-
-
-
-Description: Histamine-gated chloride channel [source:vb community annotation].
-
-TODO

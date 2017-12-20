@@ -1,9 +1,0 @@
-
-AGAP010492
-=============
-
-
-
-Description: Asparagine synthetase domain-containing protein c [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011231
-=============
-
-
-
-Description: Fibrinogen [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004801
-=============
-
-
-
-Description: Huntingtin interacting protein [source:vb community annotation].
-
-TODO

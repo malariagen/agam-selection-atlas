@@ -1,9 +1,0 @@
-
-AGAP001324
-=============
-
-
-
-Description: Erythroid differentiation-related factor 1 [source:vb community annotation].
-
-TODO

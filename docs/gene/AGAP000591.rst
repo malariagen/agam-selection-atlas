@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000591
+=============
+
+
+
+
+
+Description: Decaprenyl-diphosphate synthase subunit 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000591>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

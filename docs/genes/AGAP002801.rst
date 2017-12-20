@@ -1,9 +1,0 @@
-
-AGAP002801
-=============
-
-
-
-Description: Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3 [source:vb community annotation].
-
-TODO

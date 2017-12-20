@@ -1,9 +1,0 @@
-
-AGAP006168
-=============
-
-
-
-Description: Bmp binding endothelial regulator [source:vb community annotation].
-
-TODO

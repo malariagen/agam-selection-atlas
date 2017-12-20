@@ -1,9 +1,0 @@
-
-AGAP006607
-=============
-
-Name: **eIF3i**
-
-Description: Eukaryotic translation initiation factor 3 subunit i [source:uniprotkb/swiss-prot;acc:q7pp77].
-
-TODO

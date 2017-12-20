@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028659
+=============
+
+
+
+
+
+Description: Putative til domain polypeptide [source:uniprotkb/trembl;acc:q2eq01].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028659>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

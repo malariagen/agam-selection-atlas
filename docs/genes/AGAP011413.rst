@@ -1,9 +1,0 @@
-
-AGAP011413
-=============
-
-
-
-Description: Ccr4-not transcription complex subunit 7/8 [source:vb community annotation].
-
-TODO

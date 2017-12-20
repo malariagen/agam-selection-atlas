@@ -1,9 +1,0 @@
-
-AGAP000819
-=============
-
-
-
-Description: Nuclear receptor subfamily 2 group e member (tailless) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012099
-=============
-
-
-
-Description: Kinase (fragment) [source:uniprotkb/trembl;acc:q7pzu9].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010139
-=============
-
-
-
-Description: Gmp synthase (glutamine-hydrolysing) [source:vb community annotation].
-
-TODO

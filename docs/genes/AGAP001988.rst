@@ -1,9 +1,0 @@
-
-AGAP001988
-=============
-
-
-
-Description: Hyp37.7-like [source:uniprotkb/trembl;acc:q52p96].
-
-TODO

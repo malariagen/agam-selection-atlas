@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008645
+=============
+
+
+
+Name: **GAM1**
+
+Description: Gambicin anti-microbial peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008645>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

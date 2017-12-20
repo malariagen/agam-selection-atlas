@@ -1,9 +1,0 @@
-
-AGAP012134
-=============
-
-
-
-Description: Hiv-1 vpr-binding protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002443
-=============
-
-Name: **GPROP11**
-
-Description: Pteropsin [source:vb community annotation].
-
-TODO

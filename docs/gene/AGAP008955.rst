@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008955
+=============
+
+
+
+
+
+Description: Ubiquinol-cytochrome c reductase iron-sulfur subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008955>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

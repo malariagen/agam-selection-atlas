@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010577
+=============
+
+
+
+
+
+Description: Tyrosyl-dna phosphodiesterase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010577>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

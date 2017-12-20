@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008049
+=============
+
+
+
+
+
+Description: Cell division cycle 123 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008049>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

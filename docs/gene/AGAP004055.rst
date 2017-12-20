@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004055
+=============
+
+
+
+
+
+Description: 2-oxoglutarate dehydrogenase e2 component (dihydrolipoamide succinyltransferas [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004055>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

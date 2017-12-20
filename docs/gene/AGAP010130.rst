@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010130
+=============
+
+
+
+
+
+Description: 3,2-trans-enoyl-coa isomerase mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010130>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

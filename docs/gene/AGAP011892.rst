@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011892
+=============
+
+
+
+
+
+Description: Required for meiotic nuclear division 5 homolog a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011892>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

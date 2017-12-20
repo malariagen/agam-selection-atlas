@@ -1,9 +1,0 @@
-
-AGAP002138
-=============
-
-Name: **CYP325H1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

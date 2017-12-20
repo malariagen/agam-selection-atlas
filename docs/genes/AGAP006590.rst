@@ -1,9 +1,0 @@
-
-AGAP006590
-=============
-
-
-
-Description: T-lymphoma invasion and metastasis-inducing protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003081
-=============
-
-
-
-Description: Peroxisomal membrane protein 11c [source:vb community annotation].
-
-TODO

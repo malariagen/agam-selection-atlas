@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009347
+=============
+
+
+
+
+
+Description: Fk506-binding protein 4/5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009347>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

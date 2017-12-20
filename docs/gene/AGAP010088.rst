@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010088
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 9/24 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010088>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

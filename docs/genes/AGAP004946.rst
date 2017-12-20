@@ -1,9 +1,0 @@
-
-AGAP004946
-=============
-
-
-
-Description: Nck-associated protein 1 [source:vb community annotation].
-
-TODO

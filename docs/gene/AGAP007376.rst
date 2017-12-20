@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007376
+=============
+
+
+
+
+
+Description: Nuclear transcription factor y, alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007376>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

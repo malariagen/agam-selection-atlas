@@ -1,9 +1,0 @@
-
-AGAP012481
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase setd8 [source:vb community annotation].
-
-TODO

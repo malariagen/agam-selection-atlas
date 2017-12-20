@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002559
+=============
+
+
+
+
+
+Description: Alpha-tocopherol transfer protein-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002559>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

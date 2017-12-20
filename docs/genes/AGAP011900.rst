@@ -1,9 +1,0 @@
-
-AGAP011900
-=============
-
-
-
-Description: Alkylated dna repair protein alkb homolog 8 [source:vb community annotation].
-
-TODO

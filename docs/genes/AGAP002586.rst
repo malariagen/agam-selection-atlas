@@ -1,9 +1,0 @@
-
-AGAP002586
-=============
-
-
-
-Description: Glycogen(starch) synthase [source:vb community annotation].
-
-TODO

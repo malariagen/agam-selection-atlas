@@ -1,9 +1,0 @@
-
-AGAP001905
-=============
-
-
-
-Description: Zinc finger rna-binding protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000909
-=============
-
-
-
-Description: Endoplasmic reticulum resident protein 44 precursor [source:vb community annotation].
-
-TODO

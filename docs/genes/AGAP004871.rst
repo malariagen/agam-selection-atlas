@@ -1,9 +1,0 @@
-
-AGAP004871
-=============
-
-
-
-Description: Band 7 protein agap004871 [source:uniprotkb/swiss-prot;acc:q7ppu9].
-
-TODO

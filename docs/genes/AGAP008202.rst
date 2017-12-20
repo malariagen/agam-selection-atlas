@@ -1,9 +1,0 @@
-
-AGAP008202
-=============
-
-
-
-Description: Potassium voltage-gated channel shaw-related subfamily c, invertebrate [source:vb community annotation].
-
-TODO

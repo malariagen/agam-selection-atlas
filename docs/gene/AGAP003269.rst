@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003269
+=============
+
+
+
+Name: **DH44**
+
+Description: Diueretic hormone 44 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003269>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

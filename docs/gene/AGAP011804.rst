@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011804
+=============
+
+
+
+
+
+Description: Translation initiation factor 2d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011804>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

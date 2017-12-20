@@ -1,9 +1,0 @@
-
-AGAP005297
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 1 (s-phase kinase-associated protein 2) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009392
+=============
+
+
+
+Name: **Or46**
+
+Description: Odorant receptor 46 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009392>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

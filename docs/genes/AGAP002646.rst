@@ -1,9 +1,0 @@
-
-AGAP002646
-=============
-
-
-
-Description: Cyclin-dependent kinase 7 [source:vb community annotation].
-
-TODO

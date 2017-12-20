@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004579
+=============
+
+
+
+Name: **cdk2**
+
+Description: Cyclin-dependent kinase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004579>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

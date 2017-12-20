@@ -1,9 +1,0 @@
-
-AGAP010850
-=============
-
-
-
-Description: Fatty acyl-coa reductase (fragment) [source:uniprotkb/trembl;acc:q7qgq1].
-
-TODO

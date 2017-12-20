@@ -1,9 +1,0 @@
-
-AGAP008915
-=============
-
-
-
-Description: Gamma-glutamyltranspeptidase [source:vb community annotation].
-
-TODO

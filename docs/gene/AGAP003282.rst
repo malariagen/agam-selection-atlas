@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003282
+=============
+
+
+
+
+
+Description: Histone-lysine n-methyltransferase, h3 lysine-79 specific [source:uniprotkb/trembl;acc:f5hir5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003282>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

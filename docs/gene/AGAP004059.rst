@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004059
+=============
+
+
+
+
+
+Description: Ca-activated cl channel protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004059>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

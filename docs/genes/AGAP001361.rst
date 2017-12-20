@@ -1,9 +1,0 @@
-
-AGAP001361
-=============
-
-
-
-Description: Wd repeat-containing protein [source:vb community annotation].
-
-TODO

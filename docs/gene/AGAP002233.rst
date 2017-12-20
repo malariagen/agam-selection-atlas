@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002233
+=============
+
+
+
+
+
+Description: Retinal guanylate cyclase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002233>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

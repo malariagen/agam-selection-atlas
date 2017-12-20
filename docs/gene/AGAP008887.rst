@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008887
+=============
+
+
+
+
+
+Description: Hepatocyte growth factor-regulated tyrosine kinase substrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008887>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011062
-=============
-
-
-
-Description: Hemoglobin (heterodimeric) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000306
+=============
+
+
+
+
+
+Description: Histone h2a [source:uniprotkb/trembl;acc:q7qf50].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000306>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004251
-=============
-
-
-
-Description: Solute carrier family 20 (sodium-dependent phosphate transporter) [source:vb community annotation].
-
-TODO

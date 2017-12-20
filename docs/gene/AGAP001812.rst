@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001812
+=============
+
+
+
+Name: **IR75h.2**
+
+Description: Ionotropic receptor ir75h.2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001812>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

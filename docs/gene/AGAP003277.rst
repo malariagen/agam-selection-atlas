@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003277
+=============
+
+
+
+
+
+Description: Cathepsin d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003277>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

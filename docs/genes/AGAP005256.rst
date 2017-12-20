@@ -1,9 +1,0 @@
-
-AGAP005256
-=============
-
-
-
-Description: Juvenile hormone acid methyltransferase [source:vb community annotation].
-
-TODO

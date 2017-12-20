@@ -1,9 +1,0 @@
-
-AGAP005167
-=============
-
-
-
-Description: Short chain dehydrogenase/3-oxoacyl-(acyl-carrier protein) reductase [source:vb community annotation].
-
-TODO

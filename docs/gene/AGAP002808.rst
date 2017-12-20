@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002808
+=============
+
+
+
+
+
+Description: Rrna small subunit pseudouridine methyltransferase nep1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002808>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

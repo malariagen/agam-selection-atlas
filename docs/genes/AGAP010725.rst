@@ -1,9 +1,0 @@
-
-AGAP010725
-=============
-
-
-
-Description: Prestin [source:vb community annotation].
-
-TODO

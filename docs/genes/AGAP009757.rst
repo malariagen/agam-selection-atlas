@@ -1,9 +1,0 @@
-
-AGAP009757
-=============
-
-Name: **ANCE7**
-
-Description: Angiotensin-converting enzyme 7 [source:vb community annotation].
-
-TODO

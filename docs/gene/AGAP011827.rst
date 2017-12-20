@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011827
+=============
+
+
+
+
+
+Description: Acetyl-coa acyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011827>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

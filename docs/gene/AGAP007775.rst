@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007775
+=============
+
+
+
+
+
+Description: Atp-dependent dna helicase pif1 [source:uniprotkb/trembl;acc:q7q395].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007775>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

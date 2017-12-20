@@ -1,9 +1,0 @@
-
-AGAP007161
-=============
-
-
-
-Description: Alpha-crystallin chain a [source:vb community annotation].
-
-TODO

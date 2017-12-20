@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002761
+=============
+
+
+
+
+
+Description: 3-methylcrotonyl-coa carboxylase beta subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002761>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

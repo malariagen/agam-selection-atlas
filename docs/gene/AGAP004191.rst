@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004191
+=============
+
+
+
+Name: **Med22**
+
+Description: Mediator of rna polymerase ii transcription subunit 22 [source:uniprotkb/swiss-prot;acc:q7qb45].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004191>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

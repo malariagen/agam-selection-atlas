@@ -1,9 +1,0 @@
-
-AGAP010273
-=============
-
-
-
-Description: Phosphatidylinositol 3-kinase [source:vb community annotation].
-
-TODO

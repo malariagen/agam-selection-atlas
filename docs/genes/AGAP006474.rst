@@ -1,9 +1,0 @@
-
-AGAP006474
-=============
-
-
-
-Description: Rho-related btb domain-containing protein 1/2 [source:vb community annotation].
-
-TODO

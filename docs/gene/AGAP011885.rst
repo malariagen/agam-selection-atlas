@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011885
+=============
+
+
+
+
+
+Description: Trna-splicing endonuclease subunit sen34 [source:uniprotkb/trembl;acc:a0ngq6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011885>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

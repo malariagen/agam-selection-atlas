@@ -1,9 +1,0 @@
-
-AGAP003899
-=============
-
-Name: **Sxl**
-
-Description: Sex-lethal [source:vb community annotation].
-
-TODO

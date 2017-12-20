@@ -1,9 +1,0 @@
-
-AGAP006148
-=============
-
-Name: **CPLCA3**
-
-Description: Cuticular protein 3 in cplca family [source:vb community annotation].
-
-TODO

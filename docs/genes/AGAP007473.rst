@@ -1,9 +1,0 @@
-
-AGAP007473
-=============
-
-
-
-Description: Fk506-binding nuclear protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005513
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein 2 [source:vb community annotation].
-
-TODO

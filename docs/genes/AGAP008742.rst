@@ -1,9 +1,0 @@
-
-AGAP008742
-=============
-
-
-
-Description: Discoidin domain receptor family, member 1 [source:vb community annotation].
-
-TODO

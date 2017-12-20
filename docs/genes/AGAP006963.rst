@@ -1,9 +1,0 @@
-
-AGAP006963
-=============
-
-
-
-Description: Mitochondrial carrier homolog 1 [source:vb community annotation].
-
-TODO

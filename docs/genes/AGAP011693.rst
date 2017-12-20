@@ -1,9 +1,0 @@
-
-AGAP011693
-=============
-
-Name: **CASPL1**
-
-Description: Long caspase (caspl1) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007653
-=============
-
-
-
-Description: Mitochondrial folate transporter/carrier [source:vb community annotation].
-
-TODO

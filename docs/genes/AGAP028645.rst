@@ -1,9 +1,0 @@
-
-AGAP028645
-=============
-
-
-
-Description: Aryl hydrocarbon receptor nuclear translocator [source:vb community annotation].
-
-TODO

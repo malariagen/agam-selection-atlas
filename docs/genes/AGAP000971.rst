@@ -1,9 +1,0 @@
-
-AGAP000971
-=============
-
-
-
-Description: Prolyl 4-hydroxylase [source:vb community annotation].
-
-TODO

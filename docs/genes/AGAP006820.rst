@@ -1,9 +1,0 @@
-
-AGAP006820
-=============
-
-
-
-Description: Peroxisomal targeting signal 1 receptor [source:vb community annotation].
-
-TODO

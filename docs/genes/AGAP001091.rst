@@ -1,9 +1,0 @@
-
-AGAP001091
-=============
-
-
-
-Description: N-terminal kinase-like protein [source:vb community annotation].
-
-TODO

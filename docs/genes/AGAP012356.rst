@@ -1,9 +1,0 @@
-
-AGAP012356
-=============
-
-Name: **CPLCP27**
-
-Description: Cuticular protein (putative) cplcp27 [source:vb community annotation].
-
-TODO

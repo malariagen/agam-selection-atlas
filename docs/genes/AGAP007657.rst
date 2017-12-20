@@ -1,9 +1,0 @@
-
-AGAP007657
-=============
-
-
-
-Description: Syndecan 2 [source:vb community annotation].
-
-TODO

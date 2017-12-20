@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007218
+=============
+
+
+
+
+
+Description: Eukaryotic translation initiation factor 2, subunit 2 beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007218>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

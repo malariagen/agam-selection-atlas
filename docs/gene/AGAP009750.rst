@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009750
+=============
+
+
+
+
+
+Description: Centrosomal protein cep104 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009750>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

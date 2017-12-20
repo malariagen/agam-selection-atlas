@@ -1,9 +1,0 @@
-
-AGAP002419
-=============
-
-Name: **CYP4D22**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

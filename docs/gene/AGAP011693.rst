@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011693
+=============
+
+
+
+Name: **CASPL1**
+
+Description: Long caspase (caspl1) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011693>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

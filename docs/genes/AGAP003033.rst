@@ -1,9 +1,0 @@
-
-AGAP003033
-=============
-
-
-
-Description: Integrator complex subunit 2 [source:vb community annotation].
-
-TODO

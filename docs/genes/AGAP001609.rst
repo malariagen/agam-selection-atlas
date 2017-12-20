@@ -1,9 +1,0 @@
-
-AGAP001609
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase mylip [source:vb community annotation].
-
-TODO

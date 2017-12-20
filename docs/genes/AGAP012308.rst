@@ -1,9 +1,0 @@
-
-AGAP012308
-=============
-
-
-
-Description: Ornithine decarboxylase [source:vb community annotation].
-
-TODO

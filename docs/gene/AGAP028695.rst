@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028695
+=============
+
+
+
+
+
+Description: Carboxylesterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028695>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

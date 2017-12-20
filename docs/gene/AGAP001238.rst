@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001238
+=============
+
+
+
+
+
+Description: Ras-specific guanine nucleotide-releasing factor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001238>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

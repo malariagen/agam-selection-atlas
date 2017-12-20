@@ -1,9 +1,0 @@
-
-AGAP005129
-=============
-
-
-
-Description: 5'-methylthioadenosine phosphorylase [source:vb community annotation].
-
-TODO

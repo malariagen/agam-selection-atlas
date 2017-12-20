@@ -1,9 +1,0 @@
-
-AGAP006136
-=============
-
-
-
-Description: Monocyte to macrophage differentiation factor 2 [source:vb community annotation].
-
-TODO

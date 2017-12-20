@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002226
+=============
+
+
+
+
+
+Description: Diacylglycerol kinase (atp dependent) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002226>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012651
-=============
-
-
-
-Description: Microfibrillar-associated protein 4 [source:vb community annotation].
-
-TODO

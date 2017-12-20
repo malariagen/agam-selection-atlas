@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010758
+=============
+
+
+
+
+
+Description: Metalloendopeptidase (fragment) [source:uniprotkb/trembl;acc:q7q200].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010758>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

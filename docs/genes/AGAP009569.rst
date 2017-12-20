@@ -1,9 +1,0 @@
-
-AGAP009569
-=============
-
-
-
-Description: Syntenin-1 isoform 1 [source:vb community annotation].
-
-TODO

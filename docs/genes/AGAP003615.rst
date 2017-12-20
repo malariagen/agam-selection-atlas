@@ -1,9 +1,0 @@
-
-AGAP003615
-=============
-
-
-
-Description: Toll-interacting protein [source:vb community annotation].
-
-TODO

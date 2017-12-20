@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000106
+=============
+
+
+
+
+
+Description: Ubiquinone biosynthesis monooxygenase coq6, mitochondrial [source:uniprotkb/trembl;acc:q7qer0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000106>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

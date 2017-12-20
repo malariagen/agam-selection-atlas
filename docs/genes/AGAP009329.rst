@@ -1,9 +1,0 @@
-
-AGAP009329
-=============
-
-
-
-Description: Bone morphogenetic protein receptor type-1b [source:vb community annotation].
-
-TODO

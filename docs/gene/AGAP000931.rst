@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000931
+=============
+
+
+
+
+
+Description: Upf0729 protein agap000931 [source:uniprotkb/swiss-prot;acc:q7psy2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000931>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

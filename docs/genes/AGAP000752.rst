@@ -1,9 +1,0 @@
-
-AGAP000752
-=============
-
-
-
-Description: Acyl-coa-binding domain-containing protein 6 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000663
-=============
-
-
-
-Description: Solute carrier family 41 [source:vb community annotation].
-
-TODO

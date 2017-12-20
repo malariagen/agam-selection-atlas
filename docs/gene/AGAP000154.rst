@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000154
+=============
+
+
+
+
+
+Description: Amp dependent ligase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000154>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

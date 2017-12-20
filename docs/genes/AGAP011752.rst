@@ -1,9 +1,0 @@
-
-AGAP011752
-=============
-
-
-
-Description: Trna(his) guanylyltransferase [source:vb community annotation].
-
-TODO

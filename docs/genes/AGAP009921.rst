@@ -1,9 +1,0 @@
-
-AGAP009921
-=============
-
-
-
-Description: Importin subunit beta-1 [source:vb community annotation].
-
-TODO

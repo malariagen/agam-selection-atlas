@@ -1,9 +1,0 @@
-
-AGAP005031
-=============
-
-
-
-Description: E3 sumo-protein ligase pias2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028126
+=============
+
+
+
+Name: **CPLCW5**
+
+Description: Cuticular protein cplcw family (cplcw5) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028126>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

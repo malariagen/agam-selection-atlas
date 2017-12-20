@@ -1,9 +1,0 @@
-
-AGAP002824
-=============
-
-Name: **GPRTAK1**
-
-Description: Putative tachykinin receptor 1 [source:vb community annotation].
-
-TODO

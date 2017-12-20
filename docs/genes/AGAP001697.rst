@@ -1,9 +1,0 @@
-
-AGAP001697
-=============
-
-
-
-Description: 20s proteasome subunit beta 3 [source:vb community annotation].
-
-TODO

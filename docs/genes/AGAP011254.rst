@@ -1,9 +1,0 @@
-
-AGAP011254
-=============
-
-
-
-Description: Adp-ribosylation factor-like 5a [source:vb community annotation].
-
-TODO

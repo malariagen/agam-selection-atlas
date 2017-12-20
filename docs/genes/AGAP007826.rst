@@ -1,9 +1,0 @@
-
-AGAP007826
-=============
-
-
-
-Description: Structural maintenance of chromosomes protein [source:uniprotkb/trembl;acc:q7q3d7].
-
-TODO

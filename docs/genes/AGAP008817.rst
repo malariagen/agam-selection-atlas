@@ -1,9 +1,0 @@
-
-AGAP008817
-=============
-
-Name: **CPLCP3**
-
-Description: Cuticular protein (putative) cplcp3 [source:vb community annotation].
-
-TODO

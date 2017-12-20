@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000967
+=============
+
+
+
+
+
+Description: Estrogen receptor binding site associated antigen 9 variant 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000967>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

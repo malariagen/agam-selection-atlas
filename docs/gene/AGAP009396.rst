@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009396
+=============
+
+
+
+Name: **Or13**
+
+Description: Odorant receptor 13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009396>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

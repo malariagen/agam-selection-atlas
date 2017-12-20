@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008989
+=============
+
+
+
+
+
+Description: Ras-like family 11 member a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008989>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010510
-=============
-
-
-
-Description: Tubulin beta chain [source:uniprotkb/trembl;acc:q7ppr6].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009846
+=============
+
+
+
+
+
+Description: Ras-related protein rab-9a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009846>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

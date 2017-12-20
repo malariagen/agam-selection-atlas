@@ -1,9 +1,0 @@
-
-AGAP003336
-=============
-
-
-
-Description: Tetratricopeptide repeat domain 1 variant [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006932
-=============
-
-
-
-Description: Citron rho-interacting kinase [source:vb community annotation].
-
-TODO

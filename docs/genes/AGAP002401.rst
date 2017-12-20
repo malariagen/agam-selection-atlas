@@ -1,9 +1,0 @@
-
-AGAP002401
-=============
-
-
-
-Description: V-type h -transporting atpase subunit e [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000161
+=============
+
+
+
+
+
+Description: Adaptor-related protein complex 3, delta 1 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000161>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

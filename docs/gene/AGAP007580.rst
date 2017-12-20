@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007580
+=============
+
+
+
+Name: **RpL18**
+
+Description: 60s ribosomal protein l18 [source:uniprotkb/swiss-prot;acc:q7qjm5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007580>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

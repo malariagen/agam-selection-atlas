@@ -1,9 +1,0 @@
-
-AGAP001780
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase edd1 [source:vb community annotation].
-
-TODO

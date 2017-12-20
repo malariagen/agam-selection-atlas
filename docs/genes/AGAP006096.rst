@@ -1,9 +1,0 @@
-
-AGAP006096
-=============
-
-Name: **SCOT**
-
-Description: Succinyl-coa transferase [source:vb community annotation].
-
-TODO

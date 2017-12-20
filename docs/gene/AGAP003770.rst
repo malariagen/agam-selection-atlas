@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003770
+=============
+
+
+
+Name: **mRpL51**
+
+Description: 39s ribosomal protein l51, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003770>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012375
-=============
-
-
-
-Description: Protein aurora borealis [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001902
+=============
+
+
+
+Name: **Rheb**
+
+Description: Gtp-binding protein rheb [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001902>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

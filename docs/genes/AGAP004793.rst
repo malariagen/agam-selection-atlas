@@ -1,9 +1,0 @@
-
-AGAP004793
-=============
-
-
-
-Description: Ornithine--oxo-acid transaminase [source:vb community annotation].
-
-TODO

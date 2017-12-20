@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002454
+=============
+
+
+
+
+
+Description: Golgi snap receptor complex member 1 [source:uniprotkb/trembl;acc:q7qc51].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002454>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

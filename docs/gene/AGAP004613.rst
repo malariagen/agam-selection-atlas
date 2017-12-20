@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004613
+=============
+
+
+
+Name: **GPRDOP1**
+
+Description: Gpcr dopamine family 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004613>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

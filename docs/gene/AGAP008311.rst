@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008311
+=============
+
+
+
+
+
+Description: Acylphosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008311>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

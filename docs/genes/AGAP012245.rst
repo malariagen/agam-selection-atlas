@@ -1,9 +1,0 @@
-
-AGAP012245
-=============
-
-
-
-Description: Dna mismatch repair protein msh4 [source:vb community annotation].
-
-TODO

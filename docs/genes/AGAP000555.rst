@@ -1,9 +1,0 @@
-
-AGAP000555
-=============
-
-Name: **mal**
-
-Description: Molybdenum cofactor sulfurase [source:uniprotkb/swiss-prot;acc:q7qfl7].
-
-TODO

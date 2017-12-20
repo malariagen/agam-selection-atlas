@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002813
+=============
+
+
+
+Name: **CLIPD6**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002813>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

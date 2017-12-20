@@ -1,9 +1,0 @@
-
-AGAP006340
-=============
-
-
-
-Description: Misshapen/nik-related kinase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012250
+=============
+
+
+
+
+
+Description: U11/u12 small nuclear ribonucleoprotein 35 kda protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012250>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005352
+=============
+
+
+
+
+
+Description: Tyrosine-protein phosphatase non-receptor type 1 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005352>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:14470082-14472572#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

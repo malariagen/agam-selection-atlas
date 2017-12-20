@@ -1,9 +1,0 @@
-
-AGAP012053
-=============
-
-
-
-Description: Alpha,alpha-trehalase [source:vb community annotation].
-
-TODO

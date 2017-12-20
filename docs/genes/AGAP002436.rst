@@ -1,9 +1,0 @@
-
-AGAP002436
-=============
-
-
-
-Description: Kip1 ubiquitination-promoting complex protein 2 [source:vb community annotation].
-
-TODO

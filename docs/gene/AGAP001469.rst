@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001469
+=============
+
+
+
+
+
+Description: Protein tyrosine phosphatase, receptor type, f polypeptide (ptprf) interacting protein (liprin) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001469>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

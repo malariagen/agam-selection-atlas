@@ -1,9 +1,0 @@
-
-AGAP012932
-=============
-
-
-
-Description: Autophagy-related protein 9 [source:uniprotkb/trembl;acc:a0naj4].
-
-TODO

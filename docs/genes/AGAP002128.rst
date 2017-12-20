@@ -1,9 +1,0 @@
-
-AGAP002128
-=============
-
-
-
-Description: Brca1-associated protein [source:vb community annotation].
-
-TODO

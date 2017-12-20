@@ -1,9 +1,0 @@
-
-AGAP001291
-=============
-
-
-
-Description: Zinc finger protein zic, invertebrate [source:vb community annotation].
-
-TODO

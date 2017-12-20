@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010336
+=============
+
+
+
+
+
+Description: Tubulin polyglutamylase ttll1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010336>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

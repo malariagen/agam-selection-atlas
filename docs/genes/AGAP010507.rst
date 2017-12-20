@@ -1,9 +1,0 @@
-
-AGAP010507
-=============
-
-Name: **Or24**
-
-Description: Odorant receptor 24 [source:vb community annotation].
-
-TODO

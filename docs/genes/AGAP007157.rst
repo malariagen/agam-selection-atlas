@@ -1,9 +1,0 @@
-
-AGAP007157
-=============
-
-Name: **RpS27**
-
-Description: 40s ribosomal protein s27 [source:uniprotkb/trembl;acc:q7pt96].
-
-TODO

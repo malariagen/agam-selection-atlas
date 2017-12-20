@@ -1,9 +1,0 @@
-
-AGAP000579
-=============
-
-
-
-Description: Niemann-pick c1 protein [source:vb community annotation].
-
-TODO

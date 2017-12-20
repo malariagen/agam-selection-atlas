@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001656
+=============
+
+
+
+
+
+Description: Ribosomal rna-processing protein 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001656>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

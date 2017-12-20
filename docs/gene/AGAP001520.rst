@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001520
+=============
+
+
+
+
+
+Description: Protein phosphatase 1, regulatory (inhibitor) subunit 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001520>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

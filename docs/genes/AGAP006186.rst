@@ -1,9 +1,0 @@
-
-AGAP006186
-=============
-
-Name: **Ca-P60A**
-
-Description: Calcium-transporting atpase sarcoplasmic/endoplasmic reticulum type [source:uniprotkb/swiss-prot;acc:q7ppa5].
-
-TODO

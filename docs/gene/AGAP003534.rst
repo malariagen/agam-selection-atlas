@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003534
+=============
+
+
+
+
+
+Description: Upf0443 protein agap003534 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003534>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

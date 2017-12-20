@@ -1,9 +1,0 @@
-
-AGAP001170
-=============
-
-Name: **Gr48**
-
-Description: Gustatory receptor 48 [source:vb community annotation].
-
-TODO

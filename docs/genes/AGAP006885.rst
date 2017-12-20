@@ -1,9 +1,0 @@
-
-AGAP006885
-=============
-
-
-
-Description: Pre-mrna-processing factor 8 [source:vb community annotation].
-
-TODO

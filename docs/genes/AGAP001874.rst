@@ -1,9 +1,0 @@
-
-AGAP001874
-=============
-
-
-
-Description: Ras-related protein rap-1a [source:vb community annotation].
-
-TODO

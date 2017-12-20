@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009747
+=============
+
+
+
+
+
+Description: Gamma-interferon-inducible lysosomal thiol reductase precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009747>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

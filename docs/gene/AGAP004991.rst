@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004991
+=============
+
+
+
+
+
+Description: 20s proteasome subunit beta 6 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004991>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:7587832-7588801#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

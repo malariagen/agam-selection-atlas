@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004423
+=============
+
+
+
+
+
+
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004423>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

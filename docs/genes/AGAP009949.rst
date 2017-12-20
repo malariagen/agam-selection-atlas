@@ -1,9 +1,0 @@
-
-AGAP009949
-=============
-
-
-
-Description: Oxidoreductase glyr1 homolog [source:vb community annotation].
-
-TODO

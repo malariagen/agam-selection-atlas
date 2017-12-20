@@ -1,9 +1,0 @@
-
-AGAP012544
-=============
-
-Name: **CASPS14**
-
-Description: Short caspase 14 [source:vb community annotation].
-
-TODO

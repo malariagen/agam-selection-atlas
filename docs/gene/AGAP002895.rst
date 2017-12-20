@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002895
+=============
+
+
+
+
+
+Description: Mrna (2'-o-methyladenosine-n6-)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002895>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

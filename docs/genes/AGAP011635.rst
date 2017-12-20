@@ -1,9 +1,0 @@
-
-AGAP011635
-=============
-
-Name: **mRpL35**
-
-Description: 39s ribosomal protein l35, mitochondrial [source:vb community annotation].
-
-TODO

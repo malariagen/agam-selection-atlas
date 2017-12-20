@@ -1,9 +1,0 @@
-
-AGAP000256
-=============
-
-Name: **IR93a**
-
-Description: Ionotropic receptor ir93a [source:vb community annotation].
-
-TODO

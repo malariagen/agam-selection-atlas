@@ -1,9 +1,0 @@
-
-AGAP004038
-=============
-
-Name: **HPX8**
-
-Description: Heme peroxidase 8 [source:vb community annotation].
-
-TODO

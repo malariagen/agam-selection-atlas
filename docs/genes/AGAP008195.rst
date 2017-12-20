@@ -1,9 +1,0 @@
-
-AGAP008195
-=============
-
-
-
-Description: Protein kinase, amp-activated, beta 2 non-catalytic subunit [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000061
+=============
+
+
+
+
+
+Description: One cut domain family member [source:uniprotkb/trembl;acc:a0ncm1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000061>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

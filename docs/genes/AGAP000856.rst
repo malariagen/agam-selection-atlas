@@ -1,9 +1,0 @@
-
-AGAP000856
-=============
-
-
-
-Description: Trna-dihydrouridine synthase 2 [source:vb community annotation].
-
-TODO

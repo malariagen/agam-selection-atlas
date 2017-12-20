@@ -1,9 +1,0 @@
-
-AGAP028208
-=============
-
-Name: **CPLCP22**
-
-Description: Cuticular protein (putative) cplcp22 [source:vb community annotation].
-
-TODO

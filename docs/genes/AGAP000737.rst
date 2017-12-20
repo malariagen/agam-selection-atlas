@@ -1,9 +1,0 @@
-
-AGAP000737
-=============
-
-
-
-Description: Protein spt2 [source:vb community annotation].
-
-TODO

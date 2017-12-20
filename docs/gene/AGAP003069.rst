@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003069
+=============
+
+
+
+
+
+Description: Signal peptidase, endoplasmic reticulum-type [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003069>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

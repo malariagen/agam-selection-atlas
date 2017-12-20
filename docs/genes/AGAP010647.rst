@@ -1,9 +1,0 @@
-
-AGAP010647
-=============
-
-Name: **SG8**
-
-Description: Salivary gland protein 8 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008842
+=============
+
+
+
+
+
+Description: Aquaporin aqpan.g [source:uniprotkb/swiss-prot;acc:q7pwv1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008842>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

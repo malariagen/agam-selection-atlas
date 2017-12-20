@@ -1,9 +1,0 @@
-
-AGAP000543
-=============
-
-
-
-Description: Vitamin-k-epoxide reductase (warfarin-sensitive) [source:vb community annotation].
-
-TODO

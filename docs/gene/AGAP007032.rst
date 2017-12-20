@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007032
+=============
+
+
+
+
+
+Description: Breast cancer 2 susceptibility protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007032>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

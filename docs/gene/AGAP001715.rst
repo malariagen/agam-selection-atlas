@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001715
+=============
+
+
+
+
+
+Description: Enoyl-coa hydratase echa5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001715>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

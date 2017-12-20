@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001174
+=============
+
+
+
+
+
+Description: 14.5 kda salivary peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001174>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

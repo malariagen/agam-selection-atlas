@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000162
+=============
+
+
+
+
+
+Description: Cystathionine beta-synthase [source:uniprotkb/trembl;acc:q7qev0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000162>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

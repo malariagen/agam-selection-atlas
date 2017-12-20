@@ -1,9 +1,0 @@
-
-AGAP011292
-=============
-
-
-
-Description: Protein flightless-1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001038
-=============
-
-
-
-Description: Cholesterol 7-dehydrogenase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008184
-=============
-
-
-
-Description: Phospholipid-translocating atpase [source:vb community annotation].
-
-TODO

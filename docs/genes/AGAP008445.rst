@@ -1,9 +1,0 @@
-
-AGAP008445
-=============
-
-Name: **CPLCG2**
-
-Description: Cuticular protein cplcg family (cplcg2) [source:vb community annotation].
-
-TODO

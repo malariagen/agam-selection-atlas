@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007917
+=============
+
+
+
+Name: **ABCC12**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007917>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

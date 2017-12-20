@@ -1,9 +1,0 @@
-
-AGAP011424
-=============
-
-Name: **RpS16**
-
-Description: 40s ribosomal protein s16 [source:vb community annotation].
-
-TODO

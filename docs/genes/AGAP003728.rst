@@ -1,9 +1,0 @@
-
-AGAP003728
-=============
-
-
-
-Description: Uncharacterized methyltransferase wbscr22 [source:vb community annotation].
-
-TODO

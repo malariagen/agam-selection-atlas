@@ -1,9 +1,0 @@
-
-AGAP003030
-=============
-
-
-
-Description: Pyruvate dehydrogenase e1 component subunit alpha [source:uniprotkb/trembl;acc:q7qda6].
-
-TODO

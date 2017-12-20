@@ -1,9 +1,0 @@
-
-AGAP028119
-=============
-
-Name: **CPLCW4**
-
-Description: Cuticular protein cplcw family (cplcw4) [source:vb community annotation].
-
-TODO

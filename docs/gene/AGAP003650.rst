@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003650
+=============
+
+
+
+
+
+Description: Translation initiation factor eif-2b subunit alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003650>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

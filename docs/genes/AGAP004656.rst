@@ -1,9 +1,0 @@
-
-AGAP004656
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase nsd2 [source:vb community annotation].
-
-TODO

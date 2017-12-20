@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002108
+=============
+
+
+
+
+
+Description: Dual specificity phosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002108>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

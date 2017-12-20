@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004233
+=============
+
+
+
+
+
+Description: Transcription factor iiib 90 kda subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004233>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008782
-=============
-
-
-
-Description: 23.4 kda salivary protein [source:vb community annotation].
-
-TODO

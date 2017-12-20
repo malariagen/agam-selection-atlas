@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002349
+=============
+
+
+
+Name: **PBD1**
+
+Description: Piggybac-derived 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002349>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

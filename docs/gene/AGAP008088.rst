@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008088
+=============
+
+
+
+
+
+Description: Ribonuclease hi [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008088>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

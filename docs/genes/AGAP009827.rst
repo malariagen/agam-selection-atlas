@@ -1,9 +1,0 @@
-
-AGAP009827
-=============
-
-
-
-Description: Ccr4-not transcription complex subunit 4 [source:vb community annotation].
-
-TODO

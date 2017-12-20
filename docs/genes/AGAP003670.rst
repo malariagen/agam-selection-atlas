@@ -1,9 +1,0 @@
-
-AGAP003670
-=============
-
-
-
-Description: Homeobox protein nkx, invertebrate [source:vb community annotation].
-
-TODO

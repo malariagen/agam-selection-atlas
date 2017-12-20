@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001807
+=============
+
+
+
+Name: **GPRGPH**
+
+Description: Putative glycoprotein hormone gph-like receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001807>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

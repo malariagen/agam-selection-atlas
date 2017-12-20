@@ -1,9 +1,0 @@
-
-AGAP003294
-=============
-
-
-
-Description: Esf1, nucleolar pre-rrna processing protein homolog [source:vb community annotation].
-
-TODO

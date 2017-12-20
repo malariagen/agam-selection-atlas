@@ -1,9 +1,0 @@
-
-AGAP004171
-=============
-
-Name: **GSTD8**
-
-Description: Glutathione s-transferase delta class 8 [source:vb community annotation].
-
-TODO

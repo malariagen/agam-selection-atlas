@@ -1,9 +1,0 @@
-
-AGAP000110
-=============
-
-Name: **mRpL40**
-
-Description: 39s ribosomal protein l40, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006075
-=============
-
-Name: **OBP49**
-
-Description: Odorant-binding protein 49 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012744
-=============
-
-
-
-Description: Lim and senescent cell antigen-like-containing domain protein 2 [source:vb community annotation].
-
-TODO

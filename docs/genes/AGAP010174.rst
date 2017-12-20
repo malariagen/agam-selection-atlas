@@ -1,9 +1,0 @@
-
-AGAP010174
-=============
-
-
-
-Description: Oligosaccharyltransferase complex subunit alpha (ribophorin i) [source:vb community annotation].
-
-TODO

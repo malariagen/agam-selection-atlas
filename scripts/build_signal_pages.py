@@ -24,18 +24,18 @@ if __name__ == '__main__':
 
     signals = pd.read_csv('docs/signals.csv')
 
-    for path in sorted(glob('docs/signals/*/*/*/*/signal_report.yml')):
+    for path in sorted(glob('docs/signal/*/*/*/*/report.yml')):
 
         # load the basic signal report
         with open(path, mode='rb') as f:
             signal_report = yaml.load(f)
-        signal = signal_report['signal']
+        focus = signal_report['focus']
 
         # augment report with gene information
         overlapping_genes = genes[(
-                (genes.seqid == signal['arm']) &
-                (genes.start <= signal['stop']) &
-                (genes.end >= signal['start'])
+                (genes.seqid == focus['arm']) &
+                (genes.start <= focus['stop']) &
+                (genes.end >= focus['start'])
         )]
         signal_report['overlapping_genes'] = [
             {'id': gene.ID,
@@ -44,10 +44,10 @@ if __name__ == '__main__':
             for _, gene in overlapping_genes.iterrows()
         ]
         adjacent_genes = genes[(
-                (genes.seqid == signal['arm']) &
-                ((genes.end < signal['start']) | (genes.start > signal['stop'])) &
-                (genes.start <= (signal['stop'] + 40000)) &
-                (genes.end >= (signal['start'] - 40000))
+                (genes.seqid == focus['arm']) &
+                ((genes.end < focus['start']) | (genes.start > focus['stop'])) &
+                (genes.start <= (focus['stop'] + 40000)) &
+                (genes.end >= (focus['start'] - 40000))
 
         )]
         signal_report['adjacent_genes'] = [
@@ -59,9 +59,9 @@ if __name__ == '__main__':
 
         # augment report with related signals information
         overlapping_signals = signals[(
-                (signals.signal_arm == signal['arm']) &
-                (signals.signal_start <= signal['stop']) &
-                (signals.signal_stop >= signal['start']) &
+                (signals.focus_arm == focus['arm']) &
+                (signals.focus_start <= focus['stop']) &
+                (signals.focus_stop >= focus['start']) &
                 # don't include self
                 ((signals.population != signal_report['population']['id']) |
                  (signals.statistic != signal_report['statistic']['id']))

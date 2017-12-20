@@ -1,9 +1,0 @@
-
-AGAP012660
-=============
-
-
-
-Description: Transmembrane 9 superfamily member (fragment) [source:uniprotkb/trembl;acc:a0nb39].
-
-TODO

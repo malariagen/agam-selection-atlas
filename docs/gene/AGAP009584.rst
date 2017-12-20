@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009584
+=============
+
+
+
+Name: **TRX1**
+
+Description: Thioredoxin [source:uniprotkb/trembl;acc:q9ngz1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009584>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

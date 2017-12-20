@@ -1,9 +1,0 @@
-
-AGAP002294
-=============
-
-
-
-Description: Histidyl-trna synthetase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003227
-=============
-
-
-
-Description: Nucleoside-diphosphate kinase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004744
-=============
-
-Name: **skap**
-
-Description: Succinyl-coa ligase beta subunit [source:vb community annotation].
-
-TODO

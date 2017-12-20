@@ -1,9 +1,0 @@
-
-AGAP005171
-=============
-
-
-
-Description: Tctex1 domain-containing protein 4 [source:vb community annotation].
-
-TODO

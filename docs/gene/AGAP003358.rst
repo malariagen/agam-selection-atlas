@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003358
+=============
+
+
+
+
+
+Description: Sugar transporter sweet [source:uniprotkb/trembl;acc:a0ndw1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003358>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

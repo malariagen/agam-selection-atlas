@@ -1,9 +1,0 @@
-
-AGAP000823
-=============
-
-
-
-Description: Cd81 antigen [source:vb community annotation].
-
-TODO

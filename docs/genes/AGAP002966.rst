@@ -1,9 +1,0 @@
-
-AGAP002966
-=============
-
-Name: **PELLE**
-
-Description: Toll pathway signalling ser/thr kinase [source:vb community annotation].
-
-TODO

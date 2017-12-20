@@ -1,9 +1,0 @@
-
-AGAP004503
-=============
-
-
-
-Description: Tata box-binding protein-associated factor rna polymerase i subunit b [source:vb community annotation].
-
-TODO

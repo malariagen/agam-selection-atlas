@@ -1,9 +1,0 @@
-
-AGAP001560
-=============
-
-
-
-Description: Homeobox protein gsh [source:vb community annotation].
-
-TODO

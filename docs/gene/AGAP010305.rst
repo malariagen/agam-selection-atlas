@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010305
+=============
+
+
+
+
+
+Description: Wd repeat and sof domain-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010305>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

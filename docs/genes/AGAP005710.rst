@@ -1,9 +1,0 @@
-
-AGAP005710
-=============
-
-
-
-Description: Prominin-like protein [source:vb community annotation].
-
-TODO

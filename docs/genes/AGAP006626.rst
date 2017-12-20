@@ -1,9 +1,0 @@
-
-AGAP006626
-=============
-
-
-
-Description: Armadillo repeat-containing protein 8 [source:vb community annotation].
-
-TODO

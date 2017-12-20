@@ -1,9 +1,0 @@
-
-AGAP004288
-=============
-
-
-
-Description: Tubulin polyglutamylase ttll5 [source:vb community annotation].
-
-TODO

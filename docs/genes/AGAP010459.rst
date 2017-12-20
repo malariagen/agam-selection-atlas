@@ -1,9 +1,0 @@
-
-AGAP010459
-=============
-
-
-
-Description: Transcriptional adapter 3 [source:vb community annotation].
-
-TODO

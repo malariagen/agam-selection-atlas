@@ -1,9 +1,0 @@
-
-AGAP003477
-=============
-
-
-
-Description: T-complex protein 1 subunit zeta [source:vb community annotation].
-
-TODO

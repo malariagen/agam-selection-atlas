@@ -1,9 +1,0 @@
-
-AGAP012856
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx28 [source:vb community annotation].
-
-TODO

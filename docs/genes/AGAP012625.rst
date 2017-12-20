@@ -1,9 +1,0 @@
-
-AGAP012625
-=============
-
-
-
-Description: Annexin (fragment) [source:uniprotkb/trembl;acc:q7qm48].
-
-TODO

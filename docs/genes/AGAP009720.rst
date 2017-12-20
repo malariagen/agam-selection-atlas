@@ -1,9 +1,0 @@
-
-AGAP009720
-=============
-
-Name: **Or74**
-
-Description: Odorant receptor 74 [source:vb community annotation].
-
-TODO

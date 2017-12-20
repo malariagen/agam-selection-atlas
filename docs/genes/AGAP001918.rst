@@ -1,9 +1,0 @@
-
-AGAP001918
-=============
-
-
-
-Description: Microfibrillar-associated protein 1 [source:vb community annotation].
-
-TODO

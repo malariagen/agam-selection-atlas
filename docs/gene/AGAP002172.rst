@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002172
+=============
+
+
+
+
+
+Description: Pou domain transcription factor, class 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002172>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

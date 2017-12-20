@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001279
+=============
+
+
+
+
+
+Description: Protein phosphatase 3, catalytic subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001279>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

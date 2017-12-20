@@ -1,9 +1,0 @@
-
-AGAP001810
-=============
-
-
-
-Description: Dnaj homolog subfamily b [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007651
-=============
-
-
-
-Description: Growth arrest and dna-damage-inducible protein [source:vb community annotation].
-
-TODO

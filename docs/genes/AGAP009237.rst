@@ -1,9 +1,0 @@
-
-AGAP009237
-=============
-
-
-
-Description: Apoptotic chromatin condensation inducer in the nucleus [source:vb community annotation].
-
-TODO

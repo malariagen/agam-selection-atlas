@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011220
+=============
+
+
+
+
+
+Description: Borealin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011220>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

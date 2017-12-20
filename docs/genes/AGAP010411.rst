@@ -1,9 +1,0 @@
-
-AGAP010411
-=============
-
-Name: **IR8a**
-
-Description: Ionotropic receptor ir8a [source:vb community annotation].
-
-TODO

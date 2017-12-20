@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001898
+=============
+
+
+
+Name: **mRpL44**
+
+Description: 39s ribosomal protein l44, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001898>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

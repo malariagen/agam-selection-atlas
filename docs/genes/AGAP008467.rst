@@ -1,9 +1,0 @@
-
-AGAP008467
-=============
-
-
-
-Description: Solute carrier family 6 (neurotransmitter transporter, amino acid) member 5/7/ [source:vb community annotation].
-
-TODO

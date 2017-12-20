@@ -1,9 +1,0 @@
-
-AGAP002594
-=============
-
-
-
-Description: Apolipoprotein d [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002589
+=============
+
+
+
+
+
+Description: Dynein light intermediate chain 1, cytosolic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002589>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

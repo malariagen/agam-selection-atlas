@@ -1,9 +1,0 @@
-
-AGAP010080
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 35/38 [source:vb community annotation].
-
-TODO

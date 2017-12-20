@@ -1,9 +1,0 @@
-
-AGAP028421
-=============
-
-
-
-Description: Stip [source:uniprotkb/trembl;acc:a1xdb5].
-
-TODO

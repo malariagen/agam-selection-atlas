@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001310
+=============
+
+
+
+
+
+Description: Protein-s-isoprenylcysteine o-methyltransferase [source:uniprotkb/trembl;acc:q7pxa7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001310>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

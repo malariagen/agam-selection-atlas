@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001998
+=============
+
+
+
+Name: **mRpS10**
+
+Description: 28s ribosomal protein s10, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001998>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000248
+=============
+
+
+
+
+
+Description: Protein phosphatase 1h [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000248>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009644
-=============
-
-
-
-Description: Dna-directed rna polymerases i and iii subunit rpac2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005495
-=============
-
-
-
-Description: Gustatory receptor [source:vb community annotation].
-
-TODO

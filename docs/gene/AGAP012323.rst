@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012323
+=============
+
+
+
+Name: **OBP27**
+
+Description: Odorant-binding protein 27 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012323>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

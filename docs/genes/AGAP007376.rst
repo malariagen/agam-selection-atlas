@@ -1,9 +1,0 @@
-
-AGAP007376
-=============
-
-
-
-Description: Nuclear transcription factor y, alpha [source:vb community annotation].
-
-TODO

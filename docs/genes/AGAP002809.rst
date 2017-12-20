@@ -1,9 +1,0 @@
-
-AGAP002809
-=============
-
-
-
-Description: 3-oxoacyl-(acyl-carrier-protein) synthase ii [source:vb community annotation].
-
-TODO

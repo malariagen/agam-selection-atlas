@@ -1,9 +1,0 @@
-
-AGAP007807
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 2/20 [source:vb community annotation].
-
-TODO

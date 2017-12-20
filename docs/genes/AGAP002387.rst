@@ -1,9 +1,0 @@
-
-AGAP002387
-=============
-
-
-
-Description: Acid phosphatase [source:vb community annotation].
-
-TODO

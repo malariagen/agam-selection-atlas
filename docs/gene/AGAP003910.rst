@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003910
+=============
+
+
+
+
+
+Description: Histone h3 [source:uniprotkb/trembl;acc:q7pd39].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003910>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

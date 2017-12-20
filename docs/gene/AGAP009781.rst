@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009781
+=============
+
+
+
+Name: **loqs**
+
+Description: Loquacious [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009781>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

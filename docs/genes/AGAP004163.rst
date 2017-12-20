@@ -1,9 +1,0 @@
-
-AGAP004163
-=============
-
-Name: **GSTD7**
-
-Description: Glutathione s-transferase delta class 7 [source:vb community annotation].
-
-TODO

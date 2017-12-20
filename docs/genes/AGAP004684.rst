@@ -1,9 +1,0 @@
-
-AGAP004684
-=============
-
-
-
-Description: Rrna-processing protein cgr1 [source:vb community annotation].
-
-TODO

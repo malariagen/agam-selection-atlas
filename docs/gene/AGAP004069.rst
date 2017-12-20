@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004069
+=============
+
+
+
+
+
+Description: Dipeptidase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004069>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

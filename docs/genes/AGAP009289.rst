@@ -1,9 +1,0 @@
-
-AGAP009289
-=============
-
-
-
-Description: Abhydrolase domain-containing protein 11 [source:vb community annotation].
-
-TODO

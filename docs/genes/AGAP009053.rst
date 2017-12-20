@@ -1,9 +1,0 @@
-
-AGAP009053
-=============
-
-Name: **LL3**
-
-Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 3) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001281
+=============
+
+
+
+
+
+Description: Potassium inwardly-rectifying channel subfamily j [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001281>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

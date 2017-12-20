@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000405
+=============
+
+
+
+
+
+Description: Sphingomyelin phosphodiesterase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000405>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

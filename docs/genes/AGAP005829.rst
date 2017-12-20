@@ -1,9 +1,0 @@
-
-AGAP005829
-=============
-
-
-
-Description: Microtubule-associated protein, rp/eb family [source:vb community annotation].
-
-TODO

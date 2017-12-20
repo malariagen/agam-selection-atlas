@@ -1,9 +1,0 @@
-
-AGAP000508
-=============
-
-Name: **mRpL22**
-
-Description: 39s ribosomal protein l22, mitochondrial [source:vb community annotation].
-
-TODO

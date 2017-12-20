@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009209
+=============
+
+
+
+Name: **Rpb11**
+
+Description: Dna-directed rna polymerase ii subunit rpb11 [source:uniprotkb/swiss-prot;acc:q7pvq9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009209>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001082
+=============
+
+
+
+
+
+Description: Saposin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001082>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

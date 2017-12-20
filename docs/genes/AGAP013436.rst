@@ -1,9 +1,0 @@
-
-AGAP013436
-=============
-
-Name: **IR140.2**
-
-Description: Ionotropic receptor ir140.2 [source:vb community annotation].
-
-TODO

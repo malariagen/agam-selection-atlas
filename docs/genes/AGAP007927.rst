@@ -1,9 +1,0 @@
-
-AGAP007927
-=============
-
-Name: **RpL40**
-
-Description: 60s ribosomal protein l40 [source:vb community annotation].
-
-TODO

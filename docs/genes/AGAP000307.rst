@@ -1,9 +1,0 @@
-
-AGAP000307
-=============
-
-
-
-Description: Integrin alpha-ps1 [source:vb community annotation].
-
-TODO

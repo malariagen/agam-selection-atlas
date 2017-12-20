@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009522
+=============
+
+
+
+
+
+Description: Fibronectin type-iii domain-containing protein 3a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009522>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

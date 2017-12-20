@@ -1,9 +1,0 @@
-
-AGAP002090
-=============
-
-Name: **COE16738**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

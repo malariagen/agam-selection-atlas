@@ -1,9 +1,0 @@
-
-AGAP007210
-=============
-
-
-
-Description: Tetraspanin [source:uniprotkb/trembl;acc:q7qj21].
-
-TODO

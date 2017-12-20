@@ -1,9 +1,0 @@
-
-AGAP007253
-=============
-
-
-
-Description: Hippocampus abundant gene transcript 1 [source:vb community annotation].
-
-TODO

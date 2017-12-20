@@ -1,9 +1,0 @@
-
-AGAP012056
-=============
-
-
-
-Description: Cofilin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013188
-=============
-
-Name: **APN4**
-
-Description: Aminopeptidase 4 [source:vb community annotation].
-
-TODO

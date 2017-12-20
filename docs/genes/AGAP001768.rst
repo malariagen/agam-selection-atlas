@@ -1,9 +1,0 @@
-
-AGAP001768
-=============
-
-
-
-Description: Gamma-interferon-inducible lysosomal thiol reductase [source:vb community annotation].
-
-TODO

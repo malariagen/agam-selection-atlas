@@ -1,9 +1,0 @@
-
-AGAP006684
-=============
-
-Name: **mRpL46**
-
-Description: 39s ribosomal protein l46, mitochondrial [source:vb community annotation].
-
-TODO

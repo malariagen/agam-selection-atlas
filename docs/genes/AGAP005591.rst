@@ -1,9 +1,0 @@
-
-AGAP005591
-=============
-
-
-
-Description: Trypsin alpha-4 [source:vb community annotation].
-
-TODO

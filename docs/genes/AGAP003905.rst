@@ -1,9 +1,0 @@
-
-AGAP003905
-=============
-
-
-
-Description: Adp-ribosylation factor-like protein 13b [source:vb community annotation].
-
-TODO

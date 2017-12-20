@@ -1,9 +1,0 @@
-
-AGAP012799
-=============
-
-
-
-Description: Translation initiation factor eif-2b subunit alpha [source:vb community annotation].
-
-TODO

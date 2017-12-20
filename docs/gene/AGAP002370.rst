@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002370
+=============
+
+
+
+Name: **ChAT**
+
+Description: Choline o-acetyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002370>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011320
-=============
-
-
-
-Description: Putative g-protein coupled receptor gpcr [source:vb community annotation].
-
-TODO

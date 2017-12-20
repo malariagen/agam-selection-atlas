@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002939
+=============
+
+
+
+
+
+Description: Solute carrier family 25 (mitochondrial 2-oxodicarboxylate transporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002939>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

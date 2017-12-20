@@ -1,9 +1,0 @@
-
-AGAP010626
-=============
-
-
-
-Description: Pab-dependent poly(a)-specific ribonuclease subunit 2 [source:vb community annotation].
-
-TODO

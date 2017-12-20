@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003703
+=============
+
+
+
+
+
+Description: Abnormal spindle-like microcephaly-associated protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003703>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

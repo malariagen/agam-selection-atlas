@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007387
+=============
+
+
+
+
+
+Description: Dna methyltransferase 1-associated protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007387>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

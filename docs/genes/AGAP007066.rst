@@ -1,9 +1,0 @@
-
-AGAP007066
-=============
-
-
-
-Description: Trna-specific adenosine deaminase 3 [source:vb community annotation].
-
-TODO

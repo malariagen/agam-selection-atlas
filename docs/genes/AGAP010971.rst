@@ -1,9 +1,0 @@
-
-AGAP010971
-=============
-
-
-
-Description: Tubulin alpha chain (fragment) [source:uniprotkb/trembl;acc:q7psi5].
-
-TODO

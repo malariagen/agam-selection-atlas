@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010826
+=============
+
+
+
+Name: **CASPS13**
+
+Description: Short caspase 13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010826>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

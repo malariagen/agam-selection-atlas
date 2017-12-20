@@ -1,9 +1,0 @@
-
-AGAP011492
-=============
-
-
-
-Description: Uncharacterized mfs-type transporter c19orf28 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009098
+=============
+
+
+
+
+
+Description: Protein-glutamine gamma-glutamyltransferase e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009098>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

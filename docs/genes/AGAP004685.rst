@@ -1,9 +1,0 @@
-
-AGAP004685
-=============
-
-
-
-Description: Dna replication atp-dependent helicase dna2 [source:vb community annotation].
-
-TODO

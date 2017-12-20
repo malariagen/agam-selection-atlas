@@ -1,9 +1,0 @@
-
-AGAP002953
-=============
-
-
-
-Description: Mitogen-activated protein kinase kinase kinase 7-interacting protein 1 [source:vb community annotation].
-
-TODO

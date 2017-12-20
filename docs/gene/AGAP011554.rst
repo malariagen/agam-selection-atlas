@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011554
+=============
+
+
+
+
+
+Description: Muscleblind [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011554>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

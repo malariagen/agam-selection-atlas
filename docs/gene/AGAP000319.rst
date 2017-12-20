@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000319
+=============
+
+
+
+
+
+Description: Katanin p80 wd40 repeat-containing subunit b1 [source:uniprotkb/trembl;acc:q7qf60].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000319>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

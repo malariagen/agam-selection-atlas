@@ -1,9 +1,0 @@
-
-AGAP010156
-=============
-
-
-
-Description: Atp citrate lyase [source:vb community annotation].
-
-TODO

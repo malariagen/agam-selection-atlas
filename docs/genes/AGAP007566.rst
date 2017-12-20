@@ -1,9 +1,0 @@
-
-AGAP007566
-=============
-
-
-
-Description: Dna-repair protein complementing xp-a cells [source:vb community annotation].
-
-TODO

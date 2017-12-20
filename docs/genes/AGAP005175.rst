@@ -1,9 +1,0 @@
-
-AGAP005175
-=============
-
-
-
-Description: Acetyl-coa carboxylase / biotin carboxylase [source:vb community annotation].
-
-TODO

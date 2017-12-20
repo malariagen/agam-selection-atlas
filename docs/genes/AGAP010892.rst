@@ -1,9 +1,0 @@
-
-AGAP010892
-=============
-
-
-
-Description: Synaptic vesicle glycoprotein 2b [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007952
+=============
+
+
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 d/e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007952>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

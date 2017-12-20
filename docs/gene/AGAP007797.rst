@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007797
+=============
+
+
+
+Name: **Or23**
+
+Description: Odorant receptor 23 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007797>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

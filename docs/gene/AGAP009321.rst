@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009321
+=============
+
+
+
+
+
+Description: General transcription factor 3c polypeptide 5 (transcription factor c subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009321>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

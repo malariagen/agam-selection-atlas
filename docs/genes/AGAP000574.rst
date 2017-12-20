@@ -1,9 +1,0 @@
-
-AGAP000574
-=============
-
-
-
-Description: Pdgf- and vegf-related factor 1 [source:vb community annotation].
-
-TODO

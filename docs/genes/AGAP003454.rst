@@ -1,9 +1,0 @@
-
-AGAP003454
-=============
-
-
-
-Description: Aspartyl/glutamyl-trna(asn/gln) amidotransferase, b subunit [source:vb community annotation].
-
-TODO

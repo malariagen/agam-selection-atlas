@@ -1,9 +1,0 @@
-
-AGAP005288
-=============
-
-
-
-Description: Bitesize [source:vb community annotation].
-
-TODO

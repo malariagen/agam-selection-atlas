@@ -1,9 +1,0 @@
-
-AGAP028081
-=============
-
-Name: **CPLCG7**
-
-Description: Cuticular protein cplcg family (cplcg7) [source:vb community annotation].
-
-TODO

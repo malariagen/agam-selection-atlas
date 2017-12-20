@@ -1,9 +1,0 @@
-
-AGAP002825
-=============
-
-Name: **PPO1**
-
-Description: Prophenoloxidase 1 [source:vb community annotation].
-
-TODO

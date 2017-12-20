@@ -1,9 +1,0 @@
-
-AGAP000610
-=============
-
-Name: **SG1f**
-
-Description: Salivary gland protein 1-like 6 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005228
-=============
-
-Name: **Med9**
-
-Description: Mediator of rna polymerase ii transcription subunit 9 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010582
+=============
+
+
+
+Name: **ABCE2**
+
+Description: Atp-binding cassette transporter (abc transporter) family e member 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010582>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

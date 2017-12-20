@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004313
+=============
+
+
+
+Name: **Gr54**
+
+Description: Gustatory receptor 54 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004313>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

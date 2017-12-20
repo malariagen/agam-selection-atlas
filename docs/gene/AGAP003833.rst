@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003833
+=============
+
+
+
+
+
+Description: Asparagine synthase (glutamine-hydrolysing) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003833>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

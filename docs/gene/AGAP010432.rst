@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010432
+=============
+
+
+
+
+
+Description: Dnaj homolog subfamily c member 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010432>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

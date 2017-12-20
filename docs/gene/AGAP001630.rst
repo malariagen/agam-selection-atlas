@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001630
+=============
+
+
+
+Name: **Tpi**
+
+Description: Triosephosphate isomerase [source:uniprotkb/trembl;acc:q7pxw5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001630>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

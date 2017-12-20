@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001737
+=============
+
+
+
+
+
+Description: Adenylyltransferase and sulfurtransferase mocs3 molybdopterin-synthase adenylyltransferase molybdopterin-synthase sulfurtransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001737>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

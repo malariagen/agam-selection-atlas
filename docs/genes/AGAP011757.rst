@@ -1,9 +1,0 @@
-
-AGAP011757
-=============
-
-
-
-Description: Polyglutamine-binding protein 1 [source:vb community annotation].
-
-TODO

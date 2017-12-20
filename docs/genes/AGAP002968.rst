@@ -1,9 +1,0 @@
-
-AGAP002968
-=============
-
-
-
-Description: Thiamine pyrophosphokinase [source:vb community annotation].
-
-TODO

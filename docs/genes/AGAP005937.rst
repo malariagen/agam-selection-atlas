@@ -1,9 +1,0 @@
-
-AGAP005937
-=============
-
-
-
-Description: Translation initiation factor eif-2b subunit delta [source:vb community annotation].
-
-TODO

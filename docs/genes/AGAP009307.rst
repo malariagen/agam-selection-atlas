@@ -1,9 +1,0 @@
-
-AGAP009307
-=============
-
-
-
-Description: Bromodomain-containing protein 7/9 [source:vb community annotation].
-
-TODO

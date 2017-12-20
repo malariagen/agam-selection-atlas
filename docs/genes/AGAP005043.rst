@@ -1,9 +1,0 @@
-
-AGAP005043
-=============
-
-
-
-Description: Inactive dipeptidyl peptidase 10 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001223
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx55/spb4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005881
-=============
-
-
-
-Description: Sentrin-specific protease 7 [source:vb community annotation].
-
-TODO

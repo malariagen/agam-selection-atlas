@@ -1,9 +1,0 @@
-
-AGAP002940
-=============
-
-
-
-Description: Coiled-coil-helix-coiled-coil-helix domain containing 4 [source:vb community annotation].
-
-TODO

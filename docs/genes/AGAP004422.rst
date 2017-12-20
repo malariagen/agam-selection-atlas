@@ -1,9 +1,0 @@
-
-AGAP004422
-=============
-
-Name: **RpL19**
-
-Description: 60s ribosomal protein l19 [source:vb community annotation].
-
-TODO

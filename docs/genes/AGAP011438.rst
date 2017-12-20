@@ -1,9 +1,0 @@
-
-AGAP011438
-=============
-
-
-
-Description: Casein kinase ii subunit beta [source:uniprotkb/trembl;acc:a0nfb7].
-
-TODO

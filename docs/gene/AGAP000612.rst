@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000612
+=============
+
+
+
+Name: **SG1**
+
+Description: Salivary gland protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000612>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

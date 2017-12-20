@@ -1,9 +1,0 @@
-
-AGAP002279
-=============
-
-
-
-Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7qkd9].
-
-TODO

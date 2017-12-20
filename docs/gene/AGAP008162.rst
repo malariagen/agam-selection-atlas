@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008162
+=============
+
+
+
+
+
+Description: Snare-associated protein snapin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008162>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

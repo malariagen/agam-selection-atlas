@@ -1,9 +1,0 @@
-
-AGAP001064
-=============
-
-
-
-Description: Transmembrane emp24 domain-containing protein 10 precursor [source:vb community annotation].
-
-TODO

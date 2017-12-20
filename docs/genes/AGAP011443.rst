@@ -1,9 +1,0 @@
-
-AGAP011443
-=============
-
-
-
-Description: Carboxypeptidase [source:uniprotkb/trembl;acc:q5tpz5].
-
-TODO

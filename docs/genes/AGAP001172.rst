@@ -1,9 +1,0 @@
-
-AGAP001172
-=============
-
-Name: **Gr51**
-
-Description: Gustatory receptor 51 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002994
-=============
-
-Name: **CPR10**
-
-Description: Cuticular protein rr-2 family 10 [source:vb community annotation].
-
-TODO

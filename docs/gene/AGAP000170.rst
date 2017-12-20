@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000170
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) fe-s protein 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000170>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

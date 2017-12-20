@@ -1,9 +1,0 @@
-
-AGAP008229
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7q456].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009197
+=============
+
+
+
+Name: **GSTE3**
+
+Description: Glutathione s-transferase epsilon class 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009197>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

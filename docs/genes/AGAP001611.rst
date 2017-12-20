@@ -1,9 +1,0 @@
-
-AGAP001611
-=============
-
-
-
-Description: Diphosphomevalonate decarboxylase [source:uniprotkb/trembl;acc:q7pxv2].
-
-TODO

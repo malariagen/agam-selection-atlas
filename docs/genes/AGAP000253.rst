@@ -1,9 +1,0 @@
-
-AGAP000253
-=============
-
-
-
-Description: Solute carrier family 25 [source:vb community annotation].
-
-TODO

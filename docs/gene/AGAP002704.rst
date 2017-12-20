@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002704
+=============
+
+
+
+
+
+Description: Solute carrier family 25 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002704>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

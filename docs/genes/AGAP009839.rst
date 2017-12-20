@@ -1,9 +1,0 @@
-
-AGAP009839
-=============
-
-
-
-Description: Phosphatase 1 regulatory subunit 7 [source:vb community annotation].
-
-TODO

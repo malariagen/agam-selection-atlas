@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002606
+=============
+
+
+
+
+
+Description: 26s proteasome regulatory subunit n12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002606>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011468
+=============
+
+
+
+Name: **Or4**
+
+Description: Odorant receptor 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011468>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

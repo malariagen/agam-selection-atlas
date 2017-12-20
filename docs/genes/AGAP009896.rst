@@ -1,9 +1,0 @@
-
-AGAP009896
-=============
-
-
-
-Description: Proton-coupled amino acid transporter [source:vb community annotation].
-
-TODO

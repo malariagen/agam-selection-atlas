@@ -1,9 +1,0 @@
-
-AGAP008163
-=============
-
-
-
-Description: U4/u6 small nuclear ribonucleoprotein snu13 [source:vb community annotation].
-
-TODO

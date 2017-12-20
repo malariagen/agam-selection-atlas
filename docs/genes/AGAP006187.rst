@@ -1,9 +1,0 @@
-
-AGAP006187
-=============
-
-
-
-Description: Protein g12 [source:uniprotkb/swiss-prot;acc:q17040].
-
-TODO

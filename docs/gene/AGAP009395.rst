@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009395
+=============
+
+
+
+Name: **Or17**
+
+Description: Odorant receptor 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009395>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

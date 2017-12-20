@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010553
+=============
+
+
+
+
+
+Description: Poly(u)-binding-splicing factor puf60 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010553>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009747
-=============
-
-
-
-Description: Gamma-interferon-inducible lysosomal thiol reductase precursor [source:vb community annotation].
-
-TODO

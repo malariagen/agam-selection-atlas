@@ -1,9 +1,0 @@
-
-AGAP012142
-=============
-
-
-
-Description: U4/u6 small nuclear ribonucleoprotein prp31 [source:vb community annotation].
-
-TODO

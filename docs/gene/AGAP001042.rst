@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001042
+=============
+
+
+
+
+
+Description: Cytochrome b5 domain-containing protein 2 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001042>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

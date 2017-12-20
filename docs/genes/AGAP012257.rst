@@ -1,9 +1,0 @@
-
-AGAP012257
-=============
-
-
-
-Description: Neuroglobin [source:vb community annotation].
-
-TODO

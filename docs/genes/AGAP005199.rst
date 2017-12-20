@@ -1,9 +1,0 @@
-
-AGAP005199
-=============
-
-
-
-Description: Ubiquinone biosynthesis protein coq4 homolog, mitochondrial [source:uniprotkb/swiss-prot;acc:q7q9j8].
-
-TODO

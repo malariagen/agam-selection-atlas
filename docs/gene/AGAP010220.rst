@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010220
+=============
+
+
+
+
+
+Description: Proliferating cell nuclear antigen [source:uniprotkb/trembl;acc:q7q0q0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010220>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

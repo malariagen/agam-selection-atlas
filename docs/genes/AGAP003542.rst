@@ -1,9 +1,0 @@
-
-AGAP003542
-=============
-
-
-
-Description: Epoxide hydrolase 2, cytoplasmic [source:vb community annotation].
-
-TODO

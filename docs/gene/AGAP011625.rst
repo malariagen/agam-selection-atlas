@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011625
+=============
+
+
+
+
+
+Description: Transcription factor ap-2, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011625>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

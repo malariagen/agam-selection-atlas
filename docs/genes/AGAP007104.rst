@@ -1,9 +1,0 @@
-
-AGAP007104
-=============
-
-
-
-Description: Farnesyl diphosphate synthase [source:vb community annotation].
-
-TODO

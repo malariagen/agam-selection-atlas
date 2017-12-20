@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002571
+=============
+
+
+
+
+
+Description: Solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002571>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

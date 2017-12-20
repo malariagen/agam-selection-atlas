@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003974
+=============
+
+
+
+
+
+Description: Trna (cytidine32/guanosine34-2'-o)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003974>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

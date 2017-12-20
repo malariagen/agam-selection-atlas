@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010670
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx31/dbp7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010670>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008651
-=============
-
-
-
-Description: Cryptochrome [source:vb community annotation].
-
-TODO

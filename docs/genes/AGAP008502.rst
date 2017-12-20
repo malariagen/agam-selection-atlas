@@ -1,9 +1,0 @@
-
-AGAP008502
-=============
-
-
-
-Description: L-xylulose reductase [source:vb community annotation].
-
-TODO

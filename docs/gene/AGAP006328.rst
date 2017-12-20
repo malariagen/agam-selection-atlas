@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006328
+=============
+
+
+
+
+
+Description: Heparan sulfate n-deacetylase/n-sulfotransferase ndst2 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006328>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:29747604-29774523#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

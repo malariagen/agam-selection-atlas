@@ -1,9 +1,0 @@
-
-AGAP005809
-=============
-
-
-
-Description: Protein phosphatase inhibitor 2 [source:vb community annotation].
-
-TODO

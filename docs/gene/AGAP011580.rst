@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011580
+=============
+
+
+
+Name: **eIF3k**
+
+Description: Eukaryotic translation initiation factor 3 subunit k [source:uniprotkb/swiss-prot;acc:q7qgk4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011580>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

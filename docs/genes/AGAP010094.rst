@@ -1,9 +1,0 @@
-
-AGAP010094
-=============
-
-
-
-Description: Nonmuscle myosin heavy chain-a [source:vb community annotation].
-
-TODO

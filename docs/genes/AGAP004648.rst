@@ -1,9 +1,0 @@
-
-AGAP004648
-=============
-
-
-
-Description: Homeobox protein hoxa/b2 [source:vb community annotation].
-
-TODO

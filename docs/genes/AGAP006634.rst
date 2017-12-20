@@ -1,9 +1,0 @@
-
-AGAP006634
-=============
-
-
-
-Description: Semaphorin-2a [source:vb community annotation].
-
-TODO

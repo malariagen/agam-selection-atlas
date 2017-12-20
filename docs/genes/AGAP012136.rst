@@ -1,9 +1,0 @@
-
-AGAP012136
-=============
-
-Name: **mRpS25**
-
-Description: 28s ribosomal protein s25, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002395
-=============
-
-Name: **RpL10-2**
-
-Description: 60s ribosomal protein l10-2 [source:vb community annotation].
-
-TODO

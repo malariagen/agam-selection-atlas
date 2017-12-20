@@ -1,9 +1,0 @@
-
-AGAP010220
-=============
-
-
-
-Description: Proliferating cell nuclear antigen [source:uniprotkb/trembl;acc:q7q0q0].
-
-TODO

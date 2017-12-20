@@ -1,9 +1,0 @@
-
-AGAP005559
-=============
-
-
-
-Description: 26s proteasome regulatory subunit n10 [source:vb community annotation].
-
-TODO

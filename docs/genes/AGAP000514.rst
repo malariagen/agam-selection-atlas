@@ -1,9 +1,0 @@
-
-AGAP000514
-=============
-
-
-
-Description: Protein mak16 homolog [source:uniprotkb/trembl;acc:q7pry6].
-
-TODO

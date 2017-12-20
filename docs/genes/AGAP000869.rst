@@ -1,9 +1,0 @@
-
-AGAP000869
-=============
-
-
-
-Description: Partitioning defective protein 3 [source:vb community annotation].
-
-TODO

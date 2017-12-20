@@ -1,9 +1,0 @@
-
-AGAP004488
-=============
-
-
-
-Description: Actin-related protein 5 [source:vb community annotation].
-
-TODO

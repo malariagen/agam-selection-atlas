@@ -1,9 +1,0 @@
-
-AGAP000128
-=============
-
-
-
-Description: Mfs transporter, vnt family, synaptic vesicle glycoprotein 2 [source:vb community annotation].
-
-TODO

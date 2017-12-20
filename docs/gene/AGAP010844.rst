@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010844
+=============
+
+
+
+
+
+Description: Carbonic anhydrase 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010844>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

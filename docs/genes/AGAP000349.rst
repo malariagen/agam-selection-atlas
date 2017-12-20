@@ -1,9 +1,0 @@
-
-AGAP000349
-=============
-
-
-
-Description: Transient receptor potential cation channel subfamily c, invertebrate [source:vb community annotation].
-
-TODO

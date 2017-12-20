@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009324
+=============
+
+
+
+Name: **RpL34**
+
+Description: 60s ribosomal protein l34 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009324>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

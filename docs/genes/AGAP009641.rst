@@ -1,9 +1,0 @@
-
-AGAP009641
-=============
-
-
-
-Description: Kelch-like protein diablo [source:vb community annotation].
-
-TODO

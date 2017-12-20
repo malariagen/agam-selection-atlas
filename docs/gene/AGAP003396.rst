@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003396
+=============
+
+
+
+
+
+Description: Phosphatidylinositol glycan, class q [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003396>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

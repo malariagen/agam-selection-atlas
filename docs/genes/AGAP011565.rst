@@ -1,9 +1,0 @@
-
-AGAP011565
-=============
-
-
-
-Description: Ras-related protein rab-23 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010339
-=============
-
-
-
-Description: Ww domain-binding protein 4 [source:vb community annotation].
-
-TODO

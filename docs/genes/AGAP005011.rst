@@ -1,9 +1,0 @@
-
-AGAP005011
-=============
-
-
-
-Description: Iroquois-class homeodomain protein irx [source:vb community annotation].
-
-TODO

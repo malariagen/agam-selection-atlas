@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013228
+=============
+
+
+
+
+
+Description: Heat shock protein 67b2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013228>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

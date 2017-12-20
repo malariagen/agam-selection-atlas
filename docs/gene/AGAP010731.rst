@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010731
+=============
+
+
+
+Name: **CLIPA8**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010731>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

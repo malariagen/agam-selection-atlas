@@ -1,9 +1,0 @@
-
-AGAP005249
-=============
-
-
-
-Description: Multiple rna-binding domain-containing protein 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002427
+=============
+
+
+
+
+
+Description: Kinesin family member 3/17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002427>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004551
+=============
+
+
+
+
+
+Description: Gamma-interferon-inducible lysosomal thiol reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004551>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

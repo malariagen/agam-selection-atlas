@@ -1,9 +1,0 @@
-
-AGAP004852
-=============
-
-
-
-Description: Adducin [source:vb community annotation].
-
-TODO

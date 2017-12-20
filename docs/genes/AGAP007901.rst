@@ -1,9 +1,0 @@
-
-AGAP007901
-=============
-
-
-
-Description: Ras-related protein rab-5c [source:vb community annotation].
-
-TODO

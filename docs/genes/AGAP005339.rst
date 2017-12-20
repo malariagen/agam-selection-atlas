@@ -1,9 +1,0 @@
-
-AGAP005339
-=============
-
-Name: **Cht4**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

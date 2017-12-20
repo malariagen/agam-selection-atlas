@@ -1,9 +1,0 @@
-
-AGAP010405
-=============
-
-
-
-Description: Transcription factor maff/g/k [source:vb community annotation].
-
-TODO

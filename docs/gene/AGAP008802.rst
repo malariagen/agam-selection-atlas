@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008802
+=============
+
+
+
+Name: **Pgk**
+
+Description: Phosphoglycerate kinase [source:uniprotkb/trembl;acc:q7q850].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008802>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003352
-=============
-
-
-
-Description: Stomatin (epb72)-like 3 [source:vb community annotation].
-
-TODO

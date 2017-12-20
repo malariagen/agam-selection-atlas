@@ -1,9 +1,0 @@
-
-AGAP004240
-=============
-
-Name: **CycC**
-
-Description: Cyclin c [source:vb community annotation].
-
-TODO

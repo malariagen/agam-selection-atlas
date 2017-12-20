@@ -1,9 +1,0 @@
-
-AGAP000853
-=============
-
-
-
-Description: Gamma-glutamyltranspeptidase [source:vb community annotation].
-
-TODO

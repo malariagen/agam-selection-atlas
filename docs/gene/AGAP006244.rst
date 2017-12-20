@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006244
+=============
+
+
+
+
+
+Description: Ctl-like protein 1 [source:uniprotkb/swiss-prot;acc:q7q5r7].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006244>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:28597433-28601266#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

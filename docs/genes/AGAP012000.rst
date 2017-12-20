@@ -1,9 +1,0 @@
-
-AGAP012000
-=============
-
-
-
-Description: Fibrinogen and fibronectin [source:vb community annotation].
-
-TODO

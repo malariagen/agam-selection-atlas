@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004341
+=============
+
+
+
+
+
+Description: Metastasis-associated protein mta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004341>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

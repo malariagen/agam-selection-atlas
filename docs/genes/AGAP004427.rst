@@ -1,9 +1,0 @@
-
-AGAP004427
-=============
-
-
-
-Description: Tubulin monoglycylase ttll15 [source:vb community annotation].
-
-TODO

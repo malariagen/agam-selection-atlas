@@ -1,9 +1,0 @@
-
-AGAP009395
-=============
-
-Name: **Or17**
-
-Description: Odorant receptor 17 [source:vb community annotation].
-
-TODO

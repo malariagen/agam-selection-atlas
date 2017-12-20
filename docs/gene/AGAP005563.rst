@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005563
+=============
+
+
+
+Name: **Tret1**
+
+Description: Facilitated trehalose transporter tret1 [source:uniprotkb/swiss-prot;acc:q7pir5].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005563>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:17069971-17082025#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

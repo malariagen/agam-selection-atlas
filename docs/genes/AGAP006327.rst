@@ -1,9 +1,0 @@
-
-AGAP006327
-=============
-
-Name: **LRIM6**
-
-Description: Leucine-rich immune protein (short) [source:vb community annotation].
-
-TODO

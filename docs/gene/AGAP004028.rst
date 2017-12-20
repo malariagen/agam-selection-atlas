@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004028
+=============
+
+
+
+
+
+Description: Intron-binding protein aquarius [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004028>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

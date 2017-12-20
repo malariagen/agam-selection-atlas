@@ -1,9 +1,0 @@
-
-AGAP002473
-=============
-
-Name: **VATF**
-
-Description: V-type proton atpase subunit f [source:uniprotkb/swiss-prot;acc:q17029].
-
-TODO

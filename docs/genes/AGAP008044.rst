@@ -1,9 +1,0 @@
-
-AGAP008044
-=============
-
-
-
-Description: Programmed cell death 8 (apoptosis-inducing factor) [source:vb community annotation].
-
-TODO

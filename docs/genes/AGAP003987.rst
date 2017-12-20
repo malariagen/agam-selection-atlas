@@ -1,9 +1,0 @@
-
-AGAP003987
-=============
-
-
-
-Description: Complement component 1 q subcomponent-binding protein, mitochondrial [source:vb community annotation].
-
-TODO

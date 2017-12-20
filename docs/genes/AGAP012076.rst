@@ -1,9 +1,0 @@
-
-AGAP012076
-=============
-
-
-
-Description: Transforming growth factor beta, invertebrate [source:vb community annotation].
-
-TODO

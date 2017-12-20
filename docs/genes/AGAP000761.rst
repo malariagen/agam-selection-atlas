@@ -1,9 +1,0 @@
-
-AGAP000761
-=============
-
-Name: **GSTT1**
-
-Description: Glutathione s-transferase theta class 1 [source:vb community annotation].
-
-TODO

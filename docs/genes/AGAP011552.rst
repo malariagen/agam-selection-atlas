@@ -1,9 +1,0 @@
-
-AGAP011552
-=============
-
-Name: **DEBCL**
-
-Description: Autophagy related gene debcl [source:vb community annotation].
-
-TODO

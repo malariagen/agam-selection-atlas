@@ -1,9 +1,0 @@
-
-AGAP006471
-=============
-
-
-
-Description: Cytochrome c oxidase subunit 6b [source:vb community annotation].
-
-TODO

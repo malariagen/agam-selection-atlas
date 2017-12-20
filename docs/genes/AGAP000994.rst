@@ -1,9 +1,0 @@
-
-AGAP000994
-=============
-
-
-
-Description: Lysosomal pro-x carboxypeptidase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP028369
-=============
-
-Name: **ATP8**
-
-Description: Adenosine triphosphatase subunit 8 [source:european nucleotide archive;acc:atp8].
-
-TODO

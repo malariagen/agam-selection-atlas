@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007653
+=============
+
+
+
+
+
+Description: Mitochondrial folate transporter/carrier [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007653>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

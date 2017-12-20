@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007927
+=============
+
+
+
+Name: **RpL40**
+
+Description: 60s ribosomal protein l40 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007927>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

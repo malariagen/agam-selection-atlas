@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003809
+=============
+
+
+
+
+
+Description: Sinuous [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003809>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

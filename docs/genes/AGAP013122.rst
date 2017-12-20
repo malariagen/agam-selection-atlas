@@ -1,9 +1,0 @@
-
-AGAP013122
-=============
-
-
-
-Description: Sulfatase modifying factor 1 [source:vb community annotation].
-
-TODO

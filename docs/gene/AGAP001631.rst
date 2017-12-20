@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001631
+=============
+
+
+
+
+
+Description: Amiloride-sensitive sodium channel, other [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001631>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

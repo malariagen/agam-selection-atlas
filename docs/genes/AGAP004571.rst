@@ -1,9 +1,0 @@
-
-AGAP004571
-=============
-
-
-
-Description: Oviductin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011481
-=============
-
-Name: **GPR5HT1B**
-
-Description: Putative serotonin 5ht-1b receptor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006041
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase rnf5 [source:vb community annotation].
-
-TODO

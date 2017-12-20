@@ -1,9 +1,0 @@
-
-AGAP002429
-=============
-
-Name: **CYP314A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

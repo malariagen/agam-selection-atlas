@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002084
+=============
+
+
+
+
+
+Description: Glycerol-3-phosphate o-acyltransferase 3/4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002084>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

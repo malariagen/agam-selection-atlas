@@ -1,9 +1,0 @@
-
-AGAP001229
-=============
-
-
-
-Description: Dynein light chain tctex-type 1 [source:vb community annotation].
-
-TODO

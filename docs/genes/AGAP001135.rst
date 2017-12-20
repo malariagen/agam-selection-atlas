@@ -1,9 +1,0 @@
-
-AGAP001135
-=============
-
-
-
-Description: Dna replication licensing factor mcm3 [source:vb community annotation].
-
-TODO

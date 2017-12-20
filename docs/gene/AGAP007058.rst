@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007058
+=============
+
+
+
+
+
+Description: Homeobox protein dlx, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007058>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

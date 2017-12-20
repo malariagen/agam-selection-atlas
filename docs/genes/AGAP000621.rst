@@ -1,9 +1,0 @@
-
-AGAP000621
-=============
-
-
-
-Description: Carboxypeptidase a1 [source:vb community annotation].
-
-TODO

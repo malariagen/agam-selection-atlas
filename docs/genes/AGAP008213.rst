@@ -1,9 +1,0 @@
-
-AGAP008213
-=============
-
-Name: **CYP6M3**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

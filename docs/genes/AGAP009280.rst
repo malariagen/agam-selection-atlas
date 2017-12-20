@@ -1,9 +1,0 @@
-
-AGAP009280
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class w [source:vb community annotation].
-
-TODO

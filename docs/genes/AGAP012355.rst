@@ -1,9 +1,0 @@
-
-AGAP012355
-=============
-
-Name: **CPLCP16**
-
-Description: Cuticular protein (putative) cplcp16 [source:vb community annotation].
-
-TODO

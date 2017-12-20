@@ -1,9 +1,0 @@
-
-AGAP004035
-=============
-
-Name: **GPRFSH**
-
-Description: Putative glyco-protein hormone fsh-like receptor [source:vb community annotation].
-
-TODO

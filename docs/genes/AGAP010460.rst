@@ -1,9 +1,0 @@
-
-AGAP010460
-=============
-
-
-
-Description: Rhoa activator c11orf59 homolog [source:vb community annotation].
-
-TODO

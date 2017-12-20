@@ -1,9 +1,0 @@
-
-AGAP011613
-=============
-
-
-
-Description: Dbh-like monooxygenase protein 1 [source:vb community annotation].
-
-TODO

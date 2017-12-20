@@ -1,9 +1,0 @@
-
-AGAP011149
-=============
-
-
-
-Description: Pre-mrna-splicing factor atp-dependent rna helicase dhx15/prp43 [source:vb community annotation].
-
-TODO

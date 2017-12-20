@@ -1,9 +1,0 @@
-
-AGAP001929
-=============
-
-
-
-Description: Dna polymerase alpha subunit a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013149
-=============
-
-Name: **GPROP1**
-
-Description: Long wavelength sensitive opsin [source:vb community annotation].
-
-TODO

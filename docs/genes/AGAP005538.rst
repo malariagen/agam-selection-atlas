@@ -1,9 +1,0 @@
-
-AGAP005538
-=============
-
-
-
-Description: Translin [source:vb community annotation].
-
-TODO

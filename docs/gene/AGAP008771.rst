@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008771
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerases i and iii subunit rpac1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008771>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

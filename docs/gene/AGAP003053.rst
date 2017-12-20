@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003053
+=============
+
+
+
+Name: **Or45**
+
+Description: Odorant receptor 45 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003053>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012632
-=============
-
-
-
-Description: Golgi phosphoprotein 3 [source:vb community annotation].
-
-TODO

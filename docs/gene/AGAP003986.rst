@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003986
+=============
+
+
+
+
+
+Description: C-src tyrosine kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003986>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

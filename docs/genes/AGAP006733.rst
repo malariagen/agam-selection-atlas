@@ -1,9 +1,0 @@
-
-AGAP006733
-=============
-
-Name: **Thoc4**
-
-Description: Tho complex subunit 4 [source:vb community annotation].
-
-TODO

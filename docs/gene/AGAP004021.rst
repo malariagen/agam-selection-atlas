@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004021
+=============
+
+
+
+Name: **IR40a**
+
+Description: Ionotropic receptor ir40a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004021>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

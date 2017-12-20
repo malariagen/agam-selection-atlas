@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003560
+=============
+
+
+
+
+
+Description: Udp-glucose:glycoprotein glucosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003560>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

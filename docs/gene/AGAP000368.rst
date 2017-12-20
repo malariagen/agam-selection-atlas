@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000368
+=============
+
+
+
+
+
+Description: Pi-3-kinase-related kinase smg-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000368>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

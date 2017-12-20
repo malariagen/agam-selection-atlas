@@ -1,9 +1,0 @@
-
-AGAP005637
-=============
-
-
-
-Description: Aldehyde oxidase [source:vb community annotation].
-
-TODO

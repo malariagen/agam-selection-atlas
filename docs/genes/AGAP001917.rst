@@ -1,9 +1,0 @@
-
-AGAP001917
-=============
-
-
-
-Description: Male specific lethal 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006037
-=============
-
-Name: **RpL24**
-
-Description: 60s ribosomal protein l24 [source:vb community annotation].
-
-TODO

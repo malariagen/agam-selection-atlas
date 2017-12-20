@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004371
+=============
+
+
+
+
+
+Description: Chondroitin 4-sulfotransferase 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004371>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP007300
-=============
-
-
-
-Description: Alkaline phosphatase [source:vb community annotation].
-
-TODO

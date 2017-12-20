@@ -1,9 +1,0 @@
-
-AGAP001220
-=============
-
-
-
-Description: Nad-dependent deacetylase sirtuin 7 [source:vb community annotation].
-
-TODO

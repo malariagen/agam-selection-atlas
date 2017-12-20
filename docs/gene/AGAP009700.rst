@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009700
+=============
+
+
+
+
+
+Description: Compass component swd2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009700>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

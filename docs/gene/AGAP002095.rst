@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002095
+=============
+
+
+
+Name: **USP**
+
+Description: Ultraspiracle [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002095>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

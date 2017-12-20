@@ -1,9 +1,0 @@
-
-AGAP000606
-=============
-
-Name: **GPRNNA19**
-
-Description: Putative gpcr class a orphan receptor 19 [source:vb community annotation].
-
-TODO

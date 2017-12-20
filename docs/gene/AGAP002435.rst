@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002435
+=============
+
+
+
+Name: **LL5**
+
+Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 5) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002435>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

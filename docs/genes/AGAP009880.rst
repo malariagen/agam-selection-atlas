@@ -1,9 +1,0 @@
-
-AGAP009880
-=============
-
-
-
-Description: Anaphase-promoting complex subunit 8 [source:vb community annotation].
-
-TODO

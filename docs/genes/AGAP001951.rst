@@ -1,9 +1,0 @@
-
-AGAP001951
-=============
-
-
-
-Description: Butyryl-coa dehydrogenase [source:vb community annotation].
-
-TODO

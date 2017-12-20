@@ -1,9 +1,0 @@
-
-AGAP001212
-=============
-
-Name: **PGRPLB**
-
-Description: Peptidoglycan recognition protein (long) [source:vb community annotation].
-
-TODO

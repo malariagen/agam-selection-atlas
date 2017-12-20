@@ -1,9 +1,0 @@
-
-AGAP005066
-=============
-
-
-
-Description: Carbonic anhydrase [source:vb community annotation].
-
-TODO

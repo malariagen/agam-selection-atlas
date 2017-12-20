@@ -1,9 +1,0 @@
-
-AGAP000901
-=============
-
-
-
-Description: Alanine transaminase [source:vb community annotation].
-
-TODO

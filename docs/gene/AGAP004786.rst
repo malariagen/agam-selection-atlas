@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004786
+=============
+
+
+
+
+
+Description: Pyruvate dehydrogenase e1 component subunit alpha [source:uniprotkb/trembl;acc:q7q2s3].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004786>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:3545835-3548422#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

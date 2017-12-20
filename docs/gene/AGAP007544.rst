@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007544
+=============
+
+
+
+
+
+Description: Chromatin assembly factor 1 subunit b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007544>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

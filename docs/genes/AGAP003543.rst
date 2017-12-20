@@ -1,9 +1,0 @@
-
-AGAP003543
-=============
-
-
-
-Description: Translation machinery-associated protein 16 [source:vb community annotation].
-
-TODO

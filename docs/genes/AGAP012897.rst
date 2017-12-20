@@ -1,9 +1,0 @@
-
-AGAP012897
-=============
-
-
-
-Description: Cystathionine beta-synthase [source:vb community annotation].
-
-TODO

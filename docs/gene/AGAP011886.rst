@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011886
+=============
+
+
+
+Name: **mRpS2**
+
+Description: 28s ribosomal protein s2, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011886>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

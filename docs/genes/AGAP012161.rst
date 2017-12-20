@@ -1,9 +1,0 @@
-
-AGAP012161
-=============
-
-
-
-Description: Guanylate cyclase (fragment) [source:uniprotkb/trembl;acc:q7pzz2].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013065
-=============
-
-
-
-Description: Tal-like protein aa [source:vb community annotation].
-
-TODO

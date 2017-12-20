@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001285
+=============
+
+
+
+
+
+Description: Charged multivesicular body protein 2a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001285>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

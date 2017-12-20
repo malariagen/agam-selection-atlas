@@ -1,9 +1,0 @@
-
-AGAP001068
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme e2 h [source:vb community annotation].
-
-TODO

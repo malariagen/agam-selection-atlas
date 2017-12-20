@@ -1,9 +1,0 @@
-
-AGAP003279
-=============
-
-
-
-Description: Superkiller protein 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013150
-=============
-
-
-
-Description: Protease m1 zinc metalloprotease [source:vb community annotation].
-
-TODO

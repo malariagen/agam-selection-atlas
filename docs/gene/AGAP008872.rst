@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008872
+=============
+
+
+
+Name: **Ift57**
+
+Description: Intraflagellar transport 57 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008872>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

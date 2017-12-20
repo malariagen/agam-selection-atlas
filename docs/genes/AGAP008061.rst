@@ -1,9 +1,0 @@
-
-AGAP008061
-=============
-
-Name: **IDGF4**
-
-Description: Imaginal disc growth factor 4 [source:vb community annotation].
-
-TODO

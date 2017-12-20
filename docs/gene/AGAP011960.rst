@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011960
+=============
+
+
+
+
+
+Description: Trna-specific 2-thiouridylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011960>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

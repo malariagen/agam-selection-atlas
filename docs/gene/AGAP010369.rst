@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010369
+=============
+
+
+
+Name: **CPR112**
+
+Description: Cuticular protein rr-2 family 112 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010369>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

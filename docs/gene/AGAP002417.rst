@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002417
+=============
+
+
+
+Name: **CYP4AR1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002417>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

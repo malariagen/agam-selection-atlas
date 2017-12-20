@@ -1,9 +1,0 @@
-
-AGAP005070
-=============
-
-
-
-Description: Zinc finger cchc domain-containing protein 8 [source:vb community annotation].
-
-TODO

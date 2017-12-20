@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001820
+=============
+
+
+
+
+
+Description: Tata-binding protein-associated factor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001820>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

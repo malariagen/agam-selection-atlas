@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002145
+=============
+
+
+
+
+
+Description: Inactivation no afterpotential d protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002145>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

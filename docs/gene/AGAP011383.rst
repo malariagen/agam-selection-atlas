@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011383
+=============
+
+
+
+
+
+Description: Rrna-processing protein ebp2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011383>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

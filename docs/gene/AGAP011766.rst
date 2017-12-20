@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011766
+=============
+
+
+
+
+
+Description: Ethanolaminephosphotransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011766>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004664
-=============
-
-
-
-Description: Homeobox protein abdominal-b and related proteins [source:vb community annotation].
-
-TODO

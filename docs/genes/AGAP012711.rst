@@ -1,9 +1,0 @@
-
-AGAP012711
-=============
-
-
-
-Description: Histone h2a [source:uniprotkb/trembl;acc:q7pd33].
-
-TODO

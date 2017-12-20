@@ -1,9 +1,0 @@
-
-AGAP010677
-=============
-
-
-
-Description: Ankyrin repeat domain-containing protein 13d [source:vb community annotation].
-
-TODO

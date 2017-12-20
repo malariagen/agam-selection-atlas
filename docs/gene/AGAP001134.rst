@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001134
+=============
+
+
+
+Name: **mRpS30**
+
+Description: 28s ribosomal protein s30, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001134>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

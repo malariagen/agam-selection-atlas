@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004904
+=============
+
+
+
+Name: **CAT1**
+
+Description: Catalase [source:uniprotkb/trembl;acc:a3e7z8].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004904>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:5771985-5780988#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

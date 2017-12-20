@@ -1,9 +1,0 @@
-
-AGAP009978
-=============
-
-Name: **DUOX**
-
-Description: Dual oxidase: peroxidase and nadph-oxidase domains [source:vb community annotation].
-
-TODO

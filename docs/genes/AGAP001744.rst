@@ -1,9 +1,0 @@
-
-AGAP001744
-=============
-
-
-
-Description: Cytochrome c oxidase assembly protein subunit 15 [source:vb community annotation].
-
-TODO

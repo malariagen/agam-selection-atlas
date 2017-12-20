@@ -1,9 +1,0 @@
-
-AGAP004479
-=============
-
-
-
-Description: Reduction in cnn dots 1 [source:vb community annotation].
-
-TODO

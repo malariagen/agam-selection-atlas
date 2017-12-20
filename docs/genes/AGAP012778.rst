@@ -1,9 +1,0 @@
-
-AGAP012778
-=============
-
-
-
-Description: Kallikrein [source:vb community annotation].
-
-TODO

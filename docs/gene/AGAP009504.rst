@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009504
+=============
+
+
+
+
+
+Description: U3 small nucleolar rna-associated protein 24 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009504>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

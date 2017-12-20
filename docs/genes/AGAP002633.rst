@@ -1,9 +1,0 @@
-
-AGAP002633
-=============
-
-Name: **Gr53**
-
-Description: Gustatory receptor 53 [source:vb community annotation].
-
-TODO

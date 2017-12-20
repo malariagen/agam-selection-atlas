@@ -1,9 +1,0 @@
-
-AGAP001994
-=============
-
-
-
-Description: Swi/snf-related matrix-associated actin-dependent regulator of chromatin subfamily [source:vb community annotation].
-
-TODO

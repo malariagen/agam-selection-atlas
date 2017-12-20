@@ -1,9 +1,0 @@
-
-AGAP012185
-=============
-
-
-
-Description: Erythrocyte membrane protein band 4.1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007897
+=============
+
+
+
+
+
+Description: Ubia prenyltransferase domain containing 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007897>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

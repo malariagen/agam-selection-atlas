@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000688
+=============
+
+
+
+
+
+Description: Carbonic anhydrase-related protein 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000688>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

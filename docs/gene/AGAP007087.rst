@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007087
+=============
+
+
+
+Name: **RpL41**
+
+Description: 60s ribosomal protein l41 [source:uniprotkb/trembl;acc:q52p89].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007087>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

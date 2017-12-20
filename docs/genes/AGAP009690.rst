@@ -1,9 +1,0 @@
-
-AGAP009690
-=============
-
-
-
-Description: Fatty acyl-coa reductase (fragment) [source:uniprotkb/trembl;acc:q7q1p6].
-
-TODO

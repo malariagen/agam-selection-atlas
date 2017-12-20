@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003680
+=============
+
+
+
+Name: **ABCH2**
+
+Description: Atp-binding cassette transporter (abc transporter) family h member 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003680>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

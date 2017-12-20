@@ -1,9 +1,0 @@
-
-AGAP028693
-=============
-
-Name: **RpS18**
-
-Description: 40s ribosomal protein s18 [source:vb community annotation].
-
-TODO

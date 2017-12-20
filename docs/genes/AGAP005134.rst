@@ -1,9 +1,0 @@
-
-AGAP005134
-=============
-
-
-
-Description: F-type h -transporting atpase subunit alpha [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP028646
-=============
-
-Name: **ANCE3**
-
-Description: Angiotensin-converting enzyme 3 [source:vb community annotation].
-
-TODO

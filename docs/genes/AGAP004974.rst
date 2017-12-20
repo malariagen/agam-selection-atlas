@@ -1,9 +1,0 @@
-
-AGAP004974
-=============
-
-Name: **Or31**
-
-Description: Odorant receptor 31 [source:vb community annotation].
-
-TODO

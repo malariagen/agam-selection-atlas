@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013102
+=============
+
+
+
+Name: **mRpS12**
+
+Description: 28s ribosomal protein s12, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013102>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

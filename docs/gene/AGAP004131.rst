@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004131
+=============
+
+
+
+Name: **Osi9**
+
+Description: Osiris 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004131>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

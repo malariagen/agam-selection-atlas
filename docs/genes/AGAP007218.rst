@@ -1,9 +1,0 @@
-
-AGAP007218
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 2, subunit 2 beta [source:vb community annotation].
-
-TODO

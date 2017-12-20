@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011814
+=============
+
+
+
+
+
+Description: Guanine nucleotide binding protein (g protein), beta polypeptide 1-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011814>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

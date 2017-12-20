@@ -1,9 +1,0 @@
-
-AGAP012957
-=============
-
-Name: **CYP4D17**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

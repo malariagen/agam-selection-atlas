@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001183
+=============
+
+
+
+
+
+Description: Pyrimidine-specific ribonucleoside hydrolase riha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001183>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

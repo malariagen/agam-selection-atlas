@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000945
+=============
+
+
+
+
+
+Description: Sn1-specific diacylglycerol lipase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000945>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

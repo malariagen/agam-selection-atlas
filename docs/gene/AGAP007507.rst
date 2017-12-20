@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007507
+=============
+
+
+
+Name: **mRpL48**
+
+Description: 39s ribosomal protein l48, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007507>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

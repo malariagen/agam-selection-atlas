@@ -1,9 +1,0 @@
-
-AGAP012826
-=============
-
-
-
-Description: Interferon-stimulated gene 20 kda protein [source:vb community annotation].
-
-TODO

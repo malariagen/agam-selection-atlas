@@ -1,9 +1,0 @@
-
-AGAP003008
-=============
-
-
-
-Description: 26s proteasome regulatory subunit t3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008687
-=============
-
-
-
-Description: Actin-like protein 6b [source:vb community annotation].
-
-TODO

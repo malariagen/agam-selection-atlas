@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010015
+=============
+
+
+
+
+
+Description: Uncharacterized protein rgd1560283 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010015>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

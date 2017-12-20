@@ -1,9 +1,0 @@
-
-AGAP005831
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase topors [source:vb community annotation].
-
-TODO

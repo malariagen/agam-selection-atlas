@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010102
+=============
+
+
+
+Name: **CPR148**
+
+Description: Cuticular protein rr-2 family 148 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010102>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

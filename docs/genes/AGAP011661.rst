@@ -1,9 +1,0 @@
-
-AGAP011661
-=============
-
-
-
-Description: Lysine-specific histone demethylase 1 [source:vb community annotation].
-
-TODO

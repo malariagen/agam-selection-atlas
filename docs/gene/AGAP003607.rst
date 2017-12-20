@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003607
+=============
+
+
+
+
+
+Description: Cad96cb, isoform b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003607>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

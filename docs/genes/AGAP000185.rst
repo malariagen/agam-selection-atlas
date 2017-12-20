@@ -1,9 +1,0 @@
-
-AGAP000185
-=============
-
-
-
-Description: Double stranded rna-specific editase [source:vb community annotation].
-
-TODO

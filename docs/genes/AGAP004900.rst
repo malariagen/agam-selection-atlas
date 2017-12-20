@@ -1,9 +1,0 @@
-
-AGAP004900
-=============
-
-
-
-Description: Trypsin type 4 [source:vb community annotation].
-
-TODO

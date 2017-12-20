@@ -1,9 +1,0 @@
-
-AGAP003816
-=============
-
-Name: **RpL30**
-
-Description: 60s ribosomal protein l30 [source:vb community annotation].
-
-TODO

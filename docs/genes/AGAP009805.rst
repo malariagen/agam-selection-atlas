@@ -1,9 +1,0 @@
-
-AGAP009805
-=============
-
-Name: **Gr9**
-
-Description: Gustatory receptor 9 [source:vb community annotation].
-
-TODO

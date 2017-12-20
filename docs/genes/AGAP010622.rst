@@ -1,9 +1,0 @@
-
-AGAP010622
-=============
-
-
-
-Description: Era g-protein-like 1 [source:vb community annotation].
-
-TODO

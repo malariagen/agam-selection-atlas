@@ -1,9 +1,0 @@
-
-AGAP006133
-=============
-
-
-
-Description: Nucleosome-remodeling factor subunit bptf [source:vb community annotation].
-
-TODO

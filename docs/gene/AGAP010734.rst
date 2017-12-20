@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010734
+=============
+
+
+
+Name: **HPX1**
+
+Description: Heme peroxidase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010734>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

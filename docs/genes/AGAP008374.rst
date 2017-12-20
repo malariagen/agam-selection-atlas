@@ -1,9 +1,0 @@
-
-AGAP008374
-=============
-
-
-
-Description: Inosine triphosphate pyrophosphatase [source:uniprotkb/swiss-prot;acc:q7q4f5].
-
-TODO

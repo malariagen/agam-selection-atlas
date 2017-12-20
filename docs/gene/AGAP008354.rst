@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008354
+=============
+
+
+
+
+
+Description: Janus kinase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008354>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

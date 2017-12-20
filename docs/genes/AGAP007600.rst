@@ -1,9 +1,0 @@
-
-AGAP007600
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 31 [source:vb community annotation].
-
-TODO

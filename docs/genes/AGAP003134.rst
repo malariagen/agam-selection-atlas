@@ -1,9 +1,0 @@
-
-AGAP003134
-=============
-
-
-
-Description: Fk506-binding protein 2 [source:vb community annotation].
-
-TODO

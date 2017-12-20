@@ -1,9 +1,0 @@
-
-AGAP005200
-=============
-
-
-
-Description: Solute carrier family 35 [source:vb community annotation].
-
-TODO

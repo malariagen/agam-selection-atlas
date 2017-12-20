@@ -1,9 +1,0 @@
-
-AGAP010177
-=============
-
-
-
-Description: Replication factor a3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005967
-=============
-
-Name: **CPR18**
-
-Description: Cuticular protein rr-1 family 18 [source:vb community annotation].
-
-TODO

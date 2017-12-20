@@ -1,9 +1,0 @@
-
-AGAP006100
-=============
-
-
-
-Description: Syntaxin 8 [source:vb community annotation].
-
-TODO

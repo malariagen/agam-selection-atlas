@@ -1,9 +1,0 @@
-
-AGAP005515
-=============
-
-
-
-Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7q745].
-
-TODO

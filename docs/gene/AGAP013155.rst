@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013155
+=============
+
+
+
+
+
+Description: Protease m1 zinc metalloprotease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013155>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009221
-=============
-
-Name: **SRPN5**
-
-Description: Serine protease inhibitor (serpin) 5 [source:vb community annotation].
-
-TODO

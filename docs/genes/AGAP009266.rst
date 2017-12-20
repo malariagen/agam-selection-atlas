@@ -1,9 +1,0 @@
-
-AGAP009266
-=============
-
-
-
-Description: Low molecular weight phosphotyrosine protein phosphatase [source:vb community annotation].
-
-TODO

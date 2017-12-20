@@ -1,9 +1,0 @@
-
-AGAP008773
-=============
-
-Name: **mRpS18C**
-
-Description: 28s ribosomal protein s18c, mitochondrial [source:vb community annotation].
-
-TODO

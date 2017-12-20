@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004350
+=============
+
+
+
+
+
+Description: Synaptic vesicle protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004350>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

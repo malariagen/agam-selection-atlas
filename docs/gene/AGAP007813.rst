@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007813
+=============
+
+
+
+
+
+Description: Ankyrin repeat domain-containing protein 49 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007813>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

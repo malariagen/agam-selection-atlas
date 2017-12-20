@@ -1,9 +1,0 @@
-
-AGAP011447
-=============
-
-
-
-Description: Protein dek [source:vb community annotation].
-
-TODO

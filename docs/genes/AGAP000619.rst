@@ -1,9 +1,0 @@
-
-AGAP000619
-=============
-
-
-
-Description: Inhibitor of growth protein 3 [source:vb community annotation].
-
-TODO

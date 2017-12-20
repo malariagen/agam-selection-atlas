@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004094
+=============
+
+
+
+
+
+Description: Sterol carrier protein-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004094>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

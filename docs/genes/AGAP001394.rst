@@ -1,9 +1,0 @@
-
-AGAP001394
-=============
-
-
-
-Description: Synaptosomal-associated protein, 23kda [source:vb community annotation].
-
-TODO

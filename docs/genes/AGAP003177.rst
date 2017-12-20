@@ -1,9 +1,0 @@
-
-AGAP003177
-=============
-
-
-
-Description: Upstream transcription factor 2/l-myc-2 [source:vb community annotation].
-
-TODO

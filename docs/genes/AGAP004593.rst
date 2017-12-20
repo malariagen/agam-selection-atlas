@@ -1,9 +1,0 @@
-
-AGAP004593
-=============
-
-
-
-Description: Eh domain-containing protein 1 [source:vb community annotation].
-
-TODO

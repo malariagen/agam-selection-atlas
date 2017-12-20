@@ -1,9 +1,0 @@
-
-AGAP009876
-=============
-
-Name: **CPR78**
-
-Description: Cuticular protein rr-1 family 78 [source:vb community annotation].
-
-TODO

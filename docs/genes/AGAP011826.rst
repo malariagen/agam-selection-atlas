@@ -1,9 +1,0 @@
-
-AGAP011826
-=============
-
-
-
-Description: Cytochrome c oxidase assembly protein subunit 17 [source:vb community annotation].
-
-TODO

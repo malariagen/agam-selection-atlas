@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003705
+=============
+
+
+
+
+
+Description: Set1/ash2 histone methyltransferase complex subunit ash2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003705>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

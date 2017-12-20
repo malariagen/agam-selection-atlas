@@ -1,9 +1,0 @@
-
-AGAP009072
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) fe-s protein 6 [source:vb community annotation].
-
-TODO

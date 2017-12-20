@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008147
+=============
+
+
+
+
+
+Description: Trna-splicing ligase rtcb homolog [source:uniprotkb/swiss-prot;acc:q7q412].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008147>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

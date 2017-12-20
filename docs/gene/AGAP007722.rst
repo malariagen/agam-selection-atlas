@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007722
+=============
+
+
+
+Name: **Adk2**
+
+Description: Adenylate kinase 2, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007722>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

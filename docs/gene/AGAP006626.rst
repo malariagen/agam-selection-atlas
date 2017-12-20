@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006626
+=============
+
+
+
+
+
+Description: Armadillo repeat-containing protein 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006626>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

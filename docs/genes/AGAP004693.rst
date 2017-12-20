@@ -1,9 +1,0 @@
-
-AGAP004693
-=============
-
-
-
-Description: Nuclear receptor subfamily 6 group a [source:vb community annotation].
-
-TODO

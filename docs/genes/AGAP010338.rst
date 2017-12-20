@@ -1,9 +1,0 @@
-
-AGAP010338
-=============
-
-Name: **mRpL23**
-
-Description: 39s ribosomal protein l23, mitochondrial [source:vb community annotation].
-
-TODO

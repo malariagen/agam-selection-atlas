@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008292
+=============
+
+
+
+Name: **TRYP4**
+
+Description: Trypsin 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008292>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

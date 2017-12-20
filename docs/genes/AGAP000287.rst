@@ -1,9 +1,0 @@
-
-AGAP000287
-=============
-
-
-
-Description: Prostaglandin reductase 1, gene [source:vb community annotation].
-
-TODO

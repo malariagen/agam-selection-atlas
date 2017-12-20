@@ -1,9 +1,0 @@
-
-AGAP002386
-=============
-
-
-
-Description: Dnaj homolog subfamily c member 14 [source:vb community annotation].
-
-TODO

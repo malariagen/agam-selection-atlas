@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000165
+=============
+
+
+
+Name: **GSTMS1**
+
+Description: Glutathione transferase microsomal 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000165>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

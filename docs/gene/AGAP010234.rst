@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010234
+=============
+
+
+
+
+
+Description: Microsomal triglyceride transfer protein large subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010234>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

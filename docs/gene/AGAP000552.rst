@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000552
+=============
+
+
+
+
+
+Description: Tbc domain-containing protein kinase-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000552>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

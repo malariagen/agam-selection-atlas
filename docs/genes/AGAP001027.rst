@@ -1,9 +1,0 @@
-
-AGAP001027
-=============
-
-
-
-Description: Sugar transporter erd6-like 7 [source:vb community annotation].
-
-TODO

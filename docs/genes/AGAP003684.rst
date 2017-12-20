@@ -1,9 +1,0 @@
-
-AGAP003684
-=============
-
-
-
-Description: Vesicular amine transporter 2 [source:vb community annotation].
-
-TODO

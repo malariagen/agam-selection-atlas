@@ -1,9 +1,0 @@
-
-AGAP006156
-=============
-
-Name: **GPRMGL1**
-
-Description: Putative metabotropic glutamate receptor 1 [source:vb community annotation].
-
-TODO

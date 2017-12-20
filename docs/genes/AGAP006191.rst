@@ -1,9 +1,0 @@
-
-AGAP006191
-=============
-
-Name: **Cht24**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003631
-=============
-
-Name: **GPRGRP2**
-
-Description: Putative gastrin/bombesin receptor 2 [source:vb community annotation].
-
-TODO

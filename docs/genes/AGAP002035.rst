@@ -1,9 +1,0 @@
-
-AGAP002035
-=============
-
-
-
-Description: Gc-rich sequence dna-binding factor [source:vb community annotation].
-
-TODO

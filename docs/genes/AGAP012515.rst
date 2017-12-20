@@ -1,9 +1,0 @@
-
-AGAP012515
-=============
-
-
-
-Description: F-type h -transporting atpase subunit f [source:vb community annotation].
-
-TODO

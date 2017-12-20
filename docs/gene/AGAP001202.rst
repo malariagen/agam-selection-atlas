@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001202
+=============
+
+
+
+
+
+Description: Organic cation transporter [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001202>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

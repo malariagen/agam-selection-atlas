@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008166
+=============
+
+
+
+
+
+Description: Heparan sulfate 2-o-sulfotransferase hs2st1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008166>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

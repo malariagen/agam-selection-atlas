@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003711
+=============
+
+
+
+
+
+Description: V-type h -transporting atpase subunit i [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003711>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

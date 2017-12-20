@@ -1,9 +1,0 @@
-
-AGAP008930
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class x [source:vb community annotation].
-
-TODO

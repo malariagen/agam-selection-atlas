@@ -1,9 +1,0 @@
-
-AGAP006587
-=============
-
-
-
-Description: Cysteine-rich venom protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002309
+=============
+
+
+
+Name: **WDY**
+
+Description: Wd repeat-containing protein on y chromosome [source:uniprotkb/swiss-prot;acc:q5ttp0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002309>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

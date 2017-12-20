@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001123
+=============
+
+
+
+Name: **Gr36**
+
+Description: Gustatory receptor 36 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001123>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

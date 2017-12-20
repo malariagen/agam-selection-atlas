@@ -1,9 +1,0 @@
-
-AGAP002430
-=============
-
-Name: **Akh2**
-
-Description: Adipokinetic hormone 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004568
-=============
-
-
-
-Description: Serine protease like protein [source:vb community annotation].
-
-TODO

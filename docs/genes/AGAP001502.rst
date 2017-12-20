@@ -1,9 +1,0 @@
-
-AGAP001502
-=============
-
-
-
-Description: Mitochondrial 10 kda heat shock protein [source:vb community annotation].
-
-TODO

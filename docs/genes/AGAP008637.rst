@@ -1,9 +1,0 @@
-
-AGAP008637
-=============
-
-Name: **APG7A**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009410
-=============
-
-Name: **Or18**
-
-Description: Odorant receptor 18 [source:vb community annotation].
-
-TODO

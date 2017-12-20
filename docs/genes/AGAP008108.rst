@@ -1,9 +1,0 @@
-
-AGAP008108
-=============
-
-
-
-Description: Uncharacterized protein [source:vb community annotation].
-
-TODO

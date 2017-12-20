@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009154
+=============
+
+
+
+Name: **ARC-P34**
+
+Description: Actin-related protein 2/3 complex subunit 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009154>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

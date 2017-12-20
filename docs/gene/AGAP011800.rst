@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011800
+=============
+
+
+
+
+
+Description: Transaldolase [source:uniprotkb/trembl;acc:q7pz95].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011800>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

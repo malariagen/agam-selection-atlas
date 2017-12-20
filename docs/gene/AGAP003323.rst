@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003323
+=============
+
+
+
+
+
+Description: Microtubule plus end-directed kinesin motor 3a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003323>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010419
+=============
+
+
+
+
+
+Description: Rab proteins geranylgeranyltransferase component a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010419>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

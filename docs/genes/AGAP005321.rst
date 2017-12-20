@@ -1,9 +1,0 @@
-
-AGAP005321
-=============
-
-
-
-Description: Chromatin licensing and dna replication factor 1 [source:vb community annotation].
-
-TODO

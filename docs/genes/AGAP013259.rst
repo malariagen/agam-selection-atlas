@@ -1,9 +1,0 @@
-
-AGAP013259
-=============
-
-
-
-Description: Rna-binding protein mex3 [source:vb community annotation].
-
-TODO

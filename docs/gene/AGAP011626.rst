@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011626
+=============
+
+
+
+Name: **Med19**
+
+Description: Mediator of rna polymerase ii transcription subunit 19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011626>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

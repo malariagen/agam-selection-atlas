@@ -1,9 +1,0 @@
-
-AGAP002549
-=============
-
-
-
-Description: Nicalin homolog [source:vb community annotation].
-
-TODO

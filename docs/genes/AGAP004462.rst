@@ -1,9 +1,0 @@
-
-AGAP004462
-=============
-
-Name: **RpS25**
-
-Description: 40s ribosomal protein s25 [source:vb community annotation].
-
-TODO

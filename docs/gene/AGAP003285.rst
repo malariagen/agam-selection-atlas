@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003285
+=============
+
+
+
+
+
+Description: F-box and leucine-rich repeat protein 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003285>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

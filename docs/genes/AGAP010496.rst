@@ -1,9 +1,0 @@
-
-AGAP010496
-=============
-
-
-
-Description: Splicing factor, arginine/serine-rich 1/9 [source:vb community annotation].
-
-TODO

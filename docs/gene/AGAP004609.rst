@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004609
+=============
+
+
+
+
+
+Description: Protein kinase c substrate 80k-h [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004609>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

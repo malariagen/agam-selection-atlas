@@ -1,9 +1,0 @@
-
-AGAP008434
-=============
-
-
-
-Description: Globin 2 [source:vb community annotation].
-
-TODO

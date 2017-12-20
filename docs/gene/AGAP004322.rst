@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004322
+=============
+
+
+
+
+
+Description: Pumilio homology domain family member 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004322>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003278
-=============
-
-
-
-Description: 7sk snrna methylphosphate capping enzyme [source:vb community annotation].
-
-TODO

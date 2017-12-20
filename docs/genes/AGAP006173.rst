@@ -1,9 +1,0 @@
-
-AGAP006173
-=============
-
-
-
-Description: Btb/poz domain-containing adapter for cul3-mediated rhoa degradation protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008041
+=============
+
+
+
+
+
+Description: Ring finger protein 121 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008041>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

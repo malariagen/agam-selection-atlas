@@ -1,9 +1,0 @@
-
-AGAP000386
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase ubr3 [source:vb community annotation].
-
-TODO

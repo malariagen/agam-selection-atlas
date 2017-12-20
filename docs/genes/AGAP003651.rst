@@ -1,9 +1,0 @@
-
-AGAP003651
-=============
-
-
-
-Description: Tyrosine-protein kinase fes/fps [source:vb community annotation].
-
-TODO

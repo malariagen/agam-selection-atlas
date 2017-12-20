@@ -1,9 +1,0 @@
-
-AGAP006231
-=============
-
-
-
-Description: Serine/threonine-protein phosphatase dullard homolog [source:vb community annotation].
-
-TODO

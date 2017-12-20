@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005700
+=============
+
+
+
+Name: **Med14**
+
+Description: Mediator of rna polymerase ii transcription subunit 14 [source:uniprotkb/swiss-prot;acc:q7q6s8].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005700>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:19151273-19157811#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

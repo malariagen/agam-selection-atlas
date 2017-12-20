@@ -1,9 +1,0 @@
-
-AGAP008746
-=============
-
-
-
-Description: Protein bem46 [source:vb community annotation].
-
-TODO

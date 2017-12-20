@@ -1,9 +1,0 @@
-
-AGAP001912
-=============
-
-Name: **Or8**
-
-Description: Odorant receptor 8 [source:vb community annotation].
-
-TODO

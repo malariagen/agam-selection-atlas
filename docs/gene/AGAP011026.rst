@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011026
+=============
+
+
+
+
+
+Description: 5' nucleotidase, ecto [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

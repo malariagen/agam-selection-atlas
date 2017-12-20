@@ -1,9 +1,0 @@
-
-AGAP001256
-=============
-
-
-
-Description: 3'-phosphoadenosine 5'-phosphosulfate synthase [source:vb community annotation].
-
-TODO

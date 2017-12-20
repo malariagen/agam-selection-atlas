@@ -1,9 +1,0 @@
-
-AGAP012026
-=============
-
-
-
-Description: Beta-adrenergic-receptor kinase [source:vb community annotation].
-
-TODO

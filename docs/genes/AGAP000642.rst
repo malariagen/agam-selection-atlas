@@ -1,9 +1,0 @@
-
-AGAP000642
-=============
-
-Name: **OBP35**
-
-Description: Odorant-binding protein 35 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002864
-=============
-
-Name: **CYP6P15P**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

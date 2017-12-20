@@ -1,9 +1,0 @@
-
-AGAP000083
-=============
-
-
-
-Description: Potassium channel tetramerisation domain containing protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013011
+=============
+
+
+
+
+
+Description: A-kinase anchoring protein akap120 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013011>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

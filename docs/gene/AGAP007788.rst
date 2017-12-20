@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007788
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase rnf31 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007788>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

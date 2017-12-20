@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004641
+=============
+
+
+
+
+
+Description: Atp synthase mitochondrial f1 complex assembly factor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004641>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

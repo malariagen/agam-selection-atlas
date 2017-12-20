@@ -1,9 +1,0 @@
-
-AGAP005267
-=============
-
-
-
-Description: Adp-ribosylation factor-like protein 2 [source:vb community annotation].
-
-TODO

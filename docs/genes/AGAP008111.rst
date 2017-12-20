@@ -1,9 +1,0 @@
-
-AGAP008111
-=============
-
-
-
-Description: Methyltransferase-like protein 14 [source:vb community annotation].
-
-TODO

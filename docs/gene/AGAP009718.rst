@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009718
+=============
+
+
+
+Name: **Or72**
+
+Description: Odorant receptor 72 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009718>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

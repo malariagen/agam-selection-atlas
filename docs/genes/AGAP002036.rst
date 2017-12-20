@@ -1,9 +1,0 @@
-
-AGAP002036
-=============
-
-
-
-Description: Zinc finger, fyve domain containing 1 [source:vb community annotation].
-
-TODO

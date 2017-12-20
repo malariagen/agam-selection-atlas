@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001559
+=============
+
+
+
+
+
+Description: Rna polymerase-associated protein ctr9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001559>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

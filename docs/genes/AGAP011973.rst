@@ -1,9 +1,0 @@
-
-AGAP011973
-=============
-
-
-
-Description: Dna-directed rna polymerase iii subunit rpc6 [source:vb community annotation].
-
-TODO

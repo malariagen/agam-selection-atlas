@@ -1,9 +1,0 @@
-
-AGAP011695
-=============
-
-
-
-Description: Homeobox protein six1 [source:vb community annotation].
-
-TODO

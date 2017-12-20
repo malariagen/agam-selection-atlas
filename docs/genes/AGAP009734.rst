@@ -1,9 +1,0 @@
-
-AGAP009734
-=============
-
-
-
-Description: Wingless-type mmtv integration site family, member 1 [source:vb community annotation].
-
-TODO

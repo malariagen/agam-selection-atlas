@@ -1,9 +1,0 @@
-
-AGAP006941
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx51/dbp6 [source:vb community annotation].
-
-TODO

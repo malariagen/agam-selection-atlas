@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011159
+=============
+
+
+
+Name: **CoVa**
+
+Description: Cytochrome c oxidase subunit va [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011159>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

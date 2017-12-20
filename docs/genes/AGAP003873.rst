@@ -1,9 +1,0 @@
-
-AGAP003873
-=============
-
-
-
-Description: Protein crumbs [source:vb community annotation].
-
-TODO

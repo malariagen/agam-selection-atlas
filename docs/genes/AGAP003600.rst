@@ -1,9 +1,0 @@
-
-AGAP003600
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein [source:uniprotkb/trembl;acc:q7qap0].
-
-TODO

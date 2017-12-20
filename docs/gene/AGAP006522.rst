@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006522
+=============
+
+
+
+
+
+Description: Copz1 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006522>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

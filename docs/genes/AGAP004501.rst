@@ -1,9 +1,0 @@
-
-AGAP004501
-=============
-
-
-
-Description: Allantoicase [source:vb community annotation].
-
-TODO

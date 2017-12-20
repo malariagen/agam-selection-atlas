@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013398
+=============
+
+
+
+
+
+Description: Ddrgk domain-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013398>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

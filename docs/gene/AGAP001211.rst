@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001211
+=============
+
+
+
+
+
+Description: Ras-related protein rab-8a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001211>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

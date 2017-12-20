@@ -1,9 +1,0 @@
-
-AGAP000900
-=============
-
-
-
-Description: Protein-tyrosine sulfotransferase [source:vb community annotation].
-
-TODO

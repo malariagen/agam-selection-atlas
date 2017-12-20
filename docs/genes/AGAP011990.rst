@@ -1,9 +1,0 @@
-
-AGAP011990
-=============
-
-Name: **Or64**
-
-Description: Odorant receptor 64 [source:vb community annotation].
-
-TODO

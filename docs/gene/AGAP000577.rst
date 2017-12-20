@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000577
+=============
+
+
+
+
+
+Description: Amp deaminase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000577>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

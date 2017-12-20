@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000308
+=============
+
+
+
+
+
+Description: Proteasome activator subunit 3 (pa28 gamma) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000308>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

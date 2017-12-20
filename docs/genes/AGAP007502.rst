@@ -1,9 +1,0 @@
-
-AGAP007502
-=============
-
-
-
-Description: Kinesin family member 11 [source:vb community annotation].
-
-TODO

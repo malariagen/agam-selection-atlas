@@ -1,9 +1,0 @@
-
-AGAP009667
-=============
-
-
-
-Description: Taxilin gamma [source:vb community annotation].
-
-TODO

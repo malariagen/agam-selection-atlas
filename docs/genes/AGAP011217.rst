@@ -1,9 +1,0 @@
-
-AGAP011217
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase rbbp6 [source:vb community annotation].
-
-TODO

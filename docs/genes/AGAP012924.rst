@@ -1,9 +1,0 @@
-
-AGAP012924
-=============
-
-
-
-Description: Arginine kinase [source:vb community annotation].
-
-TODO

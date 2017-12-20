@@ -1,9 +1,0 @@
-
-AGAP007040
-=============
-
-Name: **CPR61**
-
-Description: Cuticular protein rr-1 family 61 [source:vb community annotation].
-
-TODO

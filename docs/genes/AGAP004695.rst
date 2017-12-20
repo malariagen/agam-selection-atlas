@@ -1,9 +1,0 @@
-
-AGAP004695
-=============
-
-
-
-Description: Escrt-i complex subunit mvb12 [source:vb community annotation].
-
-TODO

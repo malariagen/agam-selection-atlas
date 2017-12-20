@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011819
+=============
+
+
+
+
+
+Description: S2p endopeptidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011819>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

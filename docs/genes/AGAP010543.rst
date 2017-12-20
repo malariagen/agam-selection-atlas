@@ -1,9 +1,0 @@
-
-AGAP010543
-=============
-
-
-
-Description: Yellow-x [source:vb community annotation].
-
-TODO

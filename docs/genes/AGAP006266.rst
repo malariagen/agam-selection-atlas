@@ -1,9 +1,0 @@
-
-AGAP006266
-=============
-
-
-
-Description: Hiv tat-specific factor 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009397
+=============
+
+
+
+Name: **Or55**
+
+Description: Odorant receptor 55 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009397>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

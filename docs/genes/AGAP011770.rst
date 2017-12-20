@@ -1,9 +1,0 @@
-
-AGAP011770
-=============
-
-
-
-Description: Low density lipoprotein receptor-related protein [source:vb community annotation].
-
-TODO

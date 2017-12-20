@@ -1,9 +1,0 @@
-
-AGAP006990
-=============
-
-
-
-Description: At-rich interactive domain-containing protein 2 [source:vb community annotation].
-
-TODO

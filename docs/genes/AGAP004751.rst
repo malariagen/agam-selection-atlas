@@ -1,9 +1,0 @@
-
-AGAP004751
-=============
-
-
-
-Description: Condensin-2 complex subunit d3 [source:vb community annotation].
-
-TODO

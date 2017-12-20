@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011206
+=============
+
+
+
+
+
+Description: Amine oxidase (fragment) [source:uniprotkb/trembl;acc:q7qhj1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011206>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

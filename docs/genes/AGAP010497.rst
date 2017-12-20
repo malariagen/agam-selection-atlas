@@ -1,9 +1,0 @@
-
-AGAP010497
-=============
-
-
-
-Description: Peroxisomal biogenesis factor 12 [source:vb community annotation].
-
-TODO

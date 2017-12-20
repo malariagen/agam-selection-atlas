@@ -1,9 +1,0 @@
-
-AGAP005185
-=============
-
-
-
-Description: Lipase [source:vb community annotation].
-
-TODO

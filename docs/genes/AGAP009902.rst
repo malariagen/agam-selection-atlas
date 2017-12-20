@@ -1,9 +1,0 @@
-
-AGAP009902
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase rnf146 [source:vb community annotation].
-
-TODO

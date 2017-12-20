@@ -1,9 +1,0 @@
-
-AGAP010078
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase (fragment) [source:uniprotkb/trembl;acc:q7q0x9].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010345
-=============
-
-
-
-Description: Otu domain-containing protein 7 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013440
-=============
-
-
-
-Description: Sra stem-loop-interacting rna-binding protein, mitochondrial [source:vb community annotation].
-
-TODO

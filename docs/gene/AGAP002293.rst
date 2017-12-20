@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002293
+=============
+
+
+
+
+
+Description: Intraflagellar transport 81 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002293>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

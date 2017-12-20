@@ -1,9 +1,0 @@
-
-AGAP004392
-=============
-
-
-
-Description: Dna polymerase alpha subunit b [source:vb community annotation].
-
-TODO

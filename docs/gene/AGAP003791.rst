@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003791
+=============
+
+
+
+
+
+Description: Rad51-like protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003791>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

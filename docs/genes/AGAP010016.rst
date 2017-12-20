@@ -1,9 +1,0 @@
-
-AGAP010016
-=============
-
-
-
-Description: Cytochrome b5 domain-containing protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012164
-=============
-
-Name: **GPRNPR4**
-
-Description: Putative neuropeptide receptor 4 [source:vb community annotation].
-
-TODO

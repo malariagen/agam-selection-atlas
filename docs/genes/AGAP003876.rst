@@ -1,9 +1,0 @@
-
-AGAP003876
-=============
-
-
-
-Description: Bhlh factor, other [source:vb community annotation].
-
-TODO

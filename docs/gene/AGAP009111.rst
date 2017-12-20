@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009111
+=============
+
+
+
+Name: **Or29**
+
+Description: Odorant receptor 29 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009111>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

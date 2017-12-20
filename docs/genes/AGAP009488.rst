@@ -1,9 +1,0 @@
-
-AGAP009488
-=============
-
-
-
-Description: Histone transcription regulator [source:vb community annotation].
-
-TODO

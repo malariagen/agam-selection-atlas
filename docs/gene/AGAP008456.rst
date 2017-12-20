@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008456
+=============
+
+
+
+Name: **CPLCG11**
+
+Description: Cuticular protein cplcg family (cplcg11) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008456>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

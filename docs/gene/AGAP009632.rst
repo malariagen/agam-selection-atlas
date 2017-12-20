@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009632
+=============
+
+
+
+
+
+Description: Ataxia telangiectasia mutated family protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009632>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

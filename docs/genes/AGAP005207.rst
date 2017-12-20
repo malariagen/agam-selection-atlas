@@ -1,9 +1,0 @@
-
-AGAP005207
-=============
-
-
-
-Description: Scy1-like protein 2 [source:vb community annotation].
-
-TODO

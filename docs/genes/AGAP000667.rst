@@ -1,9 +1,0 @@
-
-AGAP000667
-=============
-
-Name: **GPRDOP2**
-
-Description: Gpcr dopamine family 2 [source:vb community annotation].
-
-TODO

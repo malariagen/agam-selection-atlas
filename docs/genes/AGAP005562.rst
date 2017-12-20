@@ -1,9 +1,0 @@
-
-AGAP005562
-=============
-
-
-
-Description: Ring-box protein 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004036
-=============
-
-Name: **HPX7**
-
-Description: Heme peroxidase 7 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011686
-=============
-
-
-
-Description: Btb/poz domain-containing protein 13 (germ cell-less protein-like 1) [source:vb community annotation].
-
-TODO

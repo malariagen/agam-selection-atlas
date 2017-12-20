@@ -1,9 +1,0 @@
-
-AGAP004242
-=============
-
-Name: **mCDS**
-
-Description: Phosphatidate cytidylyltransferase, mitochondrial [source:uniprotkb/trembl;acc:q7pql6].
-
-TODO

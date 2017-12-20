@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010182
+=============
+
+
+
+
+
+Description: Wd repeat-containing protein 32 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010182>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

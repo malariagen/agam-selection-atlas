@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009412
+=============
+
+
+
+Name: **Or50**
+
+Description: Odorant receptor 50 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009412>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

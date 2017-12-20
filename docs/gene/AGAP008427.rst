@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008427
+=============
+
+
+
+Name: **UTP6**
+
+Description: U3 small nucleolar rna-associated protein 6 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008427>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

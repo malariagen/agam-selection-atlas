@@ -1,9 +1,0 @@
-
-AGAP006646
-=============
-
-
-
-Description: Hydroxyacid-oxoacid transhydrogenase, mitochondrial [source:vb community annotation].
-
-TODO

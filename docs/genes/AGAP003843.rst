@@ -1,9 +1,0 @@
-
-AGAP003843
-=============
-
-
-
-Description: Cytochrome c heme-lyase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012445
-=============
-
-
-
-Description: Phosphatidate phosphatase [source:vb community annotation].
-
-TODO

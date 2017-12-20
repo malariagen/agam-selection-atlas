@@ -1,9 +1,0 @@
-
-AGAP009543
-=============
-
-
-
-Description: Bicotinamide nucleotide adenylyltransferase 1 [source:vb community annotation].
-
-TODO

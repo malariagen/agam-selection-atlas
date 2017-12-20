@@ -1,9 +1,0 @@
-
-AGAP010018
-=============
-
-
-
-Description: Dna replication complex gins protein psf2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002525
+=============
+
+
+
+
+
+Description: Eukaryotic translation initiation factor 2a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002525>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

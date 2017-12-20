@@ -1,9 +1,0 @@
-
-AGAP008052
-=============
-
-Name: **SAP2**
-
-Description: Sensory appendage protein 2 [source:vb community annotation].
-
-TODO

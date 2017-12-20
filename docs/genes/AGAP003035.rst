@@ -1,9 +1,0 @@
-
-AGAP003035
-=============
-
-
-
-Description: Ap-3 complex subunit beta [source:uniprotkb/trembl;acc:a7usr3].
-
-TODO

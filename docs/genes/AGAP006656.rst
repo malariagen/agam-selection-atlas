@@ -1,9 +1,0 @@
-
-AGAP006656
-=============
-
-
-
-Description: Rna-binding protein musashi [source:vb community annotation].
-
-TODO

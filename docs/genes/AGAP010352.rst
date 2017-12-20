@@ -1,9 +1,0 @@
-
-AGAP010352
-=============
-
-
-
-Description: Dna/rna-binding protein kin17 [source:vb community annotation].
-
-TODO

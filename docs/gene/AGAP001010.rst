@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001010
+=============
+
+
+
+
+
+Description: Chondroitin sulfate synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001010>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

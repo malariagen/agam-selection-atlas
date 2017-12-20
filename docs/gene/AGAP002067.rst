@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002067
+=============
+
+
+
+
+
+Description: Cell cycle progression [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002067>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

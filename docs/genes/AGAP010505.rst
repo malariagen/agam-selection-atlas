@@ -1,9 +1,0 @@
-
-AGAP010505
-=============
-
-Name: **Or44**
-
-Description: Odorant receptor 44 [source:vb community annotation].
-
-TODO

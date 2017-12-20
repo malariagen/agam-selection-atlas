@@ -1,9 +1,0 @@
-
-AGAP009507
-=============
-
-
-
-Description: Ubiquitin thioesterase protein otub1 [source:vb community annotation].
-
-TODO

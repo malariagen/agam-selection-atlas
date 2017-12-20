@@ -1,9 +1,0 @@
-
-AGAP010876
-=============
-
-
-
-Description: Molecular chaperone dnak [source:vb community annotation].
-
-TODO

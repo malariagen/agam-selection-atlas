@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012227
+=============
+
+
+
+
+
+Description: Haloacid dehalogenase-like hydrolase domain-containing protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012227>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

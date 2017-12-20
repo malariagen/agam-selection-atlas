@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001606
+=============
+
+
+
+
+
+Description: 5-oxoprolinase (atp-hydrolysing) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001606>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000346
-=============
-
-Name: **SPZ1**
-
-Description: Spaetzle-like cytokine 1 [source:vb community annotation].
-
-TODO

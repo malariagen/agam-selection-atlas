@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011513
+=============
+
+
+
+
+
+Description: Phospholipase b, plb1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011513>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002462
-=============
-
-Name: **GPROP7**
-
-Description: Long wavelength sensitive opsin [source:vb community annotation].
-
-TODO

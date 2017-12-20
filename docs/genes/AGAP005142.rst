@@ -1,9 +1,0 @@
-
-AGAP005142
-=============
-
-
-
-Description: Mrna-capping enzyme [source:uniprotkb/trembl;acc:q7q9n3].
-
-TODO

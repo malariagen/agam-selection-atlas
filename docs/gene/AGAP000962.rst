@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000962
+=============
+
+
+
+Name: **alpha7**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000962>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

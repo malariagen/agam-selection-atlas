@@ -1,9 +1,0 @@
-
-AGAP010414
-=============
-
-Name: **CYP4C28**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

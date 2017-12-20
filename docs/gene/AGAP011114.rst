@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011114
+=============
+
+
+
+
+
+Description: Mrna-decapping enzyme subunit 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

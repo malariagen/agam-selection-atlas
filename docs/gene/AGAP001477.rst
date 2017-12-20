@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001477
+=============
+
+
+
+
+
+Description: Innexin inx2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001477>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

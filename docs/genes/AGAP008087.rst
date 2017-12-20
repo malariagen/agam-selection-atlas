@@ -1,9 +1,0 @@
-
-AGAP008087
-=============
-
-
-
-Description: Ribonuclease iii [source:vb community annotation].
-
-TODO

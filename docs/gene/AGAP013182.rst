@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013182
+=============
+
+
+
+Name: **Obp69**
+
+Description: General odorant-binding protein 69 [source:uniprotkb/swiss-prot;acc:f5hk49].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013182>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

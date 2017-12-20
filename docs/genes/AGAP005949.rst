@@ -1,9 +1,0 @@
-
-AGAP005949
-=============
-
-
-
-Description: 2-acylglycerol o-acyltransferase 2 [source:vb community annotation].
-
-TODO

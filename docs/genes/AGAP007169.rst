@@ -1,9 +1,0 @@
-
-AGAP007169
-=============
-
-
-
-Description: Sestrin [source:vb community annotation].
-
-TODO

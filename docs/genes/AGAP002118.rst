@@ -1,9 +1,0 @@
-
-AGAP002118
-=============
-
-
-
-Description: Zinc finger protein 622 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011839
+=============
+
+
+
+
+
+Description: Mitochondrial uncoupling protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011839>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003586
+=============
+
+
+
+
+
+Description: Phosphate carrier, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003586>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

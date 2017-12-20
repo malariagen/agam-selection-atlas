@@ -1,9 +1,0 @@
-
-AGAP006019
-=============
-
-
-
-Description: Maltase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010481
+=============
+
+
+
+
+
+Description: Solute carrier family 6 (neurotransmitter transporter, amino acid) member 5/7/ [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010481>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

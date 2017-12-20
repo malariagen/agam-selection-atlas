@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001027
+=============
+
+
+
+
+
+Description: Sugar transporter erd6-like 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001027>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

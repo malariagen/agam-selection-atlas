@@ -1,9 +1,0 @@
-
-AGAP013172
-=============
-
-Name: **IR7y**
-
-Description: Ionotropic receptor ir7y [source:vb community annotation].
-
-TODO

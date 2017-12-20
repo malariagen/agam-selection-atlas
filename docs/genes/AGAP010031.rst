@@ -1,9 +1,0 @@
-
-AGAP010031
-=============
-
-
-
-Description: Testis specific tektin [source:vb community annotation].
-
-TODO

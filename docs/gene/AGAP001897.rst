@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001897
+=============
+
+
+
+
+
+Description: Centromere protein j [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001897>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

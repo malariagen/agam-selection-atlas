@@ -1,9 +1,0 @@
-
-AGAP010608
-=============
-
-
-
-Description: Clathrin light chain [source:uniprotkb/trembl;acc:q5tse5].
-
-TODO

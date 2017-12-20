@@ -1,9 +1,0 @@
-
-AGAP003017
-=============
-
-
-
-Description: Serine/threonine-protein phosphatase 6 catalytic subunit [source:vb community annotation].
-
-TODO

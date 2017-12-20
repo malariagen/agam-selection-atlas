@@ -1,9 +1,0 @@
-
-AGAP007522
-=============
-
-
-
-Description: Adaptor-related protein complex 3, sigma 1 subunit [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000627
+=============
+
+
+
+
+
+Description: Casein kinase 1, alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000627>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

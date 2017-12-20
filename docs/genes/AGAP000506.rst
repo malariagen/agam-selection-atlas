@@ -1,9 +1,0 @@
-
-AGAP000506
-=============
-
-Name: **ABCG2**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001619
-=============
-
-
-
-Description: Homeobox protein emx [source:vb community annotation].
-
-TODO

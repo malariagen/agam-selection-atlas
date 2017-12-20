@@ -1,9 +1,0 @@
-
-AGAP009701
-=============
-
-Name: **Aats-ala**
-
-Description: Alanyl-trna synthetase [source:vb community annotation].
-
-TODO

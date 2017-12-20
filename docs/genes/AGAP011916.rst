@@ -1,9 +1,0 @@
-
-AGAP011916
-=============
-
-Name: **COEB6582**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001406
+=============
+
+
+
+Name: **wuho**
+
+Description: Trna (guanine-n(7)-)-methyltransferase subunit wuho [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001406>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

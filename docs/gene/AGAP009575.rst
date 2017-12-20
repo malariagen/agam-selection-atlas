@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009575
+=============
+
+
+
+
+
+Description: Nuclear receptor subfamily 2 group a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009575>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

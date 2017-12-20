@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002412
+=============
+
+
+
+Name: **mRpL45**
+
+Description: 39s ribosomal protein l45, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002412>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

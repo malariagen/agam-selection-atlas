@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009264
+=============
+
+
+
+
+
+Description: Ethanolamine-phosphate cytidylyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009264>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

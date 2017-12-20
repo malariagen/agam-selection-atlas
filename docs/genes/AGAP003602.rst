@@ -1,9 +1,0 @@
-
-AGAP003602
-=============
-
-
-
-Description: Methyltransferase-like protein 9 [source:vb community annotation].
-
-TODO

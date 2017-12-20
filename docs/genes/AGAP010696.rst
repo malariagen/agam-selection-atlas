@@ -1,9 +1,0 @@
-
-AGAP010696
-=============
-
-
-
-Description: Uncharacterized oxidoreductase yqjq [source:vb community annotation].
-
-TODO

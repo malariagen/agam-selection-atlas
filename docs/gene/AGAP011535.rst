@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011535
+=============
+
+
+
+
+
+Description: Transcription elongation factor b, polypeptide 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011535>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

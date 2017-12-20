@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004887
+=============
+
+
+
+Name: **RpS17**
+
+Description: 40s ribosomal protein s17 [source:uniprotkb/swiss-prot;acc:q9u9l1].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004887>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:4970013-4971174#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

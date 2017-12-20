@@ -1,9 +1,0 @@
-
-AGAP008815
-=============
-
-
-
-Description: Leucine-rich repeat-containing protein 67 [source:vb community annotation].
-
-TODO

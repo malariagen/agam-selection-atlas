@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001780
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase edd1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001780>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

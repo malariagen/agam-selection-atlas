@@ -1,9 +1,0 @@
-
-AGAP011684
-=============
-
-
-
-Description: Aryl hydrocarbon receptor interacting protein [source:vb community annotation].
-
-TODO

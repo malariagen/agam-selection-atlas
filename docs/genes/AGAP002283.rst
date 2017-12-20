@@ -1,9 +1,0 @@
-
-AGAP002283
-=============
-
-
-
-Description: Peroxisomal biogenesis factor 16 [source:vb community annotation].
-
-TODO

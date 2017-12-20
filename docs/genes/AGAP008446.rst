@@ -1,9 +1,0 @@
-
-AGAP008446
-=============
-
-Name: **CPLCG3**
-
-Description: Cuticular protein cplcg family (cplcg3) [source:vb community annotation].
-
-TODO

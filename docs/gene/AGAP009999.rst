@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009999
+=============
+
+
+
+Name: **Gr22**
+
+Description: Gustatory receptor 22 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009999>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

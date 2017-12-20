@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004130
+=============
+
+
+
+Name: **Osi7**
+
+Description: Osiris 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004130>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

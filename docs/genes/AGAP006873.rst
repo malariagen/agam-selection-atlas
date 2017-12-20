@@ -1,9 +1,0 @@
-
-AGAP006873
-=============
-
-
-
-Description: Ras-related protein rab-8a [source:vb community annotation].
-
-TODO

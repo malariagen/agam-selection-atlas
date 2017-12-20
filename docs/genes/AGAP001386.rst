@@ -1,9 +1,0 @@
-
-AGAP001386
-=============
-
-
-
-Description: Remodeling and spacing factor 1 [source:vb community annotation].
-
-TODO

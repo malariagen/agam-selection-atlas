@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007243
+=============
+
+
+
+
+
+Description: 26s protease regulatory subunit 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007243>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

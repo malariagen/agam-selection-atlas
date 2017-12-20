@@ -1,9 +1,0 @@
-
-AGAP000011
-=============
-
-
-
-Description: Branched-chain-amino-acid aminotransferase 2 [source:vb community annotation].
-
-TODO

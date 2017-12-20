@@ -1,9 +1,0 @@
-
-AGAP007668
-=============
-
-Name: **eIF3g**
-
-Description: Eukaryotic translation initiation factor 3 subunit g [source:uniprotkb/swiss-prot;acc:q7qjv0].
-
-TODO

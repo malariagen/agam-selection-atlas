@@ -1,9 +1,0 @@
-
-AGAP000445
-=============
-
-Name: **GPRADS**
-
-Description: Putative adenosine receptor [source:vb community annotation].
-
-TODO

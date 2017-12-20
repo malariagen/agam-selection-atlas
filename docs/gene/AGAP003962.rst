@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003962
+=============
+
+
+
+
+
+Description: Wscd family member agap003962 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003962>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

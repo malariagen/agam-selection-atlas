@@ -1,9 +1,0 @@
-
-AGAP008135
-=============
-
-
-
-Description: Gonadotropin inducible transcription factor [source:vb community annotation].
-
-TODO

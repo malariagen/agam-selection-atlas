@@ -1,9 +1,0 @@
-
-AGAP002892
-=============
-
-
-
-Description: Heterogeneous nuclear ribonucleoprotein f/h [source:vb community annotation].
-
-TODO

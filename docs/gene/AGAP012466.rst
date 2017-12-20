@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012466
+=============
+
+
+
+Name: **CPR146**
+
+Description: Cuticular protein rr-2 family 146 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012466>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

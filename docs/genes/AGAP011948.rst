@@ -1,9 +1,0 @@
-
-AGAP011948
-=============
-
-
-
-Description: Threonine 3-dehydrogenase [source:vb community annotation].
-
-TODO

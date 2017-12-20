@@ -1,9 +1,0 @@
-
-AGAP001653
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) fe-s protein 1 [source:vb community annotation].
-
-TODO

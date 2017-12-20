@@ -1,9 +1,0 @@
-
-AGAP012605
-=============
-
-Name: **Osi10**
-
-Description: Protein osiris 10 [source:vb community annotation].
-
-TODO

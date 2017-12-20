@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010031
+=============
+
+
+
+
+
+Description: Testis specific tektin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010031>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

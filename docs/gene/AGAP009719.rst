@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009719
+=============
+
+
+
+Name: **Or73**
+
+Description: Odorant receptor 73 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009719>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

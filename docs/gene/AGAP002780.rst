@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002780
+=============
+
+
+
+
+
+Description: Pre-mrna branch site protein p14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002780>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

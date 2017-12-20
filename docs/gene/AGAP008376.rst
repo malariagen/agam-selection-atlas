@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008376
+=============
+
+
+
+Name: **mRpL28**
+
+Description: 39s ribosomal protein l28, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008376>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

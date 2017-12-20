@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009657
+=============
+
+
+
+
+
+Description: Loss of heterozygosity 12 chromosomal region 1 protein-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009657>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

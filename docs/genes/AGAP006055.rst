@@ -1,9 +1,0 @@
-
-AGAP006055
-=============
-
-
-
-Description: Nf-kappa-b inhibitor-like protein 2 [source:vb community annotation].
-
-TODO

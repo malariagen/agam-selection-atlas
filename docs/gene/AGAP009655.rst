@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009655
+=============
+
+
+
+
+
+Description: Fanconi anemia group i protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009655>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

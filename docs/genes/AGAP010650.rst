@@ -1,9 +1,0 @@
-
-AGAP010650
-=============
-
-Name: **OBP45**
-
-Description: Odorant-binding protein 45 [source:vb community annotation].
-
-TODO

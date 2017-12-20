@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002981
+=============
+
+
+
+
+
+Description: Cytochrome c oxidase assembly protein cox16 homolog, mitochondrial precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002981>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

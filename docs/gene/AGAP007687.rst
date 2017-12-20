@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007687
+=============
+
+
+
+
+
+Description: Oxysterol-binding protein [source:uniprotkb/trembl;acc:q7pt44].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007687>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

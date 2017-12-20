@@ -1,9 +1,0 @@
-
-AGAP004613
-=============
-
-Name: **GPRDOP1**
-
-Description: Gpcr dopamine family 1 [source:vb community annotation].
-
-TODO

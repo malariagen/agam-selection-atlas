@@ -1,9 +1,0 @@
-
-AGAP007544
-=============
-
-
-
-Description: Chromatin assembly factor 1 subunit b [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002560
+=============
+
+
+
+Name: **Orco**
+
+Description: Odorant receptor obligate co-receptor (orco, or7) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002560>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

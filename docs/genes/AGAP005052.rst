@@ -1,9 +1,0 @@
-
-AGAP005052
-=============
-
-
-
-Description: Deoxyribodipyrimidine photo-lyase [source:vb community annotation].
-
-TODO

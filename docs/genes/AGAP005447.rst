@@ -1,9 +1,0 @@
-
-AGAP005447
-=============
-
-
-
-Description: Trimethyllysine dioxygenase [source:vb community annotation].
-
-TODO

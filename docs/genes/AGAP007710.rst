@@ -1,9 +1,0 @@
-
-AGAP007710
-=============
-
-
-
-Description: Mucolipin [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006917
+=============
+
+
+
+Name: **Gr55**
+
+Description: Gustatory receptor 55 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006917>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

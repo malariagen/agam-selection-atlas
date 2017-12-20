@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009511
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase hectd1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009511>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

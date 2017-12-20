@@ -1,9 +1,0 @@
-
-AGAP002406
-=============
-
-
-
-Description: Comm domain-containing protein 2 [source:vb community annotation].
-
-TODO

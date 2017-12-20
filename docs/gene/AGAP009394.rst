@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009394
+=============
+
+
+
+Name: **Or16**
+
+Description: Odorant receptor 16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009394>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

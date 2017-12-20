@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001495
+=============
+
+
+
+
+
+Description: Homeobox protein unc-4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001495>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

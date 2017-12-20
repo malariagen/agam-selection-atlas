@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004296
+=============
+
+
+
+
+
+Description: Signal peptidase complex subunit 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004296>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

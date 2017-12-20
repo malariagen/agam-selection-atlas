@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000347
+=============
+
+
+
+Name: **CAPA**
+
+Description: Pyrokinin capa-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000347>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

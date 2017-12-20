@@ -1,9 +1,0 @@
-
-AGAP002272
-=============
-
-
-
-Description: Ankyrin [source:vb community annotation].
-
-TODO

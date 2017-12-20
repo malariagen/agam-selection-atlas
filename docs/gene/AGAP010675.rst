@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010675
+=============
+
+
+
+Name: **LRIM18**
+
+Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010675>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

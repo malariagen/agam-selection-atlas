@@ -1,9 +1,0 @@
-
-AGAP002348
-=============
-
-
-
-Description: Exosome complex component rrp45 [source:vb community annotation].
-
-TODO

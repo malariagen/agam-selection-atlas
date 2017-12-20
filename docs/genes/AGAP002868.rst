@@ -1,9 +1,0 @@
-
-AGAP002868
-=============
-
-Name: **CYP6P1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

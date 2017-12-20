@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001177
+=============
+
+
+
+
+
+Description: Ca2 -triggered coelenterazine-binding protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001177>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001743
-=============
-
-
-
-Description: Estrogen-related receptor err [source:vb community annotation].
-
-TODO

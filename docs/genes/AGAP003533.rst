@@ -1,9 +1,0 @@
-
-AGAP003533
-=============
-
-
-
-Description: Dnaj homolog subfamily c member 19 [source:vb community annotation].
-
-TODO

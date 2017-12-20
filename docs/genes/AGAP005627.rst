@@ -1,9 +1,0 @@
-
-AGAP005627
-=============
-
-
-
-Description: Creatine kinase [source:vb community annotation].
-
-TODO

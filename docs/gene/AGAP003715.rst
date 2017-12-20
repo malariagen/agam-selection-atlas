@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003715
+=============
+
+
+
+
+
+Description: Cyclin g-associated kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003715>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

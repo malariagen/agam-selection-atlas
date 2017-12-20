@@ -1,9 +1,0 @@
-
-AGAP010834
-=============
-
-
-
-Description: Calpain-7 [source:vb community annotation].
-
-TODO

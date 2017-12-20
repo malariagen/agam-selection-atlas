@@ -1,9 +1,0 @@
-
-AGAP009049
-=============
-
-Name: **Cht16**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

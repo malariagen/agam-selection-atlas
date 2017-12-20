@@ -1,9 +1,0 @@
-
-AGAP009972
-=============
-
-
-
-Description: Mon2 homolog [source:vb community annotation].
-
-TODO

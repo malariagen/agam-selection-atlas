@@ -1,9 +1,0 @@
-
-AGAP006682
-=============
-
-Name: **Exo7**
-
-Description: Exocyst complex component 7 [source:vb community annotation].
-
-TODO

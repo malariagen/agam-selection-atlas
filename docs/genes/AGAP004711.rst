@@ -1,9 +1,0 @@
-
-AGAP004711
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx41 [source:vb community annotation].
-
-TODO

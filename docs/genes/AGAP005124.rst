@@ -1,9 +1,0 @@
-
-AGAP005124
-=============
-
-
-
-Description: Aldehyde dehydrogenase [source:uniprotkb/trembl;acc:q7pq09].
-
-TODO

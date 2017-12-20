@@ -1,9 +1,0 @@
-
-AGAP008164
-=============
-
-
-
-Description: La-related protein 7 [source:vb community annotation].
-
-TODO

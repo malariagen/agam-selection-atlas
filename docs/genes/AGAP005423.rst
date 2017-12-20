@@ -1,9 +1,0 @@
-
-AGAP005423
-=============
-
-Name: **Prosalpha4**
-
-Description: 26s proteasome alpha 4 subunit [source:vb community annotation].
-
-TODO

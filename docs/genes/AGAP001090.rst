@@ -1,9 +1,0 @@
-
-AGAP001090
-=============
-
-
-
-Description: Breast carcinoma amplified sequence 3 [source:vb community annotation].
-
-TODO

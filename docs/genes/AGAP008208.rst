@@ -1,9 +1,0 @@
-
-AGAP008208
-=============
-
-Name: **CYP6Y1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

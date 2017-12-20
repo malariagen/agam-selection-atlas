@@ -1,9 +1,0 @@
-
-AGAP006914
-=============
-
-
-
-Description: Fibrinogen-related protein 1 [source:vb community annotation].
-
-TODO

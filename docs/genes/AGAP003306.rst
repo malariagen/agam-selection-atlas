@@ -1,9 +1,0 @@
-
-AGAP003306
-=============
-
-Name: **OBP2**
-
-Description: Odorant-binding protein 2 [source:vb community annotation].
-
-TODO

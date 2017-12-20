@@ -1,9 +1,0 @@
-
-AGAP009532
-=============
-
-
-
-Description: Histidine protein methyltransferase 1 homolog [source:vb community annotation].
-
-TODO

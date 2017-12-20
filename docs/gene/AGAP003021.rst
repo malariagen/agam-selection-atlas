@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003021
+=============
+
+
+
+
+
+Description: Clathrin heavy chain [source:uniprotkb/trembl;acc:q7pqy9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003021>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

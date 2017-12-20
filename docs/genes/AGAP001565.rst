@@ -1,9 +1,0 @@
-
-AGAP001565
-=============
-
-
-
-Description: Vacuolar protein sorting-associated protein [source:vb community annotation].
-
-TODO

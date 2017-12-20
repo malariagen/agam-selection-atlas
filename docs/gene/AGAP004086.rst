@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004086
+=============
+
+
+
+
+
+Description: Prenyl protein peptidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004086>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

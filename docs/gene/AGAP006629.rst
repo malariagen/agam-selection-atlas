@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006629
+=============
+
+
+
+
+
+Description: Regulator of g-protein signaling [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006629>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

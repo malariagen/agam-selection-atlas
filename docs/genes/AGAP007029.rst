@@ -1,9 +1,0 @@
-
-AGAP007029
-=============
-
-
-
-Description: Glucosyl/glucuronosyl transferases [source:vb community annotation].
-
-TODO

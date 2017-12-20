@@ -1,9 +1,0 @@
-
-AGAP009759
-=============
-
-Name: **CPLCP12**
-
-Description: Cuticular protein cplcp12 [source:vb community annotation].
-
-TODO

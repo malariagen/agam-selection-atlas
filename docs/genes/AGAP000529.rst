@@ -1,9 +1,0 @@
-
-AGAP000529
-=============
-
-
-
-Description: Vacuolar protein sorting-associated protein 16-like protein [source:vb community annotation].
-
-TODO

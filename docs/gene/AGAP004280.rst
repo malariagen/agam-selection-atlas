@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004280
+=============
+
+
+
+
+
+Description: Groucho protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004280>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

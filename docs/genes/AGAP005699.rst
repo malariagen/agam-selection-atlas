@@ -1,9 +1,0 @@
-
-AGAP005699
-=============
-
-
-
-Description: Heparosan-n-sulfate-glucuronate 5-epimerase [source:vb community annotation].
-
-TODO

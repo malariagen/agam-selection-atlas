@@ -1,9 +1,0 @@
-
-AGAP006878
-=============
-
-
-
-Description: Mitochondrial complex i protein fmp36 [source:vb community annotation].
-
-TODO

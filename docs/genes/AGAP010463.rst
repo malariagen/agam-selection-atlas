@@ -1,9 +1,0 @@
-
-AGAP010463
-=============
-
-
-
-Description: Myo-inositol-1(or 4)-monophosphatase [source:vb community annotation].
-
-TODO

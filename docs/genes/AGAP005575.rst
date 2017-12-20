@@ -1,9 +1,0 @@
-
-AGAP005575
-=============
-
-
-
-Description: Gamma-tubulin complex component 2 [source:vb community annotation].
-
-TODO

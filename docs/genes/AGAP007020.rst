@@ -1,9 +1,0 @@
-
-AGAP007020
-=============
-
-Name: **TPX5**
-
-Description: Thioredoxin peroxidase 5 [source:vb community annotation].
-
-TODO

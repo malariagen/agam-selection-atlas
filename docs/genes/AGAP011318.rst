@@ -1,9 +1,0 @@
-
-AGAP011318
-=============
-
-
-
-Description: Synaptogyrin [source:vb community annotation].
-
-TODO

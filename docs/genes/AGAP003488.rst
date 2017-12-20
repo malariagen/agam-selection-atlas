@@ -1,9 +1,0 @@
-
-AGAP003488
-=============
-
-
-
-Description: Nucleotide exchange factor sil1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003025
+=============
+
+
+
+Name: **RpLp2**
+
+Description: 60s ribosomal protein lp2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003025>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

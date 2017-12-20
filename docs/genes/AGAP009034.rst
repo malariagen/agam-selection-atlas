@@ -1,9 +1,0 @@
-
-AGAP009034
-=============
-
-
-
-Description: Doublecortin and cam kinase-like 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001033
+=============
+
+
+
+
+
+Description: Protein mab-21-like [source:uniprotkb/swiss-prot;acc:q7qhx4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001033>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

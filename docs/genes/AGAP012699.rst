@@ -1,9 +1,0 @@
-
-AGAP012699
-=============
-
-
-
-Description: Serine/threonine-protein kinase prp4 [source:vb community annotation].
-
-TODO

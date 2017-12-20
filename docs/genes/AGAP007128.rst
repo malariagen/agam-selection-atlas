@@ -1,9 +1,0 @@
-
-AGAP007128
-=============
-
-
-
-Description: Ribosome biogenesis protein bop1 homolog [source:uniprotkb/swiss-prot;acc:q7ptc5].
-
-TODO

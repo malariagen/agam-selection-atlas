@@ -1,9 +1,0 @@
-
-AGAP009970
-=============
-
-
-
-Description: Cullin-associated nedd8-dissociated protein 1 [source:vb community annotation].
-
-TODO

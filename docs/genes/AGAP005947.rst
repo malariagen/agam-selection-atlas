@@ -1,9 +1,0 @@
-
-AGAP005947
-=============
-
-Name: **RpS13**
-
-Description: 40s ribosomal protein s13 [source:uniprotkb/swiss-prot;acc:p52811].
-
-TODO

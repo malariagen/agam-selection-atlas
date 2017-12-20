@@ -1,9 +1,0 @@
-
-AGAP012354
-=============
-
-
-
-Description: Syntrophin, alpha 1 [source:vb community annotation].
-
-TODO

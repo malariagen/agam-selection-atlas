@@ -1,9 +1,0 @@
-
-AGAP009393
-=============
-
-Name: **Or47**
-
-Description: Odorant receptor 47 [source:vb community annotation].
-
-TODO

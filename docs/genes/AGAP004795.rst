@@ -1,9 +1,0 @@
-
-AGAP004795
-=============
-
-
-
-Description: Rna polymerase ii elongation factor ell [source:vb community annotation].
-
-TODO

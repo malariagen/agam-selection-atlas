@@ -1,9 +1,0 @@
-
-AGAP009565
-=============
-
-
-
-Description: Tank-binding kinase 1 [source:vb community annotation].
-
-TODO

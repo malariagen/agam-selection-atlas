@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010478
+=============
+
+
+
+
+
+Description: Protein crossbronx homolog [source:uniprotkb/swiss-prot;acc:q7prh1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010478>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

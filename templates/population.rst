@@ -4,44 +4,32 @@
 The table below lists signals of recent selection discovered in the
 {{ population.label }} population.
 
-Chromosome 2
-------------
-
+{% macro signals_table(signals) %}
+{% if signals|length > 0 %}
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
     :header: Signal,Focus,Score
 
     {% for signal in signals -%}
-    {% if signal.chromosome == "2" -%}
-    :doc:`/signals/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.signal_arm }}:{{ signal.signal_start }}-{{ signal.signal_stop }}",{{ signal.sum_delta_aic|int }}
-    {% endif %}
-    {%- endfor %}
+    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
+    {% endfor %}
+{% else %}
+No signals.
+{% endif %}
+{% endmacro %}
+
+Chromosome 2
+------------
+
+{{ signals_table(signals['2']) }}
 
 Chromosome 3
 ------------
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    {% for signal in signals -%}
-    {% if signal.chromosome == "3" -%}
-    :doc:`/signals/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.signal_arm }}:{{ signal.signal_start }}-{{ signal.signal_stop }}",{{ signal.sum_delta_aic|int }}
-    {% endif %}
-    {%- endfor %}
+{{ signals_table(signals['3']) }}
 
 Chromosome X
 ------------
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    {% for signal in signals -%}
-    {% if signal.chromosome == "X" -%}
-    :doc:`/signals/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.signal_arm }}:{{ signal.signal_start }}-{{ signal.signal_stop }}",{{ signal.sum_delta_aic|int }}
-    {% endif %}
-    {%- endfor %}
+{{ signals_table(signals['X']) }}

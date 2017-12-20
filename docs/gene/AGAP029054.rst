@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP029054
+=============
+
+
+
+Name: **NimB2**
+
+Description: Nimrod b2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP029054>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004222
-=============
-
-Name: **GPRNNA20**
-
-Description: Putative gpcr class a orphan receptor 20 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007042
+=============
+
+
+
+Name: **CPR62**
+
+Description: Cuticular protein rr-1 family 62 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007042>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011347
-=============
-
-
-
-Description: Arylsulfatase b [source:vb community annotation].
-
-TODO

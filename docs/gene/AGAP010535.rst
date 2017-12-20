@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010535
+=============
+
+
+
+
+
+Description: 3-demethylubiquinone-9 3-methyltransferase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010535>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

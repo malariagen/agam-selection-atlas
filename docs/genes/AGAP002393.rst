@@ -1,9 +1,0 @@
-
-AGAP002393
-=============
-
-
-
-Description: Solute carrier family 35 (gdp-fucose transporter), member c1 [source:vb community annotation].
-
-TODO

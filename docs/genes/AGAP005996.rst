@@ -1,9 +1,0 @@
-
-AGAP005996
-=============
-
-Name: **CPR21**
-
-Description: Cuticular protein rr-1 family 21 [source:vb community annotation].
-
-TODO

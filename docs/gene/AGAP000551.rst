@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000551
+=============
+
+
+
+
+
+Description: 2-oxoglutarate dehydrogenase e1 component dhktd1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000551>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

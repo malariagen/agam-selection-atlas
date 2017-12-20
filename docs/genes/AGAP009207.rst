@@ -1,9 +1,0 @@
-
-AGAP009207
-=============
-
-
-
-Description: Extracellular signal-regulated kinase 1/2 [source:vb community annotation].
-
-TODO

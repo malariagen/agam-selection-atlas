@@ -1,9 +1,0 @@
-
-AGAP001546
-=============
-
-
-
-Description: Neither inactivation nor afterpotential protein g [source:vb community annotation].
-
-TODO

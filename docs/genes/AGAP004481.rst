@@ -1,9 +1,0 @@
-
-AGAP004481
-=============
-
-Name: **mRpS26**
-
-Description: 28s ribosomal protein s26, mitochondrial [source:vb community annotation].
-
-TODO

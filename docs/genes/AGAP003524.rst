@@ -1,9 +1,0 @@
-
-AGAP003524
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 5 [source:vb community annotation].
-
-TODO

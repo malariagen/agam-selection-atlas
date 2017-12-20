@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008457
+=============
+
+
+
+Name: **CPLCG13**
+
+Description: Cuticular protein cplcg family (cplcg13) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008457>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

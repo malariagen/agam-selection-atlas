@@ -1,9 +1,0 @@
-
-AGAP000378
-=============
-
-
-
-Description: Programmed cell death protein 4 [source:vb community annotation].
-
-TODO

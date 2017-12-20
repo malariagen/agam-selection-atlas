@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008475
+=============
+
+
+
+
+
+Description: Oligosaccharyltransferase complex subunit ostc [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008475>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

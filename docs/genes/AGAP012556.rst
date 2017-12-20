@@ -1,9 +1,0 @@
-
-AGAP012556
-=============
-
-Name: **Osi5**
-
-Description: Osiris 5 [source:vb community annotation].
-
-TODO

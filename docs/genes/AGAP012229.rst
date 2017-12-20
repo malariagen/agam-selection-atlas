@@ -1,9 +1,0 @@
-
-AGAP012229
-=============
-
-
-
-Description: Histone acetyltransferase myst1 [source:vb community annotation].
-
-TODO

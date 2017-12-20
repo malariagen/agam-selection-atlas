@@ -1,9 +1,0 @@
-
-AGAP006456
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) fe-s protein 3 [source:vb community annotation].
-
-TODO

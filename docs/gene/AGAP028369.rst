@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028369
+=============
+
+
+
+Name: **ATP8**
+
+Description: Adenosine triphosphatase subunit 8 [source:european nucleotide archive;acc:atp8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028369>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007493
+=============
+
+
+
+
+
+Description: 3-oxo-5-alpha-steroid 4-dehydrogenase 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007493>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

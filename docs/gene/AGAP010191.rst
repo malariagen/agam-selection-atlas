@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010191
+=============
+
+
+
+
+
+Description: Calumenin isoform b precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010191>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

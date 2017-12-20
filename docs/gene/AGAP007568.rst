@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007568
+=============
+
+
+
+
+
+Description: Condensin complex subunit 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007568>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

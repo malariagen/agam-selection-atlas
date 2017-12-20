@@ -1,9 +1,0 @@
-
-AGAP012168
-=============
-
-
-
-Description: Rho gdp-dissociation inhibitor [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001333
+=============
+
+
+
+Name: **st**
+
+Description: Protein scarlet [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001333>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

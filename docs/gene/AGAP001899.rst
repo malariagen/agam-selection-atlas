@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001899
+=============
+
+
+
+
+
+Description: Fatty acid synthase, animal type [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001899>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

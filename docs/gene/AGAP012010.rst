@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012010
+=============
+
+
+
+
+
+Description: 6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012010>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

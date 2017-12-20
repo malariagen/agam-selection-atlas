@@ -1,9 +1,0 @@
-
-AGAP004845
-=============
-
-
-
-Description: Scavenger receptor class b member [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001543
-=============
-
-Name: **TWDL11**
-
-Description: Cuticular protein twdl family (twdl11) [source:vb community annotation].
-
-TODO

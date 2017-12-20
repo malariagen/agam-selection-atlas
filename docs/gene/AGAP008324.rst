@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008324
+=============
+
+
+
+
+
+Description: Enhancer of mrna-decapping protein 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008324>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

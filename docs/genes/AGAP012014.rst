@@ -1,9 +1,0 @@
-
-AGAP012014
-=============
-
-Name: **Arf1**
-
-Description: Adp-ribosylation factor 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007421
-=============
-
-
-
-Description: Similar to mandelate racemase/muconate lactonizing protein [source:vb community annotation].
-
-TODO

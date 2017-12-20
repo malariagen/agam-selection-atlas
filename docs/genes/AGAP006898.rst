@@ -1,9 +1,0 @@
-
-AGAP006898
-=============
-
-Name: **Cht6**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007525
+=============
+
+
+
+
+
+Description: Coronin homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007525>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

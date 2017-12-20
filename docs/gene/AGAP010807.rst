@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010807
+=============
+
+
+
+
+
+Description: Trna pseudouridine38/39 synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010807>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

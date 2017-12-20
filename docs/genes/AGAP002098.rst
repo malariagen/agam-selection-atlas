@@ -1,9 +1,0 @@
-
-AGAP002098
-=============
-
-
-
-Description: Sjogren's syndrome nuclear autoantigen 1 [source:vb community annotation].
-
-TODO

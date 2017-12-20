@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012625
+=============
+
+
+
+
+
+Description: Annexin (fragment) [source:uniprotkb/trembl;acc:q7qm48].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012625>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

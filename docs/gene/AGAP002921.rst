@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002921
+=============
+
+
+
+Name: **RpL36**
+
+Description: 60s ribosomal protein l36 [source:uniprotkb/trembl;acc:q7pqy8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002921>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

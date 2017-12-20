@@ -1,9 +1,0 @@
-
-AGAP005975
-=============
-
-
-
-Description: Chondroitin proteoglycan-2 [source:vb community annotation].
-
-TODO

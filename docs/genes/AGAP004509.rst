@@ -1,9 +1,0 @@
-
-AGAP004509
-=============
-
-
-
-Description: Pre-mrna-splicing factor rbm22/slt11 [source:vb community annotation].
-
-TODO

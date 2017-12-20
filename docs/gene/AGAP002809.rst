@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002809
+=============
+
+
+
+
+
+Description: 3-oxoacyl-(acyl-carrier-protein) synthase ii [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002809>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

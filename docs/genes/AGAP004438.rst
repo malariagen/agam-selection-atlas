@@ -1,9 +1,0 @@
-
-AGAP004438
-=============
-
-
-
-Description: Transcription factor sp, invertebrate [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001424
-=============
-
-
-
-Description: Heat shock protein 90kda beta [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006845
+=============
+
+
+
+Name: **CPR50**
+
+Description: Cuticular protein rr-1 family 50 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006845>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

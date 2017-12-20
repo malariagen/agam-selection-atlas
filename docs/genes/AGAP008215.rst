@@ -1,9 +1,0 @@
-
-AGAP008215
-=============
-
-Name: **SG7b**
-
-Description: Salivary gland protein 7-like [source:vb community annotation].
-
-TODO

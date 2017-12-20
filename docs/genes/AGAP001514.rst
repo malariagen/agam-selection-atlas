@@ -1,9 +1,0 @@
-
-AGAP001514
-=============
-
-
-
-Description: Pre-mrna 3'-end-processing factor fip1 [source:vb community annotation].
-
-TODO

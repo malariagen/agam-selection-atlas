@@ -1,9 +1,0 @@
-
-AGAP009818
-=============
-
-
-
-Description: Methyltransferase-like protein 6 [source:vb community annotation].
-
-TODO

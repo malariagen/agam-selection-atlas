@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008286
+=============
+
+
+
+
+
+Description: Wd repeat-containing protein 55 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008286>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

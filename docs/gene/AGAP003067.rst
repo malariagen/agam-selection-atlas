@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003067
+=============
+
+
+
+Name: **CYP304C1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003067>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

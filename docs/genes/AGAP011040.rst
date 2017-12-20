@@ -1,9 +1,0 @@
-
-AGAP011040
-=============
-
-
-
-Description: Hemolymph proteinase 9 [source:vb community annotation].
-
-TODO

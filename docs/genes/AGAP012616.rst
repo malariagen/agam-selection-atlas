@@ -1,9 +1,0 @@
-
-AGAP012616
-=============
-
-Name: **PPO5**
-
-Description: Prophenoloxidase 5 [source:vb community annotation].
-
-TODO

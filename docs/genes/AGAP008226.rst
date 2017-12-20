@@ -1,9 +1,0 @@
-
-AGAP008226
-=============
-
-
-
-Description: Protein yipf [source:uniprotkb/trembl;acc:a0a1s4gyb9].
-
-TODO

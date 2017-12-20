@@ -1,9 +1,0 @@
-
-AGAP004380
-=============
-
-Name: **GSTD12**
-
-Description: Glutathione s-transferase delta class 12 [source:vb community annotation].
-
-TODO

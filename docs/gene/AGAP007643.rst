@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007643
+=============
+
+
+
+
+
+Description: Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007643>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

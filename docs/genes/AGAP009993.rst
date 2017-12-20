@@ -1,9 +1,0 @@
-
-AGAP009993
-=============
-
-
-
-Description: Rio kinase 3 [source:vb community annotation].
-
-TODO

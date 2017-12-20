@@ -1,9 +1,0 @@
-
-AGAP010644
-=============
-
-Name: **mRpL39**
-
-Description: 39s ribosomal protein l39, mitochondrial [source:vb community annotation].
-
-TODO

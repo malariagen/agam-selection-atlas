@@ -1,9 +1,0 @@
-
-AGAP010137
-=============
-
-
-
-Description: Adenosine kinase [source:vb community annotation].
-
-TODO

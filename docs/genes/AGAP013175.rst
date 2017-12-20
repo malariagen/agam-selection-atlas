@@ -1,9 +1,0 @@
-
-AGAP013175
-=============
-
-Name: **TWDL4**
-
-Description: Cuticular protein twdl family (twdl4) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001056
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme e2 l3 [source:vb community annotation].
-
-TODO

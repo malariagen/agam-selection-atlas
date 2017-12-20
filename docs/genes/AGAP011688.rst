@@ -1,9 +1,0 @@
-
-AGAP011688
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase setd2 [source:vb community annotation].
-
-TODO

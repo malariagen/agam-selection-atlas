@@ -1,9 +1,0 @@
-
-AGAP003707
-=============
-
-
-
-Description: Transcription elongation factor 1 homolog [source:vb community annotation].
-
-TODO

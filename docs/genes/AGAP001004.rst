@@ -1,9 +1,0 @@
-
-AGAP001004
-=============
-
-Name: **TOLL1A**
-
-Description: Toll-like receptor 1a [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001532
+=============
+
+
+
+Name: **GPRGNR3**
+
+Description: Putative gonadotrophin releasing hormone receptor 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001532>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011851
-=============
-
-
-
-Description: Protein kiaa0664 homolog [source:vb community annotation].
-
-TODO

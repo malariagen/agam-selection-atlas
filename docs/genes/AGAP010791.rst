@@ -1,9 +1,0 @@
-
-AGAP010791
-=============
-
-
-
-Description: Polyribonucleotide nucleotidyltransferase [source:vb community annotation].
-
-TODO

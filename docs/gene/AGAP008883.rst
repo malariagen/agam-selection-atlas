@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008883
+=============
+
+
+
+
+
+Description: Anamorsin homolog [source:uniprotkb/swiss-prot;acc:q7pwq6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008883>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

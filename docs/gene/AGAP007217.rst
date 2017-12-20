@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007217
+=============
+
+
+
+
+
+Description: Pre-mrna-processing factor 19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007217>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

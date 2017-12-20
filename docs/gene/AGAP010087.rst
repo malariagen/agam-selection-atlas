@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010087
+=============
+
+
+
+
+
+Description: Phosphatidylinositol-binding clathrin assembly protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010087>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

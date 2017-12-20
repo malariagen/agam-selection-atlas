@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008656
+=============
+
+
+
+Name: **sema1a**
+
+Description: Semaphorin 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008656>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007128
+=============
+
+
+
+
+
+Description: Ribosome biogenesis protein bop1 homolog [source:uniprotkb/swiss-prot;acc:q7ptc5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007128>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

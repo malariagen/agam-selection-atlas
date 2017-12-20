@@ -1,9 +1,0 @@
-
-AGAP008572
-=============
-
-
-
-Description: Tim21-like protein, mitochondrial precursor [source:vb community annotation].
-
-TODO

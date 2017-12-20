@@ -1,9 +1,0 @@
-
-AGAP008214
-=============
-
-Name: **CYP6M4**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

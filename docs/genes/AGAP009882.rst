@@ -1,9 +1,0 @@
-
-AGAP009882
-=============
-
-
-
-Description: Heat shock factor-binding protein 1 [source:vb community annotation].
-
-TODO

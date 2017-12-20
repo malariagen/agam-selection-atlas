@@ -1,9 +1,0 @@
-
-AGAP009724
-=============
-
-
-
-Description: Geranylgeranyl transferase type-2 subunit alpha [source:vb community annotation].
-
-TODO

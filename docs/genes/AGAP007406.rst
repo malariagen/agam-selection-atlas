@@ -1,9 +1,0 @@
-
-AGAP007406
-=============
-
-
-
-Description: Elongation factor 1-alpha [source:uniprotkb/trembl;acc:q7pt29].
-
-TODO

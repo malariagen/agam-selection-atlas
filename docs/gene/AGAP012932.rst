@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012932
+=============
+
+
+
+
+
+Description: Autophagy-related protein 9 [source:uniprotkb/trembl;acc:a0naj4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012932>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

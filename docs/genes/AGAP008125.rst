@@ -1,9 +1,0 @@
-
-AGAP008125
-=============
-
-
-
-Description: All-trans-retinol dehydrogenase (nad ) [source:vb community annotation].
-
-TODO

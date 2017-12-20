@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003501
+=============
+
+
+
+
+
+Description: Lipase [source:uniprotkb/trembl;acc:q5tvs6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003501>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

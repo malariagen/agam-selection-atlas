@@ -1,9 +1,0 @@
-
-AGAP005755
-=============
-
-
-
-Description: Dna-binding protein d-ets-3 [source:vb community annotation].
-
-TODO

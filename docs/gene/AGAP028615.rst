@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028615
+=============
+
+
+
+Name: **NAT5**
+
+Description: Nutrient amino acid transporter 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028615>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

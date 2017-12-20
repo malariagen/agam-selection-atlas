@@ -1,9 +1,0 @@
-
-AGAP001389
-=============
-
-
-
-Description: Homeobox protein hex [source:vb community annotation].
-
-TODO

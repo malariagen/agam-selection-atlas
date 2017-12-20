@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008347
+=============
+
+
+
+Name: **GPRRK**
+
+Description: Putative glycoprotein hormone rk-like receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008347>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

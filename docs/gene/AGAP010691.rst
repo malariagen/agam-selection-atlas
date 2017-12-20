@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010691
+=============
+
+
+
+
+
+Description: Tnf receptor-associated protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010691>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

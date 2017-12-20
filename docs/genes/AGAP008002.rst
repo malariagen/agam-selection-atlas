@@ -1,9 +1,0 @@
-
-AGAP008002
-=============
-
-
-
-Description: Cyclin k [source:vb community annotation].
-
-TODO

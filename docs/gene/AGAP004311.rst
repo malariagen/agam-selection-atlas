@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004311
+=============
+
+
+
+
+
+Description: Phosphopantothenate-cysteine ligase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004311>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

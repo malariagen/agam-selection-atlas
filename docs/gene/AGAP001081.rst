@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001081
+=============
+
+
+
+
+
+Description: Wiskott-aldrich syndrome protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001081>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

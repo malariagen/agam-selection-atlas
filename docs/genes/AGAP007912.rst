@@ -1,9 +1,0 @@
-
-AGAP007912
-=============
-
-
-
-Description: Ribosomal rna assembly protein mis3, expressed [source:vb community annotation].
-
-TODO

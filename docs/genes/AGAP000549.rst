@@ -1,9 +1,0 @@
-
-AGAP000549
-=============
-
-
-
-Description: 2-oxoisovalerate dehydrogenase e2 component (dihydrolipoyl transacylase) [source:vb community annotation].
-
-TODO

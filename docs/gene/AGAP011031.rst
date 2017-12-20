@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011031
+=============
+
+
+
+
+
+Description: Peptidylglycine alpha-amidating monooxygenase cooh-terminal interactor protein-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011031>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

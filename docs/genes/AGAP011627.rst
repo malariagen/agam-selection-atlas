@@ -1,9 +1,0 @@
-
-AGAP011627
-=============
-
-
-
-Description: Polyadenylate-binding protein-interacting protein 1 [source:vb community annotation].
-
-TODO

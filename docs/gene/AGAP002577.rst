@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002577
+=============
+
+
+
+
+
+Description: Voltage-dependent p/q type calcium channel [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002577>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

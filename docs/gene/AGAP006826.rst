@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006826
+=============
+
+
+
+
+
+Description: Integrin alpha-ps [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006826>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

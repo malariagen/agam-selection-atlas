@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000880
+=============
+
+
+
+
+
+Description: Suppressor of cytokine signaling, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000880>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

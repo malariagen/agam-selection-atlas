@@ -1,9 +1,0 @@
-
-AGAP010150
-=============
-
-
-
-Description: Cytochrome b5-related [source:vb community annotation].
-
-TODO

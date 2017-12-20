@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028495
+=============
+
+
+
+
+
+Description: Carbohydrate sulfotransferase [source:uniprotkb/trembl;acc:a0a0e4g9j1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028495>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002763
-=============
-
-Name: **IR7t**
-
-Description: Ionotropic receptor ir7t [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001751
-=============
-
-
-
-Description: Oxidation resistance protein [source:vb community annotation].
-
-TODO

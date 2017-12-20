@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011769
+=============
+
+
+
+
+
+Description: Fanconi anemia group d2 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011769>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

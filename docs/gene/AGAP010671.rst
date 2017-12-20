@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010671
+=============
+
+
+
+
+
+Description: Actin-related protein 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010671>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

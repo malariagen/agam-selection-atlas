@@ -1,9 +1,0 @@
-
-AGAP000954
-=============
-
-
-
-Description: Phosphoribosyl pyrophosphate synthetase-associated protein 2 [source:vb community annotation].
-
-TODO

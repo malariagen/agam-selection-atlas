@@ -1,9 +1,0 @@
-
-AGAP004985
-=============
-
-Name: **mRpL16**
-
-Description: 39s ribosomal protein l16, mitochondrial [source:vb community annotation].
-
-TODO

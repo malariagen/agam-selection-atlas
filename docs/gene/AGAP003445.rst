@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003445
+=============
+
+
+
+Name: **Tsc1**
+
+Description: Tuberous sclerosis 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003445>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

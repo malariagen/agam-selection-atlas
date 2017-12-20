@@ -1,9 +1,0 @@
-
-AGAP003588
-=============
-
-Name: **VATH**
-
-Description: V-type h -transporting atpase subunit h [source:vb community annotation].
-
-TODO

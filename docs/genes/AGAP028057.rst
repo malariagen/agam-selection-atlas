@@ -1,9 +1,0 @@
-
-AGAP028057
-=============
-
-Name: **CPLCG23**
-
-Description: Cuticular protein cplcg family (cplcg23) [source:vb community annotation].
-
-TODO

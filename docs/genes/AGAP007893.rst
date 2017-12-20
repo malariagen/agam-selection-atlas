@@ -1,9 +1,0 @@
-
-AGAP007893
-=============
-
-
-
-Description: Protein fam36a [source:vb community annotation].
-
-TODO

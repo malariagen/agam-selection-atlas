@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000462
+=============
+
+
+
+
+
+Description: Peptidyl-prolyl isomerase f (cyclophilin d) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000462>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

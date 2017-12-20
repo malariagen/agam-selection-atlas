@@ -1,9 +1,0 @@
-
-AGAP008530
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 7 [source:vb community annotation].
-
-TODO

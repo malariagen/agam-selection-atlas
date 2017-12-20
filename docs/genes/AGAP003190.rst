@@ -1,9 +1,0 @@
-
-AGAP003190
-=============
-
-
-
-Description: Dna mismatch repair protein msh6 [source:vb community annotation].
-
-TODO

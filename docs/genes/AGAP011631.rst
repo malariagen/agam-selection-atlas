@@ -1,9 +1,0 @@
-
-AGAP011631
-=============
-
-Name: **Or11**
-
-Description: Odorant receptor 11 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010450
-=============
-
-Name: **mRpL2**
-
-Description: 39s ribosomal protein l2, mitochondrial [source:vb community annotation].
-
-TODO

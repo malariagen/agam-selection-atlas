@@ -1,9 +1,0 @@
-
-AGAP005049
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 53 [source:vb community annotation].
-
-TODO

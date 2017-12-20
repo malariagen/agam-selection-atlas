@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002190
+=============
+
+
+
+Name: **OBP39**
+
+Description: Odorant-binding protein 39 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002190>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

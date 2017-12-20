@@ -1,9 +1,0 @@
-
-AGAP010407
-=============
-
-
-
-Description: Elongator complex protein 4 [source:vb community annotation].
-
-TODO

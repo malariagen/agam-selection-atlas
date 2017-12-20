@@ -1,9 +1,0 @@
-
-AGAP010865
-=============
-
-
-
-Description: Sodium-dependent nutrient amino acid transporter 5 [source:vb community annotation].
-
-TODO

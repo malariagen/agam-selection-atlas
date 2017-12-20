@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009085
+=============
+
+
+
+
+
+Description: Cysteine-rich secretory protein 2 precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009085>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005678
-=============
-
-Name: **IR134**
-
-Description: Ionotropic receptor ir134 [source:vb community annotation].
-
-TODO

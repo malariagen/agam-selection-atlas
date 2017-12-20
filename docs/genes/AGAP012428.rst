@@ -1,9 +1,0 @@
-
-AGAP012428
-=============
-
-
-
-Description: Barh-like [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006245
-=============
-
-
-
-Description: Zinc finger matrin-type protein 2 [source:vb community annotation].
-
-TODO

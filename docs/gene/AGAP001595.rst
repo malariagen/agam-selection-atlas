@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001595
+=============
+
+
+
+Name: **RpS29**
+
+Description: 40s ribosomal protein s29 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001595>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008917
-=============
-
-
-
-Description: Dna topoisomerase ii [source:vb community annotation].
-
-TODO

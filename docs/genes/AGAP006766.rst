@@ -1,9 +1,0 @@
-
-AGAP006766
-=============
-
-
-
-Description: Nascent polypeptide-associated complex subunit alpha [source:vb community annotation].
-
-TODO

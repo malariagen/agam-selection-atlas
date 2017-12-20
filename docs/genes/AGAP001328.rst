@@ -1,9 +1,0 @@
-
-AGAP001328
-=============
-
-
-
-Description: Tripartite motif-containing protein 33 [source:vb community annotation].
-
-TODO

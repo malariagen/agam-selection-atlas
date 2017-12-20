@@ -1,9 +1,0 @@
-
-AGAP004278
-=============
-
-Name: **Or42**
-
-Description: Odorant receptor 42 [source:vb community annotation].
-
-TODO

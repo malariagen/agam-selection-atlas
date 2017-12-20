@@ -1,9 +1,0 @@
-
-AGAP005934
-=============
-
-
-
-Description: Tumor susceptibility 101 protein [source:vb community annotation].
-
-TODO

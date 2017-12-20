@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003929
+=============
+
+
+
+Name: **MMP3**
+
+Description: Matrix metalloprotease 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003929>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

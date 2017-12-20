@@ -1,9 +1,0 @@
-
-AGAP028016
-=============
-
-Name: **CPLCP15**
-
-Description: Cuticular protein (putative) cplcp15 [source:vb community annotation].
-
-TODO

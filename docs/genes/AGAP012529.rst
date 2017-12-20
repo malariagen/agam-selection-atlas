@@ -1,9 +1,0 @@
-
-AGAP012529
-=============
-
-Name: **GALE8**
-
-Description: Galectin 8 [source:vb community annotation].
-
-TODO

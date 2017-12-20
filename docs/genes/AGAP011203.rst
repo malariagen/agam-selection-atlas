@@ -1,9 +1,0 @@
-
-AGAP011203
-=============
-
-
-
-Description: Eukaryotic translation initiation factor [source:vb community annotation].
-
-TODO

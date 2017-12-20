@@ -1,9 +1,0 @@
-
-AGAP009225
-=============
-
-
-
-Description: Dimeric dihydrodiol dehydrogenase [source:vb community annotation].
-
-TODO

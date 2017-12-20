@@ -1,9 +1,0 @@
-
-AGAP008019
-=============
-
-Name: **CYP12F3**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

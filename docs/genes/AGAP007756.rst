@@ -1,9 +1,0 @@
-
-AGAP007756
-=============
-
-Name: **Gr46**
-
-Description: Gustatory receptor 46 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028047
+=============
+
+
+
+Name: **CPLCW8**
+
+Description: Cuticular protein cplcw family (cplcw8) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028047>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

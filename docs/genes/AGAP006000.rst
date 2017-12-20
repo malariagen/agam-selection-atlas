@@ -1,9 +1,0 @@
-
-AGAP006000
-=============
-
-Name: **CPR25**
-
-Description: Cuticular protein rr-1 family 25 [source:vb community annotation].
-
-TODO

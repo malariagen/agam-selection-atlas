@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002056
+=============
+
+
+
+
+
+Description: Beta-galactosidase [source:uniprotkb/trembl;acc:a7uvk6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002056>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

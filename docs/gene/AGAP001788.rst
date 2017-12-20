@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001788
+=============
+
+
+
+
+
+Description: M-type 9 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001788>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001458
-=============
-
-
-
-Description: Mono-adp-ribosyltransferase sirtuin 6 [source:vb community annotation].
-
-TODO

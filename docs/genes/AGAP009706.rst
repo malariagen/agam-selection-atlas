@@ -1,9 +1,0 @@
-
-AGAP009706
-=============
-
-Name: **Or70**
-
-Description: Odorant receptor 70 [source:vb community annotation].
-
-TODO

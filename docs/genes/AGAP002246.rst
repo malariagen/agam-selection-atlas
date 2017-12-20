@@ -1,9 +1,0 @@
-
-AGAP002246
-=============
-
-
-
-Description: Histone-lysine n-methyltransferase setd1 [source:vb community annotation].
-
-TODO

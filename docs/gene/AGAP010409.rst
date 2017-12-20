@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010409
+=============
+
+
+
+Name: **OBP22**
+
+Description: Odorant-binding protein 22 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010409>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012138
-=============
-
-Name: **RpL21**
-
-Description: 60s ribosomal protein l21 [source:vb community annotation].
-
-TODO

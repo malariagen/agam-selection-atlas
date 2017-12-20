@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011931
+=============
+
+
+
+Name: **mRpS31**
+
+Description: 28s ribosomal protein s31, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011931>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

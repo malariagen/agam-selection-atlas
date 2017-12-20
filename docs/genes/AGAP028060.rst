@@ -1,9 +1,0 @@
-
-AGAP028060
-=============
-
-
-
-Description: Glucuronosyltransferase [source:vb community annotation].
-
-TODO

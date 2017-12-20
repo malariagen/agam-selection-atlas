@@ -1,9 +1,0 @@
-
-AGAP002144
-=============
-
-
-
-Description: U4/u6 small nuclear ribonucleoprotein prp4 [source:vb community annotation].
-
-TODO

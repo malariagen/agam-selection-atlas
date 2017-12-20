@@ -1,9 +1,0 @@
-
-AGAP005603
-=============
-
-
-
-Description: Zinc finger protein 706 [source:vb community annotation].
-
-TODO

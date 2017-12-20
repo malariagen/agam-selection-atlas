@@ -1,9 +1,0 @@
-
-AGAP002740
-=============
-
-
-
-Description: Fad synthetase [source:vb community annotation].
-
-TODO

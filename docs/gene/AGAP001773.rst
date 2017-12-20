@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001773
+=============
+
+
+
+Name: **GPRALS2**
+
+Description: Putative allatostatin receptor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001773>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

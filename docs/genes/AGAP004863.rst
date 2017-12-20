@@ -1,9 +1,0 @@
-
-AGAP004863
-=============
-
-
-
-Description: Transient receptor potential cation channel subfamily a member 1 [source:vb community annotation].
-
-TODO

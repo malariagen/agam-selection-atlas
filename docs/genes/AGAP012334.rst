@@ -1,9 +1,0 @@
-
-AGAP012334
-=============
-
-
-
-Description: High mobility group protein d, isoform c [source:vb community annotation].
-
-TODO

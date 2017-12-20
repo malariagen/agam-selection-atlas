@@ -1,9 +1,0 @@
-
-AGAP000558
-=============
-
-
-
-Description: Mannosyl-oligosaccharide alpha-1,2-mannosidase [source:vb community annotation].
-
-TODO

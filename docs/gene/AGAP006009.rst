@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006009
+=============
+
+
+
+Name: **CPR30**
+
+Description: Cuticular protein rr-1 family 30 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006009>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:24639829-24641461#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

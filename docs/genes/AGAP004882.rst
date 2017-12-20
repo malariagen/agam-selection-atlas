@@ -1,9 +1,0 @@
-
-AGAP004882
-=============
-
-
-
-Description: Transmembrane 9 superfamily member 3 [source:vb community annotation].
-
-TODO

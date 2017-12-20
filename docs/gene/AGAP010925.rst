@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010925
+=============
+
+
+
+
+
+Description: Eukaryotic translation initiation factor 2-alpha kinase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010925>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

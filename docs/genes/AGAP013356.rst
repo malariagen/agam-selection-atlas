@@ -1,9 +1,0 @@
-
-AGAP013356
-=============
-
-
-
-Description: Otopetrin [source:vb community annotation].
-
-TODO

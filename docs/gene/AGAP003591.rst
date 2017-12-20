@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003591
+=============
+
+
+
+
+
+Description: Lrr-repeat protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003591>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

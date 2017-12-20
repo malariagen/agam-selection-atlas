@@ -1,9 +1,0 @@
-
-AGAP000903
-=============
-
-
-
-Description: Deltex [source:vb community annotation].
-
-TODO

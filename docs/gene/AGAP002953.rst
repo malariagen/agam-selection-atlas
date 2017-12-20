@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002953
+=============
+
+
+
+
+
+Description: Mitogen-activated protein kinase kinase kinase 7-interacting protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002953>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

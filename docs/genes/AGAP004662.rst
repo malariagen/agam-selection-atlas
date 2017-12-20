@@ -1,9 +1,0 @@
-
-AGAP004662
-=============
-
-
-
-Description: Homeobox protein abdominal-a homolog [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007289
-=============
-
-Name: **OBP46**
-
-Description: Odorant-binding protein 46 [source:vb community annotation].
-
-TODO

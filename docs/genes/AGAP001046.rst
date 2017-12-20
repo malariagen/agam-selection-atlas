@@ -1,9 +1,0 @@
-
-AGAP001046
-=============
-
-
-
-Description: Abl interactor 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009681
-=============
-
-
-
-Description: Dna fragmentation factor 40 kd beta subunit [source:vb community annotation].
-
-TODO

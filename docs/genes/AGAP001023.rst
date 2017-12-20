@@ -1,9 +1,0 @@
-
-AGAP001023
-=============
-
-
-
-Description: Myofilin variant b [source:vb community annotation].
-
-TODO

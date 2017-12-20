@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028383
+=============
+
+
+
+Name: **ND4L**
+
+Description: Nadh dehydrogenase subunit 4l [source:european nucleotide archive;acc:nd4l].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028383>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

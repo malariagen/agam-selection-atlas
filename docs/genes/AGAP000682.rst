@@ -1,9 +1,0 @@
-
-AGAP000682
-=============
-
-
-
-Description: Max-like protein x [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008682
-=============
-
-Name: **CYP307B1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

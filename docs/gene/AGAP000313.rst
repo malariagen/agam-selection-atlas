@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000313
+=============
+
+
+
+
+
+Description: Alanine-glyoxylate aminotransferase 2-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000313>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

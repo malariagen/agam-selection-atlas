@@ -1,9 +1,0 @@
-
-AGAP010860
-=============
-
-
-
-Description: Sodium-dependent nutrient amino acid transporter 2 [source:vb community annotation].
-
-TODO

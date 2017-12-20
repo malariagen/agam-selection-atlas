@@ -1,9 +1,0 @@
-
-AGAP008993
-=============
-
-
-
-Description: Itg-containing peptide [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010141
-=============
-
-
-
-Description: Dnaj homolog subfamily c member 4 [source:vb community annotation].
-
-TODO

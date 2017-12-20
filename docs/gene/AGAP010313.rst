@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010313
+=============
+
+
+
+
+
+Description: Serine/threonine-protein kinase atr [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010313>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

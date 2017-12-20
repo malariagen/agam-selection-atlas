@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000237
+=============
+
+
+
+
+
+Description: Camp response element-binding protein (creb) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000237>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

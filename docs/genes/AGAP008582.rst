@@ -1,9 +1,0 @@
-
-AGAP008582
-=============
-
-
-
-Description: Alpha-mannosidase [source:uniprotkb/trembl;acc:a0a1s4gyp5].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007142
-=============
-
-
-
-Description: Serine-type enodpeptidase [source:vb community annotation].
-
-TODO

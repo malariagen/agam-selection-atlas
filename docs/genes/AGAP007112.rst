@@ -1,9 +1,0 @@
-
-AGAP007112
-=============
-
-
-
-Description: Pescadillo homolog [source:uniprotkb/swiss-prot;acc:q7qix1].
-
-TODO

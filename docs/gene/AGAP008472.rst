@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008472
+=============
+
+
+
+
+
+Description: Methyltransferase-like protein 13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008472>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011291
-=============
-
-
-
-Description: Upf0466 protein agap011291, mitochondrial [source:vb community annotation].
-
-TODO

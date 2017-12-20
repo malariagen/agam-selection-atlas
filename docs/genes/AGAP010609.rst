@@ -1,9 +1,0 @@
-
-AGAP010609
-=============
-
-
-
-Description: Dnaj (hsp40) homolog subfamily c [source:vb community annotation].
-
-TODO

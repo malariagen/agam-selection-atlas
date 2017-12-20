@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002387
+=============
+
+
+
+
+
+Description: Acid phosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002387>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

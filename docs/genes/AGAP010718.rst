@@ -1,9 +1,0 @@
-
-AGAP010718
-=============
-
-
-
-Description: 20s proteasome subunit beta 5 [source:vb community annotation].
-
-TODO

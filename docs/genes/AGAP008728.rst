@@ -1,9 +1,0 @@
-
-AGAP008728
-=============
-
-
-
-Description: Transcriptional repressor nf-x1 [source:vb community annotation].
-
-TODO

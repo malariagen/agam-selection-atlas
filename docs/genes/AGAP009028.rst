@@ -1,9 +1,0 @@
-
-AGAP009028
-=============
-
-
-
-Description: Teashirt-like protein [source:vb community annotation].
-
-TODO

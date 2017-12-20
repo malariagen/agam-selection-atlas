@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000433
+=============
+
+
+
+
+
+Description: Ras-related protein rab-39b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000433>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

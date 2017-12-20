@@ -1,9 +1,0 @@
-
-AGAP000589
-=============
-
-
-
-Description: Poly(adp-ribose) glycohydrolase [source:vb community annotation].
-
-TODO

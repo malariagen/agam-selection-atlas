@@ -1,9 +1,0 @@
-
-AGAP004394
-=============
-
-
-
-Description: Dipeptidyl-peptidase iii [source:vb community annotation].
-
-TODO

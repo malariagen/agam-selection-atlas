@@ -1,9 +1,0 @@
-
-AGAP028156
-=============
-
-Name: **CPLCP14**
-
-Description: Cuticular protein (putative) cplcp14 [source:vb community annotation].
-
-TODO

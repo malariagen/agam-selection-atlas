@@ -1,9 +1,0 @@
-
-AGAP009611
-=============
-
-
-
-Description: Glyoxylate reductase/hydroxypyruvate reductase, gene 2 [source:vb community annotation].
-
-TODO

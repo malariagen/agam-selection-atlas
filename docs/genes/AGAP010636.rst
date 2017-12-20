@@ -1,9 +1,0 @@
-
-AGAP010636
-=============
-
-Name: **TOLL1B**
-
-Description: Toll-like receptor 1b [source:vb community annotation].
-
-TODO

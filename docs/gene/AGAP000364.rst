@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000364
+=============
+
+
+
+
+
+Description: Protein stoned-a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000364>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009640
-=============
-
-Name: **Or1**
-
-Description: Odorant receptor 1 [source:vb community annotation].
-
-TODO

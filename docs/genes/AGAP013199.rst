@@ -1,9 +1,0 @@
-
-AGAP013199
-=============
-
-
-
-Description: Vacuolar atp synthase subunit d 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012161
+=============
+
+
+
+
+
+Description: Guanylate cyclase (fragment) [source:uniprotkb/trembl;acc:q7pzz2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012161>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

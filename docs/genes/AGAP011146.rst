@@ -1,9 +1,0 @@
-
-AGAP011146
-=============
-
-Name: **mRpL14**
-
-Description: 39s ribosomal protein l14, mitochondrial [source:vb community annotation].
-
-TODO

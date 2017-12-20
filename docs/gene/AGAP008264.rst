@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008264
+=============
+
+
+
+
+
+Description: Palmitoyltransferase [source:uniprotkb/trembl;acc:a0a1s4gyf7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008264>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000953
+=============
+
+
+
+Name: **RpL10-1**
+
+Description: 60s ribosomal protein l10-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000953>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

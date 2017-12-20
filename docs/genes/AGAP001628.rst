@@ -1,9 +1,0 @@
-
-AGAP001628
-=============
-
-
-
-Description: Cystinosin homolog [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012955
-=============
-
-
-
-Description: Solute carrier family 19, member 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006085
-=============
-
-
-
-Description: Adp-ribose pyrophosphatase [source:vb community annotation].
-
-TODO

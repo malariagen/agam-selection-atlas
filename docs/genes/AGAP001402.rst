@@ -1,9 +1,0 @@
-
-AGAP001402
-=============
-
-
-
-Description: Cas1 domain-containing protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006520
-=============
-
-
-
-Description: Fatty acid elongase 2 [source:vb community annotation].
-
-TODO

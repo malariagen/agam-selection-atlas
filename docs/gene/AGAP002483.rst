@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002483
+=============
+
+
+
+
+
+Description: Ketohexokinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002483>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

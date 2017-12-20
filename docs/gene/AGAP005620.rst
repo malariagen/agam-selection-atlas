@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005620
+=============
+
+
+
+Name: **ATT**
+
+Description: Attacin anti-microbial peptide [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005620>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:17932982-17933710#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

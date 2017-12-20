@@ -1,9 +1,0 @@
-
-AGAP000953
-=============
-
-Name: **RpL10-1**
-
-Description: 60s ribosomal protein l10-1 [source:vb community annotation].
-
-TODO

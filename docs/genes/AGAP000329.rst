@@ -1,9 +1,0 @@
-
-AGAP000329
-=============
-
-Name: **alpha3**
-
-Description: Nicotinic acetylcholine receptor subunit alpha 3 [source:vb community annotation].
-
-TODO

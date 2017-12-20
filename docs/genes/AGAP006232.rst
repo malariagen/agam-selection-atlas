@@ -1,9 +1,0 @@
-
-AGAP006232
-=============
-
-
-
-Description: Peroxin-14 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011369
-=============
-
-
-
-Description: Gelsolin [source:vb community annotation].
-
-TODO

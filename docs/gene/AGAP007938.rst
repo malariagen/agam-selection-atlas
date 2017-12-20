@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007938
+=============
+
+
+
+Name: **cact**
+
+Description: Protein cactus (toll pathway signalling) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007938>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

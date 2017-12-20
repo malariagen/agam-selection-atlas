@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001301
+=============
+
+
+
+
+
+Description: Bardet-biedl syndrome 5 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001301>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

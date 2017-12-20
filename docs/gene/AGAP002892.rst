@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002892
+=============
+
+
+
+
+
+Description: Heterogeneous nuclear ribonucleoprotein f/h [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002892>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

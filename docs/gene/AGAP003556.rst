@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003556
+=============
+
+
+
+Name: **RpL3**
+
+Description: 60s ribosomal protein l3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003556>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

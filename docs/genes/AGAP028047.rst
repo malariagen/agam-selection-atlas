@@ -1,9 +1,0 @@
-
-AGAP028047
-=============
-
-Name: **CPLCW8**
-
-Description: Cuticular protein cplcw family (cplcw8) [source:vb community annotation].
-
-TODO

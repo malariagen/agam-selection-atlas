@@ -1,9 +1,0 @@
-
-AGAP011575
-=============
-
-Name: **COE15O**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

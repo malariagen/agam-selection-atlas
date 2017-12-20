@@ -1,9 +1,0 @@
-
-AGAP001349
-=============
-
-
-
-Description: Chronic lymphocytic leukemia deletion region gene 6 protein-like protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002759
+=============
+
+
+
+
+
+Description: T-complex protein 1 subunit gamma [source:uniprotkb/trembl;acc:q7qcq5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002759>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

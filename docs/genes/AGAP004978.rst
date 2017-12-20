@@ -1,9 +1,0 @@
-
-AGAP004978
-=============
-
-Name: **PPO9**
-
-Description: Prophenoloxidase 9 [source:vb community annotation].
-
-TODO

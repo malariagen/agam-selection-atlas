@@ -1,9 +1,0 @@
-
-AGAP001495
-=============
-
-
-
-Description: Homeobox protein unc-4 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001031
+=============
+
+
+
+
+
+Description: Ino80 complex subunit e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001031>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

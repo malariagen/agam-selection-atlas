@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008329
+=============
+
+
+
+Name: **RpS5**
+
+Description: 40s ribosomal protein s5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008329>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

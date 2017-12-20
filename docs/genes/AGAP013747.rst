@@ -1,9 +1,0 @@
-
-AGAP013747
-=============
-
-
-
-Description: Dynactin 5 (p25) [source:vb community annotation].
-
-TODO

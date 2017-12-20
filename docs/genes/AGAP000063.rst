@@ -1,9 +1,0 @@
-
-AGAP000063
-=============
-
-
-
-Description: Paired box protein [source:vb community annotation].
-
-TODO

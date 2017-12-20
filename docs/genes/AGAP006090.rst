@@ -1,9 +1,0 @@
-
-AGAP006090
-=============
-
-
-
-Description: Nucleolar protein 15 [source:vb community annotation].
-
-TODO

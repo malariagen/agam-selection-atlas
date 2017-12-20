@@ -1,9 +1,0 @@
-
-AGAP008491
-=============
-
-
-
-Description: Oligosaccharyltransferase complex subunit epsilon [source:vb community annotation].
-
-TODO

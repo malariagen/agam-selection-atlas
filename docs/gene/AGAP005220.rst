@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005220
+=============
+
+
+
+
+
+Description: Cytoplasmic trna 2-thiolation protein 1 [source:uniprotkb/swiss-prot;acc:q7q9i4].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005220>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:12498643-12499796#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

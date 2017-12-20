@@ -1,9 +1,0 @@
-
-AGAP001645
-=============
-
-
-
-Description: Rna-binding protein fus [source:vb community annotation].
-
-TODO

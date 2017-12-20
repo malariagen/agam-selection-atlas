@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010567
+=============
+
+
+
+
+
+Description: Solute carrier family 7 (cationic amino acid transporter), member 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010567>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

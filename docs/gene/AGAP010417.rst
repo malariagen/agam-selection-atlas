@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010417
+=============
+
+
+
+
+
+Description: Tetratricopeptide repeat protein 39b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010417>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

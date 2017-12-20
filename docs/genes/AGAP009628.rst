@@ -1,9 +1,0 @@
-
-AGAP009628
-=============
-
-
-
-Description: Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity [source:vb community annotation].
-
-TODO

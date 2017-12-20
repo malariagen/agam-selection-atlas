@@ -1,9 +1,0 @@
-
-AGAP013443
-=============
-
-
-
-Description: Plasma glutamate carboxypeptidase [source:vb community annotation].
-
-TODO

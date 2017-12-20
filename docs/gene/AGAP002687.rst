@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002687
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase dhx37/dhr1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002687>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

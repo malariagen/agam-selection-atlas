@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000018
+=============
+
+
+
+
+
+Description: Phosphatidylinositol-4,5-bisphosphate 3-kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000018>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

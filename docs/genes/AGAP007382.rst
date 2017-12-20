@@ -1,9 +1,0 @@
-
-AGAP007382
-=============
-
-
-
-Description: Fem-1 homolog b [source:vb community annotation].
-
-TODO

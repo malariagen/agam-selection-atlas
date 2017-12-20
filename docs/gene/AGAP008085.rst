@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008085
+=============
+
+
+
+
+
+Description: Cation-transporting atpase 13a1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008085>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

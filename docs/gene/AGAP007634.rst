@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007634
+=============
+
+
+
+
+
+Description: Ras-related gtp-binding protein c/d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007634>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

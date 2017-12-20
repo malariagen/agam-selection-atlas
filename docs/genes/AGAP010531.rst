@@ -1,9 +1,0 @@
-
-AGAP010531
-=============
-
-
-
-Description: Fibrinogen-related protein 7 [source:vb community annotation].
-
-TODO

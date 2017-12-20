@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009602
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 beta subcomplex 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009602>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

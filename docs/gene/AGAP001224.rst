@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001224
+=============
+
+
+
+
+
+Description: Cleavage and polyadenylation specificity factor subunit 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001224>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

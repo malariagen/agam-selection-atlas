@@ -1,9 +1,0 @@
-
-AGAP006450
-=============
-
-Name: **Gr34**
-
-Description: Gustatory receptor 34 [source:vb community annotation].
-
-TODO

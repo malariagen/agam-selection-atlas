@@ -1,9 +1,0 @@
-
-AGAP008730
-=============
-
-
-
-Description: 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011469
+=============
+
+
+
+Name: **OR3**
+
+Description: Odorant receptor 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011469>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001406
-=============
-
-Name: **wuho**
-
-Description: Trna (guanine-n(7)-)-methyltransferase subunit wuho [source:vb community annotation].
-
-TODO

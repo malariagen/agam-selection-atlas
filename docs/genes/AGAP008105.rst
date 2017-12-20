@@ -1,9 +1,0 @@
-
-AGAP008105
-=============
-
-
-
-Description: Cullin 3 [source:vb community annotation].
-
-TODO

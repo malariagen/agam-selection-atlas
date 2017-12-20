@@ -1,9 +1,0 @@
-
-AGAP013266
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 2-alpha kinase 3 [source:vb community annotation].
-
-TODO

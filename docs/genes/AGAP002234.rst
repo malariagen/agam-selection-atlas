@@ -1,9 +1,0 @@
-
-AGAP002234
-=============
-
-
-
-Description: Nuclear receptor [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003894
+=============
+
+
+
+
+
+Description: Tigger transposable element-derived protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003894>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

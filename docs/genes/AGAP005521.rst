@@ -1,9 +1,0 @@
-
-AGAP005521
-=============
-
-
-
-Description: Serine/threonine kinase 38 [source:vb community annotation].
-
-TODO

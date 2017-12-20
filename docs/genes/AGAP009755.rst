@@ -1,9 +1,0 @@
-
-AGAP009755
-=============
-
-Name: **ANCE5**
-
-Description: Angiotensin-converting enzyme 5 [source:vb community annotation].
-
-TODO

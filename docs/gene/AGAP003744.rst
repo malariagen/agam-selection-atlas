@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003744
+=============
+
+
+
+
+
+Description: Ring finger protein 220 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003744>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

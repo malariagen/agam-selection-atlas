@@ -1,9 +1,0 @@
-
-AGAP003374
-=============
-
-
-
-Description: Extracellular sulfatase sulf [source:vb community annotation].
-
-TODO

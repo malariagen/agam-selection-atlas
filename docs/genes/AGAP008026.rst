@@ -1,9 +1,0 @@
-
-AGAP008026
-=============
-
-
-
-Description: Enhancer of polycomb-like protein [source:vb community annotation].
-
-TODO

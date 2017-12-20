@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010227
+=============
+
+
+
+
+
+Description: Mitochondrial import receptor subunit tom7 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010227>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

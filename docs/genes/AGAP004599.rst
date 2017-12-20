@@ -1,9 +1,0 @@
-
-AGAP004599
-=============
-
-
-
-Description: Defense protein 3 [source:vb community annotation].
-
-TODO

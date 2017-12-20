@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008742
+=============
+
+
+
+
+
+Description: Discoidin domain receptor family, member 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008742>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

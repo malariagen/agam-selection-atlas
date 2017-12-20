@@ -1,9 +1,0 @@
-
-AGAP003703
-=============
-
-
-
-Description: Abnormal spindle-like microcephaly-associated protein [source:vb community annotation].
-
-TODO

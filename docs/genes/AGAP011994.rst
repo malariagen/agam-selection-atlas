@@ -1,9 +1,0 @@
-
-AGAP011994
-=============
-
-
-
-Description: Phosphopantothenoylcysteine decarboxylase [source:vb community annotation].
-
-TODO

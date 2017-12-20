@@ -1,9 +1,0 @@
-
-AGAP008039
-=============
-
-
-
-Description: Protein kinase a [source:vb community annotation].
-
-TODO

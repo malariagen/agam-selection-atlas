@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002481
+=============
+
+
+
+
+
+Description: 26s proteasome regulatory subunit n1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002481>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

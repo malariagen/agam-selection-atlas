@@ -1,9 +1,0 @@
-
-AGAP004569
-=============
-
-
-
-Description: Epidermis specific serine protease [source:vb community annotation].
-
-TODO

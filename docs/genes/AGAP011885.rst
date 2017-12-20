@@ -1,9 +1,0 @@
-
-AGAP011885
-=============
-
-
-
-Description: Trna-splicing endonuclease subunit sen34 [source:uniprotkb/trembl;acc:a0ngq6].
-
-TODO

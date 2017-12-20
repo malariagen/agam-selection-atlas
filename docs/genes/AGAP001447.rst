@@ -1,9 +1,0 @@
-
-AGAP001447
-=============
-
-
-
-Description: Solute carrier family 35 (udp-galactose transporter), member b1 [source:vb community annotation].
-
-TODO

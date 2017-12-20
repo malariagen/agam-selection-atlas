@@ -1,9 +1,0 @@
-
-AGAP008726
-=============
-
-
-
-Description: Eyes absent homolog 1 [source:vb community annotation].
-
-TODO

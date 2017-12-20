@@ -1,9 +1,0 @@
-
-AGAP012717
-=============
-
-
-
-Description: Vesicle transport protein sec22 [source:vb community annotation].
-
-TODO

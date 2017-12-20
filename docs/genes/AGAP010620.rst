@@ -1,9 +1,0 @@
-
-AGAP010620
-=============
-
-
-
-Description: Early trypsin [source:vb community annotation].
-
-TODO

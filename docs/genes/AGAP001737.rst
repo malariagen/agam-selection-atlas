@@ -1,9 +1,0 @@
-
-AGAP001737
-=============
-
-
-
-Description: Adenylyltransferase and sulfurtransferase mocs3 molybdopterin-synthase adenylyltransferase molybdopterin-synthase sulfurtransferase [source:vb community annotation].
-
-TODO

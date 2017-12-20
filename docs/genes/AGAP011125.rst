@@ -1,9 +1,0 @@
-
-AGAP011125
-=============
-
-
-
-Description: L-galactose dehydrogenase [source:vb community annotation].
-
-TODO

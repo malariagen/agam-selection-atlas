@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003663
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase dbp2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003663>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

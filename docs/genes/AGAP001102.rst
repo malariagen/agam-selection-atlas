@@ -1,9 +1,0 @@
-
-AGAP001102
-=============
-
-
-
-Description: C-myc promoter-binding protein [source:vb community annotation].
-
-TODO

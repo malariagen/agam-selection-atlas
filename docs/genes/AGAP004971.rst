@@ -1,9 +1,0 @@
-
-AGAP004971
-=============
-
-Name: **Or35**
-
-Description: Odorant receptor 35 [source:vb community annotation].
-
-TODO

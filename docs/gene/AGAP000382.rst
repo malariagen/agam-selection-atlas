@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000382
+=============
+
+
+
+Name: **CPF4**
+
+Description: Cuticular protein 4 from fifty-one aa family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000382>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

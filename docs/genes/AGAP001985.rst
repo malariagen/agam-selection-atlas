@@ -1,9 +1,0 @@
-
-AGAP001985
-=============
-
-
-
-Description: Soluble guanylate cyclase 88e [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000167
+=============
+
+
+
+
+
+Description: Lipid storage droplets surface-binding protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000167>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

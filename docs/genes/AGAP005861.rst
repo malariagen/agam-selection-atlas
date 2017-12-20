@@ -1,9 +1,0 @@
-
-AGAP005861
-=============
-
-
-
-Description: Translocon-associated protein subunit beta [source:uniprotkb/trembl;acc:q5trb4].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007479
-=============
-
-
-
-Description: Methylenetetrahydrofolate reductase (nadph) [source:vb community annotation].
-
-TODO

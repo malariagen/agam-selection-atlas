@@ -1,9 +1,0 @@
-
-AGAP010117
-=============
-
-Name: **CPR95**
-
-Description: Cuticular protein rr-2 family 95 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008724
-=============
-
-
-
-Description: Mitochondrial cytochrome c oxidase subunit 5b isoform 1 [source:vb community annotation].
-
-TODO

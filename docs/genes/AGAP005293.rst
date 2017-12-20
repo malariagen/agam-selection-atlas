@@ -1,9 +1,0 @@
-
-AGAP005293
-=============
-
-
-
-Description: Beta-tubulin isotype i [source:vb community annotation].
-
-TODO

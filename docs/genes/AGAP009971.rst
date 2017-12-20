@@ -1,9 +1,0 @@
-
-AGAP009971
-=============
-
-
-
-Description: Elongation factor 4 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001043
-=============
-
-Name: **arm**
-
-Description: Armadillo segment polarity protein [source:uniprotkb/swiss-prot;acc:q7qhw5].
-
-TODO

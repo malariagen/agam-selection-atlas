@@ -1,9 +1,0 @@
-
-AGAP012284
-=============
-
-Name: **RpL18a-1**
-
-Description: 60s ribosomal protein l18a [source:uniprotkb/trembl;acc:q7pv82].
-
-TODO

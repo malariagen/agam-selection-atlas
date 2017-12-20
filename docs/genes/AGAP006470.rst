@@ -1,9 +1,0 @@
-
-AGAP006470
-=============
-
-
-
-Description: Augmenter of liver regeneration [source:vb community annotation].
-
-TODO

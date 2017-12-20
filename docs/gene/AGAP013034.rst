@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013034
+=============
+
+
+
+Name: **IAP8**
+
+Description: Inhibitor of apoptosis 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013034>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

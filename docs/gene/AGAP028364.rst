@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028364
+=============
+
+
+
+Name: **COX1**
+
+Description: Cytochrome c oxidase subunit i [source:european nucleotide archive;acc:cox1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028364>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001636
-=============
-
-
-
-Description: Serine/threonine-protein kinase greatwall [source:vb community annotation].
-
-TODO

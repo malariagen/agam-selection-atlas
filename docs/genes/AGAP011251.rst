@@ -1,9 +1,0 @@
-
-AGAP011251
-=============
-
-
-
-Description: Ubiquitin-like protein 5 [source:vb community annotation].
-
-TODO

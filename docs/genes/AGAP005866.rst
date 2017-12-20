@@ -1,9 +1,0 @@
-
-AGAP005866
-=============
-
-
-
-Description: Glutamate decarboxylase [source:vb community annotation].
-
-TODO

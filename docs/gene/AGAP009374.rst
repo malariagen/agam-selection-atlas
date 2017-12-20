@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009374
+=============
+
+
+
+Name: **CYP9M1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009374>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

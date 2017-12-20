@@ -1,9 +1,0 @@
-
-AGAP004938
-=============
-
-
-
-Description: Zinc finger, dhhc-type containing 15 [source:vb community annotation].
-
-TODO

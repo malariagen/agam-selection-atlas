@@ -1,9 +1,0 @@
-
-AGAP013409
-=============
-
-Name: **IR7s**
-
-Description: Ionotropic receptor ir7s [source:vb community annotation].
-
-TODO

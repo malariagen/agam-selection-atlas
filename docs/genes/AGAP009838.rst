@@ -1,9 +1,0 @@
-
-AGAP009838
-=============
-
-
-
-Description: Non-imprinted in prader-willi/angelman syndrome region protein 2-like protein [source:vb community annotation].
-
-TODO

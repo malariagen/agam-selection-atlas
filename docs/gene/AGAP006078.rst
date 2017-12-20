@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006078
+=============
+
+
+
+Name: **OBP52**
+
+Description: Odorant-binding protein 52 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006078>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:26130285-26131425#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

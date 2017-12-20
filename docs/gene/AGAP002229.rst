@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002229
+=============
+
+
+
+
+
+Description: Putative g-protein coupled receptor gpcr [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002229>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

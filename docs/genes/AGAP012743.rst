@@ -1,9 +1,0 @@
-
-AGAP012743
-=============
-
-
-
-Description: Dna replication complex gins protein psf2 [source:uniprotkb/trembl;acc:q5txv1].
-
-TODO

@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005715
+=============
+
+
+
+
+
+Description: Autophagy-related protein 13 [source:uniprotkb/trembl;acc:q7q6r5].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005715>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:19503076-19537280#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

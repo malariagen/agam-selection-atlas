@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000667
+=============
+
+
+
+Name: **GPRDOP2**
+
+Description: Gpcr dopamine family 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000667>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003178
+=============
+
+
+
+Name: **GRX2**
+
+Description: Glutaredoxin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003178>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

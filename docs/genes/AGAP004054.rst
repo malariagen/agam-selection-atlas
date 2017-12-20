@@ -1,9 +1,0 @@
-
-AGAP004054
-=============
-
-
-
-Description: Sphingomyelin phosphodiesterase [source:uniprotkb/trembl;acc:q7qh66].
-
-TODO

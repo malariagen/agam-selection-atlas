@@ -1,9 +1,0 @@
-
-AGAP010099
-=============
-
-Name: **CPR108**
-
-Description: Cuticular protein rr-2 family 108 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007346
-=============
-
-Name: **LYSC5**
-
-Description: C-type lysozyme [source:vb community annotation].
-
-TODO

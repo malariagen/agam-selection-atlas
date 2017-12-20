@@ -1,9 +1,0 @@
-
-AGAP004887
-=============
-
-Name: **RpS17**
-
-Description: 40s ribosomal protein s17 [source:uniprotkb/swiss-prot;acc:q9u9l1].
-
-TODO

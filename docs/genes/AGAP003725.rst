@@ -1,9 +1,0 @@
-
-AGAP003725
-=============
-
-
-
-Description: Extended synaptotagmin-like protein 2a [source:vb community annotation].
-
-TODO

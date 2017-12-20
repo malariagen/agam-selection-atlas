@@ -1,9 +1,0 @@
-
-AGAP010209
-=============
-
-
-
-Description: Insulin gene enhancer protein isl [source:vb community annotation].
-
-TODO

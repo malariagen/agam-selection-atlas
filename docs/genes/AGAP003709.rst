@@ -1,9 +1,0 @@
-
-AGAP003709
-=============
-
-
-
-Description: Potassium large conductance calcium-activated channel subfamily m alpha member [source:vb community annotation].
-
-TODO

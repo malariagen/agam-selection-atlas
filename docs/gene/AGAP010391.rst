@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010391
+=============
+
+
+
+
+
+Description: Lim domain only protein 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010391>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

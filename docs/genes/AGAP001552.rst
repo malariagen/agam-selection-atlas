@@ -1,9 +1,0 @@
-
-AGAP001552
-=============
-
-
-
-Description: Juvenile hormone-inducible protein [source:vb community annotation].
-
-TODO

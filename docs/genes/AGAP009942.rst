@@ -1,9 +1,0 @@
-
-AGAP009942
-=============
-
-
-
-Description: Prolactin regulatory element-binding protein [source:vb community annotation].
-
-TODO

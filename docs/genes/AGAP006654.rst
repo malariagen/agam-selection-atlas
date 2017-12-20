@@ -1,9 +1,0 @@
-
-AGAP006654
-=============
-
-
-
-Description: 3-beta-hydroxy-delta-5-steroid dehydrogenase, steroid delta-isomerase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007285
-=============
-
-
-
-Description: Alpha-l-fucosidase [source:vb community annotation].
-
-TODO

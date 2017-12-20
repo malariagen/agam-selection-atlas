@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011199
+=============
+
+
+
+Name: **sno**
+
+Description: Strawberry notch [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011199>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

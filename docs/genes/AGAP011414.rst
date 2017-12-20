@@ -1,9 +1,0 @@
-
-AGAP011414
-=============
-
-
-
-Description: Retinal degeneration c protein [source:vb community annotation].
-
-TODO

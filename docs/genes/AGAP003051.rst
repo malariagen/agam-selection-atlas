@@ -1,9 +1,0 @@
-
-AGAP003051
-=============
-
-
-
-Description: Stearoyl-coa desaturase (delta-9 desaturase) [source:vb community annotation].
-
-TODO

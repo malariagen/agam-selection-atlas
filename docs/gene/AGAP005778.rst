@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005778
+=============
+
+
+
+
+
+Description: Iduronate 2-sulfatase [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005778>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:20521765-20523605#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

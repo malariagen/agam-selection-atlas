@@ -1,9 +1,0 @@
-
-AGAP013280
-=============
-
-
-
-Description: Calcium and integrin-binding protein 2 [source:vb community annotation].
-
-TODO

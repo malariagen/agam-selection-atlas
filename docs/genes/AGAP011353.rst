@@ -1,9 +1,0 @@
-
-AGAP011353
-=============
-
-
-
-Description: Phosphomannomutase [source:vb community annotation].
-
-TODO

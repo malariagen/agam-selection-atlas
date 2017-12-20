@@ -1,9 +1,0 @@
-
-AGAP008141
-=============
-
-
-
-Description: Argininosuccinate lyase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003500
-=============
-
-
-
-Description: Lipase [source:uniprotkb/trembl;acc:q7qh37].
-
-TODO

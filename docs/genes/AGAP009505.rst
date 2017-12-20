@@ -1,9 +1,0 @@
-
-AGAP009505
-=============
-
-
-
-Description: T-complex protein 1, delta subunit [source:vb community annotation].
-
-TODO

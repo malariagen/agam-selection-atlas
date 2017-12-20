@@ -1,9 +1,0 @@
-
-AGAP008970
-=============
-
-
-
-Description: Nuclear pore complex protein nup214 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006328
-=============
-
-
-
-Description: Heparan sulfate n-deacetylase/n-sulfotransferase ndst2 [source:vb community annotation].
-
-TODO

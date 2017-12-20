@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007620
+=============
+
+
+
+
+
+Description: Dnaj homolog subfamily c member 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007620>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011590
-=============
-
-
-
-Description: Anionic trypsin-1 precursor [source:vb community annotation].
-
-TODO

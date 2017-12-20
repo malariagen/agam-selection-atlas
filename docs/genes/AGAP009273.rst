@@ -1,9 +1,0 @@
-
-AGAP009273
-=============
-
-
-
-Description: Seminal fluid protein hacp027 [source:vb community annotation].
-
-TODO

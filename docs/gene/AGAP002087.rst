@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002087
+=============
+
+
+
+
+
+Description: Protein kish [source:uniprotkb/trembl;acc:q380t1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002087>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

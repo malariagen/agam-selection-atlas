@@ -1,9 +1,0 @@
-
-AGAP012345
-=============
-
-
-
-Description: Pou domain transcription factor, class 6 [source:vb community annotation].
-
-TODO

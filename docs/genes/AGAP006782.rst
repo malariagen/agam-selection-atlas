@@ -1,9 +1,0 @@
-
-AGAP006782
-=============
-
-
-
-Description: Adp,atp carrier protein 1 [source:vb community annotation].
-
-TODO

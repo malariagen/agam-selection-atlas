@@ -1,9 +1,0 @@
-
-AGAP010475
-=============
-
-
-
-Description: Tubulin polyglutamylase complex subunit 2 [source:vb community annotation].
-
-TODO

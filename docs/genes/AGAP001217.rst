@@ -1,9 +1,0 @@
-
-AGAP001217
-=============
-
-
-
-Description: Soluble calcium-activated nucleotidase 1 [source:vb community annotation].
-
-TODO

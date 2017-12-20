@@ -1,9 +1,0 @@
-
-AGAP008991
-=============
-
-
-
-Description: Cdk-activating kinase assembly factor mat1 [source:vb community annotation].
-
-TODO

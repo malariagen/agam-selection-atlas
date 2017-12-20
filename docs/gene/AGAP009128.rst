@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009128
+=============
+
+
+
+
+
+Description: Mitochondrial carnitine/acylcarnitine carrier protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009128>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

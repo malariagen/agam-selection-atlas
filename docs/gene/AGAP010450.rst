@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010450
+=============
+
+
+
+Name: **mRpL2**
+
+Description: 39s ribosomal protein l2, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010450>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

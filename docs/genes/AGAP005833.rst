@@ -1,9 +1,0 @@
-
-AGAP005833
-=============
-
-Name: **COEJHE1E**
-
-Description: Carboxylesterase juvenile hormone esterase [source:vb community annotation].
-
-TODO

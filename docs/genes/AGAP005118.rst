@@ -1,9 +1,0 @@
-
-AGAP005118
-=============
-
-Name: **mRpS17**
-
-Description: 28s ribosomal protein s17, mitochondrial [source:vb community annotation].
-
-TODO

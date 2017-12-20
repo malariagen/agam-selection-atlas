@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011443
+=============
+
+
+
+
+
+Description: Carboxypeptidase [source:uniprotkb/trembl;acc:q5tpz5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011443>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

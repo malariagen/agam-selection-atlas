@@ -1,9 +1,0 @@
-
-AGAP007086
-=============
-
-
-
-Description: Sodium channel protein [source:uniprotkb/trembl;acc:q7qiv0].
-
-TODO

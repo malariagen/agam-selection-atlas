@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013473
+=============
+
+
+
+Name: **IR141**
+
+Description: Ionotropic receptor ir141 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013473>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

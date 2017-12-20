@@ -1,9 +1,0 @@
-
-AGAP005332
-=============
-
-Name: **CTLMA6**
-
-Description: C-type lectin (ctl) - mannose binding [source:vb community annotation].
-
-TODO

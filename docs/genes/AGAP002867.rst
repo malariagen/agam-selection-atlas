@@ -1,9 +1,0 @@
-
-AGAP002867
-=============
-
-Name: **CYP6P4**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

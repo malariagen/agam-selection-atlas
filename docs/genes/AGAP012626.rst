@@ -1,9 +1,0 @@
-
-AGAP012626
-=============
-
-
-
-Description: Transporter [source:uniprotkb/trembl;acc:a0nb45].
-
-TODO

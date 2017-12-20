@@ -1,9 +1,0 @@
-
-AGAP011207
-=============
-
-
-
-Description: Spermine oxidase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004573
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase rnf19a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004573>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

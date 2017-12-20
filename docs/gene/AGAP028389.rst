@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028389
+=============
+
+
+
+Name: **ND1**
+
+Description: Nadh dehydrogenase subunit 1 [source:european nucleotide archive;acc:nd1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028389>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

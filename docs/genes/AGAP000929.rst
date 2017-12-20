@@ -1,9 +1,0 @@
-
-AGAP000929
-=============
-
-Name: **CTLSE1**
-
-Description: C-type lectin (ctl) - selectin like [source:vb community annotation].
-
-TODO

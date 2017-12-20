@@ -1,9 +1,0 @@
-
-AGAP007712
-=============
-
-
-
-Description: A-kinase anchor protein 13 [source:vb community annotation].
-
-TODO

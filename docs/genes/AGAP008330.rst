@@ -1,9 +1,0 @@
-
-AGAP008330
-=============
-
-
-
-Description: Guanine nucleotide-binding protein-like 1 [source:vb community annotation].
-
-TODO

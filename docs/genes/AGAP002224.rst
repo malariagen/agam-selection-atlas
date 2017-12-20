@@ -1,9 +1,0 @@
-
-AGAP002224
-=============
-
-
-
-Description: Open rectifier potassium channel protein 1 [source:vb community annotation].
-
-TODO

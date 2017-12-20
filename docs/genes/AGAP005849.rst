@@ -1,9 +1,0 @@
-
-AGAP005849
-=============
-
-
-
-Description: Colmedin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008797
-=============
-
-
-
-Description: Immunoglobulin (cd79a) binding protein 1 [source:vb community annotation].
-
-TODO

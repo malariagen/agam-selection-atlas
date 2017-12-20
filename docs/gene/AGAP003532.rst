@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003532
+=============
+
+
+
+Name: **RpS3a**
+
+Description: 40s ribosomal protein s3a [source:uniprotkb/swiss-prot;acc:p52813].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003532>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

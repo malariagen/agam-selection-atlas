@@ -1,9 +1,0 @@
-
-AGAP010008
-=============
-
-
-
-Description: Pi-plc x domain-containing protein 3 [source:vb community annotation].
-
-TODO

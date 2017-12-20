@@ -1,9 +1,0 @@
-
-AGAP010239
-=============
-
-
-
-Description: Dnaj homolog subfamily b member 5 [source:vb community annotation].
-
-TODO

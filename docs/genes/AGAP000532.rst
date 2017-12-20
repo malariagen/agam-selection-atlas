@@ -1,9 +1,0 @@
-
-AGAP000532
-=============
-
-
-
-Description: Histone deacetylase 6/10 [source:vb community annotation].
-
-TODO

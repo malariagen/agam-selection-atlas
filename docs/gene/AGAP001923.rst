@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001923
+=============
+
+
+
+
+
+Description: Solute carrier family 38 (sodium-coupled neutral amino acid transporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001923>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

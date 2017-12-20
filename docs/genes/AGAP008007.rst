@@ -1,9 +1,0 @@
-
-AGAP008007
-=============
-
-
-
-Description: Cullin 1 [source:vb community annotation].
-
-TODO

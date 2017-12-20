@@ -1,9 +1,0 @@
-
-AGAP004405
-=============
-
-
-
-Description: Glucose-repressible alcohol dehydrogenase transcriptional effector homolog [source:vb community annotation].
-
-TODO

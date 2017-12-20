@@ -1,9 +1,0 @@
-
-AGAP002851
-=============
-
-
-
-Description: Niemann-pick c2 protein [source:vb community annotation].
-
-TODO

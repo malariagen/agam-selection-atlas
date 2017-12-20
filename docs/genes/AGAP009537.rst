@@ -1,9 +1,0 @@
-
-AGAP009537
-=============
-
-
-
-Description: Cytochrome c [source:vb community annotation].
-
-TODO

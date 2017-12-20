@@ -1,9 +1,0 @@
-
-AGAP004625
-=============
-
-
-
-Description: Cortactin [source:vb community annotation].
-
-TODO

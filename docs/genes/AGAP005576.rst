@@ -1,9 +1,0 @@
-
-AGAP005576
-=============
-
-
-
-Description: Aspartyl-trna synthetase [source:vb community annotation].
-
-TODO

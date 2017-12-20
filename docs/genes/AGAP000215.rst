@@ -1,9 +1,0 @@
-
-AGAP000215
-=============
-
-
-
-Description: Homeobox protein otx [source:vb community annotation].
-
-TODO

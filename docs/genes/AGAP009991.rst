@@ -1,9 +1,0 @@
-
-AGAP009991
-=============
-
-
-
-Description: Cyclophilin b precursor [source:vb community annotation].
-
-TODO

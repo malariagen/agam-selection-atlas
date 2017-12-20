@@ -1,9 +1,0 @@
-
-AGAP005260
-=============
-
-
-
-Description: Dtmp kinase [source:vb community annotation].
-
-TODO

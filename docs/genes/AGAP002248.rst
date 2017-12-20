@@ -1,9 +1,0 @@
-
-AGAP002248
-=============
-
-
-
-Description: Kinesin family member c1 [source:vb community annotation].
-
-TODO

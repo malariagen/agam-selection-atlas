@@ -1,9 +1,0 @@
-
-AGAP005327
-=============
-
-
-
-Description: Ribonuclease uk114 [source:vb community annotation].
-
-TODO

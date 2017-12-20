@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004135
+=============
+
+
+
+
+
+Description: Yellow-e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004135>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002444
+=============
+
+
+
+Name: **GPROP12**
+
+Description: Pteropsin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002444>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

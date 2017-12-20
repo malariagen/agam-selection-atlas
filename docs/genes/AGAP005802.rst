@@ -1,9 +1,0 @@
-
-AGAP005802
-=============
-
-Name: **RpL8**
-
-Description: 60s ribosomal protein l8 [source:uniprotkb/swiss-prot;acc:q9u9l2].
-
-TODO

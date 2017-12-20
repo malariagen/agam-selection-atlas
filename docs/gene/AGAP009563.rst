@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009563
+=============
+
+
+
+
+
+Description: Myotubularin related protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009563>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

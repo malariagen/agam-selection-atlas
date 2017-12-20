@@ -1,9 +1,0 @@
-
-AGAP004668
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 12 [source:vb community annotation].
-
-TODO

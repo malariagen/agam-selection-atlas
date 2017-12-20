@@ -1,9 +1,0 @@
-
-AGAP000492
-=============
-
-
-
-Description: Cell division cycle 14 [source:vb community annotation].
-
-TODO

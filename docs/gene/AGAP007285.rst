@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007285
+=============
+
+
+
+
+
+Description: Alpha-l-fucosidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007285>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

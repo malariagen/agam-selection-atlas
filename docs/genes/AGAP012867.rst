@@ -1,9 +1,0 @@
-
-AGAP012867
-=============
-
-
-
-Description: Odorant-binding protein [source:vb community annotation].
-
-TODO

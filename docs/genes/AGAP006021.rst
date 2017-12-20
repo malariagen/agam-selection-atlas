@@ -1,9 +1,0 @@
-
-AGAP006021
-=============
-
-
-
-Description: Jnk-interacting protein 1 [source:vb community annotation].
-
-TODO

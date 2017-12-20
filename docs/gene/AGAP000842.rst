@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000842
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000842>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

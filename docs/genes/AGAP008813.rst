@@ -1,9 +1,0 @@
-
-AGAP008813
-=============
-
-
-
-Description: Fms-like tyrosine kinase 1 [source:vb community annotation].
-
-TODO

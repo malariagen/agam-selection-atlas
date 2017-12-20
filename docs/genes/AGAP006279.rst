@@ -1,9 +1,0 @@
-
-AGAP006279
-=============
-
-
-
-Description: Cell division control protein 42 [source:vb community annotation].
-
-TODO

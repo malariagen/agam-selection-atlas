@@ -1,9 +1,0 @@
-
-AGAP000047
-=============
-
-Name: **CPR130**
-
-Description: Cuticular protein rr-2 family 130 [source:vb community annotation].
-
-TODO

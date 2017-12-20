@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000345
+=============
+
+
+
+Name: **CPR126**
+
+Description: Cuticular protein rr-2 family 126 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000345>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

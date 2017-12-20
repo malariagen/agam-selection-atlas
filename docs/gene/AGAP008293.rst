@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008293
+=============
+
+
+
+Name: **TRYP7**
+
+Description: Trypsin 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008293>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

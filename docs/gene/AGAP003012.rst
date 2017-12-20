@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003012
+=============
+
+
+
+
+
+Description: Sp71 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003012>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

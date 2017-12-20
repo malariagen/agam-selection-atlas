@@ -1,9 +1,0 @@
-
-AGAP004129
-=============
-
-Name: **Osi6**
-
-Description: Osiris 6 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005040
-=============
-
-
-
-Description: Rilp-like protein-like protein [source:vb community annotation].
-
-TODO

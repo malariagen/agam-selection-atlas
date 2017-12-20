@@ -1,9 +1,0 @@
-
-AGAP012372
-=============
-
-
-
-Description: Low density lipoprotein receptor-related protein 2 precursor [source:vb community annotation].
-
-TODO

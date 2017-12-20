@@ -1,9 +1,0 @@
-
-AGAP011299
-=============
-
-
-
-Description: Glycosylphosphatidylinositol deacylase [source:vb community annotation].
-
-TODO

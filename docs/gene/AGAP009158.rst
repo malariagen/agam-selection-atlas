@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009158
+=============
+
+
+
+
+
+Description: Guanylate cyclase [source:uniprotkb/trembl;acc:a0a1s4h0b2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009158>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

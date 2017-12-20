@@ -1,9 +1,0 @@
-
-AGAP002530
-=============
-
-
-
-Description: Poly(adp-ribose) glycohydrolase arh3 [source:vb community annotation].
-
-TODO

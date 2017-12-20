@@ -1,9 +1,0 @@
-
-AGAP006443
-=============
-
-
-
-Description: Venom allergen [source:vb community annotation].
-
-TODO

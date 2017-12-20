@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002188
+=============
+
+
+
+Name: **OBP12**
+
+Description: Odorant-binding protein 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002188>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

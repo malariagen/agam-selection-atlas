@@ -1,9 +1,0 @@
-
-AGAP009180
-=============
-
-
-
-Description: Protein son of sevenless [source:vb community annotation].
-
-TODO

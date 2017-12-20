@@ -1,9 +1,0 @@
-
-AGAP013457
-=============
-
-
-
-Description: Cdc-like kinase 2 [source:vb community annotation].
-
-TODO

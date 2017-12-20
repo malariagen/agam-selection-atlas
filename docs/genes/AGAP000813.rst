@@ -1,9 +1,0 @@
-
-AGAP000813
-=============
-
-
-
-Description: Frataxin homolog, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004907
-=============
-
-
-
-Description: Nescient helix-loop-helix protein [source:vb community annotation].
-
-TODO

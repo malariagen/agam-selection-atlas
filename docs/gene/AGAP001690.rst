@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001690
+=============
+
+
+
+
+
+Description: Regulating synaptic membrane exocytosis protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001690>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

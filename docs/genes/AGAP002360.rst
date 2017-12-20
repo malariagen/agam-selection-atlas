@@ -1,9 +1,0 @@
-
-AGAP002360
-=============
-
-
-
-Description: Carbonic anhydrase iii [source:vb community annotation].
-
-TODO

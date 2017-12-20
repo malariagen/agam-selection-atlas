@@ -1,9 +1,0 @@
-
-AGAP004204
-=============
-
-
-
-Description: Ras-related protein rab-4b [source:vb community annotation].
-
-TODO

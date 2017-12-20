@@ -1,9 +1,0 @@
-
-AGAP001370
-=============
-
-
-
-Description: Ras association domain-containing protein 7/8 [source:vb community annotation].
-
-TODO

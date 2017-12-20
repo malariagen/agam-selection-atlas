@@ -1,9 +1,0 @@
-
-AGAP004890
-=============
-
-
-
-Description: Ribose-phosphate pyrophosphokinase [source:vb community annotation].
-
-TODO

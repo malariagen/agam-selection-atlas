@@ -1,9 +1,0 @@
-
-AGAP003137
-=============
-
-
-
-Description: Bromodomain adjacent to zinc finger domain protein 1a [source:vb community annotation].
-
-TODO

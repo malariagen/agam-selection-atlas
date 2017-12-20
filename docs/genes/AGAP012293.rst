@@ -1,9 +1,0 @@
-
-AGAP012293
-=============
-
-Name: **CYP9L3**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

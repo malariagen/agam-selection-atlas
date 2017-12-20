@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004576
+=============
+
+
+
+Name: **TWDL12**
+
+Description: Cuticular protein twdl family (twdl12) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004576>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

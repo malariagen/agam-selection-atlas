@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010901
+=============
+
+
+
+Name: **CPF2**
+
+Description: Cuticular protein 2 from fifty-one aa family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010901>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

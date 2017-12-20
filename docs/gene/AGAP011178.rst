@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011178
+=============
+
+
+
+
+
+Description: Zinc/iron regulated transporter-related protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011178>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

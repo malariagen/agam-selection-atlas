@@ -1,9 +1,0 @@
-
-AGAP007897
-=============
-
-
-
-Description: Ubia prenyltransferase domain containing 1 [source:vb community annotation].
-
-TODO

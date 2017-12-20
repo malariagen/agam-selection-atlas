@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000502
+=============
+
+
+
+
+
+Description: Echinoderm microtubule-associated protein-like 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000502>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

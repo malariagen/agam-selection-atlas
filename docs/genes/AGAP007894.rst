@@ -1,9 +1,0 @@
-
-AGAP007894
-=============
-
-
-
-Description: Translation elongation factor g [source:vb community annotation].
-
-TODO

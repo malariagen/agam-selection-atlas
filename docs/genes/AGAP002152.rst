@@ -1,9 +1,0 @@
-
-AGAP002152
-=============
-
-Name: **alpha6**
-
-Description: Nicotinic acetylcholine receptor subunit alpha 6 [source:vb community annotation].
-
-TODO

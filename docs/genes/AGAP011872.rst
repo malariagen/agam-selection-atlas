@@ -1,9 +1,0 @@
-
-AGAP011872
-=============
-
-
-
-Description: Ubiquitin-activating enzyme e1 [source:vb community annotation].
-
-TODO

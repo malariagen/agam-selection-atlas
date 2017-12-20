@@ -1,9 +1,0 @@
-
-AGAP005451
-=============
-
-Name: **CPR11**
-
-Description: Cuticular protein rr-1 family 11 [source:vb community annotation].
-
-TODO

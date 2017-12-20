@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001114
+=============
+
+
+
+Name: **Gr38**
+
+Description: Gustatory receptor 38 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

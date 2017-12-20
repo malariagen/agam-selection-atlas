@@ -1,9 +1,0 @@
-
-AGAP008533
-=============
-
-
-
-Description: Cyclin-dependent kinase 5 activator 1 [source:vb community annotation].
-
-TODO

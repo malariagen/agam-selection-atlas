@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009442
+=============
+
+
+
+
+
+Description: Cyclin-dependent kinase regulatory subunit cks1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009442>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

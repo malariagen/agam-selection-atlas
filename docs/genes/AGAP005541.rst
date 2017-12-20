@@ -1,9 +1,0 @@
-
-AGAP005541
-=============
-
-
-
-Description: Protein jumonji [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000159
+=============
+
+
+
+
+
+Description: Kinesin-like protein [source:uniprotkb/trembl;acc:q7prx2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000159>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

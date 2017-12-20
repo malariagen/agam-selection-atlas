@@ -1,9 +1,0 @@
-
-AGAP007521
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 36/42 [source:vb community annotation].
-
-TODO

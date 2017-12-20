@@ -1,9 +1,0 @@
-
-AGAP003431
-=============
-
-
-
-Description: Run and fyve domain-containing 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002417
-=============
-
-Name: **CYP4AR1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

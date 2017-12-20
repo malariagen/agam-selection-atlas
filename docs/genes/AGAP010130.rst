@@ -1,9 +1,0 @@
-
-AGAP010130
-=============
-
-
-
-Description: 3,2-trans-enoyl-coa isomerase mitochondrial [source:vb community annotation].
-
-TODO

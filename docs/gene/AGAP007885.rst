@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007885
+=============
+
+
+
+
+
+Description: Er membrane protein complex subunit 3 [source:uniprotkb/trembl;acc:q7q3i0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007885>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

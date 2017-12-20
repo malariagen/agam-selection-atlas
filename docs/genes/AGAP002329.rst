@@ -1,9 +1,0 @@
-
-AGAP002329
-=============
-
-
-
-Description: Carnitine o-octanoyltransferase [source:vb community annotation].
-
-TODO

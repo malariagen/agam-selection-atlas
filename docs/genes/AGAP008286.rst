@@ -1,9 +1,0 @@
-
-AGAP008286
-=============
-
-
-
-Description: Wd repeat-containing protein 55 homolog [source:vb community annotation].
-
-TODO

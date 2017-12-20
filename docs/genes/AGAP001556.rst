@@ -1,9 +1,0 @@
-
-AGAP001556
-=============
-
-Name: **OBP7**
-
-Description: Odorant-binding protein antennal 7 [source:vb community annotation].
-
-TODO

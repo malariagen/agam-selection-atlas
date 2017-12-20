@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002859
+=============
+
+
+
+
+
+Description: Solute carrier family 8 (sodium/calcium exchanger) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002859>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

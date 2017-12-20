@@ -1,9 +1,0 @@
-
-AGAP008059
-=============
-
-Name: **CSP1**
-
-Description: Chemosensory protein 1 [source:vb community annotation].
-
-TODO

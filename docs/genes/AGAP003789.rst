@@ -1,9 +1,0 @@
-
-AGAP003789
-=============
-
-
-
-Description: Flotillin [source:vb community annotation].
-
-TODO

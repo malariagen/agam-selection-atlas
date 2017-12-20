@@ -1,9 +1,0 @@
-
-AGAP001562
-=============
-
-Name: **GPRNNB3**
-
-Description: Putative gpcr class b orphan receptor 3 [source:vb community annotation].
-
-TODO

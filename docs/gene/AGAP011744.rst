@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011744
+=============
+
+
+
+
+
+Description: Tryptophanyl-trna synthetase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011744>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

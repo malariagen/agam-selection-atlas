@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010282
+=============
+
+
+
+
+
+Description: Dna mismatch repair protein msh2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010282>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009945
+=============
+
+
+
+
+
+Description: Dihydrodiol dehydrogenase / d-xylose 1-dehydrogenase (nadp) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009945>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

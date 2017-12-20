@@ -1,9 +1,0 @@
-
-AGAP011491
-=============
-
-
-
-Description: Sorting nexin-17 [source:vb community annotation].
-
-TODO

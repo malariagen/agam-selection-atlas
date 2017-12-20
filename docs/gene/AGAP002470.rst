@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002470
+=============
+
+
+
+Name: **mRpL27**
+
+Description: 39s ribosomal protein l27, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002470>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

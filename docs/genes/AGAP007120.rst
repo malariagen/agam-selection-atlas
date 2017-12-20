@@ -1,9 +1,0 @@
-
-AGAP007120
-=============
-
-
-
-Description: Nucleoside-diphosphate kinase [source:vb community annotation].
-
-TODO

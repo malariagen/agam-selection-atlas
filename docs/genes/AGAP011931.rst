@@ -1,9 +1,0 @@
-
-AGAP011931
-=============
-
-Name: **mRpS31**
-
-Description: 28s ribosomal protein s31, mitochondrial [source:vb community annotation].
-
-TODO

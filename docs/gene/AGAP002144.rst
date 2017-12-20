@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002144
+=============
+
+
+
+
+
+Description: U4/u6 small nuclear ribonucleoprotein prp4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002144>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009070
-=============
-
-
-
-Description: Neuralized-like protein 2 [source:vb community annotation].
-
-TODO

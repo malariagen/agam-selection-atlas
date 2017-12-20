@@ -1,9 +1,0 @@
-
-AGAP000213
-=============
-
-
-
-Description: Ankyrin repeat and socs box protein 17 [source:vb community annotation].
-
-TODO

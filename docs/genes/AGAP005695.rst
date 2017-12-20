@@ -1,9 +1,0 @@
-
-AGAP005695
-=============
-
-Name: **CPTC2**
-
-Description: Cuticular protein from two-cysteine family 2 [source:vb community annotation].
-
-TODO

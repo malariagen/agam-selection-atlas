@@ -1,9 +1,0 @@
-
-AGAP006881
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase (fragment) [source:uniprotkb/trembl;acc:q5twj3].
-
-TODO

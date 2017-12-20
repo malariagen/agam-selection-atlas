@@ -1,9 +1,0 @@
-
-AGAP007992
-=============
-
-
-
-Description: Vesicular glutamate transporter 2 [source:vb community annotation].
-
-TODO

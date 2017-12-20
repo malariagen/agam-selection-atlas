@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001056
+=============
+
+
+
+
+
+Description: Ubiquitin-conjugating enzyme e2 l3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001056>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

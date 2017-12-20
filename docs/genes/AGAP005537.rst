@@ -1,9 +1,0 @@
-
-AGAP005537
-=============
-
-
-
-Description: Solute carrier family 35 member c2 [source:vb community annotation].
-
-TODO

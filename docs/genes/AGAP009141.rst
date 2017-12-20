@@ -1,9 +1,0 @@
-
-AGAP009141
-=============
-
-Name: **Med17**
-
-Description: Mediator of rna polymerase ii transcription subunit 17 [source:uniprotkb/swiss-prot;acc:q7pvz2].
-
-TODO

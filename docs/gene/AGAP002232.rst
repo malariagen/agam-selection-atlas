@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002232
+=============
+
+
+
+Name: **GPR5HT2A**
+
+Description: Putative serotonin 5ht-2a receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002232>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

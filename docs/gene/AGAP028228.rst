@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028228
+=============
+
+
+
+Name: **CPLCP4**
+
+Description: Cuticular protein (putative) cplcp4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028228>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

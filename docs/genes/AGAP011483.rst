@@ -1,9 +1,0 @@
-
-AGAP011483
-=============
-
-
-
-Description: Phospholipid-transporting atpase [source:vb community annotation].
-
-TODO

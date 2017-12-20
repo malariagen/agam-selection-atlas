@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002504
+=============
+
+
+
+
+
+Description: Trna (cytosine34-c5)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002504>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

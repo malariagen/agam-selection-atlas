@@ -1,9 +1,0 @@
-
-AGAP010549
-=============
-
-
-
-Description: L-iduronidase [source:vb community annotation].
-
-TODO

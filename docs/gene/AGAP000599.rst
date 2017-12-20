@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000599
+=============
+
+
+
+
+
+Description: Xk-related protein [source:uniprotkb/trembl;acc:q7qfp3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000599>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

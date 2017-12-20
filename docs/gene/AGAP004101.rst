@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004101
+=============
+
+
+
+Name: **Dnmt2**
+
+Description: Dna methyltransferase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004101>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

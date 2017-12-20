@@ -1,9 +1,0 @@
-
-AGAP003508
-=============
-
-
-
-Description: Atp-dependent rna helicase supv3l1, mitochondrial [source:vb community annotation].
-
-TODO

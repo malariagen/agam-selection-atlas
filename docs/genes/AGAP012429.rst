@@ -1,9 +1,0 @@
-
-AGAP012429
-=============
-
-Name: **NMDAR2**
-
-Description: Ionotropic receptor nmdar2 [source:vb community annotation].
-
-TODO

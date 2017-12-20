@@ -1,9 +1,0 @@
-
-AGAP000211
-=============
-
-
-
-Description: Triacylglycerol lipase [source:vb community annotation].
-
-TODO

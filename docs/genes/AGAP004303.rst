@@ -1,9 +1,0 @@
-
-AGAP004303
-=============
-
-
-
-Description: Integrin alpha-ps [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010373
+=============
+
+
+
+
+
+Description: Arginine-trna-protein transferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010373>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

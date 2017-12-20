@@ -1,9 +1,0 @@
-
-AGAP000771
-=============
-
-
-
-Description: Vacuolar-sorting protein snf8 [source:uniprotkb/trembl;acc:q7qe89].
-
-TODO

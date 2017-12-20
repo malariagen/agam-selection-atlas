@@ -1,9 +1,0 @@
-
-AGAP007895
-=============
-
-
-
-Description: A-kinase anchor protein 10 [source:vb community annotation].
-
-TODO

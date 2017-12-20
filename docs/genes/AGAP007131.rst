@@ -1,9 +1,0 @@
-
-AGAP007131
-=============
-
-
-
-Description: Ap-2 complex subunit mu-1 [source:vb community annotation].
-
-TODO

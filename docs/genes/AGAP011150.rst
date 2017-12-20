@@ -1,9 +1,0 @@
-
-AGAP011150
-=============
-
-
-
-Description: Molecular chaperone grpe [source:vb community annotation].
-
-TODO

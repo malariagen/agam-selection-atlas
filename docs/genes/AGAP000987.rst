@@ -1,9 +1,0 @@
-
-AGAP000987
-=============
-
-Name: **CPAP3-A1b**
-
-Description: Cuticular protein [source:vb community annotation].
-
-TODO

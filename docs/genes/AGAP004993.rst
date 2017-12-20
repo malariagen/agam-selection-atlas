@@ -1,9 +1,0 @@
-
-AGAP004993
-=============
-
-
-
-Description: Laminin subunit alpha [source:vb community annotation].
-
-TODO

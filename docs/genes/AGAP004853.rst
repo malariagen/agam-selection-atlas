@@ -1,9 +1,0 @@
-
-AGAP004853
-=============
-
-
-
-Description: Ral gef with ph domain and sh3-binding motif 1 [source:vb community annotation].
-
-TODO

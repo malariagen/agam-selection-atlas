@@ -1,9 +1,0 @@
-
-AGAP001681
-=============
-
-
-
-Description: Ubiquitin conjugation factor e4 a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002877
-=============
-
-
-
-Description: Tetratricopeptide repeat protein 30 homolog [source:uniprotkb/swiss-prot;acc:q7pra4].
-
-TODO

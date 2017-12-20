@@ -1,9 +1,0 @@
-
-AGAP002123
-=============
-
-Name: **Axn**
-
-Description: Axin [source:vb community annotation].
-
-TODO

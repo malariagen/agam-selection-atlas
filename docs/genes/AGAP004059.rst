@@ -1,9 +1,0 @@
-
-AGAP004059
-=============
-
-
-
-Description: Ca-activated cl channel protein [source:vb community annotation].
-
-TODO

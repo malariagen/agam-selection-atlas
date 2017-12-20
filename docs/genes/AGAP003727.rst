@@ -1,9 +1,0 @@
-
-AGAP003727
-=============
-
-
-
-Description: Protein unc-45 homolog b [source:vb community annotation].
-
-TODO

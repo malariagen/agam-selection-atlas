@@ -1,9 +1,0 @@
-
-AGAP007967
-=============
-
-
-
-Description: Selenide, water dikinase [source:vb community annotation].
-
-TODO

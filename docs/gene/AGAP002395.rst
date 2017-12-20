@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002395
+=============
+
+
+
+Name: **RpL10-2**
+
+Description: 60s ribosomal protein l10-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002395>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

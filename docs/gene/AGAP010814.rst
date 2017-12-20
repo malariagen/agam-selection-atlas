@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010814
+=============
+
+
+
+Name: **TEP6**
+
+Description: Thioester-containing protein 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010814>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

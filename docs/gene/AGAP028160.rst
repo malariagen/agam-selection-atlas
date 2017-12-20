@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028160
+=============
+
+
+
+Name: **CPLCP20**
+
+Description: Cuticular protein (putative) cplcp20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028160>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011509
-=============
-
-Name: **COEunkn**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

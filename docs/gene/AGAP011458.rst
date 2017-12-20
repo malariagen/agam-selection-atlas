@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011458
+=============
+
+
+
+
+
+Description: Fk506-binding protein 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011458>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002192
-=============
-
-
-
-Description: Isocitrate dehydrogenase (nad ) [source:vb community annotation].
-
-TODO

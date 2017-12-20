@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001274
+=============
+
+
+
+Name: **RpS15**
+
+Description: 40s ribosomal protein s15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001274>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

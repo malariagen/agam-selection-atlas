@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007655
+=============
+
+
+
+Name: **bw**
+
+Description: Protein brown [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007655>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

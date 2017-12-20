@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010426
+=============
+
+
+
+
+
+Description: General transcription factor 3c polypeptide 3 (transcription factor c subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010426>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

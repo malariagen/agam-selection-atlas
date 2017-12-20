@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006475
+=============
+
+
+
+
+
+Description: Inositol 1,4,5-triphosphate receptor type 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006475>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

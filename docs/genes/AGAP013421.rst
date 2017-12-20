@@ -1,9 +1,0 @@
-
-AGAP013421
-=============
-
-Name: **TWDL3**
-
-Description: Cuticular protein twdl family (twdl3) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003983
+=============
+
+
+
+
+
+Description: Nuclear pore complex protein nup121 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003983>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000391
+=============
+
+
+
+
+
+Description: Negative elongation factor c/d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000391>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

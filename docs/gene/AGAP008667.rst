@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008667
+=============
+
+
+
+
+
+Description: Hydroxysteroid (17-beta) dehydrogenase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008667>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

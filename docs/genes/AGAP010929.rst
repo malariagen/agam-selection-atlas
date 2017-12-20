@@ -1,9 +1,0 @@
-
-AGAP010929
-=============
-
-Name: **tubB**
-
-Description: Tubulin beta-chain [source:vb community annotation].
-
-TODO

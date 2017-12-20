@@ -1,9 +1,0 @@
-
-AGAP006652
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 10 [source:vb community annotation].
-
-TODO

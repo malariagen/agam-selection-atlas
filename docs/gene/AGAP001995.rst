@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001995
+=============
+
+
+
+Name: **Prosalpha2**
+
+Description: 26s proteasome alpha 2 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001995>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

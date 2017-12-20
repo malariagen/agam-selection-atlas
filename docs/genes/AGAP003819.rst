@@ -1,9 +1,0 @@
-
-AGAP003819
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex assembly factor 3 [source:vb community annotation].
-
-TODO

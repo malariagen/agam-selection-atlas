@@ -1,9 +1,0 @@
-
-AGAP011471
-=============
-
-
-
-Description: Large subunit gtpase 1 [source:vb community annotation].
-
-TODO

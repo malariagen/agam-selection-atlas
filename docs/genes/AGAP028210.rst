@@ -1,9 +1,0 @@
-
-AGAP028210
-=============
-
-Name: **SRPN13**
-
-Description: Serine protease inhibitor (serpin) 13 [source:vb community annotation].
-
-TODO

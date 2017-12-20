@@ -1,9 +1,0 @@
-
-AGAP011967
-=============
-
-
-
-Description: Iq motif containing with aaa domain 1-like [source:vb community annotation].
-
-TODO

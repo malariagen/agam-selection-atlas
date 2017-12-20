@@ -1,9 +1,0 @@
-
-AGAP002722
-=============
-
-Name: **Or28**
-
-Description: Odorant receptor 28 [source:vb community annotation].
-
-TODO

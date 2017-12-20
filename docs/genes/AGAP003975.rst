@@ -1,9 +1,0 @@
-
-AGAP003975
-=============
-
-
-
-Description: Heme oxygenase [source:vb community annotation].
-
-TODO

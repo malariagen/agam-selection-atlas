@@ -1,9 +1,0 @@
-
-AGAP003705
-=============
-
-
-
-Description: Set1/ash2 histone methyltransferase complex subunit ash2 [source:vb community annotation].
-
-TODO

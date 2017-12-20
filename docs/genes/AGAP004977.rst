@@ -1,9 +1,0 @@
-
-AGAP004977
-=============
-
-Name: **PPO6**
-
-Description: Prophenoloxidase 6 [source:vb community annotation].
-
-TODO

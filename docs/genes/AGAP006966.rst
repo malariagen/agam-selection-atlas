@@ -1,9 +1,0 @@
-
-AGAP006966
-=============
-
-
-
-Description: 4-aminobutyrate aminotransferase, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002933
-=============
-
-
-
-Description: 2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010592
-=============
-
-Name: **S7**
-
-Description: 40s ribosomal protein s7 [source:uniprotkb/swiss-prot;acc:p33514].
-
-TODO

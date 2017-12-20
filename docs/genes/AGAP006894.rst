@@ -1,9 +1,0 @@
-
-AGAP006894
-=============
-
-
-
-Description: Geranylgeranyl diphosphate synthase, type iii [source:vb community annotation].
-
-TODO

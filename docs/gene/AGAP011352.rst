@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011352
+=============
+
+
+
+
+
+Description: Glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011352>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

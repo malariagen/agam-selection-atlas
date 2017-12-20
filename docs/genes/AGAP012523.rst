@@ -1,9 +1,0 @@
-
-AGAP012523
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx42 [source:vb community annotation].
-
-TODO

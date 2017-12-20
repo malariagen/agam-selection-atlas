@@ -1,9 +1,0 @@
-
-AGAP012248
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 5/13 [source:vb community annotation].
-
-TODO

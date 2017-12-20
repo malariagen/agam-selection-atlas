@@ -1,9 +1,0 @@
-
-AGAP009178
-=============
-
-
-
-Description: Reticulon 4 interacting protein 1 [source:vb community annotation].
-
-TODO

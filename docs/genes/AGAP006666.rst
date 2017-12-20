@@ -1,9 +1,0 @@
-
-AGAP006666
-=============
-
-Name: **Or48**
-
-Description: Odorant receptor 48 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003865
-=============
-
-
-
-Description: Gamma-tubulin complex component 3 [source:vb community annotation].
-
-TODO

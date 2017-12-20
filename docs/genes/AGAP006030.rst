@@ -1,9 +1,0 @@
-
-AGAP006030
-=============
-
-Name: **mfrn**
-
-Description: Mitoferrin [source:vb community annotation].
-
-TODO

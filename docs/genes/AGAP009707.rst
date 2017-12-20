@@ -1,9 +1,0 @@
-
-AGAP009707
-=============
-
-Name: **Or71**
-
-Description: Odorant receptor 71 [source:vb community annotation].
-
-TODO

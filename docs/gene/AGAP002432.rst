@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002432
+=============
+
+
+
+
+
+Description: Chymotrypsin-like protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002432>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

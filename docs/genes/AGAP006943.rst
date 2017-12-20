@@ -1,9 +1,0 @@
-
-AGAP006943
-=============
-
-
-
-Description: Acetyl-coenzyme a transporter [source:vb community annotation].
-
-TODO

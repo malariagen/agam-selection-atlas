@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012352
+=============
+
+
+
+
+
+Description: Niemann-pick c2 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012352>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

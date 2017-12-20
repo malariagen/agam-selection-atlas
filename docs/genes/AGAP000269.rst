@@ -1,9 +1,0 @@
-
-AGAP000269
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 30 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005953
-=============
-
-
-
-Description: Calcium homeostasis endoplasmic reticulum protein [source:vb community annotation].
-
-TODO

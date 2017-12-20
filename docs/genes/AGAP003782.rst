@@ -1,9 +1,0 @@
-
-AGAP003782
-=============
-
-
-
-Description: Glucose dehydrogenase (acceptor) [source:vb community annotation].
-
-TODO

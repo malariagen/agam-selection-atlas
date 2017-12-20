@@ -1,9 +1,0 @@
-
-AGAP010923
-=============
-
-
-
-Description: Hmg-box transcription factor sox1 [source:vb community annotation].
-
-TODO

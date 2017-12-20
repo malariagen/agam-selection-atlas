@@ -1,9 +1,0 @@
-
-AGAP002037
-=============
-
-
-
-Description: Dihydroorotate dehydrogenase (quinone), mitochondrial [source:uniprotkb/trembl;acc:q7pyn9].
-
-TODO

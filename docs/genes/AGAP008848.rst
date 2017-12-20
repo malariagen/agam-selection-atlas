@@ -1,9 +1,0 @@
-
-AGAP008848
-=============
-
-
-
-Description: Guanylate cyclase [source:vb community annotation].
-
-TODO

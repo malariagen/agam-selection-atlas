@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009105
+=============
+
+
+
+
+
+Description: Serine/threonine-protein phosphatase 2a 65 kda regulatory subunit a beta isoform isoform c [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009105>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

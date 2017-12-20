@@ -1,9 +1,0 @@
-
-AGAP011090
-=============
-
-Name: **GPRNND1**
-
-Description: Putative gpcr class d orphan receptor 1 [source:vb community annotation].
-
-TODO

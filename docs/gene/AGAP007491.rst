@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007491
+=============
+
+
+
+
+
+Description: Sulfhydryl oxidase [source:uniprotkb/trembl;acc:q5twz0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007491>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

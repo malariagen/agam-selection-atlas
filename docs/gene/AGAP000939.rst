@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000939
+=============
+
+
+
+
+
+Description: Platelet-activating factor acetylhydrolase ib subunit beta/gamma [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000939>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

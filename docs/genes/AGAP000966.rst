@@ -1,9 +1,0 @@
-
-AGAP000966
-=============
-
-Name: **beta1**
-
-Description: Nicotinic acetylcholine receptor beta 1 [source:vb community annotation].
-
-TODO

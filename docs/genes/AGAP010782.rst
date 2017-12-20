@@ -1,9 +1,0 @@
-
-AGAP010782
-=============
-
-
-
-Description: Ral guanine nucleotide exchange factor 2 [source:vb community annotation].
-
-TODO

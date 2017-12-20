@@ -1,9 +1,0 @@
-
-AGAP008130
-=============
-
-
-
-Description: Menin [source:vb community annotation].
-
-TODO

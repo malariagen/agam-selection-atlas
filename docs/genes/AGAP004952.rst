@@ -1,9 +1,0 @@
-
-AGAP004952
-=============
-
-
-
-Description: Cbf1 interacting corepressor [source:vb community annotation].
-
-TODO

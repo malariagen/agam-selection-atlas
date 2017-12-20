@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005758
+=============
+
+
+
+Name: **COEAE3D**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005758>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:20296079-20300041#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

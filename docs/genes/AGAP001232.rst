@@ -1,9 +1,0 @@
-
-AGAP001232
-=============
-
-
-
-Description: Alpha-1,3/alpha-1, 6-mannosyltransferase [source:vb community annotation].
-
-TODO

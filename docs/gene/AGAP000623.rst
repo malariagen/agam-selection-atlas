@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000623
+=============
+
+
+
+
+
+Description: Dna ligase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000623>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

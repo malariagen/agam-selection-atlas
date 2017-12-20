@@ -1,9 +1,0 @@
-
-AGAP004352
-=============
-
-
-
-Description: Succinyl-coa synthetase beta subunit [source:vb community annotation].
-
-TODO

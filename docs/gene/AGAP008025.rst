@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008025
+=============
+
+
+
+
+
+Description: Homeobox protein engrailed-like [source:uniprotkb/trembl;acc:a0a1s4gx23].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008025>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

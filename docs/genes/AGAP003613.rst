@@ -1,9 +1,0 @@
-
-AGAP003613
-=============
-
-
-
-Description: Palmitoyltransferase zdhhc3 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010624
+=============
+
+
+
+
+
+Description: Developmentally regulated gtp-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010624>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

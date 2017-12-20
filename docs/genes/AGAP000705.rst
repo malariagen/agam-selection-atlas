@@ -1,9 +1,0 @@
-
-AGAP000705
-=============
-
-
-
-Description: Protein dj-1 [source:vb community annotation].
-
-TODO

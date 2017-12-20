@@ -1,9 +1,0 @@
-
-AGAP010985
-=============
-
-
-
-Description: Centrosomal protein cep135 [source:vb community annotation].
-
-TODO

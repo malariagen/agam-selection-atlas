@@ -1,9 +1,0 @@
-
-AGAP011997
-=============
-
-
-
-Description: Cytosolic fe-s cluster assembly factor nubp1 homolog [source:uniprotkb/swiss-prot;acc:q7pv10].
-
-TODO

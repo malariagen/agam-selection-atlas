@@ -1,9 +1,0 @@
-
-AGAP010058
-=============
-
-
-
-Description: Neuronal pas domain protein 1 [source:vb community annotation].
-
-TODO

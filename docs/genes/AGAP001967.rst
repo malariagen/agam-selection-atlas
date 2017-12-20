@@ -1,9 +1,0 @@
-
-AGAP001967
-=============
-
-
-
-Description: Xeroderma pigmentosum group c-complementing protein [source:vb community annotation].
-
-TODO

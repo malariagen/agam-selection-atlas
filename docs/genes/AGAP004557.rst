@@ -1,9 +1,0 @@
-
-AGAP004557
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 21 [source:vb community annotation].
-
-TODO

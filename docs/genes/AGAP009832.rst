@@ -1,9 +1,0 @@
-
-AGAP009832
-=============
-
-Name: **CASPS8**
-
-Description: Short caspase 8 [source:vb community annotation].
-
-TODO

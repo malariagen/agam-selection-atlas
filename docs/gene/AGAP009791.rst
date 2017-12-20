@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009791
+=============
+
+
+
+Name: **Nep1**
+
+Description: Neprilysin, neutral endopeptidase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009791>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

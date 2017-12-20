@@ -1,9 +1,0 @@
-
-AGAP001577
-=============
-
-
-
-Description: Forkhead box subgroup [source:vb community annotation].
-
-TODO

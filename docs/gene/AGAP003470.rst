@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003470
+=============
+
+
+
+Name: **Osi19**
+
+Description: Osiris 19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003470>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

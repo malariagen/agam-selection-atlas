@@ -1,9 +1,0 @@
-
-AGAP002605
-=============
-
-
-
-Description: Dna-repair protein xrcc1 [source:vb community annotation].
-
-TODO

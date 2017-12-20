@@ -1,9 +1,0 @@
-
-AGAP028630
-=============
-
-Name: **GPRNNA13**
-
-Description: Putative gpcr class a orphan receptor 13 [source:vb community annotation].
-
-TODO

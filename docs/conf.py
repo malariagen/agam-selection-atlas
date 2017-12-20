@@ -175,6 +175,3 @@ texinfo_documents = [
      author, 'Ag1000GSelectionAtlas', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-

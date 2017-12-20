@@ -1,9 +1,0 @@
-
-AGAP010907
-=============
-
-Name: **CPFL6**
-
-Description: Cuticular protein 6 from cpfl family [source:vb community annotation].
-
-TODO

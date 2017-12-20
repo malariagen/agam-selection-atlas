@@ -1,9 +1,0 @@
-
-AGAP004789
-=============
-
-
-
-Description: High mobility group 20a [source:vb community annotation].
-
-TODO

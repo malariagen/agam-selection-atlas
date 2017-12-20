@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002420
+=============
+
+
+
+
+
+Description: Alpha-1,2-glucosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002420>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

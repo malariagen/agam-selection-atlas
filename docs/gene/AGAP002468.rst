@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002468
+=============
+
+
+
+Name: **RpL26**
+
+Description: 60s ribosomal protein l26 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002468>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000272
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 9 / adenylate kinase [source:vb community annotation].
-
-TODO

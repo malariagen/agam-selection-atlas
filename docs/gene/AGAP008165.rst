@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008165
+=============
+
+
+
+
+
+Description: Cellular retinaldehyde binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008165>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

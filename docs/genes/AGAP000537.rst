@@ -1,9 +1,0 @@
-
-AGAP000537
-=============
-
-Name: **TWDL8**
-
-Description: Cuticular protein twdl family (twdl8) [source:vb community annotation].
-
-TODO

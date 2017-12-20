@@ -1,9 +1,0 @@
-
-AGAP006145
-=============
-
-Name: **CPLCA1**
-
-Description: Cuticular protein 1 in cplca family [source:vb community annotation].
-
-TODO

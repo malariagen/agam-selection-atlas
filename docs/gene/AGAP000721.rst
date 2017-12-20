@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000721
+=============
+
+
+
+
+
+Description: V-type h -transporting atpase subunit ac39 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000721>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

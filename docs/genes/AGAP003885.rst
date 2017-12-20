@@ -1,9 +1,0 @@
-
-AGAP003885
-=============
-
-
-
-Description: Zinc finger protein glis1/3 [source:vb community annotation].
-
-TODO

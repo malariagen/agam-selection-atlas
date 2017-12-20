@@ -1,9 +1,0 @@
-
-AGAP010321
-=============
-
-
-
-Description: Dna-directed rna polymerase ii subunit rpb3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003462
-=============
-
-
-
-Description: Protein arginine n-methyltransferase 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012320
-=============
-
-Name: **OBP25**
-
-Description: Odorant-binding protein 25 [source:vb community annotation].
-
-TODO

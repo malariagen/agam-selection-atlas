@@ -1,9 +1,0 @@
-
-AGAP006143
-=============
-
-Name: **Gr56**
-
-Description: Gustatory receptor 56 [source:vb community annotation].
-
-TODO

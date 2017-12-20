@@ -1,9 +1,0 @@
-
-AGAP001870
-=============
-
-
-
-Description: Solute carrier family 7 (l-type amino acid transporter), member 9 [source:vb community annotation].
-
-TODO

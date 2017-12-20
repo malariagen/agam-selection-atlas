@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004261
+=============
+
+
+
+Name: **CRY2**
+
+Description: Cryptochrome 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004261>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP028002
-=============
-
-Name: **CPLCP7**
-
-Description: Cuticular protein (putative) cplcp7 [source:vb community annotation].
-
-TODO

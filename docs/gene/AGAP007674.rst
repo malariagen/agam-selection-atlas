@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007674
+=============
+
+
+
+
+
+Description: Gipc pdz domain containing family, member 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007674>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

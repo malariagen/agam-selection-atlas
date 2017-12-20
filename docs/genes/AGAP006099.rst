@@ -1,9 +1,0 @@
-
-AGAP006099
-=============
-
-
-
-Description: Ubiquinol-cytochrome c reductase core subunit 2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007249
+=============
+
+
+
+Name: **Flightin**
+
+
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007249>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

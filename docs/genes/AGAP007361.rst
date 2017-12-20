@@ -1,9 +1,0 @@
-
-AGAP007361
-=============
-
-
-
-Description: Translocation protein sec63 [source:vb community annotation].
-
-TODO

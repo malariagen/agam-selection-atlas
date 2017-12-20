@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001256
+=============
+
+
+
+
+
+Description: 3'-phosphoadenosine 5'-phosphosulfate synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001256>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

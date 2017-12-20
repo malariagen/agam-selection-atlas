@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001145
+=============
+
+
+
+
+
+Description: Pre-mrna-splicing factor 38a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001145>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP013368
-=============
-
-
-
-Description: Lysosomal acid lipase [source:vb community annotation].
-
-TODO

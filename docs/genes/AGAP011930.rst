@@ -1,9 +1,0 @@
-
-AGAP011930
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 9 [source:vb community annotation].
-
-TODO

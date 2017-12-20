@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002862
+=============
+
+
+
+Name: **CYP6AA1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002862>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

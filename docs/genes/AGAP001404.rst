@@ -1,9 +1,0 @@
-
-AGAP001404
-=============
-
-
-
-Description: Dna polymerase eta [source:vb community annotation].
-
-TODO

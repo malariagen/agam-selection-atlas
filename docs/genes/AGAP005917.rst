@@ -1,9 +1,0 @@
-
-AGAP005917
-=============
-
-
-
-Description: Atp-dependent dna helicase q4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012572
-=============
-
-
-
-Description: Histone h3 [source:uniprotkb/trembl;acc:q7pd39].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002169
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme e2 g2 [source:vb community annotation].
-
-TODO

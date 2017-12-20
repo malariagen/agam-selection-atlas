@@ -1,9 +1,0 @@
-
-AGAP005360
-=============
-
-
-
-Description: Pq loop repeat-containing protein 3 [source:vb community annotation].
-
-TODO

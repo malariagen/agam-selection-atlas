@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003222
+=============
+
+
+
+
+
+Description: Phosphatidylinositol glycan, class n [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003222>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

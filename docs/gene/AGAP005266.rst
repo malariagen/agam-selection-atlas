@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005266
+=============
+
+
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005266>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:13420356-13421105#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000640
-=============
-
-Name: **OBP33**
-
-Description: Odorant-binding protein 33 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010029
-=============
-
-
-
-Description: Transmembrane 9 superfamily member 2/4 [source:vb community annotation].
-
-TODO

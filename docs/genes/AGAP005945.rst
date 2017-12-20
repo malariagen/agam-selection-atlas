@@ -1,9 +1,0 @@
-
-AGAP005945
-=============
-
-Name: **pnp**
-
-Description: Purine-nucleoside phosphorylase [source:vb community annotation].
-
-TODO

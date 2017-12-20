@@ -1,9 +1,0 @@
-
-AGAP011208
-=============
-
-Name: **Hex-A**
-
-Description: Hexokinase [source:vb community annotation].
-
-TODO

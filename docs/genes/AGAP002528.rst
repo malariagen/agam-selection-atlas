@@ -1,9 +1,0 @@
-
-AGAP002528
-=============
-
-
-
-Description: Trafficking protein particle complex subunit 2 [source:vb community annotation].
-
-TODO

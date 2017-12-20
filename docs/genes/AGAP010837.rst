@@ -1,9 +1,0 @@
-
-AGAP010837
-=============
-
-
-
-Description: Mitogen-activated protein kinase kinase kinase kinase 5 [source:vb community annotation].
-
-TODO

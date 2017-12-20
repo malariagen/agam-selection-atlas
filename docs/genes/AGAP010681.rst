@@ -1,9 +1,0 @@
-
-AGAP010681
-=============
-
-
-
-Description: 5'-nucleotidase [source:uniprotkb/trembl;acc:q7qe29].
-
-TODO

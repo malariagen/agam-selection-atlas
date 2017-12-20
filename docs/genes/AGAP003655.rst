@@ -1,9 +1,0 @@
-
-AGAP003655
-=============
-
-
-
-Description: Rna methyltransferase like 1 [source:vb community annotation].
-
-TODO

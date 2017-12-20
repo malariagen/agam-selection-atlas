@@ -1,9 +1,0 @@
-
-AGAP009489
-=============
-
-
-
-Description: Cytidine deaminase [source:uniprotkb/trembl;acc:q7qg43].
-
-TODO

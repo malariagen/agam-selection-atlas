@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008843
+=============
+
+
+
+Name: **AQP1**
+
+Description: Aquaporin water channel isoform a [source:uniprotkb/trembl;acc:f2ynf6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008843>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

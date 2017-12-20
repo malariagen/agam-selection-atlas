@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005823
+=============
+
+
+
+
+
+Description: Ubiquitin-related modifier 1 homolog [source:uniprotkb/swiss-prot;acc:q7q6i6].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005823>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:22049966-22051521#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

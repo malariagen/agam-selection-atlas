@@ -1,9 +1,0 @@
-
-AGAP006773
-=============
-
-
-
-Description: Phospholipid scramblase [source:uniprotkb/trembl;acc:q7psz6].
-
-TODO

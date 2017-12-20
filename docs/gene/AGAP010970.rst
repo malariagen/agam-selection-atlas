@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010970
+=============
+
+
+
+
+
+Description: Roundabout, axon guidance receptor homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010970>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010513
+=============
+
+
+
+Name: **GPRMAC1**
+
+Description: Putative muscarinic acetylcholine receptor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010513>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

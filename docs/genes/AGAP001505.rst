@@ -1,9 +1,0 @@
-
-AGAP001505
-=============
-
-
-
-Description: Transmembrane emp24 protein transport domain containing 1b [source:vb community annotation].
-
-TODO

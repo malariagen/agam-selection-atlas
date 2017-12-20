@@ -1,9 +1,0 @@
-
-AGAP004659
-=============
-
-
-
-Description: Homeotic antennapedia protein [source:vb community annotation].
-
-TODO

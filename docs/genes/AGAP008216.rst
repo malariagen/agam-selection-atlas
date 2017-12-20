@@ -1,9 +1,0 @@
-
-AGAP008216
-=============
-
-Name: **SG7**
-
-Description: Salivary gland protein 7 [source:vb community annotation].
-
-TODO

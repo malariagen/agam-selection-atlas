@@ -1,9 +1,0 @@
-
-AGAP001588
-=============
-
-
-
-Description: V-type h -transporting atpase subunit i [source:vb community annotation].
-
-TODO

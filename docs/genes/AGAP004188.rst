@@ -1,9 +1,0 @@
-
-AGAP004188
-=============
-
-
-
-Description: Polyhomeotic-like protein 1 [source:vb community annotation].
-
-TODO

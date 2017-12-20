@@ -1,9 +1,0 @@
-
-AGAP011586
-=============
-
-
-
-Description: Protein-tyrosine phosphatase [source:vb community annotation].
-
-TODO

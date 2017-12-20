@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001507
+=============
+
+
+
+
+
+Description: Procollagen-lysine, 2-oxoglutarate 5-dioxygenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001507>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

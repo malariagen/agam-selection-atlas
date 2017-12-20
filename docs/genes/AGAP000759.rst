@@ -1,9 +1,0 @@
-
-AGAP000759
-=============
-
-Name: **mRpL32**
-
-Description: 39s ribosomal protein l32, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000138
-=============
-
-Name: **alpha4**
-
-Description: Nicotinic acetylcholine receptor subunit alpha 4 [source:vb community annotation].
-
-TODO

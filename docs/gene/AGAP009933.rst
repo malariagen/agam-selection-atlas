@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009933
+=============
+
+
+
+
+
+Description: Dachs [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009933>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

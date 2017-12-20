@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012113
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase l3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012113>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

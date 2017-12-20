@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010354
+=============
+
+
+
+
+
+Description: Osiris 21 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010354>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

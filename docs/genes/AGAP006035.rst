@@ -1,9 +1,0 @@
-
-AGAP006035
-=============
-
-
-
-Description: Ras-related protein rab-36 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011424
+=============
+
+
+
+Name: **RpS16**
+
+Description: 40s ribosomal protein s16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011424>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

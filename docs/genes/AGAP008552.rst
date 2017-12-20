@@ -1,9 +1,0 @@
-
-AGAP008552
-=============
-
-Name: **CYP4H27**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

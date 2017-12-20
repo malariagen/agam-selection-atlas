@@ -1,9 +1,0 @@
-
-AGAP004109
-=============
-
-
-
-Description: Xaa-pro aminopeptidase [source:vb community annotation].
-
-TODO

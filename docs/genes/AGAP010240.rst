@@ -1,9 +1,0 @@
-
-AGAP010240
-=============
-
-Name: **ESP**
-
-Description: Late trypsin [source:vb community annotation].
-
-TODO

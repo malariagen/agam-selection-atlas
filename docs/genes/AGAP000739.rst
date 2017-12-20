@@ -1,9 +1,0 @@
-
-AGAP000739
-=============
-
-Name: **RpS10**
-
-Description: 40s ribosomal protein s10 [source:vb community annotation].
-
-TODO

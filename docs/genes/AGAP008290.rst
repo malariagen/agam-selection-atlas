@@ -1,9 +1,0 @@
-
-AGAP008290
-=============
-
-Name: **TRYP6**
-
-Description: Trypsin 6 [source:vb community annotation].
-
-TODO

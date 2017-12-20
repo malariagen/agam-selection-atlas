@@ -1,9 +1,0 @@
-
-AGAP005121
-=============
-
-
-
-Description: Pra1 family protein [source:uniprotkb/trembl;acc:q7q9p5].
-
-TODO

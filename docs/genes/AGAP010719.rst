@@ -1,9 +1,0 @@
-
-AGAP010719
-=============
-
-
-
-Description: Coatomer subunit delta (fragment) [source:uniprotkb/trembl;acc:q7qe04].
-
-TODO

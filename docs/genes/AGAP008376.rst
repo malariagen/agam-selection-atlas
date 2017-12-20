@@ -1,9 +1,0 @@
-
-AGAP008376
-=============
-
-Name: **mRpL28**
-
-Description: 39s ribosomal protein l28, mitochondrial [source:vb community annotation].
-
-TODO

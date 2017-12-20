@@ -1,9 +1,0 @@
-
-AGAP008619
-=============
-
-
-
-Description: Nuclear pore complex protein nup53 [source:vb community annotation].
-
-TODO

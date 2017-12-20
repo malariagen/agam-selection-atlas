@@ -1,9 +1,0 @@
-
-AGAP005811
-=============
-
-
-
-Description: Protein xylosyltransferase [source:vb community annotation].
-
-TODO

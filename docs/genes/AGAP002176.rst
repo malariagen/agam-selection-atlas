@@ -1,9 +1,0 @@
-
-AGAP002176
-=============
-
-
-
-Description: Proprotein convertase subtilisin/kexin type 2 [source:vb community annotation].
-
-TODO

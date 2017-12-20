@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010243
+=============
+
+
+
+
+
+Description: Female reproductive tract protease gleanr_897 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010243>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007110
+=============
+
+
+
+
+
+Description: Protein vein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007110>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

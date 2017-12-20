@@ -1,9 +1,0 @@
-
-AGAP009632
-=============
-
-
-
-Description: Ataxia telangiectasia mutated family protein [source:vb community annotation].
-
-TODO

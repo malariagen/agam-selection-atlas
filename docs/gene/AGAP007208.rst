@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007208
+=============
+
+
+
+
+
+Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007208>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

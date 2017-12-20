@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002026
+=============
+
+
+
+
+
+Description: Ditrans,polycis-polyprenyl diphosphate synthase ((2e,6e)-farnesyl diphosphate specific) [source:uniprotkb/trembl;acc:f5hm82].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

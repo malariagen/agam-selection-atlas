@@ -1,9 +1,0 @@
-
-AGAP003414
-=============
-
-
-
-Description: 3-hydroxyacyl-coa dehydrogenase / 3-hydroxy-2-methylbutyryl-coa dehydrogenase [source:vb community annotation].
-
-TODO

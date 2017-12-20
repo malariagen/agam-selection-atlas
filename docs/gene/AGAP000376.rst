@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000376
+=============
+
+
+
+Name: **Tsf1**
+
+Description: Transferrin [source:uniprotkb/trembl;acc:q7qf98].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000376>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

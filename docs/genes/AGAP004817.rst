@@ -1,9 +1,0 @@
-
-AGAP004817
-=============
-
-Name: **lig**
-
-Description: Protein lingerer [source:uniprotkb/swiss-prot;acc:q7pms9].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013093
+=============
+
+
+
+
+
+Description: Glutamyl-trna(gln) amidotransferase subunit c, mitochondrial [source:uniprotkb/trembl;acc:f5hj21].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013093>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

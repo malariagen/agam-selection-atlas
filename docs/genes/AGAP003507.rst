@@ -1,9 +1,0 @@
-
-AGAP003507
-=============
-
-
-
-Description: Charged multivesicular body protein 3 [source:vb community annotation].
-
-TODO

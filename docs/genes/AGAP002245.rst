@@ -1,9 +1,0 @@
-
-AGAP002245
-=============
-
-
-
-Description: Cytochrome b-c1 complex subunit 6, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007622
+=============
+
+
+
+Name: **ANCE1**
+
+Description: Angiotensin-converting enzyme 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007622>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

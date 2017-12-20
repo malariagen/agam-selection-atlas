@@ -1,9 +1,0 @@
-
-AGAP028371
-=============
-
-Name: **COX3**
-
-Description: Cytochrome c oxidase subunit iii [source:european nucleotide archive;acc:cox3].
-
-TODO

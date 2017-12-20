@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004427
+=============
+
+
+
+
+
+Description: Tubulin monoglycylase ttll15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004427>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

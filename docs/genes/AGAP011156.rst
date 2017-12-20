@@ -1,9 +1,0 @@
-
-AGAP011156
-=============
-
-
-
-Description: Importin 9 [source:vb community annotation].
-
-TODO

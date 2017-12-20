@@ -1,9 +1,0 @@
-
-AGAP009958
-=============
-
-
-
-Description: Arginine and glutamate-rich protein 1 [source:vb community annotation].
-
-TODO

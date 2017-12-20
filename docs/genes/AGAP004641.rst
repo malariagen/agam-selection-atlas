@@ -1,9 +1,0 @@
-
-AGAP004641
-=============
-
-
-
-Description: Atp synthase mitochondrial f1 complex assembly factor 1 [source:vb community annotation].
-
-TODO

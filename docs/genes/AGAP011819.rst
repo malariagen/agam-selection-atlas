@@ -1,9 +1,0 @@
-
-AGAP011819
-=============
-
-
-
-Description: S2p endopeptidase [source:vb community annotation].
-
-TODO

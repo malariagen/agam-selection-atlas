@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009705
+=============
+
+
+
+Name: **Or69**
+
+Description: Odorant receptor 69 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009705>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010233
-=============
-
-
-
-Description: Integrin beta 1 [source:vb community annotation].
-
-TODO

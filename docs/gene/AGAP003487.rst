@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003487
+=============
+
+
+
+
+
+Description: Mesenchymal stem cell protein dscd75 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003487>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

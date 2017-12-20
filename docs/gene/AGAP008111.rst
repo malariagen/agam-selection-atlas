@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008111
+=============
+
+
+
+
+
+Description: Methyltransferase-like protein 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008111>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

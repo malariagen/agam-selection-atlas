@@ -1,9 +1,0 @@
-
-AGAP007757
-=============
-
-Name: **Gr45**
-
-Description: Gustatory receptor 45 [source:vb community annotation].
-
-TODO

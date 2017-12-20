@@ -1,9 +1,0 @@
-
-AGAP010826
-=============
-
-Name: **CASPS13**
-
-Description: Short caspase 13 [source:vb community annotation].
-
-TODO

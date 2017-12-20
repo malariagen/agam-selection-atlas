@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004177
+=============
+
+
+
+
+
+Description: 23s rrna (uridine2552-2'-o)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004177>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

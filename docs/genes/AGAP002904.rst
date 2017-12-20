@@ -1,9 +1,0 @@
-
-AGAP002904
-=============
-
-Name: **IR41a**
-
-Description: Ionotropic receptor ir41a [source:vb community annotation].
-
-TODO

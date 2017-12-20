@@ -1,9 +1,0 @@
-
-AGAP011422
-=============
-
-
-
-Description: Carboxy-terminal domain rna polymerase ii polypeptide a small phosphatase [source:vb community annotation].
-
-TODO

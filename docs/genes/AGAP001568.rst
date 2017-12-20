@@ -1,9 +1,0 @@
-
-AGAP001568
-=============
-
-
-
-Description: Chromatin assembly factor 1, p180-subunit [source:vb community annotation].
-
-TODO

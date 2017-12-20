@@ -1,9 +1,0 @@
-
-AGAP003866
-=============
-
-
-
-Description: Alkylated dna repair protein alkb homolog 6 [source:vb community annotation].
-
-TODO

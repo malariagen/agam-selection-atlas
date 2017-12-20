@@ -1,9 +1,0 @@
-
-AGAP008885
-=============
-
-
-
-Description: Parafibromin [source:vb community annotation].
-
-TODO

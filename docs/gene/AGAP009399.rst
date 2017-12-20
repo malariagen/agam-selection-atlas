@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009399
+=============
+
+
+
+
+
+Description: Nuclear hormone receptor ftz-f1 beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009399>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

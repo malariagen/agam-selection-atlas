@@ -1,9 +1,0 @@
-
-AGAP005757
-=============
-
-Name: **COEAE2E**
-
-Description: Carboxylesterase alpha esterase [source:vb community annotation].
-
-TODO

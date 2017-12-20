@@ -1,9 +1,0 @@
-
-AGAP004840
-=============
-
-
-
-Description: Photosystem i assembly btpa [source:vb community annotation].
-
-TODO

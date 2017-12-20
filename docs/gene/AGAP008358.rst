@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008358
+=============
+
+
+
+Name: **CYP4H17**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008358>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

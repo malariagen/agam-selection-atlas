@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001529
+=============
+
+
+
+
+
+Description: H/aca ribonucleoprotein complex subunit [source:uniprotkb/trembl;acc:q7pxr0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001529>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

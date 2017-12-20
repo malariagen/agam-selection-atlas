@@ -1,9 +1,0 @@
-
-AGAP001333
-=============
-
-Name: **st**
-
-Description: Protein scarlet [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010428
-=============
-
-
-
-Description: 1,4-alpha-glucan branching enzyme [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004716
-=============
-
-Name: **Gr57**
-
-Description: Gustatory receptor 57 [source:vb community annotation].
-
-TODO

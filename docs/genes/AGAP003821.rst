@@ -1,9 +1,0 @@
-
-AGAP003821
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 20/33 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006227
-=============
-
-
-
-Description: Alpha esterase [source:vb community annotation].
-
-TODO

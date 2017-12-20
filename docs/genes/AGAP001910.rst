@@ -1,9 +1,0 @@
-
-AGAP001910
-=============
-
-Name: **RpS3**
-
-Description: 40s ribosomal protein s3 [source:vb community annotation].
-
-TODO

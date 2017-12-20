@@ -1,9 +1,0 @@
-
-AGAP003536
-=============
-
-
-
-Description: Solute carrier family 25 (mitochondrial s-adenosylmethionine transporter) [source:vb community annotation].
-
-TODO

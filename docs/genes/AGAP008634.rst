@@ -1,9 +1,0 @@
-
-AGAP008634
-=============
-
-
-
-Description: Zinc finger ccch domain-containing protein 15 [source:vb community annotation].
-
-TODO

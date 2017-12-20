@@ -1,9 +1,0 @@
-
-AGAP008540
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class t [source:vb community annotation].
-
-TODO

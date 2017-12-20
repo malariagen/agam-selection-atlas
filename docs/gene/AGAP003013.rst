@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003013
+=============
+
+
+
+
+
+Description: Euchromatic histone-lysine n-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003013>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

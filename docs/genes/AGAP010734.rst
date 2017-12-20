@@ -1,9 +1,0 @@
-
-AGAP010734
-=============
-
-Name: **HPX1**
-
-Description: Heme peroxidase 1 [source:vb community annotation].
-
-TODO

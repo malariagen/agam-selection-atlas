@@ -1,9 +1,0 @@
-
-AGAP010109
-=============
-
-Name: **CPR150**
-
-Description: Cuticular protein 150 [source:vb community annotation].
-
-TODO

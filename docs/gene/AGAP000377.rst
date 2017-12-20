@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000377
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase [source:uniprotkb/trembl;acc:q7qf99].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000377>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012461
-=============
-
-
-
-Description: Transcription factor dp, invertebrate [source:vb community annotation].
-
-TODO

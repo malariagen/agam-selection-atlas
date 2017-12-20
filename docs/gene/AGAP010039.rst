@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010039
+=============
+
+
+
+Name: **NADH_dehyd**
+
+Description: Nadh dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (fragment) [source:uniprotkb/trembl;acc:q7pmh3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010039>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

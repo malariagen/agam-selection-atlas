@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004237
+=============
+
+
+
+
+
+Description: Nuclear lamin l1 alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004237>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

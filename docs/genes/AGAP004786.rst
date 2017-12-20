@@ -1,9 +1,0 @@
-
-AGAP004786
-=============
-
-
-
-Description: Pyruvate dehydrogenase e1 component subunit alpha [source:uniprotkb/trembl;acc:q7q2s3].
-
-TODO

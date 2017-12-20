@@ -1,9 +1,0 @@
-
-AGAP008433
-=============
-
-
-
-Description: Rna-binding protein 39 [source:vb community annotation].
-
-TODO

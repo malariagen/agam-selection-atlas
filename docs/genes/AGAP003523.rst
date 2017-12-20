@@ -1,9 +1,0 @@
-
-AGAP003523
-=============
-
-
-
-Description: Hypoxia-inducible factor prolyl hydroxylase [source:vb community annotation].
-
-TODO

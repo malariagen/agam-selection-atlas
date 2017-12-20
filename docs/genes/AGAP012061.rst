@@ -1,9 +1,0 @@
-
-AGAP012061
-=============
-
-
-
-Description: Ell-associated factor [source:vb community annotation].
-
-TODO

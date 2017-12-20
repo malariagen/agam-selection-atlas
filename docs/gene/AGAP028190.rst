@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028190
+=============
+
+
+
+
+
+Description: Protein quiver [source:uniprotkb/trembl;acc:a0a1s4he94].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028190>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

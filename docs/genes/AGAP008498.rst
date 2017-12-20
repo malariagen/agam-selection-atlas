@@ -1,9 +1,0 @@
-
-AGAP008498
-=============
-
-
-
-Description: Pci domain-containing protein 2 [source:vb community annotation].
-
-TODO

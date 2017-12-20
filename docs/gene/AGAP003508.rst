@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003508
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase supv3l1, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003508>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

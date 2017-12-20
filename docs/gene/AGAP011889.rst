@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011889
+=============
+
+
+
+
+
+Description: Methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011889>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

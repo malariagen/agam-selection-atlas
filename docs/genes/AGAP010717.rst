@@ -1,9 +1,0 @@
-
-AGAP010717
-=============
-
-Name: **CPR143**
-
-Description: Cuticular protein rr-2 family 143 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011845
-=============
-
-
-
-Description: Histone h2a [source:uniprotkb/trembl;acc:q7pzc9].
-
-TODO

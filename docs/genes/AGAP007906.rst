@@ -1,9 +1,0 @@
-
-AGAP007906
-=============
-
-
-
-Description: Spink6 [source:vb community annotation].
-
-TODO

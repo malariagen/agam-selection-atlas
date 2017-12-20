@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000470
+=============
+
+
+
+
+
+Description: Methylthioribulose-1-phosphate dehydratase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000470>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

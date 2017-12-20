@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008582
+=============
+
+
+
+
+
+Description: Alpha-mannosidase [source:uniprotkb/trembl;acc:a0a1s4gyp5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008582>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004488
+=============
+
+
+
+
+
+Description: Actin-related protein 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004488>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

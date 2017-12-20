@@ -1,9 +1,0 @@
-
-AGAP001688
-=============
-
-
-
-Description: Alpha-1,4-n-acetylglucosaminyltransferase extl3 [source:vb community annotation].
-
-TODO

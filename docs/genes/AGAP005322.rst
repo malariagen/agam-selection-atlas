@@ -1,9 +1,0 @@
-
-AGAP005322
-=============
-
-
-
-Description: Serine/threonine-protein kinase srpk1 [source:vb community annotation].
-
-TODO

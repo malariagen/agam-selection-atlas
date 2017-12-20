@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002538
+=============
+
+
+
+
+
+Description: Escrt-i complex subunit vps37 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002538>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

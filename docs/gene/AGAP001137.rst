@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001137
+=============
+
+
+
+Name: **Gr59**
+
+Description: Gustatory receptor 59 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001137>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

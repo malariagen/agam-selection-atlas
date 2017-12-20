@@ -1,9 +1,0 @@
-
-AGAP005743
-=============
-
-
-
-Description: Trna pseudouridine13 synthase [source:vb community annotation].
-
-TODO

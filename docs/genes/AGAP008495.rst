@@ -1,9 +1,0 @@
-
-AGAP008495
-=============
-
-
-
-Description: Bis(5'-nucleosidyl)-tetraphosphatase [source:vb community annotation].
-
-TODO

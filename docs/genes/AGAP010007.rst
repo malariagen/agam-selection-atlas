@@ -1,9 +1,0 @@
-
-AGAP010007
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 47 [source:vb community annotation].
-
-TODO

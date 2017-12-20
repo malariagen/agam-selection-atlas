@@ -1,9 +1,0 @@
-
-AGAP008780
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein [source:uniprotkb/trembl;acc:q7ppn4].
-
-TODO

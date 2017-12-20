@@ -1,9 +1,0 @@
-
-AGAP012070
-=============
-
-
-
-Description: Anaplastic lymphoma kinase [source:vb community annotation].
-
-TODO

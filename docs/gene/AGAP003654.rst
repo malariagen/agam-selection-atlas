@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003654
+=============
+
+
+
+Name: **GPRCAL3**
+
+Description: Putative calcitonin receptor 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003654>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

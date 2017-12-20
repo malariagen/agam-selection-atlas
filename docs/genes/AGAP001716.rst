@@ -1,9 +1,0 @@
-
-AGAP001716
-=============
-
-
-
-Description: Tubby [source:vb community annotation].
-
-TODO

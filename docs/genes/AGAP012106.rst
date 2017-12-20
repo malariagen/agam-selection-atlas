@@ -1,9 +1,0 @@
-
-AGAP012106
-=============
-
-
-
-Description: F-type h -transporting atpase subunit beta [source:vb community annotation].
-
-TODO

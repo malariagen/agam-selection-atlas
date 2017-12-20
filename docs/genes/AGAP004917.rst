@@ -1,9 +1,0 @@
-
-AGAP004917
-=============
-
-
-
-Description: Fibrinogen-related protein 1 [source:vb community annotation].
-
-TODO

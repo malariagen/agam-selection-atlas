@@ -1,9 +1,0 @@
-
-AGAP011833
-=============
-
-
-
-Description: Enoyl-coa hydratase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003548
+=============
+
+
+
+
+
+Description: Dna repair/transcription protein met18/mms19 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003548>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

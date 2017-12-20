@@ -1,9 +1,0 @@
-
-AGAP011351
-=============
-
-
-
-Description: Rab6-interacting [source:vb community annotation].
-
-TODO

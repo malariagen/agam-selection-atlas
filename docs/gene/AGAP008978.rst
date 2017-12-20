@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008978
+=============
+
+
+
+
+
+Description: Probable methyltransferase bmt2 homolog [source:uniprotkb/trembl;acc:a0a1s4h0j8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008978>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

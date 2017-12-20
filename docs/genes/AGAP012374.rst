@@ -1,9 +1,0 @@
-
-AGAP012374
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 beta subcomplex 3 [source:vb community annotation].
-
-TODO

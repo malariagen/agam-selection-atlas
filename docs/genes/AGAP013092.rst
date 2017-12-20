@@ -1,9 +1,0 @@
-
-AGAP013092
-=============
-
-
-
-Description: Cytochrome c oxidase subunit vib polypeptide 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007172
-=============
-
-
-
-Description: Translation initiation factor 4e [source:vb community annotation].
-
-TODO

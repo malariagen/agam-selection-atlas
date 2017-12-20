@@ -1,9 +1,0 @@
-
-AGAP009033
-=============
-
-Name: **HPX2**
-
-Description: Heme peroxidase 2 [source:vb community annotation].
-
-TODO

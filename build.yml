@@ -1,0 +1,92 @@
+# This is a Snakemake file.
+
+
+import yaml
+# load populations definitions
+with open('docs/populations.yml', mode='r') as f:
+    populations = yaml.load(f)
+    pop_ids = [p['id'] for p in populations]
+chromosomes = ['2', '3', 'X']
+
+
+rule build_h12:
+    input:
+        "agam-report-base/src/python/rockies.py",
+        "scripts/build_h12.py",
+        "ngs.sanger.ac.uk/production/ag1000g/phase1/selection.1.RC2/windowed/hstats.txt.gz",
+    output:
+        "docs/signal/H12/{population}/chr{chromosome}",
+        touch("docs/signal/H12/{population}/chr{chromosome}/build.done"),
+    shell:
+        "python scripts/build_h12.py "
+        "    --population {wildcards.population}"
+        "    --chromosome {wildcards.chromosome}"
+
+
+rule tabulate_signals:
+    input:
+        "scripts/tabulate_signals.py",
+        expand("docs/signal/H12/{population}/chr{chromosome}/build.done", population=pop_ids, chromosome=chromosomes),
+        # TODO more signals here
+    output:
+        "docs/signals.csv",
+    shell:
+        "python scripts/tabulate_signals.py"
+
+
+rule build_signal_pages:
+    input:
+        "scripts/build_signal_pages.py",
+        "templates/signal.rst",
+        rules.tabulate_signals.output,
+    output:
+        touch("docs/signal/docs.done"),
+    shell:
+        "python scripts/build_signal_pages.py"
+
+
+rule build_signals_page:
+    input:
+        "scripts/build_signals_page.py",
+        "templates/signals.rst",
+        rules.tabulate_signals.output,
+    output:
+        touch("docs/signals.rst"),
+    shell:
+        "python scripts/build_signals_page.py"
+
+
+rule build_population_pages:
+    input:
+        "scripts/build_population_pages.py",
+        "templates/populations.rst",
+        "templates/population.rst",
+        rules.tabulate_signals.output,
+    output:
+        "docs/populations.rst",
+        expand("docs/population/{population}.rst", population=pop_ids),
+        touch("docs/population/docs.done"),
+    shell:
+        "python scripts/build_population_pages.py"
+
+
+rule build_gene_pages:
+    input:
+        "scripts/build_gene_pages.py",
+        "templates/gene.rst",
+        rules.tabulate_signals.output,
+    output:
+        touch("docs/gene/docs.done"),
+    shell:
+        "python scripts/build_gene_pages.py"
+
+
+rule docs:
+    input:
+        rules.build_signal_pages.output,
+        rules.build_signals_page.output,
+        rules.build_population_pages.output,
+        rules.build_gene_pages.output,
+    shell:
+        "cd docs && make html"
+

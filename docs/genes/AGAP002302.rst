@@ -1,9 +1,0 @@
-
-AGAP002302
-=============
-
-
-
-Description: Crossover junction endonuclease [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006624
-=============
-
-
-
-Description: Valyl-trna synthetase [source:vb community annotation].
-
-TODO

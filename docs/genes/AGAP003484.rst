@@ -1,9 +1,0 @@
-
-AGAP003484
-=============
-
-
-
-Description: Oxysterol-binding protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011846
-=============
-
-
-
-Description: Cytochrome b-561 domain containing protein 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000434
-=============
-
-
-
-Description: Dolichyl-diphosphooligosaccharide--protein glycosyltransferase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007790
-=============
-
-
-
-Description: Sodium/potassium-transporting atpase subunit beta [source:vb community annotation].
-
-TODO

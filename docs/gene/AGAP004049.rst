@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004049
+=============
+
+
+
+
+
+Description: Mad, mothers against decapentaplegic interacting protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004049>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

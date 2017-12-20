@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007800
+=============
+
+
+
+
+
+Description: Hyperpolarization activated cyclic nucleotide-gated potassium channel [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007800>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

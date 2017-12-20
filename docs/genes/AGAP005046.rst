@@ -1,9 +1,0 @@
-
-AGAP005046
-=============
-
-Name: **RpL22**
-
-Description: 60s ribosomal protein l22 [source:vb community annotation].
-
-TODO

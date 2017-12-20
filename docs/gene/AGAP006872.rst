@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006872
+=============
+
+
+
+
+
+Description: Nima (never in mitosis gene a)-related kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006872>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

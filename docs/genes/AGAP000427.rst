@@ -1,9 +1,0 @@
-
-AGAP000427
-=============
-
-
-
-Description: Vitellogenin receptor [source:vb community annotation].
-
-TODO

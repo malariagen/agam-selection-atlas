@@ -1,9 +1,0 @@
-
-AGAP004239
-=============
-
-
-
-Description: Polo-like kinase 1 [source:vb community annotation].
-
-TODO

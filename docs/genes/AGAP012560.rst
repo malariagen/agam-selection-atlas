@@ -1,9 +1,0 @@
-
-AGAP012560
-=============
-
-
-
-Description: Histone h2b [source:vb community annotation].
-
-TODO

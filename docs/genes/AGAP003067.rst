@@ -1,9 +1,0 @@
-
-AGAP003067
-=============
-
-Name: **CYP304C1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

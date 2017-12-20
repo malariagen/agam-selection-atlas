@@ -1,9 +1,0 @@
-
-AGAP009172
-=============
-
-
-
-Description: Prolyl oligopeptidase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP028178
-=============
-
-Name: **CPLCP13**
-
-Description: Cuticular protein (putative) cplcp13 [source:vb community annotation].
-
-TODO

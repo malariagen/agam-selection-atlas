@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006740
+=============
+
+
+
+
+
+Description: Dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006740>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

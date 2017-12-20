@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003526
+=============
+
+
+
+
+
+Description: Asterless [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003526>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

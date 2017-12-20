@@ -1,9 +1,0 @@
-
-AGAP003003
-=============
-
-Name: **Aats-tyr**
-
-Description: Tyrosyl-trna synthetase [source:vb community annotation].
-
-TODO

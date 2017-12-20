@@ -1,9 +1,0 @@
-
-AGAP007097
-=============
-
-
-
-Description: Translation initiation factor eif-2b subunit beta [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001319
-=============
-
-
-
-Description: 5'-nucleotidase domain-containing protein 1 [source:vb community annotation].
-
-TODO

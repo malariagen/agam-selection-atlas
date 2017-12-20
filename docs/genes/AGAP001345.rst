@@ -1,9 +1,0 @@
-
-AGAP001345
-=============
-
-
-
-Description: Hexamerin [source:vb community annotation].
-
-TODO

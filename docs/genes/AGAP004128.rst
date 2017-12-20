@@ -1,9 +1,0 @@
-
-AGAP004128
-=============
-
-Name: **Osi8**
-
-Description: Osiris 8 [source:vb community annotation].
-
-TODO

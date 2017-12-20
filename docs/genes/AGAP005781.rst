@@ -1,9 +1,0 @@
-
-AGAP005781
-=============
-
-
-
-Description: Glycine c-acetyltransferase [source:vb community annotation].
-
-TODO

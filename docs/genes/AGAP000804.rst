@@ -1,9 +1,0 @@
-
-AGAP000804
-=============
-
-Name: **GPXH2**
-
-Description: Glutathione peroxidase 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008028
-=============
-
-
-
-Description: Voltage-dependent calcium channel beta, invertebrate [source:vb community annotation].
-
-TODO

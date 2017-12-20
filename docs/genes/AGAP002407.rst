@@ -1,9 +1,0 @@
-
-AGAP002407
-=============
-
-Name: **mRpS18A**
-
-Description: 28s ribosomal protein s18a, mitochondrial [source:vb community annotation].
-
-TODO

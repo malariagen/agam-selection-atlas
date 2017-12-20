@@ -1,9 +1,0 @@
-
-AGAP000882
-=============
-
-
-
-Description: 17-beta-hydroxysteroid dehydrogenase type 6 precursor [source:vb community annotation].
-
-TODO

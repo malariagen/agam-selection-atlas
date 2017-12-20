@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008008
+=============
+
+
+
+
+
+Description: Coiled-coil domain-containing protein 72 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008008>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

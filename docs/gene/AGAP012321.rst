@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012321
+=============
+
+
+
+Name: **OBP26**
+
+Description: Odorant-binding protein 26 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012321>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

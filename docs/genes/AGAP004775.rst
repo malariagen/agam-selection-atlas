@@ -1,9 +1,0 @@
-
-AGAP004775
-=============
-
-
-
-Description: Xaa-pro dipeptidase [source:vb community annotation].
-
-TODO

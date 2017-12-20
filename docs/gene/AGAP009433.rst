@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009433
+=============
+
+
+
+
+
+Description: Arylformamidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009433>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002780
-=============
-
-
-
-Description: Pre-mrna branch site protein p14 [source:vb community annotation].
-
-TODO

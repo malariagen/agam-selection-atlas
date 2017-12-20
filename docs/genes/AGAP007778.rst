@@ -1,9 +1,0 @@
-
-AGAP007778
-=============
-
-
-
-Description: Dna-directed rna polymerase, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002216
+=============
+
+
+
+
+
+Description: Cation transport regulator-like protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002216>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

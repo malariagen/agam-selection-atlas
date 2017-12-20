@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003988
+=============
+
+
+
+
+
+Description: Tp53-regulated inhibitor of apoptosis [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003988>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

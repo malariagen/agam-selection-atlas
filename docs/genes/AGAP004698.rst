@@ -1,9 +1,0 @@
-
-AGAP004698
-=============
-
-
-
-Description: Pre-mrna-splicing factor 38b [source:vb community annotation].
-
-TODO

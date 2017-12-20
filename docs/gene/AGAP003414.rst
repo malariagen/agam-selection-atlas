@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003414
+=============
+
+
+
+
+
+Description: 3-hydroxyacyl-coa dehydrogenase / 3-hydroxy-2-methylbutyryl-coa dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003414>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

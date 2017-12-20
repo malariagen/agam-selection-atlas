@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008265
+=============
+
+
+
+
+
+Description: Seryl-trna synthetase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008265>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

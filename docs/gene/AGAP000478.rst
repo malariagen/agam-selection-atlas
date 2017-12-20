@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000478
+=============
+
+
+
+
+
+Description: Btb/poz domain-containing protein kctd9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000478>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006627
-=============
-
-
-
-Description: Islet cell autoantigen 1 [source:vb community annotation].
-
-TODO

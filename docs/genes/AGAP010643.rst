@@ -1,9 +1,0 @@
-
-AGAP010643
-=============
-
-
-
-Description: Pds5, regulator of cohesion maintenance homolog a [source:vb community annotation].
-
-TODO

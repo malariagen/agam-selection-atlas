@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007097
+=============
+
+
+
+
+
+Description: Translation initiation factor eif-2b subunit beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007097>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

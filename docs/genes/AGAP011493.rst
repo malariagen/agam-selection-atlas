@@ -1,9 +1,0 @@
-
-AGAP011493
-=============
-
-
-
-Description: Udp-xylose and udp-n-acetylglucosamine transporter-like [source:vb community annotation].
-
-TODO

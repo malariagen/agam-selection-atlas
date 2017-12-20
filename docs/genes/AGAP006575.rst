@@ -1,9 +1,0 @@
-
-AGAP006575
-=============
-
-
-
-Description: Multifunctional methyltransferase subunit trm112 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006994
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase herc4 [source:vb community annotation].
-
-TODO

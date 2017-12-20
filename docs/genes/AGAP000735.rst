@@ -1,9 +1,0 @@
-
-AGAP000735
-=============
-
-
-
-Description: Histidyl-trna synthetase [source:vb community annotation].
-
-TODO

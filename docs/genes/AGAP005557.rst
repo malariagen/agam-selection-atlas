@@ -1,9 +1,0 @@
-
-AGAP005557
-=============
-
-
-
-Description: Xenotropic and polytropic retrovirus receptor 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005486
-=============
-
-Name: **mRpL50**
-
-Description: 39s ribosomal protein l50, mitochondrial [source:vb community annotation].
-
-TODO

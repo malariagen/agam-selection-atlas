@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003334
+=============
+
+
+
+Name: **CPLCX2**
+
+Description: Cuticular protein unclassified [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003334>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

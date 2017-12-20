@@ -1,9 +1,0 @@
-
-AGAP011326
-=============
-
-Name: **IAP2**
-
-Description: Inhibitor of apoptosis 2 [source:vb community annotation].
-
-TODO

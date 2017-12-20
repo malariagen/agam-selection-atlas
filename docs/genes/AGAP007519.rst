@@ -1,9 +1,0 @@
-
-AGAP007519
-=============
-
-Name: **mRpS22**
-
-Description: 28s ribosomal protein s22, mitochondrial [source:vb community annotation].
-
-TODO

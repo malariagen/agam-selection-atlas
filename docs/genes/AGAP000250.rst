@@ -1,9 +1,0 @@
-
-AGAP000250
-=============
-
-
-
-Description: Staga complex 65 subunit gamma [source:vb community annotation].
-
-TODO

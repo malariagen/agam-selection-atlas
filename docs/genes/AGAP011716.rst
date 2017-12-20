@@ -1,9 +1,0 @@
-
-AGAP011716
-=============
-
-Name: **mRpL53**
-
-Description: 39s ribosomal protein l53, mitochondrial [source:vb community annotation].
-
-TODO

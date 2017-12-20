@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013277
+=============
+
+
+
+
+
+Description: Geranylgeranyl transferase type-2 subunit beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013277>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011174
-=============
-
-
-
-Description: 26s proteasome regulatory subunit t1 [source:vb community annotation].
-
-TODO

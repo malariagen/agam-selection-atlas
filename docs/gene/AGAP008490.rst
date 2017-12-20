@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008490
+=============
+
+
+
+
+
+Description: Solute carrier family 36 (proton-coupled amino acid transporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008490>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

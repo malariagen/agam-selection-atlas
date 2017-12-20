@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009641
+=============
+
+
+
+
+
+Description: Kelch-like protein diablo [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009641>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

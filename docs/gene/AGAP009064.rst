@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009064
+=============
+
+
+
+
+
+Description: Nuclear transcription factor y subunit gamma [source:uniprotkb/trembl;acc:a0a1s4h0t2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009064>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

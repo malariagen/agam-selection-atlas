@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000947
+=============
+
+
+
+Name: **GSTU1**
+
+Description: Glutathione s-transferase unclassified 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000947>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009954
+=============
+
+
+
+
+
+Description: Ankyrin repeat domain-containing protein 13c [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009954>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006818
-=============
-
-
-
-Description: Ribonucleoside-diphosphate reductase subunit m2 [source:vb community annotation].
-
-TODO

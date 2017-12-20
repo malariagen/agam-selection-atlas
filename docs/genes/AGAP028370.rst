@@ -1,9 +1,0 @@
-
-AGAP028370
-=============
-
-Name: **ATP6**
-
-Description: Adenosine triphosphatase subunit 6 [source:european nucleotide archive;acc:atp6].
-
-TODO

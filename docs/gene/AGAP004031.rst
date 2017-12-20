@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004031
+=============
+
+
+
+
+
+Description: Mitochondrial electron transfer flavoprotein subunit alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004031>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

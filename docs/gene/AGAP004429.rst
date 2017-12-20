@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004429
+=============
+
+
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7qa55].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004429>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

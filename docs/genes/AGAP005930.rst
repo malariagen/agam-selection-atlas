@@ -1,9 +1,0 @@
-
-AGAP005930
-=============
-
-
-
-Description: Target of poxn [source:vb community annotation].
-
-TODO

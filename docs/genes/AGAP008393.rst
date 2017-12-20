@@ -1,9 +1,0 @@
-
-AGAP008393
-=============
-
-
-
-Description: Dna-directed rna polymerase ii subunit rpb9 [source:vb community annotation].
-
-TODO

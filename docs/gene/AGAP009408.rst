@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009408
+=============
+
+
+
+Name: **Or14**
+
+Description: Odorant receptor 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009408>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

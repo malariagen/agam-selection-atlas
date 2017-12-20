@@ -1,9 +1,0 @@
-
-AGAP003669
-=============
-
-
-
-Description: Homeobox protein msx [source:vb community annotation].
-
-TODO

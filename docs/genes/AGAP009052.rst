@@ -1,9 +1,0 @@
-
-AGAP009052
-=============
-
-Name: **LL2**
-
-Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 2) [source:vb community annotation].
-
-TODO

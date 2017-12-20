@@ -1,9 +1,0 @@
-
-AGAP011940
-=============
-
-
-
-Description: Sphingomyelin phosphodiesterase [source:vb community annotation].
-
-TODO

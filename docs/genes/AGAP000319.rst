@@ -1,9 +1,0 @@
-
-AGAP000319
-=============
-
-
-
-Description: Katanin p80 wd40 repeat-containing subunit b1 [source:uniprotkb/trembl;acc:q7qf60].
-
-TODO

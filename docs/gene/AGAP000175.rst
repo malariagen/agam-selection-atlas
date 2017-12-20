@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000175
+=============
+
+
+
+
+
+Description: Stromal interaction molecule [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000175>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008055
-=============
-
-Name: **CSP3**
-
-Description: Chemosensory protein 3 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002923
+=============
+
+
+
+
+
+Description: Bystin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002923>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

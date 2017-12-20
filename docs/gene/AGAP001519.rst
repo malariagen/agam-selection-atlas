@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001519
+=============
+
+
+
+
+
+Description: Pre-mrna-splicing helicase brr2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001519>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

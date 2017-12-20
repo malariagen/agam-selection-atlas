@@ -1,9 +1,0 @@
-
-AGAP007023
-=============
-
-Name: **cue**
-
-Description: Protein cueball [source:uniprotkb/swiss-prot;acc:q7qiq6].
-
-TODO

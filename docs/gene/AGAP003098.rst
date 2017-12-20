@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003098
+=============
+
+
+
+Name: **Gr23**
+
+Description: Gustatory receptor 23 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003098>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

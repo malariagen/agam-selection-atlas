@@ -1,9 +1,0 @@
-
-AGAP010128
-=============
-
-Name: **CPR100**
-
-Description: Cuticular protein rr-2 family 100 [source:vb community annotation].
-
-TODO

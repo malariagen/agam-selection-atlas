@@ -1,9 +1,0 @@
-
-AGAP009333
-=============
-
-
-
-Description: Mitochondrial carrier protein (rim2) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002194
-=============
-
-
-
-Description: 1d-myo-inositol-triphosphate 3-kinase [source:vb community annotation].
-
-TODO

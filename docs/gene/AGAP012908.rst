@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012908
+=============
+
+
+
+
+
+Description: Dehydrodolichyl diphosphate synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012908>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

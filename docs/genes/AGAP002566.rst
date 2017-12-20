@@ -1,9 +1,0 @@
-
-AGAP002566
-=============
-
-Name: **GPRHIS**
-
-Description: Putative histamine receptor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010358
-=============
-
-
-
-Description: Paired box protein 3/7 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002777
-=============
-
-Name: **mRpS33**
-
-Description: 28s ribosomal protein s33, mitochondrial [source:vb community annotation].
-
-TODO

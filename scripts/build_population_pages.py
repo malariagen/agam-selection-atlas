@@ -14,27 +14,39 @@ if __name__ == '__main__':
 
     env = jinja2.Environment(loader=loader)
 
-    template = env.get_template('population.rst')
-
     # load populations definitions
     with open('docs/populations.yml', mode='r') as f:
         populations = yaml.load(f)
+
+    # make the populations index page
+    populations_template = env.get_template('populations.rst')
+    data = dict(populations=populations)
+    with open('docs/populations.rst', mode='w') as f:
+        f.write(populations_template.render(populations=populations))
+
+    # make the per-population pages
+    population_template = env.get_template('population.rst')
 
     # load signals
     tbl_signals = etl.fromcsv('docs/signals.csv')
 
     for population in populations:
 
-        data = dict()
-        data['population'] = population
-        data['signals'] = list(
+        pop_signals = list(
             tbl_signals
             .eq('population', population['id'])
             .dicts()
         )
+        data = dict()
+        data['population'] = population
+        data['signals'] = {
+            '2': [s for s in pop_signals if s['chromosome'] == '2'],
+            '3': [s for s in pop_signals if s['chromosome'] == '3'],
+            'X': [s for s in pop_signals if s['chromosome'] == 'X'],
+        }
 
         # render the report
-        out_path = 'docs/populations/{}.rst'.format(population['id'])
+        out_path = 'docs/population/{}.rst'.format(population['id'])
         print('rendering', out_path)
         with open(out_path, mode='w') as f:
-            print(template.render(**data), file=f)
+            print(population_template.render(**data), file=f)

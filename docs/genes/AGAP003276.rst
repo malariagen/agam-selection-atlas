@@ -1,9 +1,0 @@
-
-AGAP003276
-=============
-
-
-
-Description: Splicing factor, arginine/serine-rich 17 [source:vb community annotation].
-
-TODO

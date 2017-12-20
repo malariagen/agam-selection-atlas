@@ -1,9 +1,0 @@
-
-AGAP003228
-=============
-
-
-
-Description: Histone acetyltransferase type b subunit 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011457
-=============
-
-
-
-Description: Ribose 5-phosphate isomerase a [source:vb community annotation].
-
-TODO

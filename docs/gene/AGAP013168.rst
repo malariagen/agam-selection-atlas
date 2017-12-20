@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013168
+=============
+
+
+
+Name: **Mocs2**
+
+Description: Molybdopterin synthase catalytic subunit [source:uniprotkb/swiss-prot;acc:q7qad7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013168>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

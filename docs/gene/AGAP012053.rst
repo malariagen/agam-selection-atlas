@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012053
+=============
+
+
+
+
+
+Description: Alpha,alpha-trehalase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012053>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

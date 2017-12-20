@@ -1,9 +1,0 @@
-
-AGAP006354
-=============
-
-
-
-Description: Rab-like protein 3 [source:vb community annotation].
-
-TODO

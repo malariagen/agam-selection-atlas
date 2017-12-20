@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028645
+=============
+
+
+
+
+
+Description: Aryl hydrocarbon receptor nuclear translocator [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028645>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

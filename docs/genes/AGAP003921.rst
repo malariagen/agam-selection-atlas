@@ -1,9 +1,0 @@
-
-AGAP003921
-=============
-
-
-
-Description: Voltage-gated ion channel [source:vb community annotation].
-
-TODO

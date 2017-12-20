@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001753
+=============
+
+
+
+
+
+Description: 15-hydroxyprostaglandin dehydrogenase (nad) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001753>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

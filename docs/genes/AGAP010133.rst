@@ -1,9 +1,0 @@
-
-AGAP010133
-=============
-
-Name: **SCRPQ2**
-
-Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
-
-TODO

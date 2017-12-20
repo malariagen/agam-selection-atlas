@@ -1,9 +1,0 @@
-
-AGAP002481
-=============
-
-
-
-Description: 26s proteasome regulatory subunit n1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006419
-=============
-
-Name: **A5R2**
-
-Description: Antigen 5 related protein 2 [source:vb community annotation].
-
-TODO

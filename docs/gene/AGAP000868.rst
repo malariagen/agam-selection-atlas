@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000868
+=============
+
+
+
+
+
+Description: Beta-1,4-mannosyltransferase egghead protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000868>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

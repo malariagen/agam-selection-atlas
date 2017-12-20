@@ -1,9 +1,0 @@
-
-AGAP010498
-=============
-
-
-
-Description: Rna 3'-terminal phosphate cyclase-like protein [source:vb community annotation].
-
-TODO

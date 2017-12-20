@@ -1,9 +1,0 @@
-
-AGAP012288
-=============
-
-
-
-Description: Van gogh [source:vb community annotation].
-
-TODO

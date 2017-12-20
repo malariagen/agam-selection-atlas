@@ -1,9 +1,0 @@
-
-AGAP010390
-=============
-
-Name: **COE12O**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

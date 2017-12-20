@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000489
+=============
+
+
+
+
+
+Description: Eph receptor b1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000489>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

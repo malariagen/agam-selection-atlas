@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003805
+=============
+
+
+
+
+
+Description: Ef-hand domain (c-terminal) containing 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003805>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

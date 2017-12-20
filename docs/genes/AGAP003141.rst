@@ -1,9 +1,0 @@
-
-AGAP003141
-=============
-
-
-
-Description: Insulin-related peptide binding protein [source:vb community annotation].
-
-TODO

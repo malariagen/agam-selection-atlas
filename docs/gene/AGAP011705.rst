@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011705
+=============
+
+
+
+
+
+Description: Upf0518 protein agap011705 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011705>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

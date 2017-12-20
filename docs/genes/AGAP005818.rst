@@ -1,9 +1,0 @@
-
-AGAP005818
-=============
-
-
-
-Description: Nurim homolog [source:vb community annotation].
-
-TODO

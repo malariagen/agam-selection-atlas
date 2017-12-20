@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009316
+=============
+
+
+
+Name: **CTL10**
+
+Description: C-type lectin (ctl) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009316>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

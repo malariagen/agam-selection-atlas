@@ -1,9 +1,0 @@
-
-AGAP010694
-=============
-
-
-
-Description: Glycine receptor alpha 1 subunit [source:vb community annotation].
-
-TODO

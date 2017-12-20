@@ -1,9 +1,0 @@
-
-AGAP000609
-=============
-
-Name: **SG1e**
-
-Description: Salivary gland protein 1-like 5 [source:vb community annotation].
-
-TODO

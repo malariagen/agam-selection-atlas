@@ -1,9 +1,0 @@
-
-AGAP008209
-=============
-
-Name: **CYP6M1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

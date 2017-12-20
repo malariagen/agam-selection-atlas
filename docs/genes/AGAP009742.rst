@@ -1,9 +1,0 @@
-
-AGAP009742
-=============
-
-
-
-Description: Splicing factor, arginine/serine-rich 2 [source:vb community annotation].
-
-TODO

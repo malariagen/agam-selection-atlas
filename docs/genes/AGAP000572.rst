@@ -1,9 +1,0 @@
-
-AGAP000572
-=============
-
-Name: **CLIPC10**
-
-Description: Clip-domain serine protease [source:vb community annotation].
-
-TODO

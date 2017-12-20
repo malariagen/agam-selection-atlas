@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013496
+=============
+
+
+
+Name: **Cht5-3**
+
+Description: Chitinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013496>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

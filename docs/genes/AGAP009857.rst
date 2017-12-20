@@ -1,9 +1,0 @@
-
-AGAP009857
-=============
-
-Name: **Gr4**
-
-Description: Gustatory receptor 4 [source:vb community annotation].
-
-TODO

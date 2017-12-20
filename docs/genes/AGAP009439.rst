@@ -1,9 +1,0 @@
-
-AGAP009439
-=============
-
-
-
-Description: Membrane protein gna1220 [source:vb community annotation].
-
-TODO

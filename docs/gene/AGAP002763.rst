@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002763
+=============
+
+
+
+Name: **IR7t**
+
+Description: Ionotropic receptor ir7t [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002763>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

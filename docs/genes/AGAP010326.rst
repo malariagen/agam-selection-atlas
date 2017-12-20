@@ -1,9 +1,0 @@
-
-AGAP010326
-=============
-
-
-
-Description: Aquaporin [source:vb community annotation].
-
-TODO

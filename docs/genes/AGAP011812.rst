@@ -1,9 +1,0 @@
-
-AGAP011812
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein (fragment) [source:uniprotkb/trembl;acc:q7pza2].
-
-TODO

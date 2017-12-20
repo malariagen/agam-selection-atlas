@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000015
+=============
+
+
+
+
+
+Description: Proto-oncogene tyrosine-protein kinase ros [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000015>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

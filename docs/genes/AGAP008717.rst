@@ -1,9 +1,0 @@
-
-AGAP008717
-=============
-
-
-
-Description: Hydroxymethylglutaryl-coa lyase [source:vb community annotation].
-
-TODO

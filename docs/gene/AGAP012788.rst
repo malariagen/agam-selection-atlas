@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012788
+=============
+
+
+
+
+
+Description: Cytosolic fe-s cluster assembly factor nubp2 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012788>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

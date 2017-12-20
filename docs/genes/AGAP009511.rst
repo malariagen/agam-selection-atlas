@@ -1,9 +1,0 @@
-
-AGAP009511
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase hectd1 [source:vb community annotation].
-
-TODO

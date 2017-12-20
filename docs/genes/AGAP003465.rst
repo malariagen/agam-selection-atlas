@@ -1,9 +1,0 @@
-
-AGAP003465
-=============
-
-Name: **Osi14**
-
-Description: Osiris 14 [source:vb community annotation].
-
-TODO

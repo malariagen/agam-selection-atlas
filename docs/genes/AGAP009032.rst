@@ -1,9 +1,0 @@
-
-AGAP009032
-=============
-
-
-
-Description: Ezrin-binding protein pace-1 [source:vb community annotation].
-
-TODO

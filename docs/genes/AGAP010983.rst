@@ -1,9 +1,0 @@
-
-AGAP010983
-=============
-
-
-
-Description: Bag family molecular chaperone regulator 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007387
-=============
-
-
-
-Description: Dna methyltransferase 1-associated protein 1 [source:vb community annotation].
-
-TODO

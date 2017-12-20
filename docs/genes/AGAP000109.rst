@@ -1,9 +1,0 @@
-
-AGAP000109
-=============
-
-
-
-Description: Cytochrome c oxidase subunit viia [source:vb community annotation].
-
-TODO

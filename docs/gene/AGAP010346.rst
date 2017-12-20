@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010346
+=============
+
+
+
+Name: **Mer**
+
+Description: Merlin (moesin-ezrin-radixin-like protein) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010346>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

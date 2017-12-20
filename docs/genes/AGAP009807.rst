@@ -1,9 +1,0 @@
-
-AGAP009807
-=============
-
-
-
-Description: E2f transcription factor 4/5 [source:vb community annotation].
-
-TODO

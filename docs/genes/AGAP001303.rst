@@ -1,9 +1,0 @@
-
-AGAP001303
-=============
-
-Name: **SAP1**
-
-Description: Chemosensory protein 6 [source:vb community annotation].
-
-TODO

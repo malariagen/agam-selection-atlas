@@ -1,9 +1,0 @@
-
-AGAP011710
-=============
-
-
-
-Description: Lim domain kinase 1 [source:vb community annotation].
-
-TODO

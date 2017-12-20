@@ -1,9 +1,0 @@
-
-AGAP011137
-=============
-
-
-
-Description: Thiomorpholine-carboxylate dehydrogenase [source:vb community annotation].
-
-TODO

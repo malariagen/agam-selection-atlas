@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008884
+=============
+
+
+
+
+
+Description: Protoheme ix farnesyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008884>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

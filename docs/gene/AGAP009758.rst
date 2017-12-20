@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009758
+=============
+
+
+
+Name: **CPLCP11**
+
+Description: Cuticular protein cplcp11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009758>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

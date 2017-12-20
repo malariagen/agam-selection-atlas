@@ -1,9 +1,0 @@
-
-AGAP004093
-=============
-
-
-
-Description: Sterol carrier protein-2 [source:vb community annotation].
-
-TODO

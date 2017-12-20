@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010109
+=============
+
+
+
+Name: **CPR150**
+
+Description: Cuticular protein 150 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010109>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

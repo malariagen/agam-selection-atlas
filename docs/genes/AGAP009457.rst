@@ -1,9 +1,0 @@
-
-AGAP009457
-=============
-
-
-
-Description: Guanine nucleotide-binding protein subunit alpha-12 [source:vb community annotation].
-
-TODO

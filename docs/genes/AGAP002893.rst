@@ -1,9 +1,0 @@
-
-AGAP002893
-=============
-
-Name: **mRpS23**
-
-Description: 28s ribosomal protein s23, mitochondrial [source:vb community annotation].
-
-TODO

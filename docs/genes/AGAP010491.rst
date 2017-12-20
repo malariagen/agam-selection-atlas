@@ -1,9 +1,0 @@
-
-AGAP010491
-=============
-
-
-
-Description: N-acetyltransferase 10 [source:vb community annotation].
-
-TODO

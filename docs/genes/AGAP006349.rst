@@ -1,9 +1,0 @@
-
-AGAP006349
-=============
-
-
-
-Description: Solute carrier family 19 (thiamine transporter), member 2/3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000563
-=============
-
-
-
-Description: Arf-gap with coiled-coil, ank repeat and ph domain-containing protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008465
+=============
+
+
+
+Name: **CPLCG22**
+
+Description: Cuticular protein cplcg family (cplcg22) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008465>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

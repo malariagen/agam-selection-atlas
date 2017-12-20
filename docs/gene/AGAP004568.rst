@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004568
+=============
+
+
+
+
+
+Description: Serine protease like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004568>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

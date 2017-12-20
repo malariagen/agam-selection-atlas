@@ -1,9 +1,0 @@
-
-AGAP009397
-=============
-
-Name: **Or55**
-
-Description: Odorant receptor 55 [source:vb community annotation].
-
-TODO

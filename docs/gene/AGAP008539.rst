@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008539
+=============
+
+
+
+
+
+Description: Translocase of inner mitochondrial membrane 44 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008539>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

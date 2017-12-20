@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008672
+=============
+
+
+
+
+
+Description: Structural maintenance of chromosomes protein [source:uniprotkb/trembl;acc:a0a1s4gyx0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008672>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

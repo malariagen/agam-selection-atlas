@@ -1,9 +1,0 @@
-
-AGAP009704
-=============
-
-Name: **Or68**
-
-Description: Odorant receptor 68 [source:vb community annotation].
-
-TODO

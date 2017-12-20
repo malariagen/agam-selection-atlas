@@ -1,9 +1,0 @@
-
-AGAP001412
-=============
-
-
-
-Description: Hedgehog protein [source:uniprotkb/trembl;acc:q7pxi1].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006824
+=============
+
+
+
+
+
+Description: 5-formyltetrahydrofolate cyclo-ligase [source:uniprotkb/trembl;acc:q7qig0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006824>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

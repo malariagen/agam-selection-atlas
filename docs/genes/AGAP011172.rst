@@ -1,9 +1,0 @@
-
-AGAP011172
-=============
-
-
-
-Description: Cystathionine gamma-lyase [source:vb community annotation].
-
-TODO

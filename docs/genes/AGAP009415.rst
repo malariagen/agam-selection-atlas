@@ -1,9 +1,0 @@
-
-AGAP009415
-=============
-
-
-
-Description: Lysophosphatidate acyltransferase [source:vb community annotation].
-
-TODO

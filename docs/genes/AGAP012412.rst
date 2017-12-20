@@ -1,9 +1,0 @@
-
-AGAP012412
-=============
-
-
-
-Description: Ceramide glucosyltransferase [source:vb community annotation].
-
-TODO

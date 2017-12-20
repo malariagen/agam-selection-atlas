@@ -1,9 +1,0 @@
-
-AGAP004723
-=============
-
-
-
-Description: Chromobox protein homolog 1 [source:vb community annotation].
-
-TODO

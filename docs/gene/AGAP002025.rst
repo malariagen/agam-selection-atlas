@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002025
+=============
+
+
+
+Name: **OBP11**
+
+Description: Odorant-binding protein 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002025>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

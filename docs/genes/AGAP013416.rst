@@ -1,9 +1,0 @@
-
-AGAP013416
-=============
-
-Name: **IR7w**
-
-Description: Ionotropic receptor ir7w [source:vb community annotation].
-
-TODO

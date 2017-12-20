@@ -1,9 +1,0 @@
-
-AGAP005013
-=============
-
-
-
-Description: N-acetylgalactosamine kinase [source:vb community annotation].
-
-TODO

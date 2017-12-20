@@ -1,9 +1,0 @@
-
-AGAP008414
-=============
-
-
-
-Description: Alpha-methylacyl-coa racemase [source:vb community annotation].
-
-TODO

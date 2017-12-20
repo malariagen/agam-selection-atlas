@@ -1,9 +1,0 @@
-
-AGAP002778
-=============
-
-
-
-Description: Protein misato [source:vb community annotation].
-
-TODO

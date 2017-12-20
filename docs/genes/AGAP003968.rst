@@ -1,9 +1,0 @@
-
-AGAP003968
-=============
-
-
-
-Description: Ump-cmp kinase [source:uniprotkb/trembl;acc:q7q292].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009335
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 15 [source:vb community annotation].
-
-TODO

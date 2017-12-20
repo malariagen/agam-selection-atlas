@@ -1,9 +1,0 @@
-
-AGAP009467
-=============
-
-Name: **ABCG16**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 16 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007135
-=============
-
-
-
-Description: Tripartite motif-containing protein 71 [source:vb community annotation].
-
-TODO

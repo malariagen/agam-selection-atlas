@@ -1,9 +1,0 @@
-
-AGAP011938
-=============
-
-
-
-Description: Lamin [source:vb community annotation].
-
-TODO

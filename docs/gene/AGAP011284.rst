@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011284
+=============
+
+
+
+
+
+Description: Eukaryotic translation initiation factor 5a [source:uniprotkb/trembl;acc:q7psr5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011284>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

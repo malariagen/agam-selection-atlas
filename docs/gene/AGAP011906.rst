@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011906
+=============
+
+
+
+
+
+Description: Exosome complex component mtr3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011906>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

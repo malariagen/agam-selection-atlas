@@ -1,9 +1,0 @@
-
-AGAP009434
-=============
-
-
-
-Description: Valacyclovir hydrolase [source:vb community annotation].
-
-TODO

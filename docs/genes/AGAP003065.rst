@@ -1,9 +1,0 @@
-
-AGAP003065
-=============
-
-Name: **CYP11179**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008051
-=============
-
-Name: **SAP1**
-
-Description: Sensory appendage protein 1 [source:vb community annotation].
-
-TODO

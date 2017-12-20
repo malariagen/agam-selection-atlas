@@ -1,9 +1,0 @@
-
-AGAP005079
-=============
-
-
-
-Description: Guanine nucleotide-binding protein g(q) alpha subunit [source:vb community annotation].
-
-TODO

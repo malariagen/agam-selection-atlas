@@ -1,9 +1,0 @@
-
-AGAP000167
-=============
-
-
-
-Description: Lipid storage droplets surface-binding protein 2 [source:vb community annotation].
-
-TODO

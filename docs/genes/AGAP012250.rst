@@ -1,9 +1,0 @@
-
-AGAP012250
-=============
-
-
-
-Description: U11/u12 small nuclear ribonucleoprotein 35 kda protein [source:vb community annotation].
-
-TODO

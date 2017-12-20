@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007207
+=============
+
+
+
+
+
+Description: De-cadherin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007207>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

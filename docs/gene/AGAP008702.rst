@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008702
+=============
+
+
+
+Name: **GPRNPR2**
+
+Description: Putative neuropeptide receptor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008702>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

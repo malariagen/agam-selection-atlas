@@ -1,9 +1,0 @@
-
-AGAP003354
-=============
-
-Name: **A5R3**
-
-Description: Antigen 5 related protein 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004195
-=============
-
-
-
-Description: D-2-hydroxyglutarate dehydrogenase, mitochondrial [source:vb community annotation].
-
-TODO

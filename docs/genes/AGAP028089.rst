@@ -1,9 +1,0 @@
-
-AGAP028089
-=============
-
-Name: **CPLCW2**
-
-Description: Cuticular protein cplcw family (cplcw2) [source:vb community annotation].
-
-TODO

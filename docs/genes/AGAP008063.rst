@@ -1,9 +1,0 @@
-
-AGAP008063
-=============
-
-
-
-Description: Exosome complex component csl4 [source:vb community annotation].
-
-TODO

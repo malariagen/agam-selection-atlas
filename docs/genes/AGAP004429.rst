@@ -1,9 +1,0 @@
-
-AGAP004429
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7qa55].
-
-TODO

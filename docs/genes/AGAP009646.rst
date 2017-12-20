@@ -1,9 +1,0 @@
-
-AGAP009646
-=============
-
-Name: **Cad**
-
-Description: Homeobox protein caudal [source:vb community annotation].
-
-TODO

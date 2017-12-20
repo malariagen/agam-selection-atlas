@@ -1,9 +1,0 @@
-
-AGAP001915
-=============
-
-Name: **Gr24**
-
-Description: Gustatory receptor 24 [source:vb community annotation].
-
-TODO

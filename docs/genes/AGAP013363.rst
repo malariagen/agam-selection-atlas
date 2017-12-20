@@ -1,9 +1,0 @@
-
-AGAP013363
-=============
-
-Name: **IR7i**
-
-Description: Ionotropic receptor ir7i [source:vb community annotation].
-
-TODO

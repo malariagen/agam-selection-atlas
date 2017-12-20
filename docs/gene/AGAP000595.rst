@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000595
+=============
+
+
+
+
+
+Description: Lysophosphatidylcholine acyltransferase 2b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000595>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002620
-=============
-
-Name: **MISO**
-
-Description: Mating-induced stimulator of oogenesis miso [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002362
+=============
+
+
+
+
+
+Description: Ribonuclease p protein subunit p20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002362>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

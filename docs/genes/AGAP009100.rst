@@ -1,9 +1,0 @@
-
-AGAP009100
-=============
-
-
-
-Description: Protein-glutamine gamma-glutamyltransferase e [source:vb community annotation].
-
-TODO

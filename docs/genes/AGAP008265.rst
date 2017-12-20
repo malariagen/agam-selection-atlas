@@ -1,9 +1,0 @@
-
-AGAP008265
-=============
-
-
-
-Description: Seryl-trna synthetase [source:vb community annotation].
-
-TODO

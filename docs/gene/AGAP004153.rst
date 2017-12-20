@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004153
+=============
+
+
+
+
+
+Description: Serine palmitoyltransferase small subunit a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004153>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

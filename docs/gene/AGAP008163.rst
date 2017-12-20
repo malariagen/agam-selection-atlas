@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008163
+=============
+
+
+
+
+
+Description: U4/u6 small nuclear ribonucleoprotein snu13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008163>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

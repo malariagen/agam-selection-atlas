@@ -1,9 +1,0 @@
-
-AGAP005742
-=============
-
-
-
-Description: Semaphorin [source:vb community annotation].
-
-TODO

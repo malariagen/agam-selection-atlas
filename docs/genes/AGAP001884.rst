@@ -1,9 +1,0 @@
-
-AGAP001884
-=============
-
-
-
-Description: Fumarate hydratase, class ii [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009675
+=============
+
+
+
+
+
+Description: Sphingosine-1-phosphate phosphatase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009675>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

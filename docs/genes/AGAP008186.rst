@@ -1,9 +1,0 @@
-
-AGAP008186
-=============
-
-
-
-Description: Myosin motor [source:vb community annotation].
-
-TODO

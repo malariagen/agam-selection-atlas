@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010351
+=============
+
+
+
+
+
+Description: Insulysin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010351>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

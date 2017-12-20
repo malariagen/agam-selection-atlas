@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008518
+=============
+
+
+
+
+
+Description: Was protein family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008518>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

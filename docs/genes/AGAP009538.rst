@@ -1,9 +1,0 @@
-
-AGAP009538
-=============
-
-Name: **alpha-Adaptin**
-
-Description: Ap-2 complex subunit alpha [source:uniprotkb/swiss-prot;acc:q7qg73].
-
-TODO

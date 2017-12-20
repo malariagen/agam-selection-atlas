@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007852
+=============
+
+
+
+
+
+Description: Aconitate hydratase 1 / homoaconitase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007852>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

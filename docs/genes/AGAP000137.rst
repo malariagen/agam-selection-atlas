@@ -1,9 +1,0 @@
-
-AGAP000137
-=============
-
-
-
-Description: Solute carrier family 45, member 1/2/4 [source:vb community annotation].
-
-TODO

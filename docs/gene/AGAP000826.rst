@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000826
+=============
+
+
+
+
+
+Description: Cap-specific mrna (nucleoside-2'-o-)-methyltransferase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000826>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

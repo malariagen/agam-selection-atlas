@@ -1,9 +1,0 @@
-
-AGAP010675
-=============
-
-Name: **LRIM18**
-
-Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000099
+=============
+
+
+
+Name: **STAT2**
+
+Description: Jakstat pathway signalling transcription factor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000099>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003517
-=============
-
-
-
-Description: Phenylalanyl-trna synthetase beta chain [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008136
-=============
-
-
-
-Description: Peptidyl-prolyl cis-trans isomerase-like 4 [source:vb community annotation].
-
-TODO

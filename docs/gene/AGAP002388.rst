@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002388
+=============
+
+
+
+
+
+Description: Endonuclease iii homolog [source:uniprotkb/trembl;acc:q7qc07].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002388>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

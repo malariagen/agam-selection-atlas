@@ -1,9 +1,0 @@
-
-AGAP003061
-=============
-
-
-
-Description: Cysteine and histidine-rich domain-containing protein [source:vb community annotation].
-
-TODO

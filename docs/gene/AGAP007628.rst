@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007628
+=============
+
+
+
+
+
+Description: Transmembrane channel-like 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007628>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

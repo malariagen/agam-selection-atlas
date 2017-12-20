@@ -1,9 +1,0 @@
-
-AGAP009966
-=============
-
-
-
-Description: Female reproductive tract protease gleanr_896 [source:vb community annotation].
-
-TODO

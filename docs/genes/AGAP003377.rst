@@ -1,9 +1,0 @@
-
-AGAP003377
-=============
-
-Name: **CPR115**
-
-Description: Cuticular protein rr-2 family 115 [source:vb community annotation].
-
-TODO

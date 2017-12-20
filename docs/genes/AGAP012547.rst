@@ -1,9 +1,0 @@
-
-AGAP012547
-=============
-
-
-
-Description: Flotillin 2, isoform h [source:vb community annotation].
-
-TODO

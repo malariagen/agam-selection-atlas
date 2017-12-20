@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003725
+=============
+
+
+
+
+
+Description: Extended synaptotagmin-like protein 2a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003725>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

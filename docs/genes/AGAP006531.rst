@@ -1,9 +1,0 @@
-
-AGAP006531
-=============
-
-
-
-Description: Deoxyhypusine synthase [source:vb community annotation].
-
-TODO

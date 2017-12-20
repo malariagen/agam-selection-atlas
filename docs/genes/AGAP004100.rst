@@ -1,9 +1,0 @@
-
-AGAP004100
-=============
-
-Name: **mRpL43**
-
-Description: 39s ribosomal protein l43, mitochondrial [source:vb community annotation].
-
-TODO

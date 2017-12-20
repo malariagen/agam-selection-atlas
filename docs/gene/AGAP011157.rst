@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011157
+=============
+
+
+
+
+
+Description: Cytosolic prostaglandin-e synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011157>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

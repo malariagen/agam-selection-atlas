@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001239
+=============
+
+
+
+
+
+Description: Defective proboscis extension response [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001239>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

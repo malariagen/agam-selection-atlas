@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012191
+=============
+
+
+
+
+
+Description: Mitochondrial succinate dehydrogenase assembly factor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012191>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

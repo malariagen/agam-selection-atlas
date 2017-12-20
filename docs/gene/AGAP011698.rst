@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011698
+=============
+
+
+
+
+
+Description: Deoxyribonuclease i [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011698>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

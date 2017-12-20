@@ -1,9 +1,0 @@
-
-AGAP011974
-=============
-
-Name: **SCRC1**
-
-Description: Class c scavenger receptor (sushi/scr/ccp and somatomedin b domains). [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009854
-=============
-
-Name: **Gr6**
-
-Description: Gustatory receptor 6 [source:vb community annotation].
-
-TODO

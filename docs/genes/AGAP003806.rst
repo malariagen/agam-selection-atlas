@@ -1,9 +1,0 @@
-
-AGAP003806
-=============
-
-
-
-Description: Pseudouridine-5'-phosphate glycosidase [source:vb community annotation].
-
-TODO

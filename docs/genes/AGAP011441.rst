@@ -1,9 +1,0 @@
-
-AGAP011441
-=============
-
-
-
-Description: Dynein heavy chain [source:vb community annotation].
-
-TODO

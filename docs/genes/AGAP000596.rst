@@ -1,9 +1,0 @@
-
-AGAP000596
-=============
-
-
-
-Description: Lysophosphatidylcholine acyltransferase / lyso-paf acetyltransferase [source:vb community annotation].
-
-TODO

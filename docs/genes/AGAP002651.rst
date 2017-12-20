@@ -1,9 +1,0 @@
-
-AGAP002651
-=============
-
-Name: **IAP6**
-
-Description: Inhibitor of apoptosis 6 [source:vb community annotation].
-
-TODO

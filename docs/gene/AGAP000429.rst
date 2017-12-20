@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000429
+=============
+
+
+
+
+
+Description: Protein fan [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000429>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

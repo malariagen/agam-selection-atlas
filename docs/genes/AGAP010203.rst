@@ -1,9 +1,0 @@
-
-AGAP010203
-=============
-
-
-
-Description: Tpr repeat-containing protein loc90826-like protein [source:vb community annotation].
-
-TODO

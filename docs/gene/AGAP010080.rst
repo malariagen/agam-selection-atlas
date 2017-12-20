@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010080
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 35/38 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010080>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

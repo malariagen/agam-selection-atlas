@@ -1,9 +1,0 @@
-
-AGAP003416
-=============
-
-
-
-Description: Prefoldin alpha subunit [source:vb community annotation].
-
-TODO

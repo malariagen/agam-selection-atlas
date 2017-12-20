@@ -1,9 +1,0 @@
-
-AGAP001273
-=============
-
-
-
-Description: Karyopherin (importin) alpha 4 [source:vb community annotation].
-
-TODO

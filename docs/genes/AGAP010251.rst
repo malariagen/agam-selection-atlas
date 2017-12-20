@@ -1,9 +1,0 @@
-
-AGAP010251
-=============
-
-
-
-Description: Coatomer protein complex, subunit alpha (xenin) [source:vb community annotation].
-
-TODO

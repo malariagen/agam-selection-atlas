@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006926
+=============
+
+
+
+Name: **AD28229**
+
+
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006926>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

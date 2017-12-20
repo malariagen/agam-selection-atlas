@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001592
+=============
+
+
+
+Name: **GPRTAK2**
+
+Description: Putative tachykinin receptor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001592>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

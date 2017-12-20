@@ -1,9 +1,0 @@
-
-AGAP002049
-=============
-
-
-
-Description: Phosphatidylethanolamine binding protein 1 [source:vb community annotation].
-
-TODO

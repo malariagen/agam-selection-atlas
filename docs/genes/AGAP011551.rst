@@ -1,9 +1,0 @@
-
-AGAP011551
-=============
-
-
-
-Description: Protein transport protein sec31 [source:vb community annotation].
-
-TODO

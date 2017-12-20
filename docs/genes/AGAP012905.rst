@@ -1,9 +1,0 @@
-
-AGAP012905
-=============
-
-
-
-Description: Cullin 3b [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005337
-=============
-
-Name: **Cht23**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

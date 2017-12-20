@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005540
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase l5 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005540>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:16854743-16859083#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

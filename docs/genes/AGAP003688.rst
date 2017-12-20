@@ -1,9 +1,0 @@
-
-AGAP003688
-=============
-
-
-
-Description: Threonine aldolase [source:vb community annotation].
-
-TODO

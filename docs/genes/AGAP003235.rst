@@ -1,9 +1,0 @@
-
-AGAP003235
-=============
-
-
-
-Description: Lachesin [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006615
+=============
+
+
+
+
+
+Description: Fk506-binding protein 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006615>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

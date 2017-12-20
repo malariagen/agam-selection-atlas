@@ -1,9 +1,0 @@
-
-AGAP001587
-=============
-
-Name: **VATI**
-
-Description: V-type h -transporting atpase subunit i [source:vb community annotation].
-
-TODO

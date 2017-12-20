@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011801
+=============
+
+
+
+
+
+Description: Coiled-coil domain-containing protein 22 homolog [source:uniprotkb/swiss-prot;acc:q7pz96].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011801>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

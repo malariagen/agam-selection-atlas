@@ -1,9 +1,0 @@
-
-AGAP001122
-=============
-
-Name: **Gr41**
-
-Description: Gustatory receptor 41 [source:vb community annotation].
-
-TODO

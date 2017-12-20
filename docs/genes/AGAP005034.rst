@@ -1,9 +1,0 @@
-
-AGAP005034
-=============
-
-Name: **GPRMGL5**
-
-Description: Putative metabotropic glutamate receptor 5 [source:vb community annotation].
-
-TODO

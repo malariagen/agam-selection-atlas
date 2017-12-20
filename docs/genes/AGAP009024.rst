@@ -1,9 +1,0 @@
-
-AGAP009024
-=============
-
-
-
-Description: Rna polymerase i-specific transcription initiation factor rrn3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009485
-=============
-
-
-
-Description: Trna-splicing endonuclease subunit sen2 [source:vb community annotation].
-
-TODO

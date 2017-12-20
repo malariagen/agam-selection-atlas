@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011813
+=============
+
+
+
+Name: **Or54**
+
+Description: Odorant receptor 54 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011813>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

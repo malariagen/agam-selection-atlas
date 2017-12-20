@@ -1,9 +1,0 @@
-
-AGAP005839
-=============
-
-
-
-Description: Mfs transporter, flvcr family [source:vb community annotation].
-
-TODO

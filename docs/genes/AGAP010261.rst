@@ -1,9 +1,0 @@
-
-AGAP010261
-=============
-
-
-
-Description: Dystrophin dp427c isoform [source:vb community annotation].
-
-TODO

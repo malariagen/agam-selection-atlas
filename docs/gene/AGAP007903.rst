@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007903
+=============
+
+
+
+
+
+Description: Excitatory amino acid transporter 2 isoform 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007903>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

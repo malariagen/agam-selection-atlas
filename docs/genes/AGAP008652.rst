@@ -1,9 +1,0 @@
-
-AGAP008652
-=============
-
-
-
-Description: Phosphotyrosyl phosphatase activator protein [source:vb community annotation].
-
-TODO

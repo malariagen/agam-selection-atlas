@@ -1,9 +1,0 @@
-
-AGAP010866
-=============
-
-
-
-Description: 6-phosphogluconolactonase [source:vb community annotation].
-
-TODO

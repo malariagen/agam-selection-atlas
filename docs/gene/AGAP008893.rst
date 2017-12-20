@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008893
+=============
+
+
+
+Name: **CPLCP8**
+
+Description: Cuticular protein cplcp8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008893>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

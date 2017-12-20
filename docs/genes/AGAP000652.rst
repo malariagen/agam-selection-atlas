@@ -1,9 +1,0 @@
-
-AGAP000652
-=============
-
-Name: **mRpL38**
-
-Description: 39s ribosomal protein l38, mitochondrial [source:vb community annotation].
-
-TODO

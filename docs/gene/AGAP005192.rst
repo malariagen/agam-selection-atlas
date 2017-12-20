@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005192
+=============
+
+
+
+
+
+Description: N-acetyltransferase 15 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005192>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:12158269-12160475#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

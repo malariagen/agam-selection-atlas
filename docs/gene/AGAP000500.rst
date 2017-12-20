@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000500
+=============
+
+
+
+Name: **Cpr**
+
+Description: Nadph cytochrome p450 reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000500>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001791
-=============
-
-Name: **Nep2**
-
-Description: Neprilysin, neutral endopeptidase 2 [source:vb community annotation].
-
-TODO

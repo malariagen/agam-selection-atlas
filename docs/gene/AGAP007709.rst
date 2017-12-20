@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007709
+=============
+
+
+
+
+
+Description: Potassium voltage-gated channel eag-related subfamily h member 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007709>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

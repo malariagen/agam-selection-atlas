@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006925
+=============
+
+
+
+
+
+Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7qik5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006925>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009447
-=============
-
-
-
-Description: S-adenosylmethionine synthetase [source:vb community annotation].
-
-TODO

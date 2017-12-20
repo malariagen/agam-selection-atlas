@@ -1,9 +1,0 @@
-
-AGAP004480
-=============
-
-
-
-Description: Dna-directed rna polymerase iii subunit rpc4 [source:vb community annotation].
-
-TODO

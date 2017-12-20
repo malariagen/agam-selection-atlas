@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008352
+=============
+
+
+
+
+
+Description: Dna polymerase delta subunit 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008352>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

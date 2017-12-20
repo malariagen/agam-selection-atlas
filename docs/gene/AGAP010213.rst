@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010213
+=============
+
+
+
+
+
+Description: N(6)-adenine-specific dna methyltransferase 2 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010213>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

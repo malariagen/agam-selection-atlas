@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001434
+=============
+
+
+
+
+
+Description: Glutamate receptor, anionic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001434>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

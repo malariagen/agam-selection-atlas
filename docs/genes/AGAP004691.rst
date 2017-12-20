@@ -1,9 +1,0 @@
-
-AGAP004691
-=============
-
-
-
-Description: Lim domain-binding protein 1 [source:vb community annotation].
-
-TODO

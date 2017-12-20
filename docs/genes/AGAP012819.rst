@@ -1,9 +1,0 @@
-
-AGAP012819
-=============
-
-
-
-Description: Dipeptidyl-peptidase 3 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012396
+=============
+
+
+
+
+
+Description: 4.3 kda secreted salivary peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012396>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

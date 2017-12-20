@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011831
+=============
+
+
+
+
+
+Description: H/aca ribonucleoprotein complex non-core subunit naf1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011831>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

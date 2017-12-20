@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010117
+=============
+
+
+
+Name: **CPR95**
+
+Description: Cuticular protein rr-2 family 95 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010117>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

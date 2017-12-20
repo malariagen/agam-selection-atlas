@@ -1,9 +1,0 @@
-
-AGAP006372
-=============
-
-
-
-Description: U3 small nucleolar ribonucleoprotein protein imp3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004628
-=============
-
-
-
-Description: Scaffold protein salvador [source:vb community annotation].
-
-TODO

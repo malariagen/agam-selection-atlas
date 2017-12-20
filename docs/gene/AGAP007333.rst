@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007333
+=============
+
+
+
+
+
+Description: P70 ribosomal s6 kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007333>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

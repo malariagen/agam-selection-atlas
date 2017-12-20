@@ -1,9 +1,0 @@
-
-AGAP005302
-=============
-
-
-
-Description: Diras family, gtp-binding ras-like 2 [source:vb community annotation].
-
-TODO

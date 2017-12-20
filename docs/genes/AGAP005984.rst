@@ -1,9 +1,0 @@
-
-AGAP005984
-=============
-
-
-
-Description: Fatty acyl-coa reductase 2 [source:vb community annotation].
-
-TODO

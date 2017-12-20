@@ -1,9 +1,0 @@
-
-AGAP004839
-=============
-
-Name: **mRpL52**
-
-Description: 39s ribosomal protein l52, mitochondrial [source:vb community annotation].
-
-TODO

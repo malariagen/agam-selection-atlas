@@ -1,9 +1,0 @@
-
-AGAP002603
-=============
-
-
-
-Description: Elongation factor 1 alpha-like protein [source:vb community annotation].
-
-TODO

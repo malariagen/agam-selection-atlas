@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003383
+=============
+
+
+
+Name: **CPR121**
+
+Description: Cuticular protein rr-2 family 121 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003383>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

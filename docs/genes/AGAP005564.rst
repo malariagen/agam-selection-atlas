@@ -1,9 +1,0 @@
-
-AGAP005564
-=============
-
-
-
-Description: Transcription factor cp2 and related proteins [source:vb community annotation].
-
-TODO

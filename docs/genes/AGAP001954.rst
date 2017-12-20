@@ -1,9 +1,0 @@
-
-AGAP001954
-=============
-
-Name: **psidin**
-
-Description: Phagocyte signaling-impaired protein [source:uniprotkb/swiss-prot;acc:q7pyi4].
-
-TODO

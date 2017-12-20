@@ -1,9 +1,0 @@
-
-AGAP009732
-=============
-
-
-
-Description: Protein wnt [source:uniprotkb/trembl;acc:a0nfu3].
-
-TODO

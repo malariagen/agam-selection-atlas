@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008037
+=============
+
+
+
+
+
+Description: Kdel (lys-asp-glu-leu) containing 1, isoform cra_a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008037>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

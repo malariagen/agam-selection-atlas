@@ -1,9 +1,0 @@
-
-AGAP006660
-=============
-
-
-
-Description: Isocitrate dehydrogenase [nadp] [source:uniprotkb/trembl;acc:q7q537].
-
-TODO

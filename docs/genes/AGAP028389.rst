@@ -1,9 +1,0 @@
-
-AGAP028389
-=============
-
-Name: **ND1**
-
-Description: Nadh dehydrogenase subunit 1 [source:european nucleotide archive;acc:nd1].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007909
-=============
-
-
-
-Description: Protocadherin-16/23 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002859
-=============
-
-
-
-Description: Solute carrier family 8 (sodium/calcium exchanger) [source:vb community annotation].
-
-TODO

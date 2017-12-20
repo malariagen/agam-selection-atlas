@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006689
+=============
+
+
+
+
+
+Description: Btb (poz) domain containing 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006689>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

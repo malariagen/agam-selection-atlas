@@ -1,9 +1,0 @@
-
-AGAP007805
-=============
-
-
-
-Description: Ste20-related kinase adapter protein alpha isoform 1 [source:vb community annotation].
-
-TODO

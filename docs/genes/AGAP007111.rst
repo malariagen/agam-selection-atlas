@@ -1,9 +1,0 @@
-
-AGAP007111
-=============
-
-
-
-Description: Uracil phosphoribosyltransferase [source:vb community annotation].
-
-TODO

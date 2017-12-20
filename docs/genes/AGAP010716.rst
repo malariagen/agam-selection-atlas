@@ -1,9 +1,0 @@
-
-AGAP010716
-=============
-
-
-
-Description: Hig1 hypoxia inducible domain family, member 1b [source:vb community annotation].
-
-TODO

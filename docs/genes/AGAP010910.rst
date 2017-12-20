@@ -1,9 +1,0 @@
-
-AGAP010910
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class z [source:vb community annotation].
-
-TODO

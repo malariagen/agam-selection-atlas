@@ -1,9 +1,0 @@
-
-AGAP000252
-=============
-
-
-
-Description: Oligopeptidase a [source:vb community annotation].
-
-TODO

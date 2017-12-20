@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002106
+=============
+
+
+
+
+
+Description: Xeroderma pigmentosum group c-complementing protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002106>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

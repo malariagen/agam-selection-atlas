@@ -1,9 +1,0 @@
-
-AGAP006082
-=============
-
-Name: **CYP301A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

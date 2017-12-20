@@ -1,9 +1,0 @@
-
-AGAP003591
-=============
-
-
-
-Description: Lrr-repeat protein 1 [source:vb community annotation].
-
-TODO

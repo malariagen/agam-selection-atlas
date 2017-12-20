@@ -1,9 +1,0 @@
-
-AGAP009520
-=============
-
-Name: **Or10**
-
-Description: Odorant receptor 10 [source:vb community annotation].
-
-TODO

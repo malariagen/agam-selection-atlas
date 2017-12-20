@@ -1,9 +1,0 @@
-
-AGAP010973
-=============
-
-
-
-Description: Sodium/potassium/calcium exchanger 3 [source:vb community annotation].
-
-TODO

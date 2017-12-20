@@ -1,9 +1,0 @@
-
-AGAP009588
-=============
-
-
-
-Description: Alkylated dna repair protein alkb homolog 4 [source:vb community annotation].
-
-TODO

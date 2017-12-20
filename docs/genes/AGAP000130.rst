@@ -1,9 +1,0 @@
-
-AGAP000130
-=============
-
-
-
-Description: Predicted g-protein coupled receptor gpcr [source:vb community annotation].
-
-TODO

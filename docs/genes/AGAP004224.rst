@@ -1,9 +1,0 @@
-
-AGAP004224
-=============
-
-
-
-Description: Nuclear receptor subfamily 1 group i [source:vb community annotation].
-
-TODO

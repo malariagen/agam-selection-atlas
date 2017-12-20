@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002345
+=============
+
+
+
+
+
+Description: Anaphase-promoting complex subunit 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002345>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

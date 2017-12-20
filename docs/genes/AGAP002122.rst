@@ -1,9 +1,0 @@
-
-AGAP002122
-=============
-
-Name: **RpL32**
-
-Description: 60s ribosomal protein l32 [source:vb community annotation].
-
-TODO

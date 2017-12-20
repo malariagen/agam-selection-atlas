@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000514
+=============
+
+
+
+
+
+Description: Protein mak16 homolog [source:uniprotkb/trembl;acc:q7pry6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000514>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

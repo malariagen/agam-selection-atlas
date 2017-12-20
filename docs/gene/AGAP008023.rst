@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008023
+=============
+
+
+
+Name: **en**
+
+Description: Segmentation polarity homeobox protein engrailed [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008023>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

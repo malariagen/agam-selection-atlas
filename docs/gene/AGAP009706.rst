@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009706
+=============
+
+
+
+Name: **Or70**
+
+Description: Odorant receptor 70 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009706>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004736
-=============
-
-
-
-Description: Mitochondrial gtpase 1 homolog [source:vb community annotation].
-
-TODO

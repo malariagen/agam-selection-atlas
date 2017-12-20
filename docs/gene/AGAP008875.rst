@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008875
+=============
+
+
+
+
+
+Description: Conserved oligomeric golgi complex component 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008875>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

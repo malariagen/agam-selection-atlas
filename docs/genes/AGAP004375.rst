@@ -1,9 +1,0 @@
-
-AGAP004375
-=============
-
-
-
-Description: Udp-n-acetyl-alpha-d-galactosamine:polypeptide n-acetylgalactosaminyltransferase 20 [source:vb community annotation].
-
-TODO

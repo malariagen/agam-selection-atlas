@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001173
+=============
+
+
+
+Name: **Gr52**
+
+Description: Gustatory receptor 52 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001173>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

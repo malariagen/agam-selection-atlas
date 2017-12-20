@@ -1,9 +1,0 @@
-
-AGAP002412
-=============
-
-Name: **mRpL45**
-
-Description: 39s ribosomal protein l45, mitochondrial [source:vb community annotation].
-
-TODO

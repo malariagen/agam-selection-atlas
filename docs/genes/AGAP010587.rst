@@ -1,9 +1,0 @@
-
-AGAP010587
-=============
-
-
-
-Description: Tetratricopeptide repeat protein 7b [source:vb community annotation].
-
-TODO

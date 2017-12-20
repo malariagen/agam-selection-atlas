@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004469
+=============
+
+
+
+
+
+Description: Phosphatidylinositol transfer protein, beta like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004469>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000144
-=============
-
-
-
-Description: Progestin and adipoq receptor family member 3 [source:vb community annotation].
-
-TODO

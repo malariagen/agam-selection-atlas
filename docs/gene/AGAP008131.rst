@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008131
+=============
+
+
+
+
+
+Description: Udp-n-acetylglucosamine--dolichyl-phosphate n-acetylglucosaminephosphotransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008131>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006687
-=============
-
-
-
-Description: Vacuolar fusion protein ccz1 homolog [source:vb community annotation].
-
-TODO

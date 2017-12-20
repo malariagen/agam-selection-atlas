@@ -1,9 +1,0 @@
-
-AGAP002186
-=============
-
-
-
-Description: Very low-density lipoprotein receptor [source:vb community annotation].
-
-TODO

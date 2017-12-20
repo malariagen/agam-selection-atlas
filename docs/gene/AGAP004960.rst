@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004960
+=============
+
+
+
+Name: **Prosalpha3**
+
+Description: 26s proteasome alpha 3 subunit [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004960>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:7195880-7197257#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

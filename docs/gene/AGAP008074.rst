@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008074
+=============
+
+
+
+
+
+Description: Phosphatidylinositol glycan, class u [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008074>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

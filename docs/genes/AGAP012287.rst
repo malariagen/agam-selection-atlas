@@ -1,9 +1,0 @@
-
-AGAP012287
-=============
-
-
-
-Description: Aarf domain containing kinase 1 precursor [source:vb community annotation].
-
-TODO

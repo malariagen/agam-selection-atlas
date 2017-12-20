@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009687
+=============
+
+
+
+
+
+Description: U6 snrna-associated sm-like protein lsm4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009687>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

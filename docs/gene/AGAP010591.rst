@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010591
+=============
+
+
+
+Name: **RpS20**
+
+Description: 40s ribosomal protein s20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010591>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

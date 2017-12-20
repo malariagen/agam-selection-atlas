@@ -1,9 +1,0 @@
-
-AGAP005673
-=============
-
-
-
-Description: Protein-lysine n-methyltransferase agap_agap005673 [source:uniprotkb/trembl;acc:q7q6t8].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002592
-=============
-
-
-
-Description: Outer membrane lipoprotein blc [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010672
-=============
-
-
-
-Description: Succinate dehydrogenase (ubiquinone) cytochrome b560 subunit [source:vb community annotation].
-
-TODO

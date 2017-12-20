@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001948
+=============
+
+
+
+
+
+Description: Suppressor of fused (sufu) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001948>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

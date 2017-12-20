@@ -1,9 +1,0 @@
-
-AGAP005522
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 11 [source:vb community annotation].
-
-TODO

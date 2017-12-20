@@ -1,9 +1,0 @@
-
-AGAP001777
-=============
-
-Name: **ABCC1**
-
-Description: Atp-binding cassette transporter (abc transporter) family c member 1 [source:vb community annotation].
-
-TODO

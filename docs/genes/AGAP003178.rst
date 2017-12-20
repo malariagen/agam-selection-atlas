@@ -1,9 +1,0 @@
-
-AGAP003178
-=============
-
-Name: **GRX2**
-
-Description: Glutaredoxin [source:vb community annotation].
-
-TODO

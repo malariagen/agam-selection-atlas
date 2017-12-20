@@ -1,9 +1,0 @@
-
-AGAP005700
-=============
-
-Name: **Med14**
-
-Description: Mediator of rna polymerase ii transcription subunit 14 [source:uniprotkb/swiss-prot;acc:q7q6s8].
-
-TODO

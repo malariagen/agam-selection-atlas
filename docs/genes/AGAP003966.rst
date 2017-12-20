@@ -1,9 +1,0 @@
-
-AGAP003966
-=============
-
-
-
-Description: Trna (adenine57-n1/adenine58-n1)-methyltransferase [source:vb community annotation].
-
-TODO

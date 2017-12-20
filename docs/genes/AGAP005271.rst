@@ -1,9 +1,0 @@
-
-AGAP005271
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase fancl [source:vb community annotation].
-
-TODO

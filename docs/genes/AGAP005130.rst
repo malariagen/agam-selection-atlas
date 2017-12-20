@@ -1,9 +1,0 @@
-
-AGAP005130
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx49/dbp8 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010451
+=============
+
+
+
+
+
+Description: Lon-like atp-dependent protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010451>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

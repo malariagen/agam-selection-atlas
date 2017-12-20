@@ -1,9 +1,0 @@
-
-AGAP008549
-=============
-
-
-
-Description: U4/u6.u5 tri-snrnp-associated protein 1 [source:vb community annotation].
-
-TODO

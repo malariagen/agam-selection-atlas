@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004637
+=============
+
+
+
+
+
+Description: Transcriptional activator cubitus interruptus [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004637>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001970
-=============
-
-
-
-Description: Polyubiquitin-b [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002440
+=============
+
+
+
+Name: **Cdc42**
+
+Description: Cell division cycle cdc42 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002440>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

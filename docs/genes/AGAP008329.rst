@@ -1,9 +1,0 @@
-
-AGAP008329
-=============
-
-Name: **RpS5**
-
-Description: 40s ribosomal protein s5 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006888
-=============
-
-
-
-Description: G protein-coupled receptor kinase interactor 2 [source:vb community annotation].
-
-TODO

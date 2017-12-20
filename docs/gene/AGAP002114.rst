@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002114
+=============
+
+
+
+
+
+Description: Cell division cycle 20-like protein 1, cofactor of apc complex [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

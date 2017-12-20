@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011489
+=============
+
+
+
+
+
+Description: Ptk7 protein tyrosine kinase 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011489>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004311
-=============
-
-
-
-Description: Phosphopantothenate-cysteine ligase [source:vb community annotation].
-
-TODO

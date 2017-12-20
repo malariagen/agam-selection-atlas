@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008991
+=============
+
+
+
+
+
+Description: Cdk-activating kinase assembly factor mat1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008991>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

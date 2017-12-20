@@ -1,9 +1,0 @@
-
-AGAP013451
-=============
-
-
-
-Description: Outer membrane lipoprotein blc (precursor) [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013367
+=============
+
+
+
+Name: **CPR155**
+
+Description: Cuticular protein rr-2 family 155 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013367>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

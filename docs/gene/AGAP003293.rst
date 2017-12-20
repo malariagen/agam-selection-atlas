@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003293
+=============
+
+
+
+
+
+Description: Poly(a) rna polymerase, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003293>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

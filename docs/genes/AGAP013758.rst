@@ -1,9 +1,0 @@
-
-AGAP013758
-=============
-
-
-
-Description: Xanthine dehydrogenase [source:vb community annotation].
-
-TODO

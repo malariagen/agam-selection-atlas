@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002306
+=============
+
+
+
+Name: **RpL4**
+
+Description: 60s ribosomal protein l4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002306>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

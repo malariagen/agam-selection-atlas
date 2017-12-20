@@ -1,9 +1,0 @@
-
-AGAP008107
-=============
-
-
-
-Description: Etoposide-induced 2.4 mrna [source:vb community annotation].
-
-TODO

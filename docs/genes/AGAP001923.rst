@@ -1,9 +1,0 @@
-
-AGAP001923
-=============
-
-
-
-Description: Solute carrier family 38 (sodium-coupled neutral amino acid transporter) [source:vb community annotation].
-
-TODO

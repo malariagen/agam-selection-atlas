@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028386
+=============
+
+
+
+Name: **ND6**
+
+Description: Nadh dehydrogenase subunit 6 [source:european nucleotide archive;acc:nd6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028386>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

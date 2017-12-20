@@ -1,9 +1,0 @@
-
-AGAP009316
-=============
-
-Name: **CTL10**
-
-Description: C-type lectin (ctl) [source:vb community annotation].
-
-TODO

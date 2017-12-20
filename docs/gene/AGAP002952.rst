@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002952
+=============
+
+
+
+
+
+Description: Peptidyl-prolyl isomerase g (cyclophilin g) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002952>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

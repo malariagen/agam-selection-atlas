@@ -1,9 +1,0 @@
-
-AGAP000198
-=============
-
-Name: **Cht5-5**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

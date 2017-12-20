@@ -1,9 +1,0 @@
-
-AGAP012476
-=============
-
-
-
-Description: Transforming growth factor, beta receptor 1 b [source:vb community annotation].
-
-TODO

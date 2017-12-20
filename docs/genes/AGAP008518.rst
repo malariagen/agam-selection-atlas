@@ -1,9 +1,0 @@
-
-AGAP008518
-=============
-
-
-
-Description: Was protein family [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010054
-=============
-
-
-
-Description: Tripartite motif-containing protein 2/3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010401
-=============
-
-
-
-Description: Flavin-containing monooxygenase fmo gs-ox-like 6 [source:vb community annotation].
-
-TODO

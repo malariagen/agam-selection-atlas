@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011637
+=============
+
+
+
+Name: **snRNP-U1-A**
+
+Description: U1 small nuclear ribonucleoprotein a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011637>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

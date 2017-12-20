@@ -1,9 +1,0 @@
-
-AGAP003608
-=============
-
-Name: **CYP4AA1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

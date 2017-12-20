@@ -1,9 +1,0 @@
-
-AGAP005775
-=============
-
-
-
-Description: Bax inhibitor 1 [source:vb community annotation].
-
-TODO

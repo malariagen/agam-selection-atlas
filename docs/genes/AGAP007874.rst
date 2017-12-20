@@ -1,9 +1,0 @@
-
-AGAP007874
-=============
-
-
-
-Description: Cwc22 spliceosome-associated protein homolog [source:vb community annotation].
-
-TODO

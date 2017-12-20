@@ -1,9 +1,0 @@
-
-AGAP000033
-=============
-
-
-
-Description: Protein retinal degeneration b [source:vb community annotation].
-
-TODO

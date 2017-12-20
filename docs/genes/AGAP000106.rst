@@ -1,9 +1,0 @@
-
-AGAP000106
-=============
-
-
-
-Description: Ubiquinone biosynthesis monooxygenase coq6, mitochondrial [source:uniprotkb/trembl;acc:q7qer0].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002155
-=============
-
-
-
-Description: Hepatocyte nuclear factor 4 [source:vb community annotation].
-
-TODO

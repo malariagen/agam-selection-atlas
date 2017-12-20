@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011978
+=============
+
+
+
+Name: **Or62**
+
+Description: Odorant receptor 62 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011978>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002114
-=============
-
-
-
-Description: Cell division cycle 20-like protein 1, cofactor of apc complex [source:vb community annotation].
-
-TODO

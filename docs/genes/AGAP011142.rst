@@ -1,9 +1,0 @@
-
-AGAP011142
-=============
-
-
-
-Description: Kelch-like protein 18 [source:vb community annotation].
-
-TODO

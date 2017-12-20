@@ -1,9 +1,0 @@
-
-AGAP008945
-=============
-
-Name: **ABCG6**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 6 [source:vb community annotation].
-
-TODO

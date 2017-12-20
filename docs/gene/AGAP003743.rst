@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003743
+=============
+
+
+
+
+
+Description: Haus augmin-like complex subunit 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003743>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

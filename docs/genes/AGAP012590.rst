@@ -1,9 +1,0 @@
-
-AGAP012590
-=============
-
-
-
-Description: Mutt domain protein-like protein [source:vb community annotation].
-
-TODO

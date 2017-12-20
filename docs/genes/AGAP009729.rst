@@ -1,9 +1,0 @@
-
-AGAP009729
-=============
-
-Name: **CCAP**
-
-Description: Cardioacceleratory peptide [source:vb community annotation].
-
-TODO

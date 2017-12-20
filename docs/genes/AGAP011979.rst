@@ -1,9 +1,0 @@
-
-AGAP011979
-=============
-
-Name: **Or60**
-
-Description: Odorant receptor 60 [source:vb community annotation].
-
-TODO

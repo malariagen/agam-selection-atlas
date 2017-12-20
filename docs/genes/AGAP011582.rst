@@ -1,9 +1,0 @@
-
-AGAP011582
-=============
-
-Name: **APG3**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

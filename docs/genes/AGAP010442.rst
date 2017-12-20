@@ -1,9 +1,0 @@
-
-AGAP010442
-=============
-
-Name: **Fz2**
-
-Description: Frizzled 2 transmembrane receptor [source:vb community annotation].
-
-TODO

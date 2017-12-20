@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003905
+=============
+
+
+
+
+
+Description: Adp-ribosylation factor-like protein 13b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003905>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

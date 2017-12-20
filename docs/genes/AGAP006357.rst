@@ -1,9 +1,0 @@
-
-AGAP006357
-=============
-
-
-
-Description: Wd repeat-containing protein 42a [source:vb community annotation].
-
-TODO

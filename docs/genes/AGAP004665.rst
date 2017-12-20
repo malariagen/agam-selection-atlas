@@ -1,9 +1,0 @@
-
-AGAP004665
-=============
-
-Name: **CYP306A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000979
-=============
-
-
-
-Description: Dna polymerase gamma 2 [source:vb community annotation].
-
-TODO

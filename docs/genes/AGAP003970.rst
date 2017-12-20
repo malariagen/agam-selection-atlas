@@ -1,9 +1,0 @@
-
-AGAP003970
-=============
-
-
-
-Description: Component of oligomeric golgi complex 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000659
-=============
-
-
-
-Description: Sidekick homolog 2 [source:vb community annotation].
-
-TODO

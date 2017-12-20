@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001497
+=============
+
+
+
+Name: **ACTN**
+
+Description: Alpha-actinin, sarcomeric [source:uniprotkb/swiss-prot;acc:q7pkq5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001497>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

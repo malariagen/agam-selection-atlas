@@ -1,9 +1,0 @@
-
-AGAP003434
-=============
-
-
-
-Description: Condensin complex subunit 1 [source:uniprotkb/trembl;acc:q7qdi4].
-
-TODO

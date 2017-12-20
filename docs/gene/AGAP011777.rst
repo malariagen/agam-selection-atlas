@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011777
+=============
+
+
+
+Name: **RpSA**
+
+Description: 40s ribosomal protein sa [source:uniprotkb/swiss-prot;acc:q7pz81].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011777>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

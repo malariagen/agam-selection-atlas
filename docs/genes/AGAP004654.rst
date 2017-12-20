@@ -1,9 +1,0 @@
-
-AGAP004654
-=============
-
-
-
-Description: 3'(2'), 5'-bisphosphate nucleotidase [source:vb community annotation].
-
-TODO

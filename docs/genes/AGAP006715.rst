@@ -1,9 +1,0 @@
-
-AGAP006715
-=============
-
-
-
-Description: Serine/threonine-protein kinase osr1/stk39 [source:vb community annotation].
-
-TODO

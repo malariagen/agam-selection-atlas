@@ -1,9 +1,0 @@
-
-AGAP003221
-=============
-
-Name: **ABCC3**
-
-Description: Atp-binding cassette transporter (abc transporter) family c member 3 [source:vb community annotation].
-
-TODO

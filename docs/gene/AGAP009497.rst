@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009497
+=============
+
+
+
+
+
+Description: Mitochondrial import receptor subunit tom70 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009497>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

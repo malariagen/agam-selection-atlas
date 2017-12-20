@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008043
+=============
+
+
+
+Name: **mRpS18B**
+
+Description: 28s ribosomal protein s18b, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008043>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

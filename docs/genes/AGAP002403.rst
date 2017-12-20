@@ -1,9 +1,0 @@
-
-AGAP002403
-=============
-
-
-
-Description: Nucleoside diphosphate-linked moiety x motif 18 [source:vb community annotation].
-
-TODO

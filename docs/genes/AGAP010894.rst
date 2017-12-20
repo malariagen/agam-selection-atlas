@@ -1,9 +1,0 @@
-
-AGAP010894
-=============
-
-
-
-Description: Signal recognition particle receptor subunit alpha [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006993
-=============
-
-
-
-Description: Leucine rich repeat containing 40 [source:vb community annotation].
-
-TODO

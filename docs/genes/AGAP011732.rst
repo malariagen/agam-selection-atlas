@@ -1,9 +1,0 @@
-
-AGAP011732
-=============
-
-
-
-Description: Palmitoyltransferase zdhhc17 [source:vb community annotation].
-
-TODO

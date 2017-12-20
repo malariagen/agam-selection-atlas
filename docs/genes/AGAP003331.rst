@@ -1,9 +1,0 @@
-
-AGAP003331
-=============
-
-
-
-Description: Enolase-phosphatase e1 [source:vb community annotation].
-
-TODO

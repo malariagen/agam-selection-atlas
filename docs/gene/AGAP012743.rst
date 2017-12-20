@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012743
+=============
+
+
+
+
+
+Description: Dna replication complex gins protein psf2 [source:uniprotkb/trembl;acc:q5txv1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012743>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

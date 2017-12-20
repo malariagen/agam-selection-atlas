@@ -1,9 +1,0 @@
-
-AGAP010904
-=============
-
-Name: **CPFL3**
-
-Description: Cuticular protein 3 from cpfl family [source:vb community annotation].
-
-TODO

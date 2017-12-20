@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007136
+=============
+
+
+
+Name: **GPR5HT1A**
+
+Description: Putative serotonin 5ht-1a receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007136>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011516
-=============
-
-
-
-Description: Actin, cytoplasmic [source:vb community annotation].
-
-TODO

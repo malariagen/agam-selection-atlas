@@ -1,9 +1,0 @@
-
-AGAP007686
-=============
-
-
-
-Description: 50 kda dystrophin-associated glycoprotein [source:vb community annotation].
-
-TODO

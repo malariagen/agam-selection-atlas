@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000719
+=============
+
+
+
+Name: **Ahcy13**
+
+Description: Adenosylhomocysteinase [source:uniprotkb/swiss-prot;acc:o76757].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000719>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011625
-=============
-
-
-
-Description: Transcription factor ap-2, invertebrate [source:vb community annotation].
-
-TODO

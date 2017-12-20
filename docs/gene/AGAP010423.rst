@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010423
+=============
+
+
+
+Name: **STAT**
+
+Description: Jakstat pathway signalling transcription factor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010423>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

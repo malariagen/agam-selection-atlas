@@ -1,9 +1,0 @@
-
-AGAP010163
-=============
-
-Name: **RpL38**
-
-Description: 60s ribosomal protein l38 [source:uniprotkb/swiss-prot;acc:q7q0u1].
-
-TODO

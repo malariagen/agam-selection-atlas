@@ -1,9 +1,0 @@
-
-AGAP001654
-=============
-
-
-
-Description: Histone deacetylase complex subunit sap30 homolog [source:uniprotkb/swiss-prot;acc:q7pxy4].
-
-TODO

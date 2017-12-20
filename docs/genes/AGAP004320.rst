@@ -1,9 +1,0 @@
-
-AGAP004320
-=============
-
-
-
-Description: Dedicator of cytokinesis protein 1 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003853
+=============
+
+
+
+
+
+Description: Ubiquitin thioesterase zranb1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003853>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

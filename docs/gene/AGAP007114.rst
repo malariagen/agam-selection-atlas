@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007114
+=============
+
+
+
+
+
+Description: Ring finger and ccch-type zinc finger domain-containing protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

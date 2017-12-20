@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002622
+=============
+
+
+
+
+
+Description: Sodium-coupled monocarboxylate transporter 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002622>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

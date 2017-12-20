@@ -1,9 +1,0 @@
-
-AGAP005640
-=============
-
-
-
-Description: Pre-mrna-processing factor 6 [source:vb community annotation].
-
-TODO

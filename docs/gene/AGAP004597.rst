@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004597
+=============
+
+
+
+
+
+Description: Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004597>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

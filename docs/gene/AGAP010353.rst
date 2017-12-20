@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010353
+=============
+
+
+
+
+
+Description: Dna cross-link repair 1a protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010353>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

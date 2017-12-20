@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011147
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx56/dbp9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011147>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

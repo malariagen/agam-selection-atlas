@@ -1,9 +1,0 @@
-
-AGAP003589
-=============
-
-
-
-Description: Prolyl-trna synthetase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004603
+=============
+
+
+
+Name: **ABCG4**
+
+Description: Atp-binding cassette transporter (abc transporter) family g member 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004603>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

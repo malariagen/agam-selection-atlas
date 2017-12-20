@@ -1,9 +1,0 @@
-
-AGAP002580
-=============
-
-
-
-Description: Dna helicase [source:vb community annotation].
-
-TODO

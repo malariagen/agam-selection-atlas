@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007168
+=============
+
+
+
+
+
+Description: Alpha-1,3-mannosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007168>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

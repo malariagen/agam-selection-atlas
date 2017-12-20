@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001763
+=============
+
+
+
+
+
+Description: Solute carrier family 27 (fatty acid transporter), member 1/4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001763>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

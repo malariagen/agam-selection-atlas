@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008285
+=============
+
+
+
+
+
+Description: Beta-1,4-galactosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008285>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

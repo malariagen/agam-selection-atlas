@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004134
+=============
+
+
+
+Name: **Osi11**
+
+Description: Osiris 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004134>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

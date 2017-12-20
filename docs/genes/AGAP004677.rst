@@ -1,9 +1,0 @@
-
-AGAP004677
-=============
-
-
-
-Description: Methylenetetrahydrofolate dehydrogenase(nad ) / 5,10-methenyltetrahydrofolate [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002067
-=============
-
-
-
-Description: Cell cycle progression [source:vb community annotation].
-
-TODO

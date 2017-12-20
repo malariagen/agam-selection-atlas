@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007999
+=============
+
+
+
+
+
+Description: Nuclear pore complex protein nup155 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007999>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

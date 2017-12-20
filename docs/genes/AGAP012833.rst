@@ -1,9 +1,0 @@
-
-AGAP012833
-=============
-
-Name: **mRpS24**
-
-Description: 28s ribosomal protein s24, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011892
-=============
-
-
-
-Description: Required for meiotic nuclear division 5 homolog a [source:vb community annotation].
-
-TODO

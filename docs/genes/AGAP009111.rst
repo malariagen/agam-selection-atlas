@@ -1,9 +1,0 @@
-
-AGAP009111
-=============
-
-Name: **Or29**
-
-Description: Odorant receptor 29 [source:vb community annotation].
-
-TODO

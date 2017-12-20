@@ -1,9 +1,0 @@
-
-AGAP004063
-=============
-
-Name: **Med4**
-
-Description: Mediator of rna polymerase ii transcription subunit 4 [source:uniprotkb/swiss-prot;acc:q7qh62].
-
-TODO

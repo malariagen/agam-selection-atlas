@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010308
+=============
+
+
+
+
+
+Description: Nucleolar complex protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010308>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

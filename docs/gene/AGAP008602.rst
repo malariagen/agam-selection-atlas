@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008602
+=============
+
+
+
+
+
+Description: Butyryl-coa dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008602>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

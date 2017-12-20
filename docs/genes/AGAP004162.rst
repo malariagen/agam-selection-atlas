@@ -1,9 +1,0 @@
-
-AGAP004162
-=============
-
-
-
-Description: Myosin, light polypeptide 9, regulatory [source:vb community annotation].
-
-TODO

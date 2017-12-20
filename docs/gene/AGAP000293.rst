@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000293
+=============
+
+
+
+Name: **IR100h**
+
+Description: Ionotropic receptor ir100h [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000293>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

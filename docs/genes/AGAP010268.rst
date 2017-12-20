@@ -1,9 +1,0 @@
-
-AGAP010268
-=============
-
-Name: **mRpS9**
-
-Description: 28s ribosomal protein s9, mitochondrial [source:vb community annotation].
-
-TODO

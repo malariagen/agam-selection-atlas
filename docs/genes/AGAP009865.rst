@@ -1,9 +1,0 @@
-
-AGAP009865
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 beta subcomplex 9 [source:vb community annotation].
-
-TODO

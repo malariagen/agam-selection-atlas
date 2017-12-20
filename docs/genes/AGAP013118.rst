@@ -1,9 +1,0 @@
-
-AGAP013118
-=============
-
-
-
-Description: Centrosomal protein cep120 [source:vb community annotation].
-
-TODO

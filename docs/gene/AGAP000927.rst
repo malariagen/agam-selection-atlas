@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000927
+=============
+
+
+
+
+
+Description: Myosin regulatory light chain, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000927>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

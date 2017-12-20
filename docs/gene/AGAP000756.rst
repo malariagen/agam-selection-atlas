@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000756
+=============
+
+
+
+
+
+Description: Carboxypeptidase m [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000756>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

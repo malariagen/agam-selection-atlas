@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009852
+=============
+
+
+
+
+
+Description: Mitochondrial fission 1 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009852>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

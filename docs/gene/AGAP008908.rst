@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008908
+=============
+
+
+
+
+
+Description: Actin-related protein 2/3 complex subunit 1a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008908>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

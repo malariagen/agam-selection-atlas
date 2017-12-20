@@ -1,9 +1,0 @@
-
-AGAP006243
-=============
-
-
-
-Description: Phosphatidylinositol-4,5-bisphosphate 4-phosphatase [source:vb community annotation].
-
-TODO

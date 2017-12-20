@@ -1,9 +1,0 @@
-
-AGAP004773
-=============
-
-
-
-Description: Pyruvate dehydrogenase e1 component subunit alpha, mitochondrial [source:vb community annotation].
-
-TODO

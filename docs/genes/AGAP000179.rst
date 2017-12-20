@@ -1,9 +1,0 @@
-
-AGAP000179
-=============
-
-
-
-Description: Amidophosphoribosyltransferase [source:uniprotkb/trembl;acc:q7qew3].
-
-TODO

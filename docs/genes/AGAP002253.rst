@@ -1,9 +1,0 @@
-
-AGAP002253
-=============
-
-
-
-Description: Tatd dnase family protein [source:vb community annotation].
-
-TODO

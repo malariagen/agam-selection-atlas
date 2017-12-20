@@ -1,9 +1,0 @@
-
-AGAP000637
-=============
-
-
-
-Description: Solute carrier family 6 (neurotransmitter transporter, amino acid/orphan) [source:vb community annotation].
-
-TODO

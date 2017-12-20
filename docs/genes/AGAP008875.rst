@@ -1,9 +1,0 @@
-
-AGAP008875
-=============
-
-
-
-Description: Conserved oligomeric golgi complex component 4 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001874
+=============
+
+
+
+
+
+Description: Ras-related protein rap-1a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001874>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

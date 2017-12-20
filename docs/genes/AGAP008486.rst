@@ -1,9 +1,0 @@
-
-AGAP008486
-=============
-
-
-
-Description: Palmitoyltransferase (fragment) [source:uniprotkb/trembl;acc:q7q4m4].
-
-TODO

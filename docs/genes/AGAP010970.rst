@@ -1,9 +1,0 @@
-
-AGAP010970
-=============
-
-
-
-Description: Roundabout, axon guidance receptor homolog [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005679
-=============
-
-Name: **IR135**
-
-Description: Ionotropic receptor ir135 [source:vb community annotation].
-
-TODO

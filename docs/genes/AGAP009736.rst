@@ -1,9 +1,0 @@
-
-AGAP009736
-=============
-
-
-
-Description: Solute carrier family 4 member 10 [source:vb community annotation].
-
-TODO

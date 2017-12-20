@@ -1,9 +1,0 @@
-
-AGAP012397
-=============
-
-
-
-Description: Dna-directed rna polymerases i, ii, and iii subunit rpabc3 [source:vb community annotation].
-
-TODO

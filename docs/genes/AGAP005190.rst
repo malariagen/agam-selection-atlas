@@ -1,9 +1,0 @@
-
-AGAP005190
-=============
-
-
-
-Description: Protein kti12 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002656
+=============
+
+
+
+
+
+Description: General transcription factor 3c polypeptide 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002656>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

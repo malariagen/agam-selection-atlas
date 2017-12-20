@@ -1,9 +1,0 @@
-
-AGAP008305
-=============
-
-
-
-Description: Phosphoglucomutase [source:vb community annotation].
-
-TODO

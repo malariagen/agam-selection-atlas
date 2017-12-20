@@ -1,9 +1,0 @@
-
-AGAP000681
-=============
-
-
-
-Description: Trna:m4x modification enzyme [source:vb community annotation].
-
-TODO

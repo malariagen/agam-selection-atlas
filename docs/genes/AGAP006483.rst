@@ -1,9 +1,0 @@
-
-AGAP006483
-=============
-
-Name: **SPZ2**
-
-Description: Spaetzle-like cytokine 2 [source:vb community annotation].
-
-TODO

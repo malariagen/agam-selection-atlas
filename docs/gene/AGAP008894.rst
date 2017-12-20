@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008894
+=============
+
+
+
+Name: **Or65**
+
+Description: Odorant receptor 65 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008894>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

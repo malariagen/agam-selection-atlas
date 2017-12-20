@@ -1,9 +1,0 @@
-
-AGAP007045
-=============
-
-Name: **LRIM15**
-
-Description: Leucine-rich immune protein (tm) [source:vb community annotation].
-
-TODO

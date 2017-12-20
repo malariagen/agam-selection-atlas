@@ -1,9 +1,0 @@
-
-AGAP001783
-=============
-
-
-
-Description: Microtubule-severing atpase [source:vb community annotation].
-
-TODO

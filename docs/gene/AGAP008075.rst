@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008075
+=============
+
+
+
+
+
+Description: Cellular nucleic acid-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008075>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

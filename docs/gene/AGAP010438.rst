@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010438
+=============
+
+
+
+
+
+Description: Nuclear receptor subfamily 0 group a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010438>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

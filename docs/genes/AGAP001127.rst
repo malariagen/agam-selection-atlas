@@ -1,9 +1,0 @@
-
-AGAP001127
-=============
-
-
-
-Description: P37nb protein [source:vb community annotation].
-
-TODO

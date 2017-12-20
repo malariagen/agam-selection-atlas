@@ -1,9 +1,0 @@
-
-AGAP011140
-=============
-
-
-
-Description: Protein canopy homolog 3 [source:vb community annotation].
-
-TODO

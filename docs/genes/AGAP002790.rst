@@ -1,9 +1,0 @@
-
-AGAP002790
-=============
-
-
-
-Description: Amyloid beta a4 protein [source:vb community annotation].
-
-TODO

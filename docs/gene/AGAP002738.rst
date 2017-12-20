@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002738
+=============
+
+
+
+Name: **SCRB5**
+
+Description: Class b scavenger receptor (cd36 domain). [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002738>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

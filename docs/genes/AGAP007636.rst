@@ -1,9 +1,0 @@
-
-AGAP007636
-=============
-
-
-
-Description: Phosphatidate phosphatase lpin [source:vb community annotation].
-
-TODO

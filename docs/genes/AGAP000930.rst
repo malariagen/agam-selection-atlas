@@ -1,9 +1,0 @@
-
-AGAP000930
-=============
-
-
-
-Description: Coronin [source:vb community annotation].
-
-TODO

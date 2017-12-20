@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000329
+=============
+
+
+
+Name: **alpha3**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000329>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

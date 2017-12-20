@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005650
+=============
+
+
+
+
+
+Description: (acyl-carrier-protein) s-malonyltransferase [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005650>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:18271871-18273064#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000977
-=============
-
-
-
-Description: Rna-binding motif protein, x-linked 2 [source:vb community annotation].
-
-TODO

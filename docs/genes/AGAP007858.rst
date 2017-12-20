@@ -1,9 +1,0 @@
-
-AGAP007858
-=============
-
-
-
-Description: Lysyl-trna synthetase, class ii [source:vb community annotation].
-
-TODO

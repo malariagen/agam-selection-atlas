@@ -1,9 +1,0 @@
-
-AGAP001320
-=============
-
-
-
-Description: Golgi apparatus protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009031
-=============
-
-Name: **RpL5**
-
-Description: 60s ribosomal protein l5 [source:vb community annotation].
-
-TODO

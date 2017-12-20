@@ -1,9 +1,0 @@
-
-AGAP000548
-=============
-
-Name: **SG1b**
-
-Description: Salivary gland protein 1-like 2 [source:vb community annotation].
-
-TODO

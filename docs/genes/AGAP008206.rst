@@ -1,9 +1,0 @@
-
-AGAP008206
-=============
-
-Name: **CYP6N2**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

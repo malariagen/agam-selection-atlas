@@ -1,9 +1,0 @@
-
-AGAP009804
-=============
-
-Name: **Gr10**
-
-Description: Gustatory receptor 10 [source:vb community annotation].
-
-TODO

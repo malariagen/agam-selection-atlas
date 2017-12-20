@@ -1,9 +1,0 @@
-
-AGAP008585
-=============
-
-
-
-Description: Protein kinase, cgmp-dependent [source:vb community annotation].
-
-TODO

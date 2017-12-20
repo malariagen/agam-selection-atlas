@@ -1,9 +1,0 @@
-
-AGAP009413
-=============
-
-Name: **Or20**
-
-Description: Odorant receptor 20 [source:vb community annotation].
-
-TODO

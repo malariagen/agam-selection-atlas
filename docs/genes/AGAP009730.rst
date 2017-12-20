@@ -1,9 +1,0 @@
-
-AGAP009730
-=============
-
-
-
-Description: Myosin iii [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008267
-=============
-
-
-
-Description: Ran gtpase-activating protein 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008092
-=============
-
-
-
-Description: Gdp-l-fucose synthase [source:vb community annotation].
-
-TODO

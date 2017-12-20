@@ -1,9 +1,0 @@
-
-AGAP002366
-=============
-
-
-
-Description: High affinity choline transporter [source:vb community annotation].
-
-TODO

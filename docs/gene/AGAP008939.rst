@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008939
+=============
+
+
+
+
+
+Description: Dna excision repair protein ercc-5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008939>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

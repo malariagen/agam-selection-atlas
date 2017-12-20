@@ -1,9 +1,0 @@
-
-AGAP002161
-=============
-
-
-
-Description: Rac serine/threonine-protein kinase [source:vb community annotation].
-
-TODO

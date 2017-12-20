@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002547
+=============
+
+
+
+Name: **Cbp20**
+
+Description: Nuclear cap-binding protein subunit 2 [source:uniprotkb/swiss-prot;acc:q7qcb6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002547>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

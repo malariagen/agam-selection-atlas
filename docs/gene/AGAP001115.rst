@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001115
+=============
+
+
+
+Name: **Gr42**
+
+Description: Gustatory receptor 42 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001115>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

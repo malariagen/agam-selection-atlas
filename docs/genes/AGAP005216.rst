@@ -1,9 +1,0 @@
-
-AGAP005216
-=============
-
-
-
-Description: 1-phosphatidylinositol-3-phosphate 5-kinase [source:vb community annotation].
-
-TODO

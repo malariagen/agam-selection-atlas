@@ -1,9 +1,0 @@
-
-AGAP007863
-=============
-
-
-
-Description: Serine/threonine-protein kinase nim1 [source:vb community annotation].
-
-TODO

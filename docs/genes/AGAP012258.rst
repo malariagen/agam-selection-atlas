@@ -1,9 +1,0 @@
-
-AGAP012258
-=============
-
-
-
-Description: Lysophospholipid acyltransferase 5 [source:vb community annotation].
-
-TODO

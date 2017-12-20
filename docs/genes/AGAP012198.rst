@@ -1,9 +1,0 @@
-
-AGAP012198
-=============
-
-
-
-Description: Histone h2a (fragment) [source:uniprotkb/trembl;acc:q5tn31].
-
-TODO

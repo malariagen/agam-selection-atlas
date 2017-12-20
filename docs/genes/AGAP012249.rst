@@ -1,9 +1,0 @@
-
-AGAP012249
-=============
-
-Name: **ABCF2**
-
-Description: Atp-binding cassette transporter (abc transporter) family f member 2 [source:vb community annotation].
-
-TODO

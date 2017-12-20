@@ -1,9 +1,0 @@
-
-AGAP010574
-=============
-
-
-
-Description: Pre-rrna-processing protein ipi1 [source:vb community annotation].
-
-TODO

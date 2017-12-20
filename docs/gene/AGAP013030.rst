@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013030
+=============
+
+
+
+
+
+Description: Dynein light chain roadblock-type 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013030>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

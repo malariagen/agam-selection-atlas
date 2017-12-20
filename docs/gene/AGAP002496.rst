@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002496
+=============
+
+
+
+
+
+Description: Von hippel-lindau disease tumor suppressor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002496>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

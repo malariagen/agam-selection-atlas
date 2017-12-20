@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011874
+=============
+
+
+
+
+
+Description: Kinesin-like protein kif12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011874>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

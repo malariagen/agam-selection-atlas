@@ -1,9 +1,0 @@
-
-AGAP007248
-=============
-
-
-
-Description: Neuronal calcium sensor 2 [source:vb community annotation].
-
-TODO

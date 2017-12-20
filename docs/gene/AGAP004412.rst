@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004412
+=============
+
+
+
+
+
+Description: Diphthine synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004412>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

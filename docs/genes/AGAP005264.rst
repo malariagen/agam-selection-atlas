@@ -1,9 +1,0 @@
-
-AGAP005264
-=============
-
-
-
-Description: Histone h1/5 [source:vb community annotation].
-
-TODO

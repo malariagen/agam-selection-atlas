@@ -1,9 +1,0 @@
-
-AGAP002388
-=============
-
-
-
-Description: Endonuclease iii homolog [source:uniprotkb/trembl;acc:q7qc07].
-
-TODO

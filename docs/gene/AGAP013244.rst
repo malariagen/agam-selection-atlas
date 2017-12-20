@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013244
+=============
+
+
+
+
+
+Description: Adenosine deaminase, trna-specific 2, tad2 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013244>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

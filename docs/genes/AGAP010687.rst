@@ -1,9 +1,0 @@
-
-AGAP010687
-=============
-
-
-
-Description: Phospholipase d1/2 [source:vb community annotation].
-
-TODO

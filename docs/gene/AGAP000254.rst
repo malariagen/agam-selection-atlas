@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000254
+=============
+
+
+
+
+
+Description: Potassium voltage-gated channel shaker-related subfamily a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000254>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

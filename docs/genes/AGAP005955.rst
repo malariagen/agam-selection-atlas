@@ -1,9 +1,0 @@
-
-AGAP005955
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase mul1 [source:vb community annotation].
-
-TODO

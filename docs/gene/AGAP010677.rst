@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010677
+=============
+
+
+
+
+
+Description: Ankyrin repeat domain-containing protein 13d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010677>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

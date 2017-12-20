@@ -1,9 +1,0 @@
-
-AGAP011400
-=============
-
-
-
-Description: Xk-related protein [source:uniprotkb/trembl;acc:q7pjd3].
-
-TODO

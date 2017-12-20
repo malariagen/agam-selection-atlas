@@ -1,9 +1,0 @@
-
-AGAP002503
-=============
-
-
-
-Description: 4-coumarate:coa ligase [source:vb community annotation].
-
-TODO

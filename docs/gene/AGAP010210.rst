@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010210
+=============
+
+
+
+
+
+Description: Translocase of inner mitochondrial membrane 23 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010210>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

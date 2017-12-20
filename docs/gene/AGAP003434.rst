@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003434
+=============
+
+
+
+
+
+Description: Condensin complex subunit 1 [source:uniprotkb/trembl;acc:q7qdi4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003434>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

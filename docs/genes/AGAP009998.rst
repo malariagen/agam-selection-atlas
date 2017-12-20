@@ -1,9 +1,0 @@
-
-AGAP009998
-=============
-
-Name: **RpS11**
-
-Description: 40s ribosomal protein s11 [source:uniprotkb/swiss-prot;acc:p52812].
-
-TODO

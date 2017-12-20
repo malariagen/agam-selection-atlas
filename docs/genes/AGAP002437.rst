@@ -1,9 +1,0 @@
-
-AGAP002437
-=============
-
-Name: **RpS8**
-
-Description: 40s ribosomal protein s8 [source:uniprotkb/trembl;acc:q7qc42].
-
-TODO

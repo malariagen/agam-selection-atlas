@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007173
+=============
+
+
+
+Name: **FADD**
+
+Description: Imd pathway signalling fas-associated death domain  (fadd). [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007173>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

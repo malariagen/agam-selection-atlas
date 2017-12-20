@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011215
+=============
+
+
+
+
+
+Description: Acyl-coenzyme a oxidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011215>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

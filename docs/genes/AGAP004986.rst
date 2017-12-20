@@ -1,9 +1,0 @@
-
-AGAP004986
-=============
-
-Name: **Seleno**
-
-Description: 15 kda selenoprotein [source:vb community annotation].
-
-TODO

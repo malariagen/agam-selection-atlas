@@ -1,9 +1,0 @@
-
-AGAP008884
-=============
-
-
-
-Description: Protoheme ix farnesyltransferase [source:vb community annotation].
-
-TODO

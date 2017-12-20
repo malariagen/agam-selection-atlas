@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003674
+=============
+
+
+
+
+
+Description: T-cell leukemia homeobox protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003674>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

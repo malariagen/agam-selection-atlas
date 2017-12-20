@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004344
+=============
+
+
+
+
+
+Description: Hairless [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004344>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004126
-=============
-
-Name: **Osi3**
-
-Description: Osiris 3 [source:vb community annotation].
-
-TODO

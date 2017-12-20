@@ -1,9 +1,0 @@
-
-AGAP004458
-=============
-
-
-
-Description: Leucine-rich repeat-containing protein 58 [source:vb community annotation].
-
-TODO

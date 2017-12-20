@@ -1,9 +1,0 @@
-
-AGAP011302
-=============
-
-
-
-Description: Alkaline phosphatase [source:vb community annotation].
-
-TODO

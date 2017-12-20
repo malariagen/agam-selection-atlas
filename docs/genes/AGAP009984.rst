@@ -1,9 +1,0 @@
-
-AGAP009984
-=============
-
-
-
-Description: Cell cycle control protein 50a [source:vb community annotation].
-
-TODO

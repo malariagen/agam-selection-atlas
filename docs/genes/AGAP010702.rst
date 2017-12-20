@@ -1,9 +1,0 @@
-
-AGAP010702
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx24/mak5 [source:vb community annotation].
-
-TODO

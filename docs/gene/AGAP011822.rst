@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011822
+=============
+
+
+
+
+
+Description: Proteasome component ecm29 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011822>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002947
-=============
-
-
-
-Description: Structural maintenance of chromosome 1 [source:vb community annotation].
-
-TODO

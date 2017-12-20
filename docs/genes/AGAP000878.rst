@@ -1,9 +1,0 @@
-
-AGAP000878
-=============
-
-
-
-Description: Achaete-scute complex protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003459
-=============
-
-
-
-Description: Nuclear pore complex protein nup93 [source:vb community annotation].
-
-TODO

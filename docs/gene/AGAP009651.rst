@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009651
+=============
+
+
+
+
+
+Description: Cd63 antigen [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009651>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

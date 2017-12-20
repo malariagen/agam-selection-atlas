@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000138
+=============
+
+
+
+Name: **alpha4**
+
+Description: Nicotinic acetylcholine receptor subunit alpha 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000138>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005221
-=============
-
-
-
-Description: Ribosomal rna methyltransferase nop2 [source:vb community annotation].
-
-TODO

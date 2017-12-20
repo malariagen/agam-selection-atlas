@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008612
+=============
+
+
+
+
+
+Description: Transcription initiation factor tfiid subunit 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008612>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

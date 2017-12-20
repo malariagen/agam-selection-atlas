@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010367
+=============
+
+
+
+
+
+Description: Udp-n-acetyl-alpha-d-galactosamine:polypeptide n-acetylgalactosaminyltransferase 20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010367>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

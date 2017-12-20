@@ -1,9 +1,0 @@
-
-AGAP004769
-=============
-
-
-
-Description: Ras-related protein rap-1b precursor [source:vb community annotation].
-
-TODO

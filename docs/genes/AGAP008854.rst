@@ -1,9 +1,0 @@
-
-AGAP008854
-=============
-
-Name: **hook**
-
-Description: Protein hook [source:uniprotkb/swiss-prot;acc:q7pwt9].
-
-TODO

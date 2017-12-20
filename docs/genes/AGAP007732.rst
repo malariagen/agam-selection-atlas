@@ -1,9 +1,0 @@
-
-AGAP007732
-=============
-
-
-
-Description: Solute carrier family 17, member 5 [source:vb community annotation].
-
-TODO

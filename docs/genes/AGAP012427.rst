@@ -1,9 +1,0 @@
-
-AGAP012427
-=============
-
-Name: **GPRNNA16**
-
-Description: Putative gpcr class a orphan receptor 16 [source:vb community annotation].
-
-TODO

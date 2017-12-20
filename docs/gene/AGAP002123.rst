@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002123
+=============
+
+
+
+Name: **Axn**
+
+Description: Axin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002123>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

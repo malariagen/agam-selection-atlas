@@ -1,9 +1,0 @@
-
-AGAP003526
-=============
-
-
-
-Description: Asterless [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008294
+=============
+
+
+
+Name: **TRYP3**
+
+Description: Trypsin 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008294>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

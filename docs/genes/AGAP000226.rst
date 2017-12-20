@@ -1,9 +1,0 @@
-
-AGAP000226
-=============
-
-Name: **Or41**
-
-Description: Odorant receptor 41 [source:vb community annotation].
-
-TODO

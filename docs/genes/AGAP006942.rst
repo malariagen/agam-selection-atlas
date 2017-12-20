@@ -1,9 +1,0 @@
-
-AGAP006942
-=============
-
-
-
-Description: Importin-4 [source:vb community annotation].
-
-TODO

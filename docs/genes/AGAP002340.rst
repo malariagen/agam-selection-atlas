@@ -1,9 +1,0 @@
-
-AGAP002340
-=============
-
-Name: **eIF3a**
-
-Description: Eukaryotic translation initiation factor 3 subunit a [source:uniprotkb/swiss-prot;acc:q7pge8].
-
-TODO

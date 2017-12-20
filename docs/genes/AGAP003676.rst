@@ -1,9 +1,0 @@
-
-AGAP003676
-=============
-
-
-
-Description: Dna repair protein rad50 [source:vb community annotation].
-
-TODO

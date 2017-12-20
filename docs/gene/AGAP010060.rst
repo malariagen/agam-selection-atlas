@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010060
+=============
+
+
+
+
+
+Description: Dna repair protein rad62 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010060>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

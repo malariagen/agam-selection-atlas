@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004557
+=============
+
+
+
+
+
+Description: U3 small nucleolar rna-associated protein 21 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004557>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

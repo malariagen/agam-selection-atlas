@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005339
+=============
+
+
+
+Name: **Cht4**
+
+Description: Chitinase [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005339>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:14257864-14259365#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

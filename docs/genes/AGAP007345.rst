@@ -1,9 +1,0 @@
-
-AGAP007345
-=============
-
-Name: **LYSC3**
-
-Description: C-type lysozyme [source:vb community annotation].
-
-TODO

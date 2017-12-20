@@ -1,9 +1,0 @@
-
-AGAP001373
-=============
-
-
-
-Description: Inhibitor of growth protein [source:uniprotkb/trembl;acc:q7pxf0].
-
-TODO

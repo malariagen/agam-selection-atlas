@@ -1,9 +1,0 @@
-
-AGAP007825
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx23/prp28 [source:vb community annotation].
-
-TODO

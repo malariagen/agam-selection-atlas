@@ -1,9 +1,0 @@
-
-AGAP008496
-=============
-
-Name: **Med30**
-
-Description: Mediator of rna polymerase ii transcription subunit 30 [source:vb community annotation].
-
-TODO

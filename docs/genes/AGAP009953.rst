@@ -1,9 +1,0 @@
-
-AGAP009953
-=============
-
-
-
-Description: Guanine nucleotide-binding protein g(i)/g(s)/g(o) subunit gamma-13 [source:vb community annotation].
-
-TODO

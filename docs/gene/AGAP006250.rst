@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006250
+=============
+
+
+
+
+
+Description: Eukaryotic elongation factor, selenocysteine-trna-specific [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006250>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:28614984-28616576#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

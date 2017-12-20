@@ -1,9 +1,0 @@
-
-AGAP005362
-=============
-
-
-
-Description: Nf-x1-type zinc finger protein nfxl1 [source:vb community annotation].
-
-TODO

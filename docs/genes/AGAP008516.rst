@@ -1,9 +1,0 @@
-
-AGAP008516
-=============
-
-
-
-Description: Nicotinate phosphoribosyltransferase [source:vb community annotation].
-
-TODO

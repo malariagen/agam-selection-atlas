@@ -1,9 +1,0 @@
-
-AGAP003701
-=============
-
-
-
-Description: Zinc finger protein 593 homolog [source:vb community annotation].
-
-TODO

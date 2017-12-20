@@ -1,9 +1,0 @@
-
-AGAP007953
-=============
-
-
-
-Description: Atp-dependent rna helicase ythdc2 [source:vb community annotation].
-
-TODO

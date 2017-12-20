@@ -1,9 +1,0 @@
-
-AGAP011802
-=============
-
-Name: **RpL39**
-
-Description: 60s ribosomal protein l39 [source:vb community annotation].
-
-TODO

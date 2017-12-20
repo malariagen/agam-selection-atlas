@@ -1,9 +1,0 @@
-
-AGAP010432
-=============
-
-
-
-Description: Dnaj homolog subfamily c member 11 [source:vb community annotation].
-
-TODO

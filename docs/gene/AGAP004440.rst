@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004440
+=============
+
+
+
+
+
+Description: Spectrin beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004440>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003077
-=============
-
-
-
-Description: Glutamyl aminopeptidase [source:vb community annotation].
-
-TODO

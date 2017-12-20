@@ -1,9 +1,0 @@
-
-AGAP028064
-=============
-
-Name: **LRIM16B**
-
-Description: Leucine-rich immune protein (tm) [source:vb community annotation].
-
-TODO

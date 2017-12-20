@@ -1,9 +1,0 @@
-
-AGAP003607
-=============
-
-
-
-Description: Cad96cb, isoform b [source:vb community annotation].
-
-TODO

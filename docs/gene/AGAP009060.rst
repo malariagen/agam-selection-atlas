@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009060
+=============
+
+
+
+
+
+Description: Atp-dependent dna helicase hfm1/mer3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009060>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

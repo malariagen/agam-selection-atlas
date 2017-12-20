@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010709
+=============
+
+
+
+Name: **CTL2**
+
+Description: C-type lectin (ctl) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010709>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000426
-=============
-
-
-
-Description: Benzodiazapine receptor [source:vb community annotation].
-
-TODO

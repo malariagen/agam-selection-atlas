@@ -1,9 +1,0 @@
-
-AGAP010489
-=============
-
-Name: **OBP4**
-
-Description: Odorant-binding protein antennal 4 [source:vb community annotation].
-
-TODO

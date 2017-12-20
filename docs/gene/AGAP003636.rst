@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003636
+=============
+
+
+
+
+
+Description: Inositol oxygenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003636>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

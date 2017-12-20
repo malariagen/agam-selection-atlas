@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007102
+=============
+
+
+
+
+
+Description: Cwf19-like protein 1 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007102>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

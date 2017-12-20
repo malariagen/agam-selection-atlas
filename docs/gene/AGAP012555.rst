@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012555
+=============
+
+
+
+
+
+Description: Histone h2b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012555>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

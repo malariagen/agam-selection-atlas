@@ -1,9 +1,0 @@
-
-AGAP009442
-=============
-
-
-
-Description: Cyclin-dependent kinase regulatory subunit cks1 [source:vb community annotation].
-
-TODO

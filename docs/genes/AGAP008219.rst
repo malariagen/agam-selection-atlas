@@ -1,9 +1,0 @@
-
-AGAP008219
-=============
-
-Name: **CYP6Z1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

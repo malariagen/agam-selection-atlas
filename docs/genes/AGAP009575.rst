@@ -1,9 +1,0 @@
-
-AGAP009575
-=============
-
-
-
-Description: Nuclear receptor subfamily 2 group a [source:vb community annotation].
-
-TODO

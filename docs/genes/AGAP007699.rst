@@ -1,9 +1,0 @@
-
-AGAP007699
-=============
-
-
-
-Description: Gtp-binding nuclear protein ran [source:vb community annotation].
-
-TODO

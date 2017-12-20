@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010303
+=============
+
+
+
+
+
+Description: Autophagy-related protein 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010303>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

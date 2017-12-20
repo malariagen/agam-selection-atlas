@@ -1,9 +1,0 @@
-
-AGAP007672
-=============
-
-
-
-Description: Pancreatic triacylglycerol lipase [source:vb community annotation].
-
-TODO

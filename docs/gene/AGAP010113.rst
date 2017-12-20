@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010113
+=============
+
+
+
+Name: **CPR93**
+
+Description: Cuticular protein rr-2 family 93 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010113>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

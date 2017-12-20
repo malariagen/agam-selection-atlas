@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009978
+=============
+
+
+
+Name: **DUOX**
+
+Description: Dual oxidase: peroxidase and nadph-oxidase domains [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009978>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

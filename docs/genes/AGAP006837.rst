@@ -1,9 +1,0 @@
-
-AGAP006837
-=============
-
-Name: **CPR55**
-
-Description: Cuticular protein rr-1 family 55 [source:vb community annotation].
-
-TODO

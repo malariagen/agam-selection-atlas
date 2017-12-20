@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008375
+=============
+
+
+
+
+
+Description: Mannose-p-dolichol utilization defect 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008375>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

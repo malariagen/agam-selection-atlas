@@ -1,9 +1,0 @@
-
-AGAP007968
-=============
-
-
-
-Description: Cysteine-rich with egf-like domain protein 2 [source:vb community annotation].
-
-TODO

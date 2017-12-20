@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002075
+=============
+
+
+
+
+
+Description: Serine/threonine-protein kinase ttk/mps1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002075>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

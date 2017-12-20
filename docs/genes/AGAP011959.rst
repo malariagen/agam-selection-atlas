@@ -1,9 +1,0 @@
-
-AGAP011959
-=============
-
-Name: **king-tubby**
-
-Description: Protein king tubby [source:uniprotkb/swiss-prot;acc:q7pzk5].
-
-TODO

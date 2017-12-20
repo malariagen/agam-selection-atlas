@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013188
+=============
+
+
+
+Name: **APN4**
+
+Description: Aminopeptidase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013188>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

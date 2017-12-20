@@ -1,9 +1,0 @@
-
-AGAP004492
-=============
-
-
-
-Description: Upstream activation factor subunit uaf30 [source:vb community annotation].
-
-TODO

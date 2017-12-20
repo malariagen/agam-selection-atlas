@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008191
+=============
+
+
+
+
+
+Description: Cyclin e [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008191>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

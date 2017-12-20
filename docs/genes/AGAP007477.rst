@@ -1,9 +1,0 @@
-
-AGAP007477
-=============
-
-
-
-Description: Replication factor c subunit 2/4 [source:vb community annotation].
-
-TODO

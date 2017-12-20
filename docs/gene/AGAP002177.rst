@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002177
+=============
+
+
+
+
+
+Description: Exosome complex component rrp46 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002177>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

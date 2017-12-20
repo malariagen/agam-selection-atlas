@@ -1,9 +1,0 @@
-
-AGAP012219
-=============
-
-Name: **Med1**
-
-Description: Mediator of rna polymerase ii transcription subunit 1 [source:vb community annotation].
-
-TODO

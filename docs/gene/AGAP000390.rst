@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000390
+=============
+
+
+
+
+
+Description: Phospholipid-transporting atpase [source:uniprotkb/trembl;acc:q7ps19].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000390>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

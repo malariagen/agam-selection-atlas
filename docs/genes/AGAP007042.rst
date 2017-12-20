@@ -1,9 +1,0 @@
-
-AGAP007042
-=============
-
-Name: **CPR62**
-
-Description: Cuticular protein rr-1 family 62 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012247
-=============
-
-
-
-Description: Phosphoserine phosphatase [source:vb community annotation].
-
-TODO

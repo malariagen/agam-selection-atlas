@@ -1,9 +1,0 @@
-
-AGAP006080
-=============
-
-Name: **OBP54**
-
-Description: Odorant-binding protein 54 [source:vb community annotation].
-
-TODO

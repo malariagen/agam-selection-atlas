@@ -1,9 +1,0 @@
-
-AGAP010711
-=============
-
-
-
-Description: Exportin-2 [source:vb community annotation].
-
-TODO

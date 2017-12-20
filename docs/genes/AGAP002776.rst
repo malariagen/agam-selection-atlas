@@ -1,9 +1,0 @@
-
-AGAP002776
-=============
-
-
-
-Description: Cleavage stimulation factor subunit 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012203
-=============
-
-
-
-Description: Membrane-bound transcription factor site-1 protease [source:vb community annotation].
-
-TODO

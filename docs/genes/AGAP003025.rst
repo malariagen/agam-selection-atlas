@@ -1,9 +1,0 @@
-
-AGAP003025
-=============
-
-Name: **RpLp2**
-
-Description: 60s ribosomal protein lp2 [source:vb community annotation].
-
-TODO

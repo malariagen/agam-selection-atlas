@@ -1,9 +1,0 @@
-
-AGAP009453
-=============
-
-Name: **GPRMTH3**
-
-Description: Methuselah receptor 3 [source:vb community annotation].
-
-TODO

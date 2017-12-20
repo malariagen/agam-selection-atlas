@@ -1,9 +1,0 @@
-
-AGAP010327
-=============
-
-
-
-Description: Sh3-binding domain kinase [source:vb community annotation].
-
-TODO

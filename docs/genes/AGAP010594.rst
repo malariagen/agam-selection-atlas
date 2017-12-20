@@ -1,9 +1,0 @@
-
-AGAP010594
-=============
-
-
-
-Description: Protein cwc15 homolog a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009152
-=============
-
-Name: **mRpS21**
-
-Description: 28s ribosomal protein s21, mitochondrial [source:vb community annotation].
-
-TODO

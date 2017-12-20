@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001375
+=============
+
+
+
+Name: **SRPN12**
+
+Description: Serine protease inhibitor (serpin) 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001375>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

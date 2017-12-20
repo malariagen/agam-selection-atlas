@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008783
+=============
+
+
+
+
+
+Description: Arginase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008783>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

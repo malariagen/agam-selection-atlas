@@ -1,9 +1,0 @@
-
-AGAP010447
-=============
-
-
-
-Description: Gamma-glutamylcyclotransferase [source:vb community annotation].
-
-TODO

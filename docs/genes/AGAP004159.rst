@@ -1,9 +1,0 @@
-
-AGAP004159
-=============
-
-
-
-Description: Malate dehydrogenase (oxaloacetate-decarboxylating)(nadp ) [source:vb community annotation].
-
-TODO

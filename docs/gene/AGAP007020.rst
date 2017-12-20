@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007020
+=============
+
+
+
+Name: **TPX5**
+
+Description: Thioredoxin peroxidase 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007020>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

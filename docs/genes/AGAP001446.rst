@@ -1,9 +1,0 @@
-
-AGAP001446
-=============
-
-
-
-Description: Amp-activated protein kinase, gamma regulatory subunit [source:vb community annotation].
-
-TODO

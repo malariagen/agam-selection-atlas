@@ -1,9 +1,0 @@
-
-AGAP001421
-=============
-
-
-
-Description: Replication factor a1 [source:vb community annotation].
-
-TODO

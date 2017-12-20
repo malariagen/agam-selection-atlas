@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011195
+=============
+
+
+
+
+
+Description: Opioid binding protein/cell adhesion molecule-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011195>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

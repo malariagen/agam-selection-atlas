@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009961
+=============
+
+
+
+
+
+Description: Serine/threonine-protein kinase 24/25/mst4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009961>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

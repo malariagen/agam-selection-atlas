@@ -1,9 +1,0 @@
-
-AGAP012710
-=============
-
-
-
-Description: Histone h2b [source:uniprotkb/swiss-prot;acc:q27442].
-
-TODO

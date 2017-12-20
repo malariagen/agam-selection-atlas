@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007023
+=============
+
+
+
+Name: **cue**
+
+Description: Protein cueball [source:uniprotkb/swiss-prot;acc:q7qiq6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007023>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

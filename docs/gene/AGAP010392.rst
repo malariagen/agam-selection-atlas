@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010392
+=============
+
+
+
+
+
+Description: Calumenin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010392>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

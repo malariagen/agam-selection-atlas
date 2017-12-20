@@ -1,9 +1,0 @@
-
-AGAP005731
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010370
-=============
-
-
-
-Description: Solute carrier family 17 (anion/sugar transporter), member 5 [source:vb community annotation].
-
-TODO

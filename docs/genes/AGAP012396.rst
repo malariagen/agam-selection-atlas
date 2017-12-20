@@ -1,9 +1,0 @@
-
-AGAP012396
-=============
-
-
-
-Description: 4.3 kda secreted salivary peptide [source:vb community annotation].
-
-TODO

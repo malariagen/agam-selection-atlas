@@ -1,9 +1,0 @@
-
-AGAP012366
-=============
-
-
-
-Description: Ubiquitin-protein ligase e3 a [source:vb community annotation].
-
-TODO

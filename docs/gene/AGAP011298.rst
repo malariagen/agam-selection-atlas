@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011298
+=============
+
+
+
+Name: **RpL10a**
+
+Description: 60s ribosomal protein l10a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011298>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

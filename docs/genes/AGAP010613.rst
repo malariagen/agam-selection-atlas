@@ -1,9 +1,0 @@
-
-AGAP010613
-=============
-
-
-
-Description: Elongation factor 1-beta [source:vb community annotation].
-
-TODO

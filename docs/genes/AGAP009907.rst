@@ -1,9 +1,0 @@
-
-AGAP009907
-=============
-
-
-
-Description: Leukotriene-a4 hydrolase [source:vb community annotation].
-
-TODO

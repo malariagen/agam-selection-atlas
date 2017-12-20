@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012136
+=============
+
+
+
+Name: **mRpS25**
+
+Description: 28s ribosomal protein s25, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012136>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

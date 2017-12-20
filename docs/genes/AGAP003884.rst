@@ -1,9 +1,0 @@
-
-AGAP003884
-=============
-
-
-
-Description: Mannosyl-oligosaccharide alpha-1,2-mannosidase [source:vb community annotation].
-
-TODO

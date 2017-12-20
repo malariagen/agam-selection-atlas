@@ -1,9 +1,0 @@
-
-AGAP011927
-=============
-
-
-
-Description: Brachyury protein [source:vb community annotation].
-
-TODO

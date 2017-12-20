@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000280
+=============
+
+
+
+
+
+Description: Guanylate cyclase soluble subunit alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000280>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002620
+=============
+
+
+
+Name: **MISO**
+
+Description: Mating-induced stimulator of oogenesis miso [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002620>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002728
+=============
+
+
+
+
+
+Description: Isocitrate dehydrogenase [nad] subunit, mitochondrial [source:uniprotkb/trembl;acc:f5hkn6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002728>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

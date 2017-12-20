@@ -1,9 +1,0 @@
-
-AGAP007258
-=============
-
-
-
-Description: Aconitate hydratase 1 / homoaconitase [source:vb community annotation].
-
-TODO

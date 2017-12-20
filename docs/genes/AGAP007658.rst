@@ -1,9 +1,0 @@
-
-AGAP007658
-=============
-
-
-
-Description: Defective in cullin neddylation protein [source:uniprotkb/trembl;acc:q7qju2].
-
-TODO

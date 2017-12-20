@@ -1,9 +1,0 @@
-
-AGAP002402
-=============
-
-
-
-Description: Copper homeostasis protein [source:vb community annotation].
-
-TODO

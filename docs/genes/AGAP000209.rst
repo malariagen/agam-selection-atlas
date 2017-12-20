@@ -1,9 +1,0 @@
-
-AGAP000209
-=============
-
-
-
-Description: Glutamate receptor binding protein [source:vb community annotation].
-
-TODO

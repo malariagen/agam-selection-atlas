@@ -1,9 +1,0 @@
-
-AGAP008337
-=============
-
-
-
-Description: Spo0b-associated gtp-binding protein [source:vb community annotation].
-
-TODO

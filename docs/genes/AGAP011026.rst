@@ -1,9 +1,0 @@
-
-AGAP011026
-=============
-
-
-
-Description: 5' nucleotidase, ecto [source:vb community annotation].
-
-TODO

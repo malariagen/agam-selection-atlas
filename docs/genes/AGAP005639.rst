@@ -1,9 +1,0 @@
-
-AGAP005639
-=============
-
-Name: **ABCB2**
-
-Description: Atp-binding cassette transporter (abc transporter) family b member 2 [source:vb community annotation].
-
-TODO

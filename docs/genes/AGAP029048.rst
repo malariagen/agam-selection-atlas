@@ -1,9 +1,0 @@
-
-AGAP029048
-=============
-
-
-
-Description: Electroneutral potassium-chloride cotransporter 1 [source:vb community annotation].
-
-TODO

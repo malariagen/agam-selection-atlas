@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010939
+=============
+
+
+
+Name: **APG5**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010939>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006440
-=============
-
-Name: **IR136**
-
-Description: Ionotropic receptor ir136 [source:vb community annotation].
-
-TODO

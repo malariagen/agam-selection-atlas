@@ -1,9 +1,0 @@
-
-AGAP002127
-=============
-
-
-
-Description: Alpha-centractin [source:vb community annotation].
-
-TODO

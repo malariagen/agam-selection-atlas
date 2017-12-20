@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001364
+=============
+
+
+
+
+
+Description: Ubiquitin-fold modifier 1 [source:uniprotkb/swiss-prot;acc:q7pxe2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001364>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000147
-=============
-
-
-
-Description: Pdz-binding kinase [source:vb community annotation].
-
-TODO

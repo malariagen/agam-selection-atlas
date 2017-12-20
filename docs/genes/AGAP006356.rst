@@ -1,9 +1,0 @@
-
-AGAP006356
-=============
-
-
-
-Description: Proline-rich protein prcc [source:vb community annotation].
-
-TODO

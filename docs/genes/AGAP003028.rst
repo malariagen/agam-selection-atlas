@@ -1,9 +1,0 @@
-
-AGAP003028
-=============
-
-
-
-Description: Ras-related protein rab-35 [source:vb community annotation].
-
-TODO

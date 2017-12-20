@@ -1,9 +1,0 @@
-
-AGAP011943
-=============
-
-Name: **IR60a**
-
-Description: Ionotropic receptor ir60a [source:vb community annotation].
-
-TODO

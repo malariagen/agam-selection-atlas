@@ -1,9 +1,0 @@
-
-AGAP008465
-=============
-
-Name: **CPLCG22**
-
-Description: Cuticular protein cplcg family (cplcg22) [source:vb community annotation].
-
-TODO

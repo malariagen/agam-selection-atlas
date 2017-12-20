@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010924
+=============
+
+
+
+
+
+Description: Peroxin-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010924>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

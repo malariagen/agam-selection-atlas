@@ -1,9 +1,0 @@
-
-AGAP007199
-=============
-
-Name: **DEF3**
-
-Description: Defensin anti-microbial peptide [source:vb community annotation].
-
-TODO

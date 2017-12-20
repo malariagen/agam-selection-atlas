@@ -1,9 +1,0 @@
-
-AGAP011099
-=============
-
-
-
-Description: Myosin iii [source:vb community annotation].
-
-TODO

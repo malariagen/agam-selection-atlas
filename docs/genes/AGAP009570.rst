@@ -1,9 +1,0 @@
-
-AGAP009570
-=============
-
-
-
-Description: Rna-binding protein with serine-rich domain 1 [source:vb community annotation].
-
-TODO

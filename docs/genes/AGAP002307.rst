@@ -1,9 +1,0 @@
-
-AGAP002307
-=============
-
-
-
-Description: Pre-mrna-splicing factor 18 [source:vb community annotation].
-
-TODO

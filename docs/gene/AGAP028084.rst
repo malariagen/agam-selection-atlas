@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028084
+=============
+
+
+
+
+
+Description: Metalloendopeptidase [source:uniprotkb/trembl;acc:a0a1s4hcu7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028084>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

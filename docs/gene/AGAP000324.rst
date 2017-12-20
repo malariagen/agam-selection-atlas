@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000324
+=============
+
+
+
+
+
+Description: Trna (guanine9-n1)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000324>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

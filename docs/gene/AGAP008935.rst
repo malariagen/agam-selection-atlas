@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008935
+=============
+
+
+
+
+
+Description: Recombining binding protein suppressor of hairless [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008935>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

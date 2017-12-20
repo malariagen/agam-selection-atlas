@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001888
+=============
+
+
+
+
+
+Description: Alpha-(1,6)-fucosyltransferase [source:uniprotkb/trembl;acc:q7pyd8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001888>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001189
-=============
-
-Name: **OBP10**
-
-Description: Odorant-binding protein 10 [source:vb community annotation].
-
-TODO

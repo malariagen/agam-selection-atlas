@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001682
+=============
+
+
+
+
+
+Description: Mitochondrial inner membrane protease subunit 1 [source:uniprotkb/trembl;acc:q4jsb3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001682>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

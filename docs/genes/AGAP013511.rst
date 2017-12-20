@@ -1,9 +1,0 @@
-
-AGAP013511
-=============
-
-Name: **CYP6AG2**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000005
+=============
+
+
+
+
+
+Description: High mobility group protein b1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000005>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

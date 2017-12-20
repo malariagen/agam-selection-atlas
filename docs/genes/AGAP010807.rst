@@ -1,9 +1,0 @@
-
-AGAP010807
-=============
-
-
-
-Description: Trna pseudouridine38/39 synthase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006049
-=============
-
-Name: **CYP4J10**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

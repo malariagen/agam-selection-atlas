@@ -1,9 +1,0 @@
-
-AGAP004031
-=============
-
-
-
-Description: Mitochondrial electron transfer flavoprotein subunit alpha [source:vb community annotation].
-
-TODO

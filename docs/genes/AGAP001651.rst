@@ -1,9 +1,0 @@
-
-AGAP001651
-=============
-
-
-
-Description: 26s proteasome regulatory subunit n9 [source:vb community annotation].
-
-TODO

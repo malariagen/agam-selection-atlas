@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008925
+=============
+
+
+
+
+
+Description: Pre-mrna-processing factor 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008925>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

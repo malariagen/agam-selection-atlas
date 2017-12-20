@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010018
+=============
+
+
+
+
+
+Description: Dna replication complex gins protein psf2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010018>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

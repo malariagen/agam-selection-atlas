@@ -1,9 +1,0 @@
-
-AGAP010504
-=============
-
-Name: **Or43**
-
-Description: Odorant receptor 43 [source:vb community annotation].
-
-TODO

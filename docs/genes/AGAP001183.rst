@@ -1,9 +1,0 @@
-
-AGAP001183
-=============
-
-
-
-Description: Pyrimidine-specific ribonucleoside hydrolase riha [source:vb community annotation].
-
-TODO

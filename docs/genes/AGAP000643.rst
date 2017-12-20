@@ -1,9 +1,0 @@
-
-AGAP000643
-=============
-
-Name: **OBP36**
-
-Description: Odorant-binding protein 36 [source:vb community annotation].
-
-TODO

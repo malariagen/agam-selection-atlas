@@ -1,9 +1,0 @@
-
-AGAP010235
-=============
-
-
-
-Description: Tbc1 domain family member 24 [source:vb community annotation].
-
-TODO

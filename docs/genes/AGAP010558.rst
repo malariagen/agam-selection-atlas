@@ -1,9 +1,0 @@
-
-AGAP010558
-=============
-
-
-
-Description: Er membrane protein complex subunit 4 [source:uniprotkb/trembl;acc:q7q8u0].
-
-TODO

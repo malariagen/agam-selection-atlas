@@ -1,9 +1,0 @@
-
-AGAP005916
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme e2 m [source:vb community annotation].
-
-TODO

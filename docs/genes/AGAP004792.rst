@@ -1,9 +1,0 @@
-
-AGAP004792
-=============
-
-
-
-Description: Star-related lipid transfer protein 7 [source:vb community annotation].
-
-TODO

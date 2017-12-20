@@ -1,9 +1,0 @@
-
-AGAP012413
-=============
-
-Name: **CycA**
-
-Description: Cyclin a [source:vb community annotation].
-
-TODO

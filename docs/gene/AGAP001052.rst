@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001052
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 2/21 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001052>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

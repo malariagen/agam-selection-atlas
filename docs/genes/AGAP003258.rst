@@ -1,9 +1,0 @@
-
-AGAP003258
-=============
-
-
-
-Description: Gustatory receptor [source:uniprotkb/trembl;acc:q7ptr1].
-
-TODO

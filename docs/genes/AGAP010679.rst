@@ -1,9 +1,0 @@
-
-AGAP010679
-=============
-
-Name: **TIM10**
-
-Description: Mitochrondrial inner membrane translocase subunit tim10 [source:vb community annotation].
-
-TODO

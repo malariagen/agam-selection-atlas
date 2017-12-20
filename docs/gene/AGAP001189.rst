@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001189
+=============
+
+
+
+Name: **OBP10**
+
+Description: Odorant-binding protein 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001189>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

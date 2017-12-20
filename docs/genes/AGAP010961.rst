@@ -1,9 +1,0 @@
-
-AGAP010961
-=============
-
-Name: **CYP6AK1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

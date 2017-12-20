@@ -1,9 +1,0 @@
-
-AGAP011446
-=============
-
-
-
-Description: Far upstream element-binding protein [source:vb community annotation].
-
-TODO

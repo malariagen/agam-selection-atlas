@@ -1,9 +1,0 @@
-
-AGAP000300
-=============
-
-
-
-Description: Bifunctional pyrimidine biosynthesis protein (pyrabcn) [source:vb community annotation].
-
-TODO

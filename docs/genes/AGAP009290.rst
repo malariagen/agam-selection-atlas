@@ -1,9 +1,0 @@
-
-AGAP009290
-=============
-
-
-
-Description: Cohesin loading factor subunit scc2 [source:vb community annotation].
-
-TODO

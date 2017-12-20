@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002567
+=============
+
+
+
+
+
+Description: Hormone-sensitive lipase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002567>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

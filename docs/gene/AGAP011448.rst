@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011448
+=============
+
+
+
+Name: **fen1**
+
+Description: Flap endonuclease 1 [source:uniprotkb/swiss-prot;acc:q7q323].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011448>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

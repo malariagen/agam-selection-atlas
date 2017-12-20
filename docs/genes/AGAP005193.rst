@@ -1,9 +1,0 @@
-
-AGAP005193
-=============
-
-
-
-Description: Nuclear pore complex protein nup188 [source:vb community annotation].
-
-TODO

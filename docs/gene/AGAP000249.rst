@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000249
+=============
+
+
+
+
+
+Description: Mannosyl-glycoprotein endo-beta-n-acetylglucosaminidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000249>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

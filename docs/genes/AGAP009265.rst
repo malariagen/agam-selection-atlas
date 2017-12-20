@@ -1,9 +1,0 @@
-
-AGAP009265
-=============
-
-
-
-Description: Ectonucleoside triphosphate diphosphohydrolase 5/6 [source:vb community annotation].
-
-TODO

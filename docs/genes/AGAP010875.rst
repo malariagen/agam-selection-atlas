@@ -1,9 +1,0 @@
-
-AGAP010875
-=============
-
-
-
-Description: Ras-related protein rab-18 [source:vb community annotation].
-
-TODO

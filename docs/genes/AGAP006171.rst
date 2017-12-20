@@ -1,9 +1,0 @@
-
-AGAP006171
-=============
-
-
-
-Description: Protein phosphatase [source:vb community annotation].
-
-TODO

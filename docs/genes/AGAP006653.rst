@@ -1,9 +1,0 @@
-
-AGAP006653
-=============
-
-
-
-Description: Protein rogdi [source:vb community annotation].
-
-TODO

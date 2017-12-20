@@ -1,9 +1,0 @@
-
-AGAP006709
-=============
-
-Name: **CHYM1**
-
-Description: Chymotrypsin-1 [source:uniprotkb/swiss-prot;acc:q27289].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004373
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein 1 [source:vb community annotation].
-
-TODO

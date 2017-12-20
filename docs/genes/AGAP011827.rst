@@ -1,9 +1,0 @@
-
-AGAP011827
-=============
-
-
-
-Description: Acetyl-coa acyltransferase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011135
-=============
-
-
-
-Description: Synaptosomal-associated protein, 29kda [source:vb community annotation].
-
-TODO

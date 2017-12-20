@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011896
+=============
+
+
+
+Name: **RpL31**
+
+Description: 60s ribosomal protein l31 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011896>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP028380
-=============
-
-Name: **ND5**
-
-Description: Nadh dehydrogenase subunit 5 [source:european nucleotide archive;acc:nd5].
-
-TODO

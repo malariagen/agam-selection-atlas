@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003254
+=============
+
+
+
+Name: **Gr16**
+
+Description: Gustatory receptor 16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003254>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

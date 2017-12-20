@@ -1,9 +1,0 @@
-
-AGAP001228
-=============
-
-
-
-Description: Dna-directed rna polymerase ii subunit rpb4 [source:vb community annotation].
-
-TODO

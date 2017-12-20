@@ -1,9 +1,0 @@
-
-AGAP002167
-=============
-
-
-
-Description: Protein lsm12 homolog [source:vb community annotation].
-
-TODO

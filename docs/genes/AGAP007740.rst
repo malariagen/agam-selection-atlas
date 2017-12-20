@@ -1,9 +1,0 @@
-
-AGAP007740
-=============
-
-Name: **RpLP1**
-
-Description: 60s ribosomal protein lp1 [source:vb community annotation].
-
-TODO

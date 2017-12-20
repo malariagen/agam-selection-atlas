@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003987
+=============
+
+
+
+
+
+Description: Complement component 1 q subcomponent-binding protein, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003987>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

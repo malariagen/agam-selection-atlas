@@ -1,9 +1,0 @@
-
-AGAP004595
-=============
-
-Name: **GPRGBB2**
-
-Description: Putative gaba-b receptor 2 [source:vb community annotation].
-
-TODO

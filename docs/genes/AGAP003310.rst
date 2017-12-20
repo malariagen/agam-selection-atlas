@@ -1,9 +1,0 @@
-
-AGAP003310
-=============
-
-Name: **Or66**
-
-Description: Odorant receptor 66 [source:vb community annotation].
-
-TODO

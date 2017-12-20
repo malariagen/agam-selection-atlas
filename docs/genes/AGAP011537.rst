@@ -1,9 +1,0 @@
-
-AGAP011537
-=============
-
-
-
-Description: Argonaute 3 [source:vb community annotation].
-
-TODO

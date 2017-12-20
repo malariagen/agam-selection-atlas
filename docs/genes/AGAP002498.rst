@@ -1,9 +1,0 @@
-
-AGAP002498
-=============
-
-
-
-Description: Vam6/vps39-like protein isoform 1 [source:vb community annotation].
-
-TODO

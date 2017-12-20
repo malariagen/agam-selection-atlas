@@ -1,9 +1,0 @@
-
-AGAP003744
-=============
-
-
-
-Description: Ring finger protein 220 [source:vb community annotation].
-
-TODO

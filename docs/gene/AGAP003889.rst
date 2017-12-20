@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003889
+=============
+
+
+
+
+
+Description: Nadph-dependent diflavin oxidoreductase 1 [source:uniprotkb/trembl;acc:q7qk01].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003889>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006208
-=============
-
-
-
-Description: Carboxypeptidase b [source:vb community annotation].
-
-TODO

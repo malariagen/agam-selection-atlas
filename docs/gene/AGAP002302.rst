@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002302
+=============
+
+
+
+
+
+Description: Crossover junction endonuclease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002302>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

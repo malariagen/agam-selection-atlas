@@ -1,9 +1,0 @@
-
-AGAP011294
-=============
-
-Name: **DEF1**
-
-Description: Defensin anti-microbial peptide [source:vb community annotation].
-
-TODO

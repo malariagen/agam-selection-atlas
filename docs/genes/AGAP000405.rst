@@ -1,9 +1,0 @@
-
-AGAP000405
-=============
-
-
-
-Description: Sphingomyelin phosphodiesterase 4 [source:vb community annotation].
-
-TODO

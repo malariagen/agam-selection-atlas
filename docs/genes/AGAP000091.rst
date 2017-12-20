@@ -1,9 +1,0 @@
-
-AGAP000091
-=============
-
-
-
-Description: Methylsterol monooxygenase [source:vb community annotation].
-
-TODO

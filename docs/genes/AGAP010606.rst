@@ -1,9 +1,0 @@
-
-AGAP010606
-=============
-
-
-
-Description: Mitochondrial import inner membrane translocase subunit tim8 b [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005344
-=============
-
-
-
-Description: Vacuolar protein sorting-associated protein 28 homolog [source:vb community annotation].
-
-TODO

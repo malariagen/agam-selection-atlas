@@ -1,9 +1,0 @@
-
-AGAP001801
-=============
-
-
-
-Description: Dtw domain-containing protein 2 [source:vb community annotation].
-
-TODO

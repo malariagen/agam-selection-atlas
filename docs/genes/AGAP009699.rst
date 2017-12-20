@@ -1,9 +1,0 @@
-
-AGAP009699
-=============
-
-
-
-Description: Growth factor independent 1 [source:vb community annotation].
-
-TODO

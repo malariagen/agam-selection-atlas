@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003109
+=============
+
+
+
+
+
+Description: Transcriptional adapter 2-beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003109>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

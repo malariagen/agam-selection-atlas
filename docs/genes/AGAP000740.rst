@@ -1,9 +1,0 @@
-
-AGAP000740
-=============
-
-
-
-Description: Gdp-d-glucose phosphorylase c15orf58 homolog [source:vb community annotation].
-
-TODO

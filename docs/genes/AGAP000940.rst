@@ -1,9 +1,0 @@
-
-AGAP000940
-=============
-
-Name: **CTL7**
-
-Description: C-type lectin (ctl) [source:vb community annotation].
-
-TODO

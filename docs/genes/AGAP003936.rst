@@ -1,9 +1,0 @@
-
-AGAP003936
-=============
-
-
-
-Description: Small nuclear ribonucleoprotein d2 [source:vb community annotation].
-
-TODO

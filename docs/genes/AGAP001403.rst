@@ -1,9 +1,0 @@
-
-AGAP001403
-=============
-
-
-
-Description: Protein mpv17 [source:vb community annotation].
-
-TODO

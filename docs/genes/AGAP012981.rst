@@ -1,9 +1,0 @@
-
-AGAP012981
-=============
-
-
-
-Description: Nipsnap homolog 2 [source:vb community annotation].
-
-TODO

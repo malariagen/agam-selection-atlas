@@ -1,9 +1,0 @@
-
-AGAP009788
-=============
-
-
-
-Description: Translocation protein sec62 [source:vb community annotation].
-
-TODO

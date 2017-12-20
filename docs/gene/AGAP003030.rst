@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003030
+=============
+
+
+
+
+
+Description: Pyruvate dehydrogenase e1 component subunit alpha [source:uniprotkb/trembl;acc:q7qda6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003030>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

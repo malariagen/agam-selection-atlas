@@ -1,9 +1,0 @@
-
-AGAP001898
-=============
-
-Name: **mRpL44**
-
-Description: 39s ribosomal protein l44, mitochondrial [source:vb community annotation].
-
-TODO

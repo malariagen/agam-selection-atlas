@@ -1,9 +1,0 @@
-
-AGAP001684
-=============
-
-
-
-Description: Alkaline phosphatase [source:uniprotkb/trembl;acc:q7py02].
-
-TODO

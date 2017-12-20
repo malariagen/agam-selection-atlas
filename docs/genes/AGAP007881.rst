@@ -1,9 +1,0 @@
-
-AGAP007881
-=============
-
-
-
-Description: Steroid dehydrogenase [source:vb community annotation].
-
-TODO

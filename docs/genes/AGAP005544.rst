@@ -1,9 +1,0 @@
-
-AGAP005544
-=============
-
-
-
-Description: Amyloid beta precursor protein binding protein 1 [source:vb community annotation].
-
-TODO

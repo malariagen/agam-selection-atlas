@@ -1,9 +1,0 @@
-
-AGAP004818
-=============
-
-Name: **mRpS16**
-
-Description: 28s ribosomal protein s16, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001134
-=============
-
-Name: **mRpS30**
-
-Description: 28s ribosomal protein s30, mitochondrial [source:vb community annotation].
-
-TODO

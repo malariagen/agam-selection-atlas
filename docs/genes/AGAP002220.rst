@@ -1,9 +1,0 @@
-
-AGAP002220
-=============
-
-
-
-Description: U6 snrna phosphodiesterase [source:uniprotkb/trembl;acc:q7qk92].
-
-TODO

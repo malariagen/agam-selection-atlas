@@ -1,9 +1,0 @@
-
-AGAP000889
-=============
-
-
-
-Description: Coactosin-like protein [source:vb community annotation].
-
-TODO

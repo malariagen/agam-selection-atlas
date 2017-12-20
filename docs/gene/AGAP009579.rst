@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009579
+=============
+
+
+
+
+
+Description: Dihydropyridine-sensitive l-type calcium channel [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009579>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

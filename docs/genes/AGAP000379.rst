@@ -1,9 +1,0 @@
-
-AGAP000379
-=============
-
-Name: **PBD3**
-
-Description: Piggybac-derived 3 [source:vb community annotation].
-
-TODO

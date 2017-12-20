@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002894
+=============
+
+
+
+Name: **CYP6Z4**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002894>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

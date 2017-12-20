@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002256
+=============
+
+
+
+
+
+Description: Rna-binding protein 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002256>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003903
-=============
-
-
-
-Description: Required for meiotic nuclear division 1 homolog (s. cerevisiae) [source:vb community annotation].
-
-TODO

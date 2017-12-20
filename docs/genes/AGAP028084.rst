@@ -1,9 +1,0 @@
-
-AGAP028084
-=============
-
-
-
-Description: Metalloendopeptidase [source:uniprotkb/trembl;acc:a0a1s4hcu7].
-
-TODO

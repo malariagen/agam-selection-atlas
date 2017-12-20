@@ -1,9 +1,0 @@
-
-AGAP001558
-=============
-
-Name: **GPRGNR2**
-
-Description: Putative gonadotrophin releasing hormone receptor 2 [source:vb community annotation].
-
-TODO

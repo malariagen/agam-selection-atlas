@@ -1,9 +1,0 @@
-
-AGAP001721
-=============
-
-
-
-Description: Translocon-associated protein subunit alpha [source:vb community annotation].
-
-TODO

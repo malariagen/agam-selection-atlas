@@ -1,9 +1,0 @@
-
-AGAP003972
-=============
-
-Name: **GPRCIR**
-
-Description: Putative cirl/latrotoxin receptor [source:vb community annotation].
-
-TODO

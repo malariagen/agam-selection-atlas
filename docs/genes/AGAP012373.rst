@@ -1,9 +1,0 @@
-
-AGAP012373
-=============
-
-
-
-Description: Poly(a)  rna export protein [source:vb community annotation].
-
-TODO

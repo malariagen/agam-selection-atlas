@@ -1,9 +1,0 @@
-
-AGAP008060
-=============
-
-Name: **IDGF2**
-
-Description: Imaginal disc growth factor 2 [source:vb community annotation].
-
-TODO

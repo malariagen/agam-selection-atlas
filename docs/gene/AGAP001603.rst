@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001603
+=============
+
+
+
+
+
+Description: Mitochondrial 18 kda protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001603>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

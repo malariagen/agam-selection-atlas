@@ -1,9 +1,0 @@
-
-AGAP004704
-=============
-
-
-
-Description: Compass component spp1 [source:vb community annotation].
-
-TODO

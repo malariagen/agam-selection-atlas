@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001395
+=============
+
+
+
+
+
+Description: Protease, serine [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001395>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005131
-=============
-
-Name: **RpS24**
-
-Description: 40s ribosomal protein s24 [source:uniprotkb/trembl;acc:q7pq02].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006840
+=============
+
+
+
+Name: **CPR136**
+
+Description: Cuticular protein rr-1 family 136 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006840>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

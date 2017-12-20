@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002651
+=============
+
+
+
+Name: **IAP6**
+
+Description: Inhibitor of apoptosis 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002651>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

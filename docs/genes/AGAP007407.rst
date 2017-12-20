@@ -1,9 +1,0 @@
-
-AGAP007407
-=============
-
-Name: **CTLMA4**
-
-Description: C-type lectin (ctl) - mannose binding [source:vb community annotation].
-
-TODO

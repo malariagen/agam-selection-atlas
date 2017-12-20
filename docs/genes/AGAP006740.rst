@@ -1,9 +1,0 @@
-
-AGAP006740
-=============
-
-
-
-Description: Dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit [source:vb community annotation].
-
-TODO

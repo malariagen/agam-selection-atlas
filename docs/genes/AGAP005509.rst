@@ -1,9 +1,0 @@
-
-AGAP005509
-=============
-
-
-
-Description: Ufm1-specific protease 1 [source:vb community annotation].
-
-TODO

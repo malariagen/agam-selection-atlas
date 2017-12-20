@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004294
+=============
+
+
+
+Name: **Ubqn**
+
+Description: Ubiquilin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004294>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005289
-=============
-
-
-
-Description: Myostatin [source:vb community annotation].
-
-TODO

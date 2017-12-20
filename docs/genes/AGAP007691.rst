@@ -1,9 +1,0 @@
-
-AGAP007691
-=============
-
-Name: **SRPN18**
-
-Description: Serine protease inhibitor (serpin) 18 [source:vb community annotation].
-
-TODO

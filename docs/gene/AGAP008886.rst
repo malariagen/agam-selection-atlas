@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008886
+=============
+
+
+
+
+
+Description: Tetraspanin [source:uniprotkb/trembl;acc:q7pwq3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008886>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

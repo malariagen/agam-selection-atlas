@@ -1,9 +1,0 @@
-
-AGAP011284
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 5a [source:uniprotkb/trembl;acc:q7psr5].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010086
-=============
-
-
-
-Description: Arginyl-trna synthetase [source:vb community annotation].
-
-TODO

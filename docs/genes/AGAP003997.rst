@@ -1,9 +1,0 @@
-
-AGAP003997
-=============
-
-
-
-Description: Casein kinase 1, gamma [source:vb community annotation].
-
-TODO

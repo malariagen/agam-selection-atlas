@@ -1,9 +1,0 @@
-
-AGAP009264
-=============
-
-
-
-Description: Ethanolamine-phosphate cytidylyltransferase [source:vb community annotation].
-
-TODO

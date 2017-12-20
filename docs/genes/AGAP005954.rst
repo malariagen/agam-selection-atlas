@@ -1,9 +1,0 @@
-
-AGAP005954
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme e2 j2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003194
+=============
+
+
+
+Name: **SRPN8**
+
+Description: Serine protease inhibitor (serpin) 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003194>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

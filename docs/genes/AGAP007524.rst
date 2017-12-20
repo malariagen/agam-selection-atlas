@@ -1,9 +1,0 @@
-
-AGAP007524
-=============
-
-
-
-Description: Suppression of tumorigenicity [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011687
-=============
-
-Name: **RpL27**
-
-Description: 60s ribosomal protein l27 [source:uniprotkb/trembl;acc:q5tmj9].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003794
+=============
+
+
+
+
+
+Description: Splicing factor, proline- and glutamine-rich [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003794>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000462
-=============
-
-
-
-Description: Peptidyl-prolyl isomerase f (cyclophilin d) [source:vb community annotation].
-
-TODO

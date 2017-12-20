@@ -1,9 +1,0 @@
-
-AGAP012757
-=============
-
-
-
-Description: Aminopeptidase n1 [source:vb community annotation].
-
-TODO

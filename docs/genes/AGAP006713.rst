@@ -1,9 +1,0 @@
-
-AGAP006713
-=============
-
-Name: **Gr28**
-
-Description: Gustatory receptor 28 [source:vb community annotation].
-
-TODO

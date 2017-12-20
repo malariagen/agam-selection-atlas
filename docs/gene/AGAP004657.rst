@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004657
+=============
+
+
+
+
+
+Description: Mitochondrial inner membrane translocase subunit (tim17) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004657>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

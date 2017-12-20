@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013268
+=============
+
+
+
+
+
+Description: Cystinosin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013268>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

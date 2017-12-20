@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002384
+=============
+
+
+
+
+
+Description: Trna (guanine10-n2)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002384>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

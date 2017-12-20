@@ -1,9 +1,0 @@
-
-AGAP011190
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 2 subunit alpha [source:vb community annotation].
-
-TODO

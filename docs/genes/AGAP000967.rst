@@ -1,9 +1,0 @@
-
-AGAP000967
-=============
-
-
-
-Description: Estrogen receptor binding site associated antigen 9 variant 1 [source:vb community annotation].
-
-TODO

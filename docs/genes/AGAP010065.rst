@@ -1,9 +1,0 @@
-
-AGAP010065
-=============
-
-Name: **RpL12**
-
-Description: 60s ribosomal protein l12 [source:vb community annotation].
-
-TODO

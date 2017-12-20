@@ -1,9 +1,0 @@
-
-AGAP004382
-=============
-
-Name: **GSTD3**
-
-Description: Glutathione s-transferase delta class 3 [source:vb community annotation].
-
-TODO

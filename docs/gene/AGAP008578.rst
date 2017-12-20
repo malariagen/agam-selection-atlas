@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008578
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008578>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

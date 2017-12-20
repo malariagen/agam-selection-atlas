@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012714
+=============
+
+
+
+Name: **Obp72**
+
+Description: Odorant-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012714>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

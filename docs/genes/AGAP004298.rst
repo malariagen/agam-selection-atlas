@@ -1,9 +1,0 @@
-
-AGAP004298
-=============
-
-
-
-Description: Calcineurin beta subunit [source:vb community annotation].
-
-TODO

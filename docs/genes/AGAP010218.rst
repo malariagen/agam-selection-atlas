@@ -1,9 +1,0 @@
-
-AGAP010218
-=============
-
-
-
-Description: Lkb1 interacting protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005729
-=============
-
-
-
-Description: Cyclin-dependent kinase 14 [source:vb community annotation].
-
-TODO

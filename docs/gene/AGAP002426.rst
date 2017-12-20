@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002426
+=============
+
+
+
+
+
+Description: Protein opi10 homolog [source:uniprotkb/swiss-prot;acc:q7prb5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002426>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

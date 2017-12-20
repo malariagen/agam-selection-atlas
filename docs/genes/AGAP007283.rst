@@ -1,9 +1,0 @@
-
-AGAP007283
-=============
-
-Name: **Obp66**
-
-Description: Odorant-binding protein [source:vb community annotation].
-
-TODO

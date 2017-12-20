@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006439
+=============
+
+
+
+
+
+Description: Fringe [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006439>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:31893753-32017631#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

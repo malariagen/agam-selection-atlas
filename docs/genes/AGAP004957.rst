@@ -1,9 +1,0 @@
-
-AGAP004957
-=============
-
-
-
-Description: Origin recognition complex subunit 1 [source:vb community annotation].
-
-TODO

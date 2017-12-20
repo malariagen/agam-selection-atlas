@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007056
+=============
+
+
+
+Name: **SIFa**
+
+Description: Sifamide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007056>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

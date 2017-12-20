@@ -1,9 +1,0 @@
-
-AGAP010669
-=============
-
-Name: **TOLL5B**
-
-Description: Toll-like receptor 5b [source:vb community annotation].
-
-TODO

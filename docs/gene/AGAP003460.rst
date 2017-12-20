@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003460
+=============
+
+
+
+
+
+Description: Mrna (guanine-n7-)-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003460>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000932
-=============
-
-
-
-Description: Rap guanine nucleotide exchange factor (gef) 1 [source:vb community annotation].
-
-TODO

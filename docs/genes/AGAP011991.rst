@@ -1,9 +1,0 @@
-
-AGAP011991
-=============
-
-Name: **Or61**
-
-Description: Odorant receptor 61 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007701
+=============
+
+
+
+Name: **Cbc**
+
+Description: Protein clp1 homolog [source:uniprotkb/swiss-prot;acc:q7qjw7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007701>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

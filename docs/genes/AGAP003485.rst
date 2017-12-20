@@ -1,9 +1,0 @@
-
-AGAP003485
-=============
-
-
-
-Description: Thioredoxin domain-containing protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001723
-=============
-
-Name: **COEAE1A**
-
-Description: Carboxylesterase alpha esterase [source:vb community annotation].
-
-TODO

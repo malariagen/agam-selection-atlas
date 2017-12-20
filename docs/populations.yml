@@ -1,18 +1,18 @@
-- id: aom
+- id: AOM
   label: Angola *An. coluzzii*
-- id: bfm
+- id: BFM
   label: Burkina Faso *An. coluzzii*
-- id: gwa
+- id: GWA
   label: Guinea Bissau
-- id: gns
+- id: GNS
   label: Guinea *An. gambiae*
-- id: bfs
+- id: BFS
   label: Burkina Faso *An. gambiae*
-- id: cms
+- id: CMS
   label: Cameroon *An. gambiae*
-- id: ugs
+- id: UGS
   label: Uganda *An. gambiae*
-- id: gas
+- id: GAS
   label: Gabon *An. gambiae*
-- id: kes
-  label: Kenya
+#- id: KES
+#  label: Kenya

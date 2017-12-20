@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011932
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase mind-bomb [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011932>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

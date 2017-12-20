@@ -1,9 +1,0 @@
-
-AGAP006161
-=============
-
-
-
-Description: Suppressor of g2 allele of skp1 [source:vb community annotation].
-
-TODO

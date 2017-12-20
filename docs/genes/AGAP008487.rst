@@ -1,9 +1,0 @@
-
-AGAP008487
-=============
-
-
-
-Description: Sphingomyelin phosphodiesterase [source:uniprotkb/trembl;acc:q7q4m5].
-
-TODO

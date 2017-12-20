@@ -1,9 +1,0 @@
-
-AGAP011886
-=============
-
-Name: **mRpS2**
-
-Description: 28s ribosomal protein s2, mitochondrial [source:vb community annotation].
-
-TODO

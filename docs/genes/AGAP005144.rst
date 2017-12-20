@@ -1,9 +1,0 @@
-
-AGAP005144
-=============
-
-
-
-Description: Replication factor c subunit 3/5 [source:vb community annotation].
-
-TODO

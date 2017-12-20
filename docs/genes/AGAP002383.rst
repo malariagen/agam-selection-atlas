@@ -1,9 +1,0 @@
-
-AGAP002383
-=============
-
-
-
-Description: Methionyl-trna synthetase [source:vb community annotation].
-
-TODO

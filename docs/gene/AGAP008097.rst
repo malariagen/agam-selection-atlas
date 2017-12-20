@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008097
+=============
+
+
+
+
+
+Description: Glucose-fructose oxidoreductase domain-containing protein 2 precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008097>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

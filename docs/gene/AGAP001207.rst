@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001207
+=============
+
+
+
+
+
+Description: Comm domain-containing protein 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001207>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003171
-=============
-
-
-
-Description: Nucleolar protein 12 [source:vb community annotation].
-
-TODO

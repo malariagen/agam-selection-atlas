@@ -1,9 +1,0 @@
-
-AGAP005850
-=============
-
-
-
-Description: Growth arrest-specific protein 8 homolog [source:vb community annotation].
-
-TODO

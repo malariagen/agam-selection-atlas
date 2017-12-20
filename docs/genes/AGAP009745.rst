@@ -1,9 +1,0 @@
-
-AGAP009745
-=============
-
-
-
-Description: Sugar transporter erd6-like 4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010313
-=============
-
-
-
-Description: Serine/threonine-protein kinase atr [source:vb community annotation].
-
-TODO

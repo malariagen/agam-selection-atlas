@@ -1,9 +1,0 @@
-
-AGAP002735
-=============
-
-
-
-Description: Histone acetyltransferase myst4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006192
-=============
-
-
-
-Description: Chymotrypsin b chain c [source:vb community annotation].
-
-TODO

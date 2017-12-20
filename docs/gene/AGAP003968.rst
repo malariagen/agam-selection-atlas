@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003968
+=============
+
+
+
+
+
+Description: Ump-cmp kinase [source:uniprotkb/trembl;acc:q7q292].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003968>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005717
-=============
-
-Name: **LYSC6**
-
-Description: C-type lysozyme (multi-lysozyme domain protein) [source:vb community annotation].
-
-TODO

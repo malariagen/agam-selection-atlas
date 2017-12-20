@@ -1,9 +1,0 @@
-
-AGAP002522
-=============
-
-
-
-Description: Cell cycle checkpoint control protein rad9a [source:vb community annotation].
-
-TODO

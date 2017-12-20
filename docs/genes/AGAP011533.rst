@@ -1,9 +1,0 @@
-
-AGAP011533
-=============
-
-
-
-Description: Tetratricopeptide repeat protein 15 [source:vb community annotation].
-
-TODO

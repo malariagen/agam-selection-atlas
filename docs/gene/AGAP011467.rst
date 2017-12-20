@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011467
+=============
+
+
+
+Name: **Or5**
+
+Description: Odorant receptor 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011467>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

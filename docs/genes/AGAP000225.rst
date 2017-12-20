@@ -1,9 +1,0 @@
-
-AGAP000225
-=============
-
-
-
-Description: Netrin 1 [source:vb community annotation].
-
-TODO

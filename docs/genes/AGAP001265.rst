@@ -1,9 +1,0 @@
-
-AGAP001265
-=============
-
-
-
-Description: Solute carrier family 7 (cationic amino acid transporter), member 14 [source:vb community annotation].
-
-TODO

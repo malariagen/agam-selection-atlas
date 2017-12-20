@@ -1,9 +1,0 @@
-
-AGAP003586
-=============
-
-
-
-Description: Phosphate carrier, mitochondrial [source:vb community annotation].
-
-TODO

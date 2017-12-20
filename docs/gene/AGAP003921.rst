@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003921
+=============
+
+
+
+
+
+Description: Voltage-gated ion channel [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003921>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

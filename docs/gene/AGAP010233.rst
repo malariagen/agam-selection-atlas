@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010233
+=============
+
+
+
+
+
+Description: Integrin beta 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010233>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011803
-=============
-
-Name: **mRpS27**
-
-Description: 28s ribosomal protein s27, mitochondrial [source:vb community annotation].
-
-TODO

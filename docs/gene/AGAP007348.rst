@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007348
+=============
+
+
+
+
+
+Description: Coiled-coil domain-containing protein 102a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007348>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

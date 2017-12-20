@@ -1,9 +1,0 @@
-
-AGAP005632
-=============
-
-
-
-Description: Gamma-soluble nsf attachment protein [source:vb community annotation].
-
-TODO

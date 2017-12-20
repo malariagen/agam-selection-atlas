@@ -1,9 +1,0 @@
-
-AGAP003891
-=============
-
-Name: **Thoc3**
-
-Description: Tho complex subunit 3 [source:vb community annotation].
-
-TODO

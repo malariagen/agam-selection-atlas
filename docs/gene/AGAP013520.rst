@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013520
+=============
+
+
+
+Name: **IR7x**
+
+Description: Ionotropic receptor ir7x [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013520>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

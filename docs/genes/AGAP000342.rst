@@ -1,9 +1,0 @@
-
-AGAP000342
-=============
-
-
-
-Description: Inhibin, beta [source:vb community annotation].
-
-TODO

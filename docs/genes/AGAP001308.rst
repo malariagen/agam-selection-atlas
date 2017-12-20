@@ -1,9 +1,0 @@
-
-AGAP001308
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 64 [source:vb community annotation].
-
-TODO

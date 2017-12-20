@@ -1,9 +1,0 @@
-
-AGAP008482
-=============
-
-
-
-Description: Chromodomain-helicase-dna-binding protein 7 [source:vb community annotation].
-
-TODO

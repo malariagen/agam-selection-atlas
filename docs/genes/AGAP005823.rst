@@ -1,9 +1,0 @@
-
-AGAP005823
-=============
-
-
-
-Description: Ubiquitin-related modifier 1 homolog [source:uniprotkb/swiss-prot;acc:q7q6i6].
-
-TODO

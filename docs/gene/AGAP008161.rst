@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008161
+=============
+
+
+
+
+
+Description: Ribonuclease h2 subunit b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008161>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

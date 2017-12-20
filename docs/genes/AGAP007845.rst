@@ -1,9 +1,0 @@
-
-AGAP007845
-=============
-
-
-
-Description: Endonuclease g, mitochondrial [source:vb community annotation].
-
-TODO

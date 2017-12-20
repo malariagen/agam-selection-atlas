@@ -1,9 +1,0 @@
-
-AGAP010693
-=============
-
-
-
-Description: Periodic tryptophan protein 2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012082
-=============
-
-
-
-Description: Mitochondrial peptide chain release factor [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000422
+=============
+
+
+
+
+
+Description: (heparan sulfate)-glucosamine 3-sulfotransferase 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000422>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

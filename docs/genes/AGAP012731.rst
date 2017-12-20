@@ -1,9 +1,0 @@
-
-AGAP012731
-=============
-
-
-
-Description: Compass component swd3 [source:vb community annotation].
-
-TODO

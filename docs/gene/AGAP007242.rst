@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007242
+=============
+
+
+
+
+
+Description: Cleavage and polyadenylation specificity factor subunit 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007242>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

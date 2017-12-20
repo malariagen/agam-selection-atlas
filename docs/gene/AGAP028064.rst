@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028064
+=============
+
+
+
+Name: **LRIM16B**
+
+Description: Leucine-rich immune protein (tm) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028064>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

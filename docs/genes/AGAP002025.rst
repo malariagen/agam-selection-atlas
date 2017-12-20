@@ -1,9 +1,0 @@
-
-AGAP002025
-=============
-
-Name: **OBP11**
-
-Description: Odorant-binding protein 11 [source:vb community annotation].
-
-TODO

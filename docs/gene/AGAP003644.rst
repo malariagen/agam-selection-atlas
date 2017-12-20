@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003644
+=============
+
+
+
+Name: **mRpS11**
+
+Description: 28s ribosomal protein s11, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003644>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

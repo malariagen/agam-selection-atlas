@@ -1,9 +1,0 @@
-
-AGAP005051
-=============
-
-
-
-Description: Dna polymerase epsilon subunit 3 [source:vb community annotation].
-
-TODO

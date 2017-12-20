@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010193
+=============
+
+
+
+Name: **CTLGA3**
+
+Description: C-type lectin (ctl) - galactose binding [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010193>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

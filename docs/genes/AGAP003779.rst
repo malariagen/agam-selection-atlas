@@ -1,9 +1,0 @@
-
-AGAP003779
-=============
-
-
-
-Description: Serine/threonine-protein phosphatase 4 catalytic subunit [source:vb community annotation].
-
-TODO

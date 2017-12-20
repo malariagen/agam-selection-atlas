@@ -1,9 +1,0 @@
-
-AGAP002891
-=============
-
-Name: **GPRMGL4**
-
-Description: Putative metabotropic glutamate receptor 4 [source:vb community annotation].
-
-TODO

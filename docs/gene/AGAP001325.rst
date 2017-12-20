@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001325
+=============
+
+
+
+
+
+Description: Peroxiredoxin 5, atypical 2-cys peroxiredoxin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001325>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

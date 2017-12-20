@@ -1,9 +1,0 @@
-
-AGAP005892
-=============
-
-
-
-Description: Importin beta-2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001025
-=============
-
-
-
-Description: Protein msta, isoform a [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007969
+=============
+
+
+
+
+
+Description: Thiamin pyrophosphokinase-related protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007969>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009810
+=============
+
+
+
+
+
+Description: Peptidyl-prolyl isomerase e (cyclophilin e) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009810>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

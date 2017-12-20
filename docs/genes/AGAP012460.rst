@@ -1,9 +1,0 @@
-
-AGAP012460
-=============
-
-Name: **Fsn**
-
-Description: F-box/spry domain-containing protein 1 [source:uniprotkb/swiss-prot;acc:q7qgl9].
-
-TODO

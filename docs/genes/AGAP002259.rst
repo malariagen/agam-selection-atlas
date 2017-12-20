@@ -1,9 +1,0 @@
-
-AGAP002259
-=============
-
-
-
-Description: Structure-specific endonuclease subunit slx1 [source:vb community annotation].
-
-TODO

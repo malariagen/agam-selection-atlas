@@ -1,9 +1,0 @@
-
-AGAP010618
-=============
-
-
-
-Description: Eupolytin [source:vb community annotation].
-
-TODO

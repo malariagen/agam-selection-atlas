@@ -1,9 +1,0 @@
-
-AGAP005634
-=============
-
-Name: **Cht2**
-
-Description: Chitinase [source:vb community annotation].
-
-TODO

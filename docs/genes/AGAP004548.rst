@@ -1,9 +1,0 @@
-
-AGAP004548
-=============
-
-
-
-Description: Lim domain-containing protein [source:vb community annotation].
-
-TODO

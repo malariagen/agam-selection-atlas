@@ -1,9 +1,0 @@
-
-AGAP000249
-=============
-
-
-
-Description: Mannosyl-glycoprotein endo-beta-n-acetylglucosaminidase [source:vb community annotation].
-
-TODO

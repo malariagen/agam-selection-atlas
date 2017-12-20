@@ -1,9 +1,0 @@
-
-AGAP006906
-=============
-
-
-
-Description: Cat eye syndrome critical region protein 1 [source:vb community annotation].
-
-TODO

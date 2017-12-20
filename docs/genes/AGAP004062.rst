@@ -1,9 +1,0 @@
-
-AGAP004062
-=============
-
-
-
-Description: Ddb1- and cul4-associated factor 15 [source:vb community annotation].
-
-TODO

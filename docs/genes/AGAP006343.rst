@@ -1,9 +1,0 @@
-
-AGAP006343
-=============
-
-Name: **PGRPS2**
-
-Description: Peptidoglycan recognition protein (short) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011060
-=============
-
-
-
-Description: Calcium binding protein 39 [source:vb community annotation].
-
-TODO

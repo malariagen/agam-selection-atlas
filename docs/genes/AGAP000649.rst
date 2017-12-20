@@ -1,9 +1,0 @@
-
-AGAP000649
-=============
-
-
-
-Description: Epimerase [source:vb community annotation].
-
-TODO

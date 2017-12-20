@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011210
+=============
+
+
+
+
+
+Description: Hermansky-pudlak syndrome 1 protein-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011210>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

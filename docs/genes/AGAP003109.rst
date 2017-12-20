@@ -1,9 +1,0 @@
-
-AGAP003109
-=============
-
-
-
-Description: Transcriptional adapter 2-beta [source:vb community annotation].
-
-TODO

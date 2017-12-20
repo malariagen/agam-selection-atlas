@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008335
+=============
+
+
+
+
+
+Description: Solute carrier family 22 member 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008335>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003199
-=============
-
-
-
-Description: Mitochondrial import inner membrane translocase subunit (tim22) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP013146
-=============
-
-Name: **APN5**
-
-Description: Aminopeptidase 5 [source:vb community annotation].
-
-TODO

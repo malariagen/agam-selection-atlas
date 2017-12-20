@@ -1,9 +1,0 @@
-
-AGAP009562
-=============
-
-
-
-Description: Udp-glucose:o-linked fucose beta-1,3-glucosyltransferase [source:vb community annotation].
-
-TODO

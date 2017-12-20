@@ -1,9 +1,0 @@
-
-AGAP011983
-=============
-
-
-
-Description: Atp-dependent (s)-nad(p)h-hydrate dehydratase [source:uniprotkb/trembl;acc:a0a1s4h960].
-
-TODO

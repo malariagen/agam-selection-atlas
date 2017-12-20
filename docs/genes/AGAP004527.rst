@@ -1,9 +1,0 @@
-
-AGAP004527
-=============
-
-
-
-Description: N-acylneuraminate cytidylyltransferase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008474
-=============
-
-
-
-Description: Calcium and integrin-binding protein 1 [source:vb community annotation].
-
-TODO

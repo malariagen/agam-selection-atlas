@@ -1,9 +1,0 @@
-
-AGAP007481
-=============
-
-
-
-Description: Chromatin accessibility complex protein 1 [source:vb community annotation].
-
-TODO

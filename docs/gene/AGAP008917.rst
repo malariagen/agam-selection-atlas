@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008917
+=============
+
+
+
+
+
+Description: Dna topoisomerase ii [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008917>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

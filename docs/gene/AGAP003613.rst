@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003613
+=============
+
+
+
+
+
+Description: Palmitoyltransferase zdhhc3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003613>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

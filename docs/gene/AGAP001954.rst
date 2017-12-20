@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001954
+=============
+
+
+
+Name: **psidin**
+
+Description: Phagocyte signaling-impaired protein [source:uniprotkb/swiss-prot;acc:q7pyi4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001954>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

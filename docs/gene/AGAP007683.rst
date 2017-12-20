@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007683
+=============
+
+
+
+
+
+Description: Vacuolar protein sorting-associated protein 35 [source:uniprotkb/trembl;acc:q7pt27].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007683>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

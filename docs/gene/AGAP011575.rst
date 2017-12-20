@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011575
+=============
+
+
+
+Name: **COE15O**
+
+Description: Carboxylesterase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011575>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

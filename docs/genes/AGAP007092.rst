@@ -1,9 +1,0 @@
-
-AGAP007092
-=============
-
-
-
-Description: Down syndrome cell adhesion molecule [source:vb community annotation].
-
-TODO

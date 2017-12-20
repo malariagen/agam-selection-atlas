@@ -1,9 +1,0 @@
-
-AGAP009508
-=============
-
-Name: **RpL9**
-
-Description: 60s ribosomal protein l9 [source:vb community annotation].
-
-TODO

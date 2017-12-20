@@ -1,9 +1,0 @@
-
-AGAP002623
-=============
-
-
-
-Description: Tubulin polyglutamylase ttll6/13 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008766
+=============
+
+
+
+
+
+Description: Aquaporin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008766>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009402
-=============
-
-Name: **OBP43**
-
-Description: Odorant-binding protein 43 [source:vb community annotation].
-
-TODO

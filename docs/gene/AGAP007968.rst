@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007968
+=============
+
+
+
+
+
+Description: Cysteine-rich with egf-like domain protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007968>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

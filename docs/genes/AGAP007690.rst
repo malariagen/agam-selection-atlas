@@ -1,9 +1,0 @@
-
-AGAP007690
-=============
-
-
-
-Description: Anaphase-promoting complex subunit 3 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003405
+=============
+
+
+
+
+
+Description: Adenylosuccinate synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003405>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007592
+=============
+
+
+
+
+
+Description: Kinesin family member [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007592>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

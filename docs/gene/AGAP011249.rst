@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011249
+=============
+
+
+
+
+
+Description: Pre-mrna-splicing factor cwc26 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011249>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

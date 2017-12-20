@@ -1,9 +1,0 @@
-
-AGAP028364
-=============
-
-Name: **COX1**
-
-Description: Cytochrome c oxidase subunit i [source:european nucleotide archive;acc:cox1].
-
-TODO

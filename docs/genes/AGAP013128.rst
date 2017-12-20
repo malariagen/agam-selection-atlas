@@ -1,9 +1,0 @@
-
-AGAP013128
-=============
-
-Name: **CYP6AA2**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

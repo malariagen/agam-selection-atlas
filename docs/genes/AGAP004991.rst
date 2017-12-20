@@ -1,9 +1,0 @@
-
-AGAP004991
-=============
-
-
-
-Description: 20s proteasome subunit beta 6 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004067
+=============
+
+
+
+Name: **Or58**
+
+Description: Odorant receptor 58 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004067>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002662
+=============
+
+
+
+
+
+Description: Cdp-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [source:uniprotkb/trembl;acc:q7qcj7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002662>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

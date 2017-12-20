@@ -1,9 +1,0 @@
-
-AGAP001026
-=============
-
-
-
-Description: Carboxypeptidase a [source:vb community annotation].
-
-TODO

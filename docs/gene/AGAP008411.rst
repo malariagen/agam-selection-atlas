@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008411
+=============
+
+
+
+
+
+Description: Repressor of rna polymerase iii transcription maf1 [source:uniprotkb/trembl;acc:a0a1s4gy73].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008411>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002876
-=============
-
-
-
-Description: Single-strand selective monofunctional uracil dna glycosylase [source:vb community annotation].
-
-TODO

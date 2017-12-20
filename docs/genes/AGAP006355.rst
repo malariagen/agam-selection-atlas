@@ -1,9 +1,0 @@
-
-AGAP006355
-=============
-
-
-
-Description: Transcription initiation factor tfiie subunit alpha [source:vb community annotation].
-
-TODO

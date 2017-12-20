@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009023
+=============
+
+
+
+
+
+Description: Cytosolic fe-s cluster assembly factor agap009023 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009023>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

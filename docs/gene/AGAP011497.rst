@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011497
+=============
+
+
+
+
+
+Description: Vacuolar protein sorting protein 25 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011497>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

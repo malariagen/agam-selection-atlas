@@ -1,9 +1,0 @@
-
-AGAP010899
-=============
-
-Name: **HPX11**
-
-Description: Heme peroxidase 11 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009207
+=============
+
+
+
+
+
+Description: Extracellular signal-regulated kinase 1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009207>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

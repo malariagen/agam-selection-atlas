@@ -1,9 +1,0 @@
-
-AGAP004223
-=============
-
-Name: **GPR5HT7**
-
-Description: Putative serotonin 5ht-7 receptor [source:vb community annotation].
-
-TODO

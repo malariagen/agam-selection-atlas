@@ -1,9 +1,0 @@
-
-AGAP001532
-=============
-
-Name: **GPRGNR3**
-
-Description: Putative gonadotrophin releasing hormone receptor 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007793
-=============
-
-
-
-Description: Regucalcin protein [source:vb community annotation].
-
-TODO

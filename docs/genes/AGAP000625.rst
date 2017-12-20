@@ -1,9 +1,0 @@
-
-AGAP000625
-=============
-
-
-
-Description: Vacuolar protein-sorting-associated protein 4 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003719
-=============
-
-
-
-Description: Ferrochelatase [source:uniprotkb/trembl;acc:q7qg25].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008731
-=============
-
-
-
-Description: Laccase-like multicopper oxidase 2 [source:vb community annotation].
-
-TODO

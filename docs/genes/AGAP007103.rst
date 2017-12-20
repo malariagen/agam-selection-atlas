@@ -1,9 +1,0 @@
-
-AGAP007103
-=============
-
-
-
-Description: Calsyntenin-1 [source:vb community annotation].
-
-TODO

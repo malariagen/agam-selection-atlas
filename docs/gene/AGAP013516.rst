@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013516
+=============
+
+
+
+
+
+Description: Mitogen-activated protein kinase kinase kinase 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013516>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

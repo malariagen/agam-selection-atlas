@@ -1,9 +1,0 @@
-
-AGAP008499
-=============
-
-
-
-Description: Mitochondrial transcription factor a [source:vb community annotation].
-
-TODO

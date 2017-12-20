@@ -1,9 +1,0 @@
-
-AGAP003356
-=============
-
-
-
-Description: Kh domain-containing, rna-binding, signal transduction-associated protein 3 [source:vb community annotation].
-
-TODO

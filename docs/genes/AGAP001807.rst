@@ -1,9 +1,0 @@
-
-AGAP001807
-=============
-
-Name: **GPRGPH**
-
-Description: Putative glycoprotein hormone gph-like receptor [source:vb community annotation].
-
-TODO

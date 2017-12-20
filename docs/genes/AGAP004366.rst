@@ -1,9 +1,0 @@
-
-AGAP004366
-=============
-
-
-
-Description: 1-pyrroline-5-carboxylate dehydrogenase [source:vb community annotation].
-
-TODO

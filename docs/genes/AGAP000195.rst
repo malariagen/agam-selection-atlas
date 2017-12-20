@@ -1,9 +1,0 @@
-
-AGAP000195
-=============
-
-
-
-Description: Cytoplasmic fmr1 interacting protein [source:vb community annotation].
-
-TODO

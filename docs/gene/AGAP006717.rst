@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006717
+=============
+
+
+
+Name: **Gr26**
+
+Description: Gustatory receptor 26 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006717>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

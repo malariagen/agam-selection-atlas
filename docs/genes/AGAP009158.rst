@@ -1,9 +1,0 @@
-
-AGAP009158
-=============
-
-
-
-Description: Guanylate cyclase [source:uniprotkb/trembl;acc:a0a1s4h0b2].
-
-TODO

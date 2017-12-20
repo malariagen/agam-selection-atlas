@@ -1,9 +1,0 @@
-
-AGAP010293
-=============
-
-
-
-Description: Mitochondrial glutamate carrier 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006020
-=============
-
-
-
-Description: Tryptophan 5-monooxygenase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002288
-=============
-
-
-
-Description: Hydroxymethylglutaryl-coa reductase (nadph) [source:vb community annotation].
-
-TODO

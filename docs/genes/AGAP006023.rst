@@ -1,9 +1,0 @@
-
-AGAP006023
-=============
-
-
-
-Description: Tyrosine 3-monooxygenase [source:vb community annotation].
-
-TODO

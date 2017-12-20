@@ -1,9 +1,0 @@
-
-AGAP001761
-=============
-
-
-
-Description: Ceramide synthetase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007034
-=============
-
-Name: **LRIM11**
-
-Description: Leucine-rich immune protein (short) [source:vb community annotation].
-
-TODO

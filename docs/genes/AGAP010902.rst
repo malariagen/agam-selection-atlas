@@ -1,9 +1,0 @@
-
-AGAP010902
-=============
-
-Name: **CPFL1**
-
-Description: Cuticular protein 1 from cpfl family [source:vb community annotation].
-
-TODO

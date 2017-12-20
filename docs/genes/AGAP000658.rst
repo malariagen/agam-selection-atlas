@@ -1,9 +1,0 @@
-
-AGAP000658
-=============
-
-Name: **GPRGHP3**
-
-Description: Putative growth hormone releasing hormone receptor 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009209
-=============
-
-Name: **Rpb11**
-
-Description: Dna-directed rna polymerase ii subunit rpb11 [source:uniprotkb/swiss-prot;acc:q7pvq9].
-
-TODO

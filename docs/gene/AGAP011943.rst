@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011943
+=============
+
+
+
+Name: **IR60a**
+
+Description: Ionotropic receptor ir60a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011943>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

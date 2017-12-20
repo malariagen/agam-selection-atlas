@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008247
+=============
+
+
+
+
+
+Description: Tgf-beta receptor type-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008247>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

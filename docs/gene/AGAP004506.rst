@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004506
+=============
+
+
+
+Name: **pburs**
+
+Description: Partner of bursicon [source:uniprotkb/swiss-prot;acc:q566b3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004506>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

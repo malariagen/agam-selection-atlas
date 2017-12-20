@@ -1,9 +1,0 @@
-
-AGAP004448
-=============
-
-
-
-Description: Segment polarity protein dishevelled [source:vb community annotation].
-
-TODO

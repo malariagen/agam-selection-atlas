@@ -1,9 +1,0 @@
-
-AGAP008685
-=============
-
-
-
-Description: Epoxy hydrolase [source:vb community annotation].
-
-TODO

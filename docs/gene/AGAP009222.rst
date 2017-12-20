@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009222
+=============
+
+
+
+
+
+Description: Dna ligase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009222>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006802
+=============
+
+
+
+Name: **mRpS35**
+
+Description: 28s ribosomal protein s35, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006802>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

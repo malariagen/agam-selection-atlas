@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010735
+=============
+
+
+
+Name: **HPX12**
+
+Description: Heme peroxidase 12 [source:uniprotkb/trembl;acc:a0a1s4h5n0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010735>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

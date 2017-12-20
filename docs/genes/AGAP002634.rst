@@ -1,9 +1,0 @@
-
-AGAP002634
-=============
-
-
-
-Description: Membrane dipeptidase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008374
+=============
+
+
+
+
+
+Description: Inosine triphosphate pyrophosphatase [source:uniprotkb/swiss-prot;acc:q7q4f5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008374>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

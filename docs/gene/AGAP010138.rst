@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010138
+=============
+
+
+
+
+
+Description: Uncharacterized protein yjbq [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010138>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

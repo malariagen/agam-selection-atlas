@@ -1,9 +1,0 @@
-
-AGAP008606
-=============
-
-
-
-Description: Forkhead box protein l [source:vb community annotation].
-
-TODO

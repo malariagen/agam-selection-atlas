@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007904
+=============
+
+
+
+
+
+Description: Leucine aminopeptidase-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007904>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

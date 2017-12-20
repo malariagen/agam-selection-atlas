@@ -1,9 +1,0 @@
-
-AGAP010485
-=============
-
-
-
-Description: Dopamine beta-monooxygenase [source:vb community annotation].
-
-TODO

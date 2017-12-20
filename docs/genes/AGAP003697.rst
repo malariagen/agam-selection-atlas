@@ -1,9 +1,0 @@
-
-AGAP003697
-=============
-
-
-
-Description: Beta-1,4-n-acetylglucosaminyltransferase [source:vb community annotation].
-
-TODO

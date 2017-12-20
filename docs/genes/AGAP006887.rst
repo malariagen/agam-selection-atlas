@@ -1,9 +1,0 @@
-
-AGAP006887
-=============
-
-
-
-Description: Dynein light chain 4, axonemal [source:vb community annotation].
-
-TODO

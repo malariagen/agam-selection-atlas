@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002258
+=============
+
+
+
+Name: **Med31**
+
+Description: Mediator of rna polymerase ii transcription subunit 31 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002258>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002121
-=============
-
-
-
-Description: Dna-directed rna polymerase ii subunit rpb7 [source:vb community annotation].
-
-TODO

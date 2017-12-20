@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009075
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase uap56/sub2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009075>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

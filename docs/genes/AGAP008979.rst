@@ -1,9 +1,0 @@
-
-AGAP008979
-=============
-
-
-
-Description: Lim homeobox protein 2/9 [source:vb community annotation].
-
-TODO

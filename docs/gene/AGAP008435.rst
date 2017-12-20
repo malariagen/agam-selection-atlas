@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008435
+=============
+
+
+
+
+
+Description: Transient receptor potential cation channel subfamily c, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008435>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

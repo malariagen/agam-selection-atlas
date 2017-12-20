@@ -1,9 +1,0 @@
-
-AGAP005948
-=============
-
-Name: **kh**
-
-Description: Kynurenine 3-monooxygenase [source:uniprotkb/swiss-prot;acc:q7q6a7].
-
-TODO

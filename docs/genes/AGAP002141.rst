@@ -1,9 +1,0 @@
-
-AGAP002141
-=============
-
-
-
-Description: Protein phosphatase ptc7 homolog fig [source:vb community annotation].
-
-TODO

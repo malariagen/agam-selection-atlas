@@ -1,9 +1,0 @@
-
-AGAP003618
-=============
-
-
-
-Description: Serine/threonine-protein kinase lats1/2 [source:vb community annotation].
-
-TODO

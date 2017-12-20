@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007895
+=============
+
+
+
+
+
+Description: A-kinase anchor protein 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007895>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

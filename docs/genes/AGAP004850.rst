@@ -1,9 +1,0 @@
-
-AGAP004850
-=============
-
-Name: **GPRSTN**
-
-Description: Putative stan-like receptor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002191
-=============
-
-Name: **OBP40**
-
-Description: Odorant-binding protein 40 [source:vb community annotation].
-
-TODO

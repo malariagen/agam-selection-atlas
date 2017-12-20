@@ -1,9 +1,0 @@
-
-AGAP006962
-=============
-
-
-
-Description: Multiple inositol polyphosphate phosphatase [source:vb community annotation].
-
-TODO

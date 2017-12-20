@@ -1,9 +1,0 @@
-
-AGAP002084
-=============
-
-
-
-Description: Glycerol-3-phosphate o-acyltransferase 3/4 [source:vb community annotation].
-
-TODO

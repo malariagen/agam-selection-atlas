@@ -1,9 +1,0 @@
-
-AGAP011946
-=============
-
-Name: **mRpL15**
-
-Description: 39s ribosomal protein l15, mitochondrial [source:vb community annotation].
-
-TODO

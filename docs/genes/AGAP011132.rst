@@ -1,9 +1,0 @@
-
-AGAP011132
-=============
-
-
-
-Description: Gins complex subunit 3 [source:vb community annotation].
-
-TODO

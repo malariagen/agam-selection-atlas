@@ -1,9 +1,0 @@
-
-AGAP000391
-=============
-
-
-
-Description: Negative elongation factor c/d [source:vb community annotation].
-
-TODO

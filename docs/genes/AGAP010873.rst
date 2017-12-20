@@ -1,9 +1,0 @@
-
-AGAP010873
-=============
-
-
-
-Description: Cytosolic fe-s cluster assembly factor nubp2 homolog [source:uniprotkb/swiss-prot;acc:q7qgs3].
-
-TODO

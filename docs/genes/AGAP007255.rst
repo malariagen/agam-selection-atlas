@@ -1,9 +1,0 @@
-
-AGAP007255
-=============
-
-
-
-Description: Mitochondrial oxaloacetate transport protein [source:vb community annotation].
-
-TODO

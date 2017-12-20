@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008871
+=============
+
+
+
+Name: **GPRFZ4**
+
+Description: Putative frizzled 4-like receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008871>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

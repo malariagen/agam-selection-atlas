@@ -1,9 +1,0 @@
-
-AGAP006729
-=============
-
-
-
-Description: Ester hydrolase c11orf54 [source:vb community annotation].
-
-TODO

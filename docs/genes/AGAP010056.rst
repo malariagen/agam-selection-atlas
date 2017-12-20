@@ -1,9 +1,0 @@
-
-AGAP010056
-=============
-
-
-
-Description: Hexosaminidase [source:vb community annotation].
-
-TODO

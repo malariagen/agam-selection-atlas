@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009623
+=============
+
+
+
+Name: **GAPDH**
+
+Description: Glyceraldehyde 3-phosphate dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009623>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002177
-=============
-
-
-
-Description: Exosome complex component rrp46 [source:vb community annotation].
-
-TODO

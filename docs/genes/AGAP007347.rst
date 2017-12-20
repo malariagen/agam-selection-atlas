@@ -1,9 +1,0 @@
-
-AGAP007347
-=============
-
-Name: **LYSC1**
-
-Description: C-type lysozyme [source:vb community annotation].
-
-TODO

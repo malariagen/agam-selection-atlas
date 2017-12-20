@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004122
+=============
+
+
+
+
+
+Description: Neuropeptide y receptor y2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004122>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

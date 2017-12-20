@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003296
+=============
+
+
+
+
+
+Description: Letm1 and ef-hand domain-containing protein 1, mitochondrial precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003296>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

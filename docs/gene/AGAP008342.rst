@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008342
+=============
+
+
+
+
+
+Description: Solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008342>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP012414
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase (fragment) [source:uniprotkb/trembl;acc:q7q0e9].
-
-TODO

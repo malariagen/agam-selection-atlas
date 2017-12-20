@@ -1,9 +1,0 @@
-
-AGAP012003
-=============
-
-
-
-Description: Trna pseudouridine synthase 10 [source:vb community annotation].
-
-TODO

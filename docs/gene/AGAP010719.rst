@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010719
+=============
+
+
+
+
+
+Description: Coatomer subunit delta (fragment) [source:uniprotkb/trembl;acc:q7qe04].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010719>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

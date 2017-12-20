@@ -1,9 +1,0 @@
-
-AGAP008674
-=============
-
-
-
-Description: Transcription factor tfiiib component b'' [source:vb community annotation].
-
-TODO

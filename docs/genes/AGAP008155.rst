@@ -1,9 +1,0 @@
-
-AGAP008155
-=============
-
-
-
-Description: Forkhead box protein d [source:vb community annotation].
-
-TODO

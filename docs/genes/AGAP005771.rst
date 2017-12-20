@@ -1,9 +1,0 @@
-
-AGAP005771
-=============
-
-
-
-Description: Dnaj homolog subfamily c member 13 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007211
+=============
+
+
+
+
+
+Description: Rna (guanine-9-)-methyltransferase domain-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007211>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

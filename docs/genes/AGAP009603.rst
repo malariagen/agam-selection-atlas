@@ -1,9 +1,0 @@
-
-AGAP009603
-=============
-
-Name: **SLC25A27**
-
-Description: Mitochondrial uncoupling protein (solute carrier family 25) [source:vb community annotation].
-
-TODO

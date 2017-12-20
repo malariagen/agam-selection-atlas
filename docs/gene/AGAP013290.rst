@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013290
+=============
+
+
+
+Name: **LRIM27**
+
+Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013290>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

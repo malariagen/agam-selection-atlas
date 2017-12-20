@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000532
+=============
+
+
+
+
+
+Description: Histone deacetylase 6/10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000532>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

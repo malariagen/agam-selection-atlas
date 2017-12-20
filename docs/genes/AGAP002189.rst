@@ -1,9 +1,0 @@
-
-AGAP002189
-=============
-
-Name: **OBP14**
-
-Description: Odorant-binding protein 14 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011896
-=============
-
-Name: **RpL31**
-
-Description: 60s ribosomal protein l31 [source:vb community annotation].
-
-TODO

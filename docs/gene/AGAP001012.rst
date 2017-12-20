@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001012
+=============
+
+
+
+Name: **Or36**
+
+Description: Odorant receptor 36 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001012>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

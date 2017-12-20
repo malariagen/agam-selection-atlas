@@ -1,9 +1,0 @@
-
-AGAP000551
-=============
-
-
-
-Description: 2-oxoglutarate dehydrogenase e1 component dhktd1 [source:vb community annotation].
-
-TODO

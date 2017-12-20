@@ -1,9 +1,0 @@
-
-AGAP002628
-=============
-
-
-
-Description: Opioid binding protein/cell adhesion molecule-like [source:vb community annotation].
-
-TODO

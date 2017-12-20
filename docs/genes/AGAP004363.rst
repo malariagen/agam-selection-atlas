@@ -1,9 +1,0 @@
-
-AGAP004363
-=============
-
-
-
-Description: Transcription elongation factor b, polypeptide 3 [source:vb community annotation].
-
-TODO

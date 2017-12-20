@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004239
+=============
+
+
+
+
+
+Description: Polo-like kinase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004239>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

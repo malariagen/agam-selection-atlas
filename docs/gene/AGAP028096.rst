@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028096
+=============
+
+
+
+
+
+Description: Alkaline phosphatase [source:uniprotkb/trembl;acc:a0a1s4hcw1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028096>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

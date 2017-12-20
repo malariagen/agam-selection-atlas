@@ -1,9 +1,0 @@
-
-AGAP006269
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class o [source:vb community annotation].
-
-TODO

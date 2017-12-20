@@ -1,9 +1,0 @@
-
-AGAP009934
-=============
-
-
-
-Description: Serine/threonine-protein kinase sbk1 [source:vb community annotation].
-
-TODO

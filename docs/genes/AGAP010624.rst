@@ -1,9 +1,0 @@
-
-AGAP010624
-=============
-
-
-
-Description: Developmentally regulated gtp-binding protein [source:vb community annotation].
-
-TODO

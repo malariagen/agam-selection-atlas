@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011887
+=============
+
+
+
+
+
+Description: Nuclear pore complex protein nup37 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011887>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

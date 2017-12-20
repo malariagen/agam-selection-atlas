@@ -1,9 +1,0 @@
-
-AGAP004914
-=============
-
-
-
-Description: Beta-tubulin isotype 1 [source:vb community annotation].
-
-TODO

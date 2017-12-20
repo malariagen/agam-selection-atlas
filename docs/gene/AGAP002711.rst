@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002711
+=============
+
+
+
+
+
+Description: Stardust, isoform b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002711>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

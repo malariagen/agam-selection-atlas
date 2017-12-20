@@ -1,9 +1,0 @@
-
-AGAP028387
-=============
-
-Name: **CYTB**
-
-Description: Cytochrome b [source:european nucleotide archive;acc:cytb].
-
-TODO

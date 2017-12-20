@@ -1,9 +1,0 @@
-
-AGAP001137
-=============
-
-Name: **Gr59**
-
-Description: Gustatory receptor 59 [source:vb community annotation].
-
-TODO

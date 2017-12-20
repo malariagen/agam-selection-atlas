@@ -1,9 +1,0 @@
-
-AGAP000939
-=============
-
-
-
-Description: Platelet-activating factor acetylhydrolase ib subunit beta/gamma [source:vb community annotation].
-
-TODO

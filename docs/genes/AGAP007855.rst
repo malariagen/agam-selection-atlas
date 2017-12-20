@@ -1,9 +1,0 @@
-
-AGAP007855
-=============
-
-
-
-Description: Aurora kinase, other [source:vb community annotation].
-
-TODO

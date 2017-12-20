@@ -1,9 +1,0 @@
-
-AGAP004533
-=============
-
-
-
-Description: Cathepsin b [source:vb community annotation].
-
-TODO

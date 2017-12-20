@@ -1,9 +1,0 @@
-
-AGAP003984
-=============
-
-
-
-Description: 3-dehydrosphinganine reductase [source:vb community annotation].
-
-TODO

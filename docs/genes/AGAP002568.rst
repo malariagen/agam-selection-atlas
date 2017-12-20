@@ -1,9 +1,0 @@
-
-AGAP002568
-=============
-
-
-
-Description: Nat13 protein [source:vb community annotation].
-
-TODO

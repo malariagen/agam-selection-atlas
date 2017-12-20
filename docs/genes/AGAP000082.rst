@@ -1,9 +1,0 @@
-
-AGAP000082
-=============
-
-
-
-Description: Translation initiation factor eif-2b subunit epsilon [source:vb community annotation].
-
-TODO

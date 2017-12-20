@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003081
+=============
+
+
+
+
+
+Description: Peroxisomal membrane protein 11c [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003081>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

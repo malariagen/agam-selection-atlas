@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003193
+=============
+
+
+
+
+
+Description: Gpn-loop gtpase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003193>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

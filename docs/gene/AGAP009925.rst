@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009925
+=============
+
+
+
+Name: **Nkd**
+
+Description: Protein naked cuticle homolog [source:uniprotkb/swiss-prot;acc:q08aa9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009925>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

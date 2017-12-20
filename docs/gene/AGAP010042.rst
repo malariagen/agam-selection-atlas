@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010042
+=============
+
+
+
+
+
+Description: Solute carrier organic anion transporter family member (fragment) [source:uniprotkb/trembl;acc:q7q103].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010042>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011806
+=============
+
+
+
+
+
+Description: Ornithine decarboxylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011806>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

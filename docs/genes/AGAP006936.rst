@@ -1,9 +1,0 @@
-
-AGAP006936
-=============
-
-
-
-Description: Mitochondrial cytochrome c1 heme protein [source:vb community annotation].
-
-TODO

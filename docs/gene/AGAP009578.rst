@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009578
+=============
+
+
+
+
+
+Description: Adenosine monophosphate-protein transferase ficd homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009578>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP013546
-=============
-
-
-
-Description: Vacuolar atpase assembly integral membrane protein vma21 homolog [source:uniprotkb/trembl;acc:f5hm04].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001704
+=============
+
+
+
+
+
+Description: Isopentenyl-diphosphate delta-isomerase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001704>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

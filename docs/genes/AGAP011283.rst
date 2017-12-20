@@ -1,9 +1,0 @@
-
-AGAP011283
-=============
-
-
-
-Description: Nf-kappa-b inhibitor-interacting ras-like protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004223
+=============
+
+
+
+Name: **GPR5HT7**
+
+Description: Putative serotonin 5ht-7 receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004223>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

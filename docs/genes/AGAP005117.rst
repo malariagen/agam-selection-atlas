@@ -1,9 +1,0 @@
-
-AGAP005117
-=============
-
-
-
-Description: Polyadenylate-binding protein 2 [source:vb community annotation].
-
-TODO

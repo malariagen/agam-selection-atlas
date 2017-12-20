@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004563
+=============
+
+
+
+Name: **ANCE9**
+
+Description: Angiotensin-converting enzyme 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004563>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

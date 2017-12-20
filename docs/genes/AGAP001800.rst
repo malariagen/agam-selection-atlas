@@ -1,9 +1,0 @@
-
-AGAP001800
-=============
-
-
-
-Description: Synaptotagmin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002499
-=============
-
-
-
-Description: Methylmalonate-semialdehyde dehydrogenase (acylating), mitochondrial [source:vb community annotation].
-
-TODO

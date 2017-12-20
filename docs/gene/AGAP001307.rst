@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001307
+=============
+
+
+
+
+
+Description: Ubiquitin fusion degradation protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001307>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

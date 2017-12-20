@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002935
+=============
+
+
+
+Name: **eIF3f**
+
+Description: Eukaryotic translation initiation factor 3 subunit f [source:uniprotkb/swiss-prot;acc:q7qd36].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002935>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

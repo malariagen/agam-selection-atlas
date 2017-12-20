@@ -1,9 +1,0 @@
-
-AGAP010246
-=============
-
-
-
-Description: Valacyclovir hydrolase [source:vb community annotation].
-
-TODO

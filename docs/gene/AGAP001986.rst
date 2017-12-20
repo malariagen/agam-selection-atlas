@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001986
+=============
+
+
+
+
+
+Description: Nuclear protein localization protein 4 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001986>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

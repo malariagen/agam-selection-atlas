@@ -1,9 +1,0 @@
-
-AGAP004975
-=============
-
-Name: **PPO3**
-
-Description: Prophenoloxidase 3 [source:vb community annotation].
-
-TODO

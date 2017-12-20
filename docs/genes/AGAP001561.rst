@@ -1,9 +1,0 @@
-
-AGAP001561
-=============
-
-Name: **GPRNNA5**
-
-Description: Putative gpcr class a orphan receptor 5 [source:vb community annotation].
-
-TODO

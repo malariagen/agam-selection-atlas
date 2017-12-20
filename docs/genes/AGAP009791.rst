@@ -1,9 +1,0 @@
-
-AGAP009791
-=============
-
-Name: **Nep1**
-
-Description: Neprilysin, neutral endopeptidase 1 [source:vb community annotation].
-
-TODO

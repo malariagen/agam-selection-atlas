@@ -1,9 +1,0 @@
-
-AGAP007140
-=============
-
-
-
-Description: Ser/thr protein phosphatase/nucleotidase [source:vb community annotation].
-
-TODO

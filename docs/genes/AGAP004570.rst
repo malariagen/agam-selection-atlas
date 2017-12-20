@@ -1,9 +1,0 @@
-
-AGAP004570
-=============
-
-
-
-Description: Clipd1 [source:vb community annotation].
-
-TODO

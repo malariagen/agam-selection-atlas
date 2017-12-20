@@ -1,9 +1,0 @@
-
-AGAP007938
-=============
-
-Name: **cact**
-
-Description: Protein cactus (toll pathway signalling) [source:vb community annotation].
-
-TODO

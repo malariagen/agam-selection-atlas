@@ -1,9 +1,0 @@
-
-AGAP012891
-=============
-
-
-
-Description: Heat shock 70kda protein 1/8 [source:vb community annotation].
-
-TODO

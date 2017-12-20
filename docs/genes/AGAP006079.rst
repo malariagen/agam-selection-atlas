@@ -1,9 +1,0 @@
-
-AGAP006079
-=============
-
-Name: **OBP53**
-
-Description: Odorant-binding protein 53 [source:vb community annotation].
-
-TODO

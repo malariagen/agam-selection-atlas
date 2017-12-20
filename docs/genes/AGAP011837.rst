@@ -1,9 +1,0 @@
-
-AGAP011837
-=============
-
-
-
-Description: U6 snrna-associated sm-like protein lsm8 [source:vb community annotation].
-
-TODO

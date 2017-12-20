@@ -1,9 +1,0 @@
-
-AGAP010454
-=============
-
-
-
-Description: U1 snrnp splicing complex subunit (luc7) [source:vb community annotation].
-
-TODO

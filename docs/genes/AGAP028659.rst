@@ -1,9 +1,0 @@
-
-AGAP028659
-=============
-
-
-
-Description: Putative til domain polypeptide [source:uniprotkb/trembl;acc:q2eq01].
-
-TODO

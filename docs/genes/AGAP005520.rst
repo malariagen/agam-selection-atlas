@@ -1,9 +1,0 @@
-
-AGAP005520
-=============
-
-
-
-Description: Cytochrome b-561 [source:vb community annotation].
-
-TODO

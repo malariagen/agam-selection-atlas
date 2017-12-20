@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010157
+=============
+
+
+
+Name: **Ast2**
+
+Description: Allatostatin 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010157>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

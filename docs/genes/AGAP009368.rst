@@ -1,9 +1,0 @@
-
-AGAP009368
-=============
-
-Name: **plugin**
-
-Description: Plugin [source:vb community annotation].
-
-TODO

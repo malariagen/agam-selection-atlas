@@ -1,9 +1,0 @@
-
-AGAP004963
-=============
-
-
-
-Description: Cyclin b [source:vb community annotation].
-
-TODO

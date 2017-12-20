@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002627
+=============
+
+
+
+
+
+Description: S-formylglutathione hydrolase [source:uniprotkb/trembl;acc:q7qch6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002627>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011994
+=============
+
+
+
+
+
+Description: Phosphopantothenoylcysteine decarboxylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011994>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

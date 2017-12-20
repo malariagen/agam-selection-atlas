@@ -1,9 +1,0 @@
-
-AGAP007412
-=============
-
-Name: **CTLMA3**
-
-Description: C-type lectin (ctl) - mannose binding [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010241
+=============
+
+
+
+
+
+Description: Gamma-glutamyltranspeptidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010241>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

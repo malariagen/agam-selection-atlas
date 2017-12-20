@@ -1,9 +1,0 @@
-
-AGAP009870
-=============
-
-Name: **CPR151**
-
-Description: Cuticular protein rr-2 family 151 [source:vb community annotation].
-
-TODO

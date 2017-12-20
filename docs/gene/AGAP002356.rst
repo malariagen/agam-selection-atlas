@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002356
+=============
+
+
+
+
+
+Description: Parvin, beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002356>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

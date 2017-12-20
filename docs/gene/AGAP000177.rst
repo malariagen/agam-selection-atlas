@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000177
+=============
+
+
+
+Name: **CPR128**
+
+Description: Cuticular protein rr-2 family 128 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000177>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

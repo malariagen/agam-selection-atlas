@@ -1,9 +1,0 @@
-
-AGAP001461
-=============
-
-
-
-Description: Jnk1/mapk8-associated membrane protein [source:vb community annotation].
-
-TODO

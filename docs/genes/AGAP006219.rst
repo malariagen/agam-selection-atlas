@@ -1,9 +1,0 @@
-
-AGAP006219
-=============
-
-
-
-Description: Receptor tyrosine kinase-like orphan receptor 1 [source:vb community annotation].
-
-TODO

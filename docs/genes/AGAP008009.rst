@@ -1,9 +1,0 @@
-
-AGAP008009
-=============
-
-
-
-Description: Ryk receptor-like tyrosine kinase [source:vb community annotation].
-
-TODO

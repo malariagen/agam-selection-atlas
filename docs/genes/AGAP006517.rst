@@ -1,9 +1,0 @@
-
-AGAP006517
-=============
-
-
-
-Description: Gryzun [source:vb community annotation].
-
-TODO

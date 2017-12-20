@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009468
+=============
+
+
+
+Name: **ABCG17**
+
+Description: Atp-binding cassette transporter (abc transporter) family g member 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009468>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

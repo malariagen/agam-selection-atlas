@@ -1,9 +1,0 @@
-
-AGAP008127
-=============
-
-
-
-Description: Receptor-type tyrosine-protein phosphatase n [source:vb community annotation].
-
-TODO

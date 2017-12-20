@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011246
+=============
+
+
+
+
+
+Description: Origin recognition complex subunit 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011246>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

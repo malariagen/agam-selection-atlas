@@ -1,9 +1,0 @@
-
-AGAP012874
-=============
-
-
-
-Description: S-adenosylmethionine synthase (fragment) [source:uniprotkb/trembl;acc:a0nae8].
-
-TODO

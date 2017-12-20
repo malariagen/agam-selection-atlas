@@ -1,9 +1,0 @@
-
-AGAP003823
-=============
-
-
-
-Description: Influenza virus ns1a-binding protein [source:vb community annotation].
-
-TODO

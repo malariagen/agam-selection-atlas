@@ -1,9 +1,0 @@
-
-AGAP003040
-=============
-
-
-
-Description: P90 ribosomal s6 kinase [source:vb community annotation].
-
-TODO

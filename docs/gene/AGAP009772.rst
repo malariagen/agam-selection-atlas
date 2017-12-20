@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009772
+=============
+
+
+
+
+
+Description: Protein ptcd3-like protein, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009772>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

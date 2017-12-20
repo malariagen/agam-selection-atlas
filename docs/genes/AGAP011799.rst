@@ -1,9 +1,0 @@
-
-AGAP011799
-=============
-
-
-
-Description: Anaphase-promoting complex subunit 10 [source:uniprotkb/trembl;acc:q7pz94].
-
-TODO

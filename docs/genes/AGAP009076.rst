@@ -1,9 +1,0 @@
-
-AGAP009076
-=============
-
-
-
-Description: Carnitine o-acetyltransferase [source:vb community annotation].
-
-TODO

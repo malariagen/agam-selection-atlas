@@ -1,9 +1,0 @@
-
-AGAP011978
-=============
-
-Name: **Or62**
-
-Description: Odorant receptor 62 [source:vb community annotation].
-
-TODO

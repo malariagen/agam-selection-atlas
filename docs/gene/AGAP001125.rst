@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001125
+=============
+
+
+
+Name: **Gr58**
+
+Description: Gustatory receptor 58 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001125>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

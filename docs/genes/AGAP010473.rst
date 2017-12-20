@@ -1,9 +1,0 @@
-
-AGAP010473
-=============
-
-
-
-Description: Pleckstrin-like proteiny domain-containing family g member 5 [source:vb community annotation].
-
-TODO

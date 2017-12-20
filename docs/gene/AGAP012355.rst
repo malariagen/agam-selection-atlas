@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012355
+=============
+
+
+
+Name: **CPLCP16**
+
+Description: Cuticular protein (putative) cplcp16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012355>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

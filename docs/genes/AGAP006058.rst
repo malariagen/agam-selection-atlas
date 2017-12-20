@@ -1,9 +1,0 @@
-
-AGAP006058
-=============
-
-
-
-Description: Heparan sulfate 2-o-sulfotransferase [source:vb community annotation].
-
-TODO

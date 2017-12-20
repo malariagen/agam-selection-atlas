@@ -1,9 +1,0 @@
-
-AGAP002639
-=============
-
-Name: **Or39**
-
-Description: Odorant receptor 39 [source:vb community annotation].
-
-TODO

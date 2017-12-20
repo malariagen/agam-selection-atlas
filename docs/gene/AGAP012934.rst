@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012934
+=============
+
+
+
+
+
+Description: Phosphatidylinositol glycan, class f [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012934>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

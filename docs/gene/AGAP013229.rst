@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013229
+=============
+
+
+
+
+
+Description: Outer membrane lipoprotein blc precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013229>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

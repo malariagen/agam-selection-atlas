@@ -1,9 +1,0 @@
-
-AGAP004703
-=============
-
-
-
-Description: Dna-directed rna polymerase iii subunit rpc1 [source:vb community annotation].
-
-TODO

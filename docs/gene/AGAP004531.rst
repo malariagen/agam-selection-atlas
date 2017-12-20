@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004531
+=============
+
+
+
+
+
+Description: Cathepsin b precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004531>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

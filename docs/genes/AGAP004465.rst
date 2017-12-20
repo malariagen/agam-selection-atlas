@@ -1,9 +1,0 @@
-
-AGAP004465
-=============
-
-
-
-Description: 18s rrna (adenine1779-n6/adenine1780-n6)-dimethyltransferase [source:vb community annotation].
-
-TODO

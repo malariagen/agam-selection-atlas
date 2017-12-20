@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011851
+=============
+
+
+
+
+
+Description: Protein kiaa0664 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011851>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008291
+=============
+
+
+
+Name: **TRYP5**
+
+Description: Trypsin 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008291>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

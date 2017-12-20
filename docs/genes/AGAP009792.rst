@@ -1,9 +1,0 @@
-
-AGAP009792
-=============
-
-
-
-Description: Importin subunit alpha-2 [source:vb community annotation].
-
-TODO

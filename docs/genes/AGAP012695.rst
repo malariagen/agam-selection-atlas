@@ -1,9 +1,0 @@
-
-AGAP012695
-=============
-
-
-
-Description: Rab5-interacting protein [source:vb community annotation].
-
-TODO

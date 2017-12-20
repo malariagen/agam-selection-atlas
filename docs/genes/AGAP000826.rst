@@ -1,9 +1,0 @@
-
-AGAP000826
-=============
-
-
-
-Description: Cap-specific mrna (nucleoside-2'-o-)-methyltransferase 1 [source:vb community annotation].
-
-TODO

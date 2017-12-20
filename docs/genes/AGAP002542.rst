@@ -1,9 +1,0 @@
-
-AGAP002542
-=============
-
-Name: **LRIM20**
-
-Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
-
-TODO

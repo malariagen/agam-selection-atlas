@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000531
+=============
+
+
+
+
+
+Description: Lipoyl(octanoyl) transferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000531>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

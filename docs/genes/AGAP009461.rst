@@ -1,9 +1,0 @@
-
-AGAP009461
-=============
-
-
-
-Description: C-jun n-terminal kinase [source:vb community annotation].
-
-TODO

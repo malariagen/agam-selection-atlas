@@ -1,9 +1,0 @@
-
-AGAP007217
-=============
-
-
-
-Description: Pre-mrna-processing factor 19 [source:vb community annotation].
-
-TODO

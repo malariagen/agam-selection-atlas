@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010499
+=============
+
+
+
+Name: **AD20590**
+
+Description: S-(hydroxymethyl)glutathione dehydrogenase [source:uniprotkb/trembl;acc:a0a1s4h465].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010499>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

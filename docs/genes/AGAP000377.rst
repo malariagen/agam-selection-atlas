@@ -1,9 +1,0 @@
-
-AGAP000377
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase [source:uniprotkb/trembl;acc:q7qf99].
-
-TODO

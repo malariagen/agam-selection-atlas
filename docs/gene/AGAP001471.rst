@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001471
+=============
+
+
+
+
+
+Description: 3-phosphoinositide dependent protein kinase-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001471>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

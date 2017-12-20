@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003571
+=============
+
+
+
+
+
+Description: Threonine dehydratase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003571>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

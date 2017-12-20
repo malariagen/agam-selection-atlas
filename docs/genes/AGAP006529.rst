@@ -1,9 +1,0 @@
-
-AGAP006529
-=============
-
-
-
-Description: All-trans and 9-cis [source:vb community annotation].
-
-TODO

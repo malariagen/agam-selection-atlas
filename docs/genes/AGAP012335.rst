@@ -1,9 +1,0 @@
-
-AGAP012335
-=============
-
-
-
-Description: Structure-specific recognition protein 1 [source:vb community annotation].
-
-TODO

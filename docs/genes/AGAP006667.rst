@@ -1,9 +1,0 @@
-
-AGAP006667
-=============
-
-Name: **Or49**
-
-Description: Odorant receptor 49 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007546
-=============
-
-
-
-Description: 4'-phosphopantetheinyl transferase [source:vb community annotation].
-
-TODO

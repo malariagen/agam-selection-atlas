@@ -1,9 +1,0 @@
-
-AGAP013376
-=============
-
-Name: **mRpL41**
-
-Description: 39s ribosomal protein l41, mitochondrial [source:vb community annotation].
-
-TODO

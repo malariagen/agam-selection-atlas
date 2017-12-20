@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010866
+=============
+
+
+
+
+
+Description: 6-phosphogluconolactonase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010866>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

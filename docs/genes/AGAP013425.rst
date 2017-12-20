@@ -1,9 +1,0 @@
-
-AGAP013425
-=============
-
-Name: **IR101**
-
-Description: Ionotropic receptor ir101 [source:vb community annotation].
-
-TODO

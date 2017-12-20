@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008132
+=============
+
+
+
+
+
+Description: Beta-1,4-mannosyl-glycoprotein beta-1,4-n-acetylglucosaminyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008132>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

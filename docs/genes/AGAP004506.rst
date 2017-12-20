@@ -1,9 +1,0 @@
-
-AGAP004506
-=============
-
-Name: **pburs**
-
-Description: Partner of bursicon [source:uniprotkb/swiss-prot;acc:q566b3].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007739
-=============
-
-
-
-Description: Transducin (beta)-like 1 [source:vb community annotation].
-
-TODO

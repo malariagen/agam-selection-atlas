@@ -1,9 +1,0 @@
-
-AGAP001671
-=============
-
-
-
-Description: Forkhead box protein a2, hepatocyte nuclear factor 3-beta [source:vb community annotation].
-
-TODO

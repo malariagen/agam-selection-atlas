@@ -1,9 +1,0 @@
-
-AGAP009567
-=============
-
-
-
-Description: Mitochondrial inner membrane protease atp23 homolog [source:vb community annotation].
-
-TODO

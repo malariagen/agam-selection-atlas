@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000109
+=============
+
+
+
+
+
+Description: Cytochrome c oxidase subunit viia [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000109>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

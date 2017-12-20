@@ -1,9 +1,0 @@
-
-AGAP002129
-=============
-
-
-
-Description: Deoxyhypusine monooxygenase [source:vb community annotation].
-
-TODO

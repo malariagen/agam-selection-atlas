@@ -1,9 +1,0 @@
-
-AGAP012048
-=============
-
-
-
-Description: Citrate synthase [source:uniprotkb/trembl;acc:q7pv48].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003016
-=============
-
-
-
-Description: Mesencephalic astrocyte-derived neurotrophic factor homolog [source:vb community annotation].
-
-TODO

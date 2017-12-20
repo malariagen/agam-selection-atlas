@@ -1,9 +1,0 @@
-
-AGAP000429
-=============
-
-
-
-Description: Protein fan [source:vb community annotation].
-
-TODO

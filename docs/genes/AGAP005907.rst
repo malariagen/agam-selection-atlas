@@ -1,9 +1,0 @@
-
-AGAP005907
-=============
-
-
-
-Description: Amp dependent ligase [source:vb community annotation].
-
-TODO

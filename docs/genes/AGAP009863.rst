@@ -1,9 +1,0 @@
-
-AGAP009863
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 4a, isoform 2 [source:vb community annotation].
-
-TODO

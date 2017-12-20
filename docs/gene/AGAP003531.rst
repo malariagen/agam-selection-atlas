@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003531
+=============
+
+
+
+Name: **IR41n**
+
+Description: Ionotropic receptor ir41n [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003531>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

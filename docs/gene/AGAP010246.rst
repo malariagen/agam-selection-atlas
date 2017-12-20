@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010246
+=============
+
+
+
+
+
+Description: Valacyclovir hydrolase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010246>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

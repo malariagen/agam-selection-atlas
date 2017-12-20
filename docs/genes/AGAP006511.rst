@@ -1,9 +1,0 @@
-
-AGAP006511
-=============
-
-
-
-Description: Histone deacetylase 1/2 [source:vb community annotation].
-
-TODO

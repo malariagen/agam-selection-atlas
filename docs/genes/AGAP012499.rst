@@ -1,9 +1,0 @@
-
-AGAP012499
-=============
-
-
-
-Description: Polo-like kinase 4 [source:vb community annotation].
-
-TODO

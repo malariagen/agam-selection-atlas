@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007801
+=============
+
+
+
+
+
+Description: Vrille [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007801>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

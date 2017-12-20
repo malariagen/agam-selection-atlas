@@ -1,9 +1,0 @@
-
-AGAP005316
-=============
-
-
-
-Description: Charged multivesicular body protein 4 [source:vb community annotation].
-
-TODO

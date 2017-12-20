@@ -1,9 +1,0 @@
-
-AGAP008990
-=============
-
-
-
-Description: Lysophospholipase iii [source:vb community annotation].
-
-TODO

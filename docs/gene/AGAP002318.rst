@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002318
+=============
+
+
+
+
+
+Description: Alpha-amylase [source:uniprotkb/trembl;acc:q7qbu5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002318>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

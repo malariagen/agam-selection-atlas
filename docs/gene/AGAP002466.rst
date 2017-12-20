@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002466
+=============
+
+
+
+
+
+Description: Potassium channel, subfamily k [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002466>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

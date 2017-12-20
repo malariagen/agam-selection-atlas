@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004278
+=============
+
+
+
+Name: **Or42**
+
+Description: Odorant receptor 42 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004278>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

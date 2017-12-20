@@ -1,9 +1,0 @@
-
-AGAP008370
-=============
-
-
-
-Description: Carboxypeptidase a [source:vb community annotation].
-
-TODO

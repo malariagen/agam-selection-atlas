@@ -1,9 +1,0 @@
-
-AGAP003324
-=============
-
-
-
-Description: Nad(p)h-hydrate epimerase [source:uniprotkb/swiss-prot;acc:q7q0g5].
-
-TODO

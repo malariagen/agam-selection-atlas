@@ -1,9 +1,0 @@
-
-AGAP003343
-=============
-
-Name: **CYP6AG1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

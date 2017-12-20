@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011723
+=============
+
+
+
+
+
+Description: Mannose-1-phosphate guanylyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011723>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

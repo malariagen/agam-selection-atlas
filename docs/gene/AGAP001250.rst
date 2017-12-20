@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001250
+=============
+
+
+
+
+
+Description: Eupolytin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001250>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

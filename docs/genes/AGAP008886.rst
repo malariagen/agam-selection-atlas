@@ -1,9 +1,0 @@
-
-AGAP008886
-=============
-
-
-
-Description: Tetraspanin [source:uniprotkb/trembl;acc:q7pwq3].
-
-TODO

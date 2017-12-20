@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012409
+=============
+
+
+
+Name: **GNBPA2**
+
+Description: 3-glucan binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012409>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

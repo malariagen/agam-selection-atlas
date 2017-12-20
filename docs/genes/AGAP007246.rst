@@ -1,9 +1,0 @@
-
-AGAP007246
-=============
-
-
-
-Description: Small nuclear ribonucleoprotein d1 [source:vb community annotation].
-
-TODO

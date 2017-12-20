@@ -1,9 +1,0 @@
-
-AGAP002330
-=============
-
-
-
-Description: 60s ribosome subunit biogenesis protein nip7 homolog [source:uniprotkb/trembl;acc:q7qbv7].
-
-TODO

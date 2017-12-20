@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011447
+=============
+
+
+
+
+
+Description: Protein dek [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011447>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

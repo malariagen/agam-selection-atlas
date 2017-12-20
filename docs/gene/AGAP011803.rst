@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011803
+=============
+
+
+
+Name: **mRpS27**
+
+Description: 28s ribosomal protein s27, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011803>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

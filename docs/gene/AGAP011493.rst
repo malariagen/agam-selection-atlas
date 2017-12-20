@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011493
+=============
+
+
+
+
+
+Description: Udp-xylose and udp-n-acetylglucosamine transporter-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011493>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

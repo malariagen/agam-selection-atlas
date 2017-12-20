@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007768
+=============
+
+
+
+
+
+Description: Mitochondrial cytochrome c oxidase subunit vic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007768>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

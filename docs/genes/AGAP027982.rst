@@ -1,9 +1,0 @@
-
-AGAP027982
-=============
-
-
-
-Description: Tetraspanin [source:uniprotkb/trembl;acc:a0a1s4hdp2].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008832
-=============
-
-
-
-Description: Cyclic amp-dependent transcription factor atf-6 alpha [source:vb community annotation].
-
-TODO

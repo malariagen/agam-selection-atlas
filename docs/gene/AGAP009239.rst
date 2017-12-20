@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009239
+=============
+
+
+
+
+
+Description: Ranbp-type and c3hc4-type zinc finger-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009239>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

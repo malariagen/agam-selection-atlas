@@ -1,9 +1,0 @@
-
-AGAP004749
-=============
-
-
-
-Description: Coproporphyrinogen iii oxidase [source:vb community annotation].
-
-TODO

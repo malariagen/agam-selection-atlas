@@ -1,9 +1,0 @@
-
-AGAP012279
-=============
-
-
-
-Description: Amiloride-sensitive sodium channel [source:vb community annotation].
-
-TODO

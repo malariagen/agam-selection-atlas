@@ -1,9 +1,0 @@
-
-AGAP006416
-=============
-
-Name: **SP24D**
-
-Description: Serine protease (non-digestive) [source:vb community annotation].
-
-TODO

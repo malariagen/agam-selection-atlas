@@ -1,9 +1,0 @@
-
-AGAP002471
-=============
-
-
-
-Description: Adp-ribosylation factor-like protein 16 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004889
-=============
-
-
-
-Description: Ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [source:vb community annotation].
-
-TODO

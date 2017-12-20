@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004502
+=============
+
+
+
+
+
+Description: Serine/threonine-protein phosphatase 2a 55 kda regulatory subunit b alpha isoform [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004502>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

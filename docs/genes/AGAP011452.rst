@@ -1,9 +1,0 @@
-
-AGAP011452
-=============
-
-Name: **GPRGRP1**
-
-Description: Putative gastrin/bombesin receptor 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011365
-=============
-
-Name: **COE21998**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

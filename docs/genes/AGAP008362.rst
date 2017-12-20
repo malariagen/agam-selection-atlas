@@ -1,9 +1,0 @@
-
-AGAP008362
-=============
-
-
-
-Description: Kelch-like protein 2/3 [source:vb community annotation].
-
-TODO

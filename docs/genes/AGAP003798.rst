@@ -1,9 +1,0 @@
-
-AGAP003798
-=============
-
-
-
-Description: Growth hormone regulated tbc protein 1b [source:vb community annotation].
-
-TODO

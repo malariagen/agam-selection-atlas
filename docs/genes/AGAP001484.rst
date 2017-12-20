@@ -1,9 +1,0 @@
-
-AGAP001484
-=============
-
-
-
-Description: Ap-3 complex subunit mu [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006127
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase siah1 [source:vb community annotation].
-
-TODO

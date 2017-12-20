@@ -1,9 +1,0 @@
-
-AGAP007696
-=============
-
-
-
-Description: Dna-binding protein inhibitor id [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005992
-=============
-
-Name: **CYP302A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

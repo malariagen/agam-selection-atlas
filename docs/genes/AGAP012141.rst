@@ -1,9 +1,0 @@
-
-AGAP012141
-=============
-
-
-
-Description: Ankyrin repeat-rich membrane spanning protein [source:vb community annotation].
-
-TODO

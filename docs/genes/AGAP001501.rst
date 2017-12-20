@@ -1,9 +1,0 @@
-
-AGAP001501
-=============
-
-
-
-Description: Regucalcin protein [source:vb community annotation].
-
-TODO

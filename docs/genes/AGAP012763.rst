@@ -1,9 +1,0 @@
-
-AGAP012763
-=============
-
-
-
-Description: Cyclin-related protein fam58a [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002754
+=============
+
+
+
+Name: **RpL35a**
+
+Description: 60s ribosomal protein l35a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002754>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

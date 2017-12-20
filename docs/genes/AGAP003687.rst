@@ -1,9 +1,0 @@
-
-AGAP003687
-=============
-
-
-
-Description: Glycerol-3-phosphate o-acyltransferase 1/2 [source:vb community annotation].
-
-TODO

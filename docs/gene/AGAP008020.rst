@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008020
+=============
+
+
+
+Name: **CYP12F2**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008020>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

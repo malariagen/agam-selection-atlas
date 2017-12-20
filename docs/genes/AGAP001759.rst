@@ -1,9 +1,0 @@
-
-AGAP001759
-=============
-
-
-
-Description: Protein transport protein sec23 [source:vb community annotation].
-
-TODO

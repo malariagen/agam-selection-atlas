@@ -1,9 +1,0 @@
-
-AGAP004956
-=============
-
-
-
-Description: Dna replication licensing factor mcm4 [source:vb community annotation].
-
-TODO

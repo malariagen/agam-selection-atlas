@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001941
+=============
+
+
+
+
+
+Description: Phosphatidic acid phosphatase type 2 domain-containing protein 1b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001941>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

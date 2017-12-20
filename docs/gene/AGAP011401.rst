@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011401
+=============
+
+
+
+
+
+Description: Angel homolog 2 (drosophila) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011401>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

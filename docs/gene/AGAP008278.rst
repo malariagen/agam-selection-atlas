@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008278
+=============
+
+
+
+Name: **D7L1**
+
+Description: D7 long form salivary protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008278>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

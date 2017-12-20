@@ -1,9 +1,0 @@
-
-AGAP006223
-=============
-
-
-
-Description: Glucosyl/glucuronosyl transferases [source:vb community annotation].
-
-TODO

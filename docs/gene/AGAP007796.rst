@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007796
+=============
+
+
+
+Name: **Nep3**
+
+Description: Neprilysin, neutral endopeptidase 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007796>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

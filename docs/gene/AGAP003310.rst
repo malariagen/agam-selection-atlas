@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003310
+=============
+
+
+
+Name: **Or66**
+
+Description: Odorant receptor 66 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003310>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

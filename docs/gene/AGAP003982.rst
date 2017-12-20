@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003982
+=============
+
+
+
+
+
+Description: Methyl-cpg-binding domain protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003982>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

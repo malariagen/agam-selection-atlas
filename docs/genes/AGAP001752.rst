@@ -1,9 +1,0 @@
-
-AGAP001752
-=============
-
-
-
-Description: Snf related kinase [source:vb community annotation].
-
-TODO

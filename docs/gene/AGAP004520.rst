@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004520
+=============
+
+
+
+
+
+Description: Ran-binding protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004520>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

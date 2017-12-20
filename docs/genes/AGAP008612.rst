@@ -1,9 +1,0 @@
-
-AGAP008612
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 10 [source:vb community annotation].
-
-TODO

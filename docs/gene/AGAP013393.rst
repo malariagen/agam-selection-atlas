@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013393
+=============
+
+
+
+Name: **APN2**
+
+Description: Aminopeptidase n1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013393>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

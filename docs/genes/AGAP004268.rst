@@ -1,9 +1,0 @@
-
-AGAP004268
-=============
-
-
-
-Description: Udp-glucuronate decarboxylase [source:vb community annotation].
-
-TODO

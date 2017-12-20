@@ -1,9 +1,0 @@
-
-AGAP003791
-=============
-
-
-
-Description: Rad51-like protein 2 [source:vb community annotation].
-
-TODO

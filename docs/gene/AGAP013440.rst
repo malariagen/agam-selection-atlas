@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013440
+=============
+
+
+
+
+
+Description: Sra stem-loop-interacting rna-binding protein, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013440>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP001103
-=============
-
-
-
-Description: Mitogen-activated protein kinase kinase 1 [source:vb community annotation].
-
-TODO

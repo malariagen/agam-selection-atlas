@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009704
+=============
+
+
+
+Name: **Or68**
+
+Description: Odorant receptor 68 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009704>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

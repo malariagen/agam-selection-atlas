@@ -1,9 +1,0 @@
-
-AGAP003595
-=============
-
-
-
-Description: Rrna biogenesis protein rrp5 [source:vb community annotation].
-
-TODO

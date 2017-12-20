@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011988
+=============
+
+
+
+
+
+Description: Protein kinase c [source:uniprotkb/trembl;acc:a0a1s4h907].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011988>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

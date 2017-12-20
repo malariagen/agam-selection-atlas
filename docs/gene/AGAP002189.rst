@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002189
+=============
+
+
+
+Name: **OBP14**
+
+Description: Odorant-binding protein 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002189>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

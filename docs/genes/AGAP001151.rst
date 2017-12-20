@@ -1,9 +1,0 @@
-
-AGAP001151
-=============
-
-
-
-Description: 14-3-3 protein epsilon [source:vb community annotation].
-
-TODO

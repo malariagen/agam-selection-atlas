@@ -1,9 +1,0 @@
-
-AGAP002414
-=============
-
-
-
-Description: Carboxypeptidase d [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002992
-=============
-
-
-
-Description: Carbonic anhydrase [source:uniprotkb/trembl;acc:q5tu56].
-
-TODO

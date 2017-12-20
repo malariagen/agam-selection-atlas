@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001478
+=============
+
+
+
+Name: **NMDAR1**
+
+Description: Ionotropic receptor nmdar1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001478>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

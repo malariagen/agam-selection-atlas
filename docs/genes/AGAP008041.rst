@@ -1,9 +1,0 @@
-
-AGAP008041
-=============
-
-
-
-Description: Ring finger protein 121 [source:vb community annotation].
-
-TODO

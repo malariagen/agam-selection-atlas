@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003979
+=============
+
+
+
+
+
+Description: Elongator complex protein 1 [source:uniprotkb/trembl;acc:q7pmk6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003979>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

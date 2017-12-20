@@ -1,9 +1,0 @@
-
-AGAP009091
-=============
-
-
-
-Description: Aromatic-l-amino-acid decarboxylase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007251
-=============
-
-
-
-Description: Late trypsin [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002846
+=============
+
+
+
+
+
+Description: Trunk [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002846>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

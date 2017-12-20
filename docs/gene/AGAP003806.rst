@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003806
+=============
+
+
+
+
+
+Description: Pseudouridine-5'-phosphate glycosidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003806>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

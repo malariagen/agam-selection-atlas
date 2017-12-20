@@ -1,9 +1,0 @@
-
-AGAP012281
-=============
-
-Name: **eIF3m**
-
-Description: Eukaryotic translation initiation factor 3 subunit m [source:uniprotkb/swiss-prot;acc:q7q068].
-
-TODO

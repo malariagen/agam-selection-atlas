@@ -1,9 +1,0 @@
-
-AGAP006840
-=============
-
-Name: **CPR136**
-
-Description: Cuticular protein rr-1 family 136 [source:vb community annotation].
-
-TODO

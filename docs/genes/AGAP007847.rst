@@ -1,9 +1,0 @@
-
-AGAP007847
-=============
-
-
-
-Description: Dual specificity tyrosine-phosphorylation-regulated kinase [source:vb community annotation].
-
-TODO

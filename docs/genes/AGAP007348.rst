@@ -1,9 +1,0 @@
-
-AGAP007348
-=============
-
-
-
-Description: Coiled-coil domain-containing protein 102a [source:vb community annotation].
-
-TODO

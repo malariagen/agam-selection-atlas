@@ -1,9 +1,0 @@
-
-AGAP005498
-=============
-
-
-
-Description: Phospholipid scramblase 2 [source:vb community annotation].
-
-TODO

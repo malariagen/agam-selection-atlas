@@ -1,9 +1,0 @@
-
-AGAP002011
-=============
-
-
-
-Description: Ammonium transporter rh [source:vb community annotation].
-
-TODO

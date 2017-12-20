@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009902
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase rnf146 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009902>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028421
+=============
+
+
+
+
+
+Description: Stip [source:uniprotkb/trembl;acc:a1xdb5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028421>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

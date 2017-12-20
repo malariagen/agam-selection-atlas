@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009013
+=============
+
+
+
+
+
+Description: Methionyl aminopeptidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009013>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

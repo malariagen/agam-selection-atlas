@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009099
+=============
+
+
+
+Name: **TG3**
+
+Description: Transglutaminase [source:uniprotkb/trembl;acc:d2k8k8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009099>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

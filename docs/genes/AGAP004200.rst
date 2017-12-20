@@ -1,9 +1,0 @@
-
-AGAP004200
-=============
-
-
-
-Description: Alpha-tocopherol transfer protein-like [source:vb community annotation].
-
-TODO

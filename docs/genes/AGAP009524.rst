@@ -1,9 +1,0 @@
-
-AGAP009524
-=============
-
-
-
-Description: Sft2 domain-containing protein 3 [source:vb community annotation].
-
-TODO

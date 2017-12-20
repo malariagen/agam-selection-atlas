@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011324
+=============
+
+
+
+
+
+Description: Alpha-1,2-mannosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011324>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

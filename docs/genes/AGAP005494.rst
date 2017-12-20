@@ -1,9 +1,0 @@
-
-AGAP005494
-=============
-
-
-
-Description: Integrator complex subunit 9 [source:vb community annotation].
-
-TODO

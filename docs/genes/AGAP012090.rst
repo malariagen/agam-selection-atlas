@@ -1,9 +1,0 @@
-
-AGAP012090
-=============
-
-
-
-Description: Serine/threonine-protein kinase mrck [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003478
-=============
-
-
-
-Description: Cdp-diacylglycerol--inositol 3-phosphatidyltransferase [source:uniprotkb/trembl;acc:q7qde5].
-
-TODO

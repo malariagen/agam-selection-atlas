@@ -1,9 +1,0 @@
-
-AGAP006436
-=============
-
-Name: **Med13**
-
-Description: Mediator of rna polymerase ii transcription subunit 13 [source:vb community annotation].
-
-TODO

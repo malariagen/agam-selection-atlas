@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010724
+=============
+
+
+
+
+
+Description: Histone h4 [source:uniprotkb/trembl;acc:q7pcx0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010724>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

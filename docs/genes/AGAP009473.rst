@@ -1,9 +1,0 @@
-
-AGAP009473
-=============
-
-
-
-Description: Salivary secreted mucin 3 [source:vb community annotation].
-
-TODO

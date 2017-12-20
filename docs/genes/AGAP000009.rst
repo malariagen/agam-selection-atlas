@@ -1,9 +1,0 @@
-
-AGAP000009
-=============
-
-
-
-Description: Syntaxin-binding protein [source:vb community annotation].
-
-TODO

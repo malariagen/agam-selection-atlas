@@ -1,9 +1,0 @@
-
-AGAP000781
-=============
-
-
-
-Description: Mitochondrial import inner membrane translocase subunit tim9 [source:vb community annotation].
-
-TODO

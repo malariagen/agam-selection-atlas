@@ -1,9 +1,0 @@
-
-AGAP012272
-=============
-
-
-
-Description: Blocked early in transport 1 [source:vb community annotation].
-
-TODO

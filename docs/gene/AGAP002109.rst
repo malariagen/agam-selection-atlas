@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002109
+=============
+
+
+
+
+
+Description: Solute carrier family 31 (copper transporter), member 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002109>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000194
-=============
-
-Name: **CYP4C25**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

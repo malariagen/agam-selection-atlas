@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008821
+=============
+
+
+
+
+
+Description: N-myc downstream regulated [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008821>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

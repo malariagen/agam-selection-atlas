@@ -1,9 +1,0 @@
-
-AGAP000947
-=============
-
-Name: **GSTU1**
-
-Description: Glutathione s-transferase unclassified 1 [source:vb community annotation].
-
-TODO

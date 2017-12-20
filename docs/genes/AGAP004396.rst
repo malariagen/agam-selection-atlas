@@ -1,9 +1,0 @@
-
-AGAP004396
-=============
-
-
-
-Description: Acetyl-coa hydrolase/transferase (precursor) [source:vb community annotation].
-
-TODO

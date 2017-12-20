@@ -1,9 +1,0 @@
-
-AGAP005063
-=============
-
-
-
-Description: Ran binding protein 9 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002469
-=============
-
-
-
-Description: Ap2-associated kinase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003262
+=============
+
+
+
+
+
+Description: Integrator complex subunit 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003262>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

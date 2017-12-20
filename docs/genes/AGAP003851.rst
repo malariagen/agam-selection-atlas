@@ -1,9 +1,0 @@
-
-AGAP003851
-=============
-
-
-
-Description: 26 proteasome complex subunit dss1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006324
-=============
-
-Name: **nompB**
-
-Description: No mechanoreceptor potential b [source:vb community annotation].
-
-TODO

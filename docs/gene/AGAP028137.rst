@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028137
+=============
+
+
+
+Name: **CPLCP17**
+
+Description: Cuticular protein (putative) cplcp17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028137>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

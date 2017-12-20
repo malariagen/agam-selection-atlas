@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010034
+=============
+
+
+
+Name: **Med6**
+
+Description: Mediator of rna polymerase ii transcription subunit 6 [source:uniprotkb/swiss-prot;acc:q7q107].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010034>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

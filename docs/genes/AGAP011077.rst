@@ -1,9 +1,0 @@
-
-AGAP011077
-=============
-
-Name: **RpS12**
-
-Description: 40s ribosomal protein s12 [source:uniprotkb/trembl;acc:q7psp8].
-
-TODO

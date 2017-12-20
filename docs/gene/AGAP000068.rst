@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000068
+=============
+
+
+
+Name: **NFI**
+
+Description: Nuclear factor i [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000068>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

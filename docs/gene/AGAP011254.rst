@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011254
+=============
+
+
+
+
+
+Description: Adp-ribosylation factor-like 5a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011254>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

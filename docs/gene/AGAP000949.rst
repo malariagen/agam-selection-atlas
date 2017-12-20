@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000949
+=============
+
+
+
+
+
+Description: Transmembrane emp24 domain-containing protein 3 precursor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000949>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

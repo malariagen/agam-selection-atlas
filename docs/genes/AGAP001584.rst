@@ -1,9 +1,0 @@
-
-AGAP001584
-=============
-
-Name: **snRNP-U1-C**
-
-Description: U1 small nuclear ribonucleoprotein c [source:uniprotkb/swiss-prot;acc:q7pxu6].
-
-TODO

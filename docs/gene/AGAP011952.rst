@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011952
+=============
+
+
+
+Name: **CASPS3**
+
+Description: Short caspase 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011952>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

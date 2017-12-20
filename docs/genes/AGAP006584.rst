@@ -1,9 +1,0 @@
-
-AGAP006584
-=============
-
-
-
-Description: Cysteine-rich venom protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009114
-=============
-
-
-
-Description: Solute carrier family 29 (equilibrative nucleoside transporter), member 1/2/3 [source:vb community annotation].
-
-TODO

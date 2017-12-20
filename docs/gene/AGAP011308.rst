@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011308
+=============
+
+
+
+
+
+Description: Solute carrier family 25 (mitochondrial carrier protein), member 16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011308>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

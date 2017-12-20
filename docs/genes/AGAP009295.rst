@@ -1,9 +1,0 @@
-
-AGAP009295
-=============
-
-
-
-Description: Kip1 ubiquitination-promoting complex protein 1 [source:vb community annotation].
-
-TODO

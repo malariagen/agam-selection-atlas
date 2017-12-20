@@ -1,9 +1,0 @@
-
-AGAP012406
-=============
-
-
-
-Description: Uncharacterized protein slr0305 [source:vb community annotation].
-
-TODO

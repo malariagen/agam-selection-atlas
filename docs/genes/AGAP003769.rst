@@ -1,9 +1,0 @@
-
-AGAP003769
-=============
-
-
-
-Description: Importin beta-3 [source:vb community annotation].
-
-TODO

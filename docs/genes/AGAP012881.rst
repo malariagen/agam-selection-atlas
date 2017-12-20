@@ -1,9 +1,0 @@
-
-AGAP012881
-=============
-
-
-
-Description: Envelysin [source:vb community annotation].
-
-TODO

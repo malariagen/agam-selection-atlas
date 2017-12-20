@@ -1,9 +1,0 @@
-
-AGAP003568
-=============
-
-Name: **COE22933**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

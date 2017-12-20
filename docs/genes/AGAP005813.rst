@@ -1,9 +1,0 @@
-
-AGAP005813
-=============
-
-
-
-Description: Fes cluster assembly scaffold iscu [source:vb community annotation].
-
-TODO

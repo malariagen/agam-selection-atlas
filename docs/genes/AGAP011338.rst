@@ -1,9 +1,0 @@
-
-AGAP011338
-=============
-
-
-
-Description: Peptide-o-fucosyltransferase [source:vb community annotation].
-
-TODO

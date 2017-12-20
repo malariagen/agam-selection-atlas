@@ -1,9 +1,0 @@
-
-AGAP011375
-=============
-
-
-
-Description: Selenophosphate synthetase 2 [source:vb community annotation].
-
-TODO

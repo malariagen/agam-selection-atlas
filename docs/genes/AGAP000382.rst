@@ -1,9 +1,0 @@
-
-AGAP000382
-=============
-
-Name: **CPF4**
-
-Description: Cuticular protein 4 from fifty-one aa family [source:vb community annotation].
-
-TODO

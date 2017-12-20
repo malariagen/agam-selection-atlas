@@ -1,9 +1,0 @@
-
-AGAP002337
-=============
-
-Name: **eIF3d**
-
-Description: Eukaryotic translation initiation factor 3 subunit d [source:uniprotkb/swiss-prot;acc:q7qbw3].
-
-TODO

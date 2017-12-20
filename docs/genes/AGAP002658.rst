@@ -1,9 +1,0 @@
-
-AGAP002658
-=============
-
-
-
-Description: Small nuclear ribonucleoprotein polypeptide f [source:vb community annotation].
-
-TODO

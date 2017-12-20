@@ -1,9 +1,0 @@
-
-AGAP006521
-=============
-
-
-
-Description: Adenylate cyclase-stimulating g alpha protein [source:vb community annotation].
-
-TODO

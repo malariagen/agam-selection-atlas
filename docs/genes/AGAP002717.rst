@@ -1,9 +1,0 @@
-
-AGAP002717
-=============
-
-Name: **ABCB5**
-
-Description: Atp-binding cassette transporter (abc transporter) family b member 5 [source:vb community annotation].
-
-TODO

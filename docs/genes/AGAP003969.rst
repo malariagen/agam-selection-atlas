@@ -1,9 +1,0 @@
-
-AGAP003969
-=============
-
-
-
-Description: Gtp-binding protein 6 [source:vb community annotation].
-
-TODO

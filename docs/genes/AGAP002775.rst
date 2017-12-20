@@ -1,9 +1,0 @@
-
-AGAP002775
-=============
-
-
-
-Description: Transmembrane anterior posterior transformation protein 1 homolog [source:vb community annotation].
-
-TODO

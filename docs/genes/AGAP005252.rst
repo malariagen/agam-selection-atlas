@@ -1,9 +1,0 @@
-
-AGAP005252
-=============
-
-Name: **MYD**
-
-Description: Toll pathway signalling. [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000749
-=============
-
-
-
-Description: Muscular protein 20 [source:vb community annotation].
-
-TODO

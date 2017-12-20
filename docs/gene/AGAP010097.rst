@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010097
+=============
+
+
+
+Name: **CPR107**
+
+Description: Cuticular protein rr-2 family 107 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010097>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

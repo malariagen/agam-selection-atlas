@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006941
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx51/dbp6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006941>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

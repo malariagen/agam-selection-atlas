@@ -1,9 +1,0 @@
-
-AGAP011776
-=============
-
-
-
-Description: Protein kinase protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008664
+=============
+
+
+
+
+
+Description: Udp-glucose 4-epimerase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008664>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

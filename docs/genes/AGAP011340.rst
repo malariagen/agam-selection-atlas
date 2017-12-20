@@ -1,9 +1,0 @@
-
-AGAP011340
-=============
-
-
-
-Description: Cleavage and polyadenylation specificity factor subunit 1 [source:vb community annotation].
-
-TODO

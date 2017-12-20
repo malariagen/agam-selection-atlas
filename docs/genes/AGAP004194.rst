@@ -1,9 +1,0 @@
-
-AGAP004194
-=============
-
-
-
-Description: Dynactin 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001133
-=============
-
-
-
-Description: Regulator of nonsense transcripts 1 [source:vb community annotation].
-
-TODO

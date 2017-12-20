@@ -1,9 +1,0 @@
-
-AGAP005076
-=============
-
-
-
-Description: Bridging integrator [source:vb community annotation].
-
-TODO

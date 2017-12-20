@@ -1,9 +1,0 @@
-
-AGAP000733
-=============
-
-
-
-Description: Uv excision repair protein rad23 [source:vb community annotation].
-
-TODO

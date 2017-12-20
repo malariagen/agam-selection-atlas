@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009685
+=============
+
+
+
+
+
+Description: Aspartate aminotransferase, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009685>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

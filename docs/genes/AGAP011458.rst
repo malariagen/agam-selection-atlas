@@ -1,9 +1,0 @@
-
-AGAP011458
-=============
-
-
-
-Description: Fk506-binding protein 6 [source:vb community annotation].
-
-TODO

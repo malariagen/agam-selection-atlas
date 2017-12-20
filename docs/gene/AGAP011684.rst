@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011684
+=============
+
+
+
+
+
+Description: Aryl hydrocarbon receptor interacting protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011684>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

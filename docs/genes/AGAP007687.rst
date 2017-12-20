@@ -1,9 +1,0 @@
-
-AGAP007687
-=============
-
-
-
-Description: Oxysterol-binding protein [source:uniprotkb/trembl;acc:q7pt44].
-
-TODO

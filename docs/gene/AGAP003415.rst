@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003415
+=============
+
+
+
+
+
+Description: Grx3p [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003415>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

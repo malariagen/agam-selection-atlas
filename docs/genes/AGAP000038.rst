@@ -1,9 +1,0 @@
-
-AGAP000038
-=============
-
-
-
-Description: Gamma-aminobutyric acid receptor subunit beta [source:vb community annotation].
-
-TODO

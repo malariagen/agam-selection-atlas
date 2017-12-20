@@ -1,9 +1,0 @@
-
-AGAP002544
-=============
-
-
-
-Description: Nuclear receptor subfamily 2 group f member 3 [source:vb community annotation].
-
-TODO

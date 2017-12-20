@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010386
+=============
+
+
+
+
+
+Description: Translocating chain-associated membrane protein 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010386>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

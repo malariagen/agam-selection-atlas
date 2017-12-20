@@ -1,9 +1,0 @@
-
-AGAP000203
-=============
-
-
-
-Description: Inositol-1,4,5-trisphosphate 5-phosphatase [source:vb community annotation].
-
-TODO

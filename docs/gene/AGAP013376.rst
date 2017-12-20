@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013376
+=============
+
+
+
+Name: **mRpL41**
+
+Description: 39s ribosomal protein l41, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013376>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

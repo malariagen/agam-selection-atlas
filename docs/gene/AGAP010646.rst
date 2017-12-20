@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010646
+=============
+
+
+
+
+
+Description: Reversion-inducing cysteine-rich protein with kazal motifs [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010646>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

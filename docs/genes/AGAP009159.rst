@@ -1,9 +1,0 @@
-
-AGAP009159
-=============
-
-
-
-Description: Amp dependent ligase [source:vb community annotation].
-
-TODO

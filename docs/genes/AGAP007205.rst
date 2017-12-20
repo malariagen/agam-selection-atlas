@@ -1,9 +1,0 @@
-
-AGAP007205
-=============
-
-
-
-Description: Rat1-interacting protein [source:vb community annotation].
-
-TODO

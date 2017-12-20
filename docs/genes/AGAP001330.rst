@@ -1,9 +1,0 @@
-
-AGAP001330
-=============
-
-
-
-Description: Furin [source:vb community annotation].
-
-TODO

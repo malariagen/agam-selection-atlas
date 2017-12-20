@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000114
+=============
+
+
+
+
+
+Description: Ovo [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

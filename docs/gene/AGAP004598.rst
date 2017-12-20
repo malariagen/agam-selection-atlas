@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004598
+=============
+
+
+
+
+
+Description: Phosphoserine aminotransferase [source:uniprotkb/trembl;acc:q5trw7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004598>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

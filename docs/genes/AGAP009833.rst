@@ -1,9 +1,0 @@
-
-AGAP009833
-=============
-
-
-
-Description: Voltage-dependent anion-selective channel protein 2 [source:vb community annotation].
-
-TODO

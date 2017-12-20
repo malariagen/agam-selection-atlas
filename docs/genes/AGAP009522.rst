@@ -1,9 +1,0 @@
-
-AGAP009522
-=============
-
-
-
-Description: Fibronectin type-iii domain-containing protein 3a [source:vb community annotation].
-
-TODO

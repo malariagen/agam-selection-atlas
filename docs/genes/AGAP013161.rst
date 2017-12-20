@@ -1,9 +1,0 @@
-
-AGAP013161
-=============
-
-
-
-Description: Fatty-acid amide hydrolase 2 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002933
+=============
+
+
+
+
+
+Description: 2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002933>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002898
+=============
+
+
+
+Name: **GSTZ1**
+
+Description: Glutathione s-transferase zeta class 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002898>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028023
+=============
+
+
+
+
+
+Description: Phosphatidylinositol glycan, class m [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028023>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP003790
-=============
-
-Name: **ANXB9**
-
-Description: Annexin b9 [source:vb community annotation].
-
-TODO

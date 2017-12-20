@@ -1,9 +1,0 @@
-
-AGAP001325
-=============
-
-
-
-Description: Peroxiredoxin 5, atypical 2-cys peroxiredoxin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011187
-=============
-
-Name: **TOLL10**
-
-Description: Toll-like receptor 10 [source:vb community annotation].
-
-TODO

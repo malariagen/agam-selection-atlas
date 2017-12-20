@@ -1,9 +1,0 @@
-
-AGAP002374
-=============
-
-
-
-Description: Heterogeneous nuclear ribonucleoprotein a1/a3 [source:vb community annotation].
-
-TODO

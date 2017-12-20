@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010341
+=============
+
+
+
+
+
+Description: Testis-specific serine kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010341>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005926
-=============
-
-
-
-Description: Senataxin [source:vb community annotation].
-
-TODO

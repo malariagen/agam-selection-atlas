@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002542
+=============
+
+
+
+Name: **LRIM20**
+
+Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002542>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

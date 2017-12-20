@@ -1,9 +1,0 @@
-
-AGAP007868
-=============
-
-
-
-Description: 2-hydroxyglutarate dehydrogenase [source:vb community annotation].
-
-TODO

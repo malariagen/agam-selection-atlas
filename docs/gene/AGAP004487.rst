@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004487
+=============
+
+
+
+
+
+Description: Snx5 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004487>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

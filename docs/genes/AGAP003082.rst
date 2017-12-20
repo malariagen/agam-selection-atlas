@@ -1,9 +1,0 @@
-
-AGAP003082
-=============
-
-
-
-Description: Lipase [source:vb community annotation].
-
-TODO

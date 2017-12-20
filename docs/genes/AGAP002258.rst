@@ -1,9 +1,0 @@
-
-AGAP002258
-=============
-
-Name: **Med31**
-
-Description: Mediator of rna polymerase ii transcription subunit 31 [source:vb community annotation].
-
-TODO

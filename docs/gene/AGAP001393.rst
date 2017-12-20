@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001393
+=============
+
+
+
+Name: **Sgf11**
+
+Description: Saga-associated factor 11 homolog [source:uniprotkb/swiss-prot;acc:q7pxg4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001393>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

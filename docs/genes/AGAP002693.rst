@@ -1,9 +1,0 @@
-
-AGAP002693
-=============
-
-Name: **ABCF1**
-
-Description: Atp-binding cassette transporter (abc transporter) family f member 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001396
-=============
-
-
-
-Description: Inositol monophosphatase 3 [source:vb community annotation].
-
-TODO

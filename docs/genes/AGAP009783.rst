@@ -1,9 +1,0 @@
-
-AGAP009783
-=============
-
-
-
-Description: Short/branched chain acyl-coa dehydrogenase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000798
+=============
+
+
+
+Name: **GLURIIc**
+
+Description: Ionotropic receptor gluriic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000798>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

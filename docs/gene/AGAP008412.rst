@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008412
+=============
+
+
+
+
+
+Description: Ubiquitin thioesterase cyld [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008412>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

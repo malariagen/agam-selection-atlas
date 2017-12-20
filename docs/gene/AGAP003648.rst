@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003648
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerase ii subunit rpb2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003648>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010966
+=============
+
+
+
+Name: **CYP6AJ1**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010966>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

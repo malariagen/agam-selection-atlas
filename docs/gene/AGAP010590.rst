@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010590
+=============
+
+
+
+Name: **mRpL30**
+
+Description: 39s ribosomal protein l30, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010590>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

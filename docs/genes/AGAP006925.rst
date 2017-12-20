@@ -1,9 +1,0 @@
-
-AGAP006925
-=============
-
-
-
-Description: Polypeptide n-acetylgalactosaminyltransferase [source:uniprotkb/trembl;acc:q7qik5].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007302
-=============
-
-
-
-Description: Dopa decarboxylase [source:vb community annotation].
-
-TODO

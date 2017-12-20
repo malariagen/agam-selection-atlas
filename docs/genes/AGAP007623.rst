@@ -1,9 +1,0 @@
-
-AGAP007623
-=============
-
-
-
-Description: Clip-associating protein 1/2 [source:vb community annotation].
-
-TODO

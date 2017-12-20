@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000029
+=============
+
+
+
+
+
+Description: E1a/creb-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000029>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

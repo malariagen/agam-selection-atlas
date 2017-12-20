@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028370
+=============
+
+
+
+Name: **ATP6**
+
+Description: Adenosine triphosphatase subunit 6 [source:european nucleotide archive;acc:atp6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028370>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

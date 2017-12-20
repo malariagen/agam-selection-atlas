@@ -1,9 +1,0 @@
-
-AGAP001793
-=============
-
-
-
-Description: Aurora kinase a [source:vb community annotation].
-
-TODO

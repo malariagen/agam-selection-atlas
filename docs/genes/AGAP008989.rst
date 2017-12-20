@@ -1,9 +1,0 @@
-
-AGAP008989
-=============
-
-
-
-Description: Ras-like family 11 member a [source:vb community annotation].
-
-TODO

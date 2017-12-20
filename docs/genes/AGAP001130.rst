@@ -1,9 +1,0 @@
-
-AGAP001130
-=============
-
-
-
-Description: Poly(a) rna polymerase gld2 [source:vb community annotation].
-
-TODO

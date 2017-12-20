@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009564
+=============
+
+
+
+
+
+Description: Atp synthase epsilon chain, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009564>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

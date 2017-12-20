@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009539
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerase i subunit rpa2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009539>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

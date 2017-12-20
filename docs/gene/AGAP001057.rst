@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001057
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx10/dbp4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001057>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

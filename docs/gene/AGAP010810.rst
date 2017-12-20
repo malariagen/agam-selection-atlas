@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010810
+=============
+
+
+
+Name: **HPX14**
+
+Description: Heme peroxidase 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010810>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

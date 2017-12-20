@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010251
+=============
+
+
+
+
+
+Description: Coatomer protein complex, subunit alpha (xenin) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010251>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

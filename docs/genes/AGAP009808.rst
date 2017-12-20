@@ -1,9 +1,0 @@
-
-AGAP009808
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx47/rrp3 [source:vb community annotation].
-
-TODO

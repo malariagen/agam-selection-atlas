@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001722
+=============
+
+
+
+
+
+Description: Carboxylic ester hydrolase [source:uniprotkb/trembl;acc:q7py29].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001722>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

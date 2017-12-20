@@ -1,9 +1,0 @@
-
-AGAP011133
-=============
-
-
-
-Description: Inosine-5'-monophosphate dehydrogenase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009944
+=============
+
+
+
+
+
+Description: Retinal dehydrogenase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009944>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010907
+=============
+
+
+
+Name: **CPFL6**
+
+Description: Cuticular protein 6 from cpfl family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010907>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004906
-=============
-
-
-
-Description: Mitochondrial pyruvate carrier [source:uniprotkb/trembl;acc:q7q814].
-
-TODO

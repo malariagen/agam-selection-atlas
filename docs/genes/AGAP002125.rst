@@ -1,9 +1,0 @@
-
-AGAP002125
-=============
-
-Name: **Or34**
-
-Description: Odorant receptor 34 [source:vb community annotation].
-
-TODO

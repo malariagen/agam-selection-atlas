@@ -1,9 +1,0 @@
-
-AGAP006383
-=============
-
-
-
-Description: Oligosaccharyltransferase complex subunit beta [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010818
+=============
+
+
+
+Name: **TEP11**
+
+Description: Thioester-containing protein 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010818>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000094
-=============
-
-
-
-Description: 4-nitrophenylphosphatase [source:vb community annotation].
-
-TODO

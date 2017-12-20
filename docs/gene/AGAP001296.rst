@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001296
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase trip12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001296>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

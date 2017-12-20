@@ -1,9 +1,0 @@
-
-AGAP002086
-=============
-
-
-
-Description: Otu domain-containing protein 5 [source:vb community annotation].
-
-TODO

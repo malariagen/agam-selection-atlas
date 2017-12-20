@@ -1,9 +1,0 @@
-
-AGAP002022
-=============
-
-
-
-Description: Protein maelstrom [source:vb community annotation].
-
-TODO

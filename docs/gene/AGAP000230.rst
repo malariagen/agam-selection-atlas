@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000230
+=============
+
+
+
+Name: **Or52**
+
+Description: Odorant receptor 52 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000230>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

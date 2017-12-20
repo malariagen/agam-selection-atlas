@@ -1,9 +1,0 @@
-
-AGAP000102
-=============
-
-
-
-Description: Alpha-1,6-mannosyltransferase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011796
-=============
-
-
-
-Description: Solute carrier family 29 (equilibrative nucleoside transporter), member 4 [source:vb community annotation].
-
-TODO

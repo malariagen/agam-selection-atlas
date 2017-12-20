@@ -1,9 +1,0 @@
-
-AGAP000982
-=============
-
-
-
-Description: Uncharacterized protein enpp4 [source:vb community annotation].
-
-TODO

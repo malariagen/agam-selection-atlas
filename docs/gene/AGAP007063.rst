@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007063
+=============
+
+
+
+
+
+Description: Origin recognition complex subunit 4 [source:uniprotkb/trembl;acc:q7qit4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007063>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

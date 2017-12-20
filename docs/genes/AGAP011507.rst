@@ -1,9 +1,0 @@
-
-AGAP011507
-=============
-
-Name: **COE13O**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

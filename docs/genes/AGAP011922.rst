@@ -1,9 +1,0 @@
-
-AGAP011922
-=============
-
-
-
-Description: Lipase maturation factor [source:uniprotkb/trembl;acc:a0a1s4h7y4].
-
-TODO

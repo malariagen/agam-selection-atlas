@@ -1,9 +1,0 @@
-
-AGAP010653
-=============
-
-
-
-Description: Synaptotagmin 5 [source:vb community annotation].
-
-TODO

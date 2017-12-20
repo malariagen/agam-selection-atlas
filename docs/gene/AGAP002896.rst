@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002896
+=============
+
+
+
+
+
+Description: Rna-binding protein nova [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002896>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

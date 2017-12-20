@@ -1,9 +1,0 @@
-
-AGAP001434
-=============
-
-
-
-Description: Glutamate receptor, anionic [source:vb community annotation].
-
-TODO

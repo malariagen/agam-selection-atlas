@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008281
+=============
+
+
+
+Name: **D7r4**
+
+Description: D7 short form salivary protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008281>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

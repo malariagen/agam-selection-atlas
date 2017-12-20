@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009806
+=============
+
+
+
+
+
+Description: Max-like protein x [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009806>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

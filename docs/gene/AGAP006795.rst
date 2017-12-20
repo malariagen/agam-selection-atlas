@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006795
+=============
+
+
+
+Name: **Aper1**
+
+Description: Peritrophin 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006795>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

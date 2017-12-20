@@ -1,9 +1,0 @@
-
-AGAP003114
-=============
-
-
-
-Description: Protein phosphatase 1, catalytic subunit [source:vb community annotation].
-
-TODO

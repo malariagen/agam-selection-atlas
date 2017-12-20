@@ -1,9 +1,0 @@
-
-AGAP008025
-=============
-
-
-
-Description: Homeobox protein engrailed-like [source:uniprotkb/trembl;acc:a0a1s4gx23].
-
-TODO

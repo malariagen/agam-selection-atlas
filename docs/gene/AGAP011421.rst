@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011421
+=============
+
+
+
+
+
+Description: Iq motif and sec7 domain-containing protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011421>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004416
+=============
+
+
+
+
+
+Description: Dynein light chain 1, axonemal [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004416>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

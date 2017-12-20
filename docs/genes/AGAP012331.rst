@@ -1,9 +1,0 @@
-
-AGAP012331
-=============
-
-Name: **OBP29**
-
-Description: Odorant-binding protein 29 [source:vb community annotation].
-
-TODO

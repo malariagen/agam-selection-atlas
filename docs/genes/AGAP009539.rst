@@ -1,9 +1,0 @@
-
-AGAP009539
-=============
-
-
-
-Description: Dna-directed rna polymerase i subunit rpa2 [source:vb community annotation].
-
-TODO

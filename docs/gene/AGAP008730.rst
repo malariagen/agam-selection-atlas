@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008730
+=============
+
+
+
+
+
+Description: 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008730>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

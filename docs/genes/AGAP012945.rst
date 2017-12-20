@@ -1,9 +1,0 @@
-
-AGAP012945
-=============
-
-
-
-Description: Casps4 protein [source:vb community annotation].
-
-TODO

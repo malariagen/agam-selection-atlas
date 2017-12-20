@@ -1,9 +1,0 @@
-
-AGAP007002
-=============
-
-
-
-Description: Transcription initiation factor tfiif subunit beta [source:vb community annotation].
-
-TODO

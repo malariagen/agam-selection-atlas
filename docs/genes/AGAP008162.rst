@@ -1,9 +1,0 @@
-
-AGAP008162
-=============
-
-
-
-Description: Snare-associated protein snapin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002292
-=============
-
-Name: **PKP**
-
-Description: Pyrokinin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012140
-=============
-
-Name: **eIF3b**
-
-Description: Eukaryotic translation initiation factor 3 subunit b [source:uniprotkb/swiss-prot;acc:q7pzy1].
-
-TODO

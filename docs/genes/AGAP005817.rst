@@ -1,9 +1,0 @@
-
-AGAP005817
-=============
-
-Name: **Cdk4**
-
-Description: Cyclin-dependent kinase 4 [source:vb community annotation].
-
-TODO

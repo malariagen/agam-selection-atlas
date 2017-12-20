@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007055
+=============
+
+
+
+
+
+Description: Sodium-dependent dicarboxylate transporter sdcs [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007055>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

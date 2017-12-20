@@ -1,9 +1,0 @@
-
-AGAP004942
-=============
-
-
-
-Description: Poly(rc)-binding protein 2/3/4 [source:vb community annotation].
-
-TODO

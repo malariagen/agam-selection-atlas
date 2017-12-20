@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010019
+=============
+
+
+
+
+
+Description: Rwd domain-containing protein 4a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010019>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

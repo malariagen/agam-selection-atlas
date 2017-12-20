@@ -1,9 +1,0 @@
-
-AGAP000679
-=============
-
-
-
-Description: Aminoacylase [source:uniprotkb/trembl;acc:q7qef5].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003255
+=============
+
+
+
+Name: **Gr17**
+
+Description: Gustatory receptor 17 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003255>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

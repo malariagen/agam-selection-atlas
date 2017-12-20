@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011974
+=============
+
+
+
+Name: **SCRC1**
+
+Description: Class c scavenger receptor (sushi/scr/ccp and somatomedin b domains). [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011974>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009558
+=============
+
+
+
+
+
+Description: Transcription initiation factor tfiib [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009558>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

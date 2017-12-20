@@ -1,9 +1,0 @@
-
-AGAP004275
-=============
-
-
-
-Description: Dna replication licensing factor mcm2 [source:vb community annotation].
-
-TODO

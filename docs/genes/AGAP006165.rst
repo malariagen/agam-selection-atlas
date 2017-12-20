@@ -1,9 +1,0 @@
-
-AGAP006165
-=============
-
-
-
-Description: E1a-binding protein p400 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005003
-=============
-
-
-
-Description: Melanotransferrin [source:vb community annotation].
-
-TODO

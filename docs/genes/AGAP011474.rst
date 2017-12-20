@@ -1,9 +1,0 @@
-
-AGAP011474
-=============
-
-
-
-Description: Ubiquitin-protein ligase e3 c [source:vb community annotation].
-
-TODO

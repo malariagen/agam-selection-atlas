@@ -1,9 +1,0 @@
-
-AGAP005382
-=============
-
-
-
-Description: Transcription initiation factor tfiie subunit beta [source:vb community annotation].
-
-TODO

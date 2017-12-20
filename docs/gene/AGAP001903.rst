@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001903
+=============
+
+
+
+Name: **Mdh2**
+
+Description: Nad-dependent malate dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001903>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

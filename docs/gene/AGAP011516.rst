@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011516
+=============
+
+
+
+
+
+Description: Actin, cytoplasmic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011516>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

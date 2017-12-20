@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002007
+=============
+
+
+
+
+
+Description: Reticulon/nogo receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002007>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

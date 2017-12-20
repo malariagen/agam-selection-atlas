@@ -1,9 +1,0 @@
-
-AGAP011162
-=============
-
-
-
-Description: Cytoskeleton-associated protein 5 [source:vb community annotation].
-
-TODO

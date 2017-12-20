@@ -1,9 +1,0 @@
-
-AGAP005956
-=============
-
-
-
-Description: Fggy-family pentulose kinase [source:vb community annotation].
-
-TODO

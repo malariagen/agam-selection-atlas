@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004625
+=============
+
+
+
+
+
+Description: Cortactin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004625>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

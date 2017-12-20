@@ -1,9 +1,0 @@
-
-AGAP001595
-=============
-
-Name: **RpS29**
-
-Description: 40s ribosomal protein s29 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000891
-=============
-
-
-
-Description: Phosphatidylinositide phosphatase sac1 [source:vb community annotation].
-
-TODO

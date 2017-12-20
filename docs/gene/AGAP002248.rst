@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002248
+=============
+
+
+
+
+
+Description: Kinesin family member c1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002248>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

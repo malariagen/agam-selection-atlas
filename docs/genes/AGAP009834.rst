@@ -1,9 +1,0 @@
-
-AGAP009834
-=============
-
-
-
-Description: Cop9 signalosome subunit 4 [source:vb community annotation].
-
-TODO

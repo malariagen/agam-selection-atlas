@@ -1,9 +1,0 @@
-
-AGAP003826
-=============
-
-
-
-Description: Proteasome assembly chaperone 2 [source:vb community annotation].
-
-TODO

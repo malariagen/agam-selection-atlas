@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008331
+=============
+
+
+
+
+
+Description: Wd repeat-containing protein 59 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008331>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

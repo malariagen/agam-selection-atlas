@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000287
+=============
+
+
+
+
+
+Description: Prostaglandin reductase 1, gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000287>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

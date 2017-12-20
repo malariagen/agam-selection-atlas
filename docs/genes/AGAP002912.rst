@@ -1,9 +1,0 @@
-
-AGAP002912
-=============
-
-
-
-Description: Salivary c-type lectin [source:vb community annotation].
-
-TODO

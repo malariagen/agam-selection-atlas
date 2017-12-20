@@ -1,9 +1,0 @@
-
-AGAP005325
-=============
-
-
-
-Description: Spermine synthase [source:vb community annotation].
-
-TODO

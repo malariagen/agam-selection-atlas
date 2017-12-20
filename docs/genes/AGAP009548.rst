@@ -1,9 +1,0 @@
-
-AGAP009548
-=============
-
-
-
-Description: Aaa family atpase [source:vb community annotation].
-
-TODO

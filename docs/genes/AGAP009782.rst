@@ -1,9 +1,0 @@
-
-AGAP009782
-=============
-
-
-
-Description: Methylosome protein 50 [source:vb community annotation].
-
-TODO

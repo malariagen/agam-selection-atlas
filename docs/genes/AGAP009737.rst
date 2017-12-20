@@ -1,9 +1,0 @@
-
-AGAP009737
-=============
-
-
-
-Description: Elongation factor g, mitochondrial [source:uniprotkb/swiss-prot;acc:q7q1k8].
-
-TODO

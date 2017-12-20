@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004336
+=============
+
+
+
+
+
+Description: Utp11-like, u3 small nucleolar ribonucleoprotein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004336>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

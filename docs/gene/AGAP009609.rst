@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009609
+=============
+
+
+
+
+
+Description: Homogentisate 1,2-dioxygenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009609>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

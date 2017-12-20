@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009633
+=============
+
+
+
+
+
+Description: 3-oxoacyl-(acyl-carrier protein) reductase fabg2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009633>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

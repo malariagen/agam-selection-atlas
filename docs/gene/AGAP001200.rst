@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001200
+=============
+
+
+
+
+
+Description: Glycogen debranching enzyme [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001200>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

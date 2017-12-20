@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008392
+=============
+
+
+
+
+
+Description: Hsp70-interacting protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008392>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

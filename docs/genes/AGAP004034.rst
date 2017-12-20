@@ -1,9 +1,0 @@
-
-AGAP004034
-=============
-
-Name: **GPRNNA4**
-
-Description: Putative gpcr class a orphan receptor 4 [source:vb community annotation].
-
-TODO

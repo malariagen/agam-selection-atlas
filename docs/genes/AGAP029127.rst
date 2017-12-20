@@ -1,9 +1,0 @@
-
-AGAP029127
-=============
-
-Name: **CSP5**
-
-Description: Chemosensory protein 5 [source:vb community annotation].
-
-TODO

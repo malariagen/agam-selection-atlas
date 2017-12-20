@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004092
+=============
+
+
+
+Name: **APG2**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004092>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

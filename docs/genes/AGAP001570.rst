@@ -1,9 +1,0 @@
-
-AGAP001570
-=============
-
-
-
-Description: Microtubule-associated protein tau [source:vb community annotation].
-
-TODO

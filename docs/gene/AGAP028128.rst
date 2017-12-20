@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028128
+=============
+
+
+
+Name: **ABCC9**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028128>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

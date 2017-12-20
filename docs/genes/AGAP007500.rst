@@ -1,9 +1,0 @@
-
-AGAP007500
-=============
-
-
-
-Description: Lachesin [source:vb community annotation].
-
-TODO

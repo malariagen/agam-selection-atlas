@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004030
+=============
+
+
+
+
+
+Description: Dynein light intermediate chain, axonemal [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004030>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

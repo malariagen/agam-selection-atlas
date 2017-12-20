@@ -1,9 +1,0 @@
-
-AGAP008876
-=============
-
-
-
-Description: Atp synthase mitochondrial f1 complex assembly factor 2 [source:vb community annotation].
-
-TODO

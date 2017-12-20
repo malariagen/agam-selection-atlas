@@ -1,9 +1,0 @@
-
-AGAP009772
-=============
-
-
-
-Description: Protein ptcd3-like protein, mitochondrial [source:vb community annotation].
-
-TODO

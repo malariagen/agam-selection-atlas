@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008832
+=============
+
+
+
+
+
+Description: Cyclic amp-dependent transcription factor atf-6 alpha [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008832>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

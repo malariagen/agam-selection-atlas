@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003275
+=============
+
+
+
+
+
+Description: Solute carrier family 12 (sodium/potassium/chloride transporter), member 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003275>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

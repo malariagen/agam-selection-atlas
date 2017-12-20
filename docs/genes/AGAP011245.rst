@@ -1,9 +1,0 @@
-
-AGAP011245
-=============
-
-
-
-Description: Chloride channel [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009054
-=============
-
-Name: **LL4**
-
-Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 4) [source:vb community annotation].
-
-TODO

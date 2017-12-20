@@ -1,9 +1,0 @@
-
-AGAP003639
-=============
-
-
-
-Description: Prolylcarboxypeptidase [source:vb community annotation].
-
-TODO

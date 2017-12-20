@@ -1,9 +1,0 @@
-
-AGAP009694
-=============
-
-
-
-Description: T-complex protein 1 subunit beta [source:vb community annotation].
-
-TODO

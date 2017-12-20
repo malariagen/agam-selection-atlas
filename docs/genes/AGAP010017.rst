@@ -1,9 +1,0 @@
-
-AGAP010017
-=============
-
-
-
-Description: Tnf receptor-associated factor 4 [source:vb community annotation].
-
-TODO

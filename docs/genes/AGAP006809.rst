@@ -1,9 +1,0 @@
-
-AGAP006809
-=============
-
-Name: **akirin**
-
-Description: Akirin [source:vb community annotation].
-
-TODO

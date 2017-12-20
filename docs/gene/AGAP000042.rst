@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000042
+=============
+
+
+
+
+
+Description: Histone-lysine n-methyltransferase [source:uniprotkb/trembl;acc:q5tut6].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000042>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

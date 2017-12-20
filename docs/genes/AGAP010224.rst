@@ -1,9 +1,0 @@
-
-AGAP010224
-=============
-
-
-
-Description: Er lumen protein retaining receptor [source:vb community annotation].
-
-TODO

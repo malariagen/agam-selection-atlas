@@ -1,9 +1,0 @@
-
-AGAP005972
-=============
-
-
-
-Description: 4-nitrophenylphosphatase [source:vb community annotation].
-
-TODO

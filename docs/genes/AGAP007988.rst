@@ -1,9 +1,0 @@
-
-AGAP007988
-=============
-
-
-
-Description: Glycerate kinase [source:vb community annotation].
-
-TODO

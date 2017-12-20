@@ -1,9 +1,0 @@
-
-AGAP005650
-=============
-
-
-
-Description: (acyl-carrier-protein) s-malonyltransferase [source:vb community annotation].
-
-TODO

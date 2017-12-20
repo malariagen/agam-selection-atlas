@@ -1,9 +1,0 @@
-
-AGAP010956
-=============
-
-
-
-Description: Gamma-tubulin complex component 6 [source:vb community annotation].
-
-TODO

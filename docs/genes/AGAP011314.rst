@@ -1,9 +1,0 @@
-
-AGAP011314
-=============
-
-
-
-Description: Cytochrome b5 reductase 4 [source:vb community annotation].
-
-TODO

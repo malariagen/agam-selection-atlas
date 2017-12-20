@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004268
+=============
+
+
+
+
+
+Description: Udp-glucuronate decarboxylase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004268>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

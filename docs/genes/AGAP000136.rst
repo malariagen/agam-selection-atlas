@@ -1,9 +1,0 @@
-
-AGAP000136
-=============
-
-
-
-Description: Tetratricopeptide repeat domain 21b [source:vb community annotation].
-
-TODO

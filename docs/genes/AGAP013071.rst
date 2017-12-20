@@ -1,9 +1,0 @@
-
-AGAP013071
-=============
-
-
-
-Description: Stearoyl-coa desaturase 5 [source:vb community annotation].
-
-TODO

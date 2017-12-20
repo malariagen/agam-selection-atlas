@@ -1,9 +1,0 @@
-
-AGAP008100
-=============
-
-
-
-Description: Spire [source:vb community annotation].
-
-TODO

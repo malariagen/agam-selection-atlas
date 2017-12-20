@@ -1,9 +1,0 @@
-
-AGAP006924
-=============
-
-
-
-Description: Dynactin 6 [source:vb community annotation].
-
-TODO

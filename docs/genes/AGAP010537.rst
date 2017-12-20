@@ -1,9 +1,0 @@
-
-AGAP010537
-=============
-
-
-
-Description: Hexaprenyldihydroxybenzoate methyltransferase [source:vb community annotation].
-
-TODO

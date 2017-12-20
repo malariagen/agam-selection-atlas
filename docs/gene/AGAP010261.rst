@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010261
+=============
+
+
+
+
+
+Description: Dystrophin dp427c isoform [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010261>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

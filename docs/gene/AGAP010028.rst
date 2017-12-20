@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010028
+=============
+
+
+
+
+
+Description: Dna topoisomerase iii [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010028>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008563
-=============
-
-
-
-Description: T-box protein h15 [source:vb community annotation].
-
-TODO

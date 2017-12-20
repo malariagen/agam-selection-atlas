@@ -1,9 +1,0 @@
-
-AGAP013044
-=============
-
-
-
-Description: Cleavage and polyadenylation specificity factor subunit 4 [source:vb community annotation].
-
-TODO

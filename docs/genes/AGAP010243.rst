@@ -1,9 +1,0 @@
-
-AGAP010243
-=============
-
-
-
-Description: Female reproductive tract protease gleanr_897 [source:vb community annotation].
-
-TODO

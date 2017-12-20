@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000118
+=============
+
+
+
+
+
+Description: Ubiquinone biosynthesis monooxygenase coq7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000118>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

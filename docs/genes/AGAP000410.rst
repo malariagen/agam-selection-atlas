@@ -1,9 +1,0 @@
-
-AGAP000410
-=============
-
-
-
-Description: Histone deacetylase 4/5 [source:vb community annotation].
-
-TODO

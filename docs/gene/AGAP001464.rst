@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001464
+=============
+
+
+
+
+
+Description: Cyclic amp-responsive element-binding protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001464>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

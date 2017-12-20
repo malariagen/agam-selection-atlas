@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007742
+=============
+
+
+
+
+
+Description: E3 ufm1-protein ligase 1 homolog [source:uniprotkb/swiss-prot;acc:q7q373].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007742>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007112
+=============
+
+
+
+
+
+Description: Pescadillo homolog [source:uniprotkb/swiss-prot;acc:q7qix1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007112>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

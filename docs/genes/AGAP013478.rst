@@ -1,9 +1,0 @@
-
-AGAP013478
-=============
-
-
-
-Description: Glyoxylate/hydroxypyruvate reductase [source:vb community annotation].
-
-TODO

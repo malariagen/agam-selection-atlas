@@ -1,9 +1,0 @@
-
-AGAP003530
-=============
-
-Name: **OBP6**
-
-Description: Odorant-binding protein antennal 6 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008647
-=============
-
-
-
-Description: Tetraspanin 29fb [source:vb community annotation].
-
-TODO

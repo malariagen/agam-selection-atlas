@@ -1,9 +1,0 @@
-
-AGAP005760
-=============
-
-Name: **Or33**
-
-Description: Odorant receptor 33 [source:vb community annotation].
-
-TODO

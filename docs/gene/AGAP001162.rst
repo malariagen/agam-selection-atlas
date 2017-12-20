@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001162
+=============
+
+
+
+Name: **GPROP5**
+
+Description: Long wavelength sensitive opsin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001162>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

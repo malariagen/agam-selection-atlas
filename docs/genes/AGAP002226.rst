@@ -1,9 +1,0 @@
-
-AGAP002226
-=============
-
-
-
-Description: Diacylglycerol kinase (atp dependent) [source:vb community annotation].
-
-TODO

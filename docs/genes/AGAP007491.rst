@@ -1,9 +1,0 @@
-
-AGAP007491
-=============
-
-
-
-Description: Sulfhydryl oxidase [source:uniprotkb/trembl;acc:q5twz0].
-
-TODO

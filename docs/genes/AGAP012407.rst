@@ -1,9 +1,0 @@
-
-AGAP012407
-=============
-
-
-
-Description: Protein disulfide-isomerase a1 [source:vb community annotation].
-
-TODO

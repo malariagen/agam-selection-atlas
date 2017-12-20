@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008417
+=============
+
+
+
+
+
+Description: Cyclin h [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008417>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

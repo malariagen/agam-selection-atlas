@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003466
+=============
+
+
+
+Name: **Osi15**
+
+Description: Osiris 15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003466>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000806
-=============
-
-
-
-Description: Angiopoietin-like 1 [source:vb community annotation].
-
-TODO

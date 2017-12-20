@@ -1,9 +1,0 @@
-
-AGAP004199
-=============
-
-
-
-Description: Solute carrier family 5 (sodium-coupled monocarboxylate transporter), member 8 [source:vb community annotation].
-
-TODO

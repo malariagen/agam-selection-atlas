@@ -1,9 +1,0 @@
-
-AGAP000720
-=============
-
-
-
-Description: Neuronal cell adhesion molecule [source:vb community annotation].
-
-TODO

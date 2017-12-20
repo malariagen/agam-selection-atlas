@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009036
+=============
+
+
+
+
+
+Description: Solute carrier family 9 (sodium/hydrogen exchanger), member 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009036>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

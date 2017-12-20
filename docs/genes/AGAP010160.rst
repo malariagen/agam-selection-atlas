@@ -1,9 +1,0 @@
-
-AGAP010160
-=============
-
-
-
-Description: Myosin i [source:vb community annotation].
-
-TODO

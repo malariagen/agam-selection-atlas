@@ -1,9 +1,0 @@
-
-AGAP011518
-=============
-
-Name: **ABCA4**
-
-Description: Atp-binding cassette transporter (abc transporter) family a member 4 [source:vb community annotation].
-
-TODO

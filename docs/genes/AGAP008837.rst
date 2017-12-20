@@ -1,9 +1,0 @@
-
-AGAP008837
-=============
-
-
-
-Description: 20s proteasome subunit beta 4 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002165
+=============
+
+
+
+
+
+Description: Broad [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002165>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004535
-=============
-
-
-
-Description: Exportin 7 [source:vb community annotation].
-
-TODO

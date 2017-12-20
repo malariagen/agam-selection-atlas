@@ -1,9 +1,0 @@
-
-AGAP008277
-=============
-
-
-
-Description: Trypsinogen 2 [source:vb community annotation].
-
-TODO

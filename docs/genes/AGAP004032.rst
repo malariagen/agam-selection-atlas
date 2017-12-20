@@ -1,9 +1,0 @@
-
-AGAP004032
-=============
-
-
-
-Description: Alpha-mannosidase [source:uniprotkb/trembl;acc:q7qh78].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002092
+=============
+
+
+
+
+
+Description: Ras-related protein rab-30 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002092>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

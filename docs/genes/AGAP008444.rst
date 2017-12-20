@@ -1,9 +1,0 @@
-
-AGAP008444
-=============
-
-Name: **CPLCG1**
-
-Description: Cuticular protein cplcg family (cplcg1) [source:vb community annotation].
-
-TODO

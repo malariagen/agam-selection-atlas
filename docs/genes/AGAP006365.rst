@@ -1,9 +1,0 @@
-
-AGAP006365
-=============
-
-
-
-Description: Rna-binding protein 8a [source:uniprotkb/trembl;acc:q7q5l6].
-
-TODO

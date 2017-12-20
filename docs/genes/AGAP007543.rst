@@ -1,9 +1,0 @@
-
-AGAP007543
-=============
-
-Name: **TPX3**
-
-Description: Thioredoxin peroxidase 3 [source:vb community annotation].
-
-TODO

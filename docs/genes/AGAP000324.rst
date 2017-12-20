@@ -1,9 +1,0 @@
-
-AGAP000324
-=============
-
-
-
-Description: Trna (guanine9-n1)-methyltransferase [source:vb community annotation].
-
-TODO

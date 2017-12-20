@@ -1,9 +1,0 @@
-
-AGAP010402
-=============
-
-
-
-Description: Abhydrolase domain-containing protein fam108b1 [source:vb community annotation].
-
-TODO

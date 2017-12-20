@@ -1,9 +1,0 @@
-
-AGAP004782
-=============
-
-
-
-Description: Tubulin-specific chaperone d [source:vb community annotation].
-
-TODO

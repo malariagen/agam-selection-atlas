@@ -1,9 +1,0 @@
-
-AGAP005233
-=============
-
-
-
-Description: Tetraspanin d107 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003587
-=============
-
-
-
-Description: Solute carrier family 26 (sodium-independent sulfate anion transporter) [source:vb community annotation].
-
-TODO

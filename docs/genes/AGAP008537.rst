@@ -1,9 +1,0 @@
-
-AGAP008537
-=============
-
-
-
-Description: Homocysteine s-methyltransferase [source:vb community annotation].
-
-TODO

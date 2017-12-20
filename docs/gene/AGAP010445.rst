@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010445
+=============
+
+
+
+
+
+Description: Rab11 family-interacting protein 3/4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010445>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

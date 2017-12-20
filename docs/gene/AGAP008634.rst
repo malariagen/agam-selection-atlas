@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008634
+=============
+
+
+
+
+
+Description: Zinc finger ccch domain-containing protein 15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008634>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

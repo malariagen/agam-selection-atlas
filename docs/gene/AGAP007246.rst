@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007246
+=============
+
+
+
+
+
+Description: Small nuclear ribonucleoprotein d1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007246>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

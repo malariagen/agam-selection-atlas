@@ -1,9 +1,0 @@
-
-AGAP008850
-=============
-
-
-
-Description: Mitochondrial cytochrome c oxidase subunit 6a isoform 3 [source:vb community annotation].
-
-TODO

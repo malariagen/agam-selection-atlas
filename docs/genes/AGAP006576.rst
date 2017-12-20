@@ -1,9 +1,0 @@
-
-AGAP006576
-=============
-
-
-
-Description: Malate/l-lactate dehydrogenase [source:vb community annotation].
-
-TODO

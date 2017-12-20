@@ -1,9 +1,0 @@
-
-AGAP013488
-=============
-
-
-
-Description: Trafficking protein particle complex 2-like [source:vb community annotation].
-
-TODO

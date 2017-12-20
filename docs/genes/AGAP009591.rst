@@ -1,9 +1,0 @@
-
-AGAP009591
-=============
-
-
-
-Description: Formyltetrahydrofolate dehydrogenase [source:vb community annotation].
-
-TODO

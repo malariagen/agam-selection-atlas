@@ -1,9 +1,0 @@
-
-AGAP000913
-=============
-
-
-
-Description: G protein-coupled receptor 107 [source:vb community annotation].
-
-TODO

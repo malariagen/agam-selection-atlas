@@ -1,9 +1,0 @@
-
-AGAP003062
-=============
-
-Name: **TUBE**
-
-Description: Toll pathway signalling [source:vb community annotation].
-
-TODO

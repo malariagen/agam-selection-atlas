@@ -1,9 +1,0 @@
-
-AGAP028128
-=============
-
-Name: **ABCC9**
-
-Description: Atp-binding cassette transporter (abc transporter) family c member 9 [source:vb community annotation].
-
-TODO

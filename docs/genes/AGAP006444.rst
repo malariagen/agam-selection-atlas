@@ -1,9 +1,0 @@
-
-AGAP006444
-=============
-
-
-
-Description: Low density lipoprotein receptor-related protein-like protein [source:vb community annotation].
-
-TODO

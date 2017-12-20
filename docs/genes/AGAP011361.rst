@@ -1,9 +1,0 @@
-
-AGAP011361
-=============
-
-
-
-Description: Hus1 checkpoint protein [source:vb community annotation].
-
-TODO

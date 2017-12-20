@@ -1,9 +1,0 @@
-
-AGAP008000
-=============
-
-
-
-Description: Sepiapterin reductase [source:vb community annotation].
-
-TODO

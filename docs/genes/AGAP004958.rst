@@ -1,9 +1,0 @@
-
-AGAP004958
-=============
-
-
-
-Description: Ethanolaminephosphotransferase [source:vb community annotation].
-
-TODO

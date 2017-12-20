@@ -1,9 +1,0 @@
-
-AGAP004270
-=============
-
-
-
-Description: Hexosaminidase [source:vb community annotation].
-
-TODO

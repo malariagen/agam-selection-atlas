@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000365
+=============
+
+
+
+
+
+Description: Alpha-1,3-fucosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000365>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

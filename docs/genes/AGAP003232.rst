@@ -1,9 +1,0 @@
-
-AGAP003232
-=============
-
-
-
-Description: Splicing factor 4 [source:vb community annotation].
-
-TODO

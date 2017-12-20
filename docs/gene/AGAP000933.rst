@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000933
+=============
+
+
+
+Name: **APG10**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000933>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

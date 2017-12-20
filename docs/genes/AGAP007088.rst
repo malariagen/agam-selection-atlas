@@ -1,9 +1,0 @@
-
-AGAP007088
-=============
-
-
-
-Description: Peptidyl-prolyl cis-trans isomerase b (cyclophilin b) [source:vb community annotation].
-
-TODO

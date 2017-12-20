@@ -1,9 +1,0 @@
-
-AGAP009441
-=============
-
-
-
-Description: Elongation factor 2 [source:vb community annotation].
-
-TODO

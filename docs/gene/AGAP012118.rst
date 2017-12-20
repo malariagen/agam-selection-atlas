@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012118
+=============
+
+
+
+
+
+Description: Fgfr1 oncogene partner 2-like protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012118>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

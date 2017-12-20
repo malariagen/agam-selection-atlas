@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001545
+=============
+
+
+
+
+
+Description: Ribosomal biogenesis protein rlp24 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001545>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

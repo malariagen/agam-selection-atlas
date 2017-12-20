@@ -1,9 +1,0 @@
-
-AGAP009754
-=============
-
-Name: **ANCE4**
-
-Description: Angiotensin-converting enzyme 4 [source:vb community annotation].
-
-TODO

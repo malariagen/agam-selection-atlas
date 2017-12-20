@@ -1,9 +1,0 @@
-
-AGAP003833
-=============
-
-
-
-Description: Asparagine synthase (glutamine-hydrolysing) [source:vb community annotation].
-
-TODO

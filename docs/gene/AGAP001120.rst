@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001120
+=============
+
+
+
+Name: **Gr40**
+
+Description: Gustatory receptor 40 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001120>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

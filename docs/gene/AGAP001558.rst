@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001558
+=============
+
+
+
+Name: **GPRGNR2**
+
+Description: Putative gonadotrophin releasing hormone receptor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001558>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

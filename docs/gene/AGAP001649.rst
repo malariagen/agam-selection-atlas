@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001649
+=============
+
+
+
+
+
+Description: Glucosylceramidase [source:uniprotkb/trembl;acc:q7pxx9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001649>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

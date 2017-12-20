@@ -1,9 +1,0 @@
-
-AGAP008085
-=============
-
-
-
-Description: Cation-transporting atpase 13a1 [source:vb community annotation].
-
-TODO

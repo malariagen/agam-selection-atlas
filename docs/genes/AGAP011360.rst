@@ -1,9 +1,0 @@
-
-AGAP011360
-=============
-
-Name: **ARRK**
-
-Description: Arrestin kurtz-like [source:vb community annotation].
-
-TODO

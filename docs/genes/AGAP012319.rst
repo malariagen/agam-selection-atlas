@@ -1,9 +1,0 @@
-
-AGAP012319
-=============
-
-Name: **OBP24**
-
-Description: Odorant-binding protein 18 [source:vb community annotation].
-
-TODO

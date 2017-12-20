@@ -1,9 +1,0 @@
-
-AGAP009065
-=============
-
-Name: **OBP42**
-
-Description: Odorant-binding protein 42 [source:vb community annotation].
-
-TODO

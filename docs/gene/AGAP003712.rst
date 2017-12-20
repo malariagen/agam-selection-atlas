@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003712
+=============
+
+
+
+Name: **Ast1**
+
+Description: Allatostatin 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003712>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

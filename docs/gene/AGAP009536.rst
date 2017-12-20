@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009536
+=============
+
+
+
+
+
+Description: Kif1-binding protein homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009536>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

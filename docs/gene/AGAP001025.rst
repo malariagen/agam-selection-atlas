@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001025
+=============
+
+
+
+
+
+Description: Protein msta, isoform a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001025>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

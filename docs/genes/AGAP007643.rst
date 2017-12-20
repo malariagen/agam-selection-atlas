@@ -1,9 +1,0 @@
-
-AGAP007643
-=============
-
-
-
-Description: Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide 2 [source:vb community annotation].
-
-TODO

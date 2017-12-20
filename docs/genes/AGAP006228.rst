@@ -1,9 +1,0 @@
-
-AGAP006228
-=============
-
-Name: **COEAE2F**
-
-Description: Carboxylesterase [source:vb community annotation].
-
-TODO

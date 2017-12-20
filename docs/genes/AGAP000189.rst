@@ -1,9 +1,0 @@
-
-AGAP000189
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004730
-=============
-
-
-
-Description: Phospholipase a2, venom [source:vb community annotation].
-
-TODO

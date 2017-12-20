@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008257
+=============
+
+
+
+
+
+Description: Nitric-oxide synthase, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008257>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

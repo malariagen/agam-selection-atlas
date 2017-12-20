@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007810
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerase ii subunit rpb1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007810>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000448
+=============
+
+
+
+
+
+Description: Solute carrier family 25 (mitochondrial ornithine transporter) member 2/15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000448>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

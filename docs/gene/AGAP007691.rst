@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007691
+=============
+
+
+
+Name: **SRPN18**
+
+Description: Serine protease inhibitor (serpin) 18 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007691>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

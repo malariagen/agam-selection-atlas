@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003768
+=============
+
+
+
+Name: **RpS2**
+
+Description: 40s ribosomal protein s2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003768>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

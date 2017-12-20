@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002836
+=============
+
+
+
+
+
+Description: Endoribonuclease dicer [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002836>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

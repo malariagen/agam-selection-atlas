@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP027993
+=============
+
+
+
+Name: **CPLCP10**
+
+Description: Cuticular protein (putative) cplcp10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP027993>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

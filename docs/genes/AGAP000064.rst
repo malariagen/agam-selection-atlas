@@ -1,9 +1,0 @@
-
-AGAP000064
-=============
-
-Name: **plexA**
-
-Description: Plexin a [source:vb community annotation].
-
-TODO

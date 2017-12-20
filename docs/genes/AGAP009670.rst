@@ -1,9 +1,0 @@
-
-AGAP009670
-=============
-
-Name: **SRPN4**
-
-Description: Serine protease inhibitor (serpin) 4 [source:vb community annotation].
-
-TODO

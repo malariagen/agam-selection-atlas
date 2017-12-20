@@ -1,9 +1,0 @@
-
-AGAP010445
-=============
-
-
-
-Description: Rab11 family-interacting protein 3/4 [source:vb community annotation].
-
-TODO

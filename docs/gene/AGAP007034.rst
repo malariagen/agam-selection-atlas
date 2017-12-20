@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007034
+=============
+
+
+
+Name: **LRIM11**
+
+Description: Leucine-rich immune protein (short) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007034>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

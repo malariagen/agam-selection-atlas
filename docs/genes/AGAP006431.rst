@@ -1,9 +1,0 @@
-
-AGAP006431
-=============
-
-
-
-Description: F-box and leucine-rich repeat protein 6 [source:vb community annotation].
-
-TODO

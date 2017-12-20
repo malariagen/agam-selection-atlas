@@ -1,9 +1,0 @@
-
-AGAP005716
-=============
-
-Name: **SCRB16**
-
-Description: Class b scavenger receptor (cd36 domain) [source:vb community annotation].
-
-TODO

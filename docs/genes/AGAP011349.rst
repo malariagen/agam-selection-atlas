@@ -1,9 +1,0 @@
-
-AGAP011349
-=============
-
-
-
-Description: Gaba-gated chloride channel [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001911
-=============
-
-Name: **RpL6**
-
-Description: 60s ribosomal protein l6 [source:vb community annotation].
-
-TODO

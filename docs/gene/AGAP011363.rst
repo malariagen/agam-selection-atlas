@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011363
+=============
+
+
+
+
+
+Description: Ras-related protein rab-6a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011363>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

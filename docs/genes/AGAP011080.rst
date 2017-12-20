@@ -1,9 +1,0 @@
-
-AGAP011080
-=============
-
-
-
-Description: Hydroxymethylbilane synthase [source:vb community annotation].
-
-TODO

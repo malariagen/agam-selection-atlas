@@ -1,9 +1,0 @@
-
-AGAP008078
-=============
-
-
-
-Description: Det1- and ddb1-associated protein 1 [source:vb community annotation].
-
-TODO

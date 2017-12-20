@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012140
+=============
+
+
+
+Name: **eIF3b**
+
+Description: Eukaryotic translation initiation factor 3 subunit b [source:uniprotkb/swiss-prot;acc:q7pzy1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012140>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

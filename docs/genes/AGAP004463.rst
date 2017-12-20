@@ -1,9 +1,0 @@
-
-AGAP004463
-=============
-
-
-
-Description: Ribosomal rna-processing protein 17 [source:vb community annotation].
-
-TODO

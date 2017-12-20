@@ -1,9 +1,0 @@
-
-AGAP001296
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase trip12 [source:vb community annotation].
-
-TODO

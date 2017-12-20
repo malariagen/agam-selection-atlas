@@ -1,9 +1,0 @@
-
-AGAP004910
-=============
-
-
-
-Description: Arfaptin-2 [source:vb community annotation].
-
-TODO

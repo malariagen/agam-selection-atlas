@@ -1,9 +1,0 @@
-
-AGAP002919
-=============
-
-Name: **RpS6**
-
-Description: 40s ribosomal protein s6 [source:vb community annotation].
-
-TODO

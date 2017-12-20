@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004519
+=============
+
+
+
+
+
+Description: Sideroflexin 1,2,3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004519>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

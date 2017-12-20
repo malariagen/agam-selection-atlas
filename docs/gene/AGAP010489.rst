@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010489
+=============
+
+
+
+Name: **OBP4**
+
+Description: Odorant-binding protein antennal 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010489>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

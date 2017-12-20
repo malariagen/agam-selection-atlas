@@ -1,9 +1,0 @@
-
-AGAP001856
-=============
-
-Name: **PER**
-
-Description: Period circadian protein [source:vb community annotation].
-
-TODO

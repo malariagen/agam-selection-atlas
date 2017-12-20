@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011915
+=============
+
+
+
+Name: **Gr35**
+
+Description: Gustatory receptor 35 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011915>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

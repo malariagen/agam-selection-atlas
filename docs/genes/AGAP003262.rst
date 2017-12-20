@@ -1,9 +1,0 @@
-
-AGAP003262
-=============
-
-
-
-Description: Integrator complex subunit 10 [source:vb community annotation].
-
-TODO

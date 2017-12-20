@@ -1,9 +1,0 @@
-
-AGAP009199
-=============
-
-
-
-Description: Palmitoyltransferase zdhhc24 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP028572
-=============
-
-
-
-Description: Gustatory receptor [source:uniprotkb/trembl;acc:a0a1s4hds4].
-
-TODO

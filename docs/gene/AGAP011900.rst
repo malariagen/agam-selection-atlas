@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011900
+=============
+
+
+
+
+
+Description: Alkylated dna repair protein alkb homolog 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011900>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

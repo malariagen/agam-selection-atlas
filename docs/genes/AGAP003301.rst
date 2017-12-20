@@ -1,9 +1,0 @@
-
-AGAP003301
-=============
-
-
-
-Description: M-phase inducer phosphatase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004147
-=============
-
-Name: **Exo5**
-
-Description: Exocyst complex component 5 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001753
-=============
-
-
-
-Description: 15-hydroxyprostaglandin dehydrogenase (nad) [source:vb community annotation].
-
-TODO

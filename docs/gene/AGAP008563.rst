@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008563
+=============
+
+
+
+
+
+Description: T-box protein h15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008563>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP004773
+=============
+
+
+
+
+
+Description: Pyruvate dehydrogenase e1 component subunit alpha, mitochondrial [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004773>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:3360197-3361330#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

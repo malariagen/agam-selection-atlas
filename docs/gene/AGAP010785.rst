@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010785
+=============
+
+
+
+
+
+Description: Fatty acyl coa reductase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010785>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

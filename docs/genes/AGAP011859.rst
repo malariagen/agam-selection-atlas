@@ -1,9 +1,0 @@
-
-AGAP011859
-=============
-
-
-
-Description: Beta-glucuronidase [source:uniprotkb/trembl;acc:q7pze2].
-
-TODO

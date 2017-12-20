@@ -1,9 +1,0 @@
-
-AGAP007784
-=============
-
-
-
-Description: Enoyl-coa hydratase / long-chain 3-hydroxyacyl-coa dehydrogenase [source:vb community annotation].
-
-TODO

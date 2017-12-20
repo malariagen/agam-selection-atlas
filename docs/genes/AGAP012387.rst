@@ -1,9 +1,0 @@
-
-AGAP012387
-=============
-
-Name: **TOLL6**
-
-Description: Toll-like receptor 6 [source:vb community annotation].
-
-TODO

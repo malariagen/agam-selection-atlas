@@ -1,9 +1,0 @@
-
-AGAP010011
-=============
-
-
-
-Description: Protein memo1 [source:vb community annotation].
-
-TODO

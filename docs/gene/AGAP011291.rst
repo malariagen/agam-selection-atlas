@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011291
+=============
+
+
+
+
+
+Description: Upf0466 protein agap011291, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011291>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

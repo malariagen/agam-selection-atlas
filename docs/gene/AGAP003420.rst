@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003420
+=============
+
+
+
+Name: **Osi22**
+
+Description: Osiris 22 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003420>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

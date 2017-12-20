@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007551
+=============
+
+
+
+
+
+Description: Sac3 domain-containing protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007551>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

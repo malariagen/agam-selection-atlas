@@ -1,9 +1,0 @@
-
-AGAP009786
-=============
-
-
-
-Description: Phosphoribosylamine--glycine ligase / phosphoribosylglycinamide formyltransfer [source:vb community annotation].
-
-TODO

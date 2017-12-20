@@ -1,9 +1,0 @@
-
-AGAP003487
-=============
-
-
-
-Description: Mesenchymal stem cell protein dscd75 [source:vb community annotation].
-
-TODO

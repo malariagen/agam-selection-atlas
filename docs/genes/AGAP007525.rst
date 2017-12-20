@@ -1,9 +1,0 @@
-
-AGAP007525
-=============
-
-
-
-Description: Coronin homolog [source:vb community annotation].
-
-TODO

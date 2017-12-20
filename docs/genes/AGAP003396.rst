@@ -1,9 +1,0 @@
-
-AGAP003396
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class q [source:vb community annotation].
-
-TODO

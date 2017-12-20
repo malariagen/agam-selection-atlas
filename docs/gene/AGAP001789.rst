@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001789
+=============
+
+
+
+
+
+Description: (methionine synthase) reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001789>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005893
-=============
-
-
-
-Description: Unconventional snare in the endoplasmic reticulum protein 1 [source:vb community annotation].
-
-TODO

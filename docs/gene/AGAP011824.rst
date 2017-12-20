@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011824
+=============
+
+
+
+Name: **TPX4**
+
+Description: Thioredoxin peroxidase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011824>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

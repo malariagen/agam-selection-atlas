@@ -1,9 +1,0 @@
-
-AGAP012889
-=============
-
-
-
-Description: Flagellar hook-basal body complex protein flie [source:vb community annotation].
-
-TODO

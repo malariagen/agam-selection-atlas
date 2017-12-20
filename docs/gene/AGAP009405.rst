@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009405
+=============
+
+
+
+Name: **CPAP3-E**
+
+
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009405>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

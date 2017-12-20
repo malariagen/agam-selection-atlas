@@ -1,9 +1,0 @@
-
-AGAP012096
-=============
-
-
-
-Description: Phenylalanyl-trna synthetase alpha chain [source:vb community annotation].
-
-TODO

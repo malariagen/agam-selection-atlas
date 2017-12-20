@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000219
+=============
+
+
+
+
+
+Description: Tektin-3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000219>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

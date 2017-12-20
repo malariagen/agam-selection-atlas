@@ -1,9 +1,0 @@
-
-AGAP004197
-=============
-
-
-
-Description: 6-phosphogluconate dehydrogenase, decarboxylating [source:uniprotkb/trembl;acc:q7pqm3].
-
-TODO

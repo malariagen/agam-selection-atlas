@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010248
+=============
+
+
+
+
+
+Description: U11/u12 small nuclear ribonucleoprotein 20 kda protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010248>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

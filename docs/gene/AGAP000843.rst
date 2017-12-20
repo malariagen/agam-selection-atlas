@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000843
+=============
+
+
+
+
+
+Description: Cardiolipin synthase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000843>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP004788
-=============
-
-
-
-Description: Up-regulated during skeletal muscle growth 5 homolog [source:vb community annotation].
-
-TODO

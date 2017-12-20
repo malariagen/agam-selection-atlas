@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000727
+=============
+
+
+
+
+
+Description: Adenylate cyclase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000727>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

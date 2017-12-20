@@ -1,9 +1,0 @@
-
-AGAP003257
-=============
-
-Name: **GSTU2**
-
-Description: Glutathione s-transferase unclassified 2 [source:vb community annotation].
-
-TODO

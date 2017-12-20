@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009329
+=============
+
+
+
+
+
+Description: Bone morphogenetic protein receptor type-1b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009329>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

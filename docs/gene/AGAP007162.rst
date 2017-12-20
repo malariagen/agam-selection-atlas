@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007162
+=============
+
+
+
+
+
+Description: Alpha-crystallin chain a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007162>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP010827
-=============
-
-Name: **CASPS10**
-
-Description: Short caspase 10 [source:vb community annotation].
-
-TODO

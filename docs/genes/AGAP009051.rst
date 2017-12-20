@@ -1,9 +1,0 @@
-
-AGAP009051
-=============
-
-Name: **LL1**
-
-Description: Lipopolysaccharide-induced tnf-alpha transcription factor (litaf-like 1) [source:vb community annotation].
-
-TODO

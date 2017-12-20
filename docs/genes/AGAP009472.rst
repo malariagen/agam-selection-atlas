@@ -1,9 +1,0 @@
-
-AGAP009472
-=============
-
-Name: **ABCG20**
-
-Description: Atp-binding cassette transporter (abc transporter) family g member 20 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003943
-=============
-
-
-
-Description: Regulatory factor x 1/2/3 [source:vb community annotation].
-
-TODO

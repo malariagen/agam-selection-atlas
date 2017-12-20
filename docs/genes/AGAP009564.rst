@@ -1,9 +1,0 @@
-
-AGAP009564
-=============
-
-
-
-Description: Atp synthase epsilon chain, mitochondrial [source:vb community annotation].
-
-TODO

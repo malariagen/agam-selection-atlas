@@ -1,9 +1,0 @@
-
-AGAP008851
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase mind-bomb [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001478
-=============
-
-Name: **NMDAR1**
-
-Description: Ionotropic receptor nmdar1 [source:vb community annotation].
-
-TODO

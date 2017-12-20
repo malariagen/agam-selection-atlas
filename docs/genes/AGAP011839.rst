@@ -1,9 +1,0 @@
-
-AGAP011839
-=============
-
-
-
-Description: Mitochondrial uncoupling protein [source:vb community annotation].
-
-TODO

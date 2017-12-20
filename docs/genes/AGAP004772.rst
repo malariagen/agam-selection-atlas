@@ -1,9 +1,0 @@
-
-AGAP004772
-=============
-
-
-
-Description: Slit-robo rho gtpase activating protein [source:vb community annotation].
-
-TODO

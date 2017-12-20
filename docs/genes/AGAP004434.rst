@@ -1,9 +1,0 @@
-
-AGAP004434
-=============
-
-Name: **Pcaf**
-
-Description: Histone acetyltransferase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008988
+=============
+
+
+
+
+
+Description: Glutamine synthetase [source:uniprotkb/trembl;acc:q7pwf1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008988>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

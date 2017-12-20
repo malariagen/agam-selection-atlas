@@ -1,9 +1,0 @@
-
-AGAP002504
-=============
-
-
-
-Description: Trna (cytosine34-c5)-methyltransferase [source:vb community annotation].
-
-TODO

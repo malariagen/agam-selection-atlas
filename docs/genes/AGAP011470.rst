@@ -1,9 +1,0 @@
-
-AGAP011470
-=============
-
-
-
-Description: Rna polymerase ii subunit a c-terminal domain phosphatase ssu72 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010577
-=============
-
-
-
-Description: Tyrosyl-dna phosphodiesterase 1 [source:vb community annotation].
-
-TODO

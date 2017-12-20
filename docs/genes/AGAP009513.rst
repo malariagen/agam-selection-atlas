@@ -1,9 +1,0 @@
-
-AGAP009513
-=============
-
-
-
-Description: Ets translocation variant 1 [source:vb community annotation].
-
-TODO

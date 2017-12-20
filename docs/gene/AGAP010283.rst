@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010283
+=============
+
+
+
+
+
+Description: Wingless-type mmtv integration site family, member 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010283>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

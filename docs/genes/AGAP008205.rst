@@ -1,9 +1,0 @@
-
-AGAP008205
-=============
-
-Name: **CYP6R1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

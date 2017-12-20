@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001411
+=============
+
+
+
+
+
+Description: Bcl2/adenovirus e1b 19 kda protein-interacting protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001411>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP028382
-=============
-
-Name: **ND4**
-
-Description: Nadh dehydrogenase subunit 4 [source:european nucleotide archive;acc:nd4].
-
-TODO

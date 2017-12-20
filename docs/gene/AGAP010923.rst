@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010923
+=============
+
+
+
+
+
+Description: Hmg-box transcription factor sox1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010923>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

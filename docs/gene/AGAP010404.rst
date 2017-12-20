@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010404
+=============
+
+
+
+Name: **GSTS1**
+
+Description: Glutathione s-transferase sigma class 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010404>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

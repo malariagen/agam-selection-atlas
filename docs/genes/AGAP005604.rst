@@ -1,9 +1,0 @@
-
-AGAP005604
-=============
-
-Name: **Med20**
-
-Description: Mediator of rna polymerase ii transcription subunit 20 [source:uniprotkb/swiss-prot;acc:q7q6y4].
-
-TODO

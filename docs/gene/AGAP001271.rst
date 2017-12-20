@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001271
+=============
+
+
+
+
+
+Description: Pre-mrna cleavage complex 2 protein pcf11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001271>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

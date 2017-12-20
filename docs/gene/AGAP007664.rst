@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007664
+=============
+
+
+
+
+
+Description: Coiled-coil domain-containing protein 34 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007664>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

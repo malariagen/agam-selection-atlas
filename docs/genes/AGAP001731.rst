@@ -1,9 +1,0 @@
-
-AGAP001731
-=============
-
-
-
-Description: F-box protein 11 [source:vb community annotation].
-
-TODO

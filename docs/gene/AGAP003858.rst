@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003858
+=============
+
+
+
+Name: **APG6**
+
+Description: Autophagy related gene [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003858>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

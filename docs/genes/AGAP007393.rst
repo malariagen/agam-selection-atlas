@@ -1,9 +1,0 @@
-
-AGAP007393
-=============
-
-
-
-Description: Protein disulfide isomerase family a, member 3 [source:vb community annotation].
-
-TODO

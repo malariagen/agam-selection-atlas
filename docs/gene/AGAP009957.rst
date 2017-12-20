@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009957
+=============
+
+
+
+
+
+Description: Transcription factor sox1/3/14/21 (sox group b) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009957>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

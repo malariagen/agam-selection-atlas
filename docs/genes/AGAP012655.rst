@@ -1,9 +1,0 @@
-
-AGAP012655
-=============
-
-
-
-Description: Aaa family atpase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009334
-=============
-
-
-
-Description: V-type h -transporting atpase 21kda proteolipid subunit [source:vb community annotation].
-
-TODO

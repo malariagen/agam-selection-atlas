@@ -1,9 +1,0 @@
-
-AGAP000255
-=============
-
-
-
-Description: Disks large protein 1 [source:vb community annotation].
-
-TODO

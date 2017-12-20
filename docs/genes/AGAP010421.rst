@@ -1,9 +1,0 @@
-
-AGAP010421
-=============
-
-
-
-Description: Pyruvate dehydrogenase e1 component subunit beta [source:vb community annotation].
-
-TODO

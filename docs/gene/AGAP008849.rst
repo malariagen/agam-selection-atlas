@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008849
+=============
+
+
+
+
+
+Description: D-3-phosphoglycerate dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008849>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

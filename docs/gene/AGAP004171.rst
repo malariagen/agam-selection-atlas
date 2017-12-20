@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004171
+=============
+
+
+
+Name: **GSTD8**
+
+Description: Glutathione s-transferase delta class 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004171>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

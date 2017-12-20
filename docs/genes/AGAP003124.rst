@@ -1,9 +1,0 @@
-
-AGAP003124
-=============
-
-
-
-Description: Dihydropyrimidinase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005080
-=============
-
-
-
-Description: Ribulose-phosphate 3-epimerase [source:uniprotkb/trembl;acc:q7q9r5].
-
-TODO

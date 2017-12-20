@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011481
+=============
+
+
+
+Name: **GPR5HT1B**
+
+Description: Putative serotonin 5ht-1b receptor [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011481>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002332
-=============
-
-Name: **mRpL11**
-
-Description: 39s ribosomal protein l11, mitochondrial [source:vb community annotation].
-
-TODO

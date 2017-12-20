@@ -1,9 +1,0 @@
-
-AGAP007113
-=============
-
-
-
-Description: 1-acyl-sn-glycerol-3-phosphate acyltransferase gamma [source:vb community annotation].
-
-TODO

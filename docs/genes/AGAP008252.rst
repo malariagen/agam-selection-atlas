@@ -1,9 +1,0 @@
-
-AGAP008252
-=============
-
-
-
-Description: Protein of unknown function duf255 [source:vb community annotation].
-
-TODO

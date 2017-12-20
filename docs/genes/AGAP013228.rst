@@ -1,9 +1,0 @@
-
-AGAP013228
-=============
-
-
-
-Description: Heat shock protein 67b2 [source:vb community annotation].
-
-TODO

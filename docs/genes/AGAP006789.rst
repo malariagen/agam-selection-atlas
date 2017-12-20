@@ -1,9 +1,0 @@
-
-AGAP006789
-=============
-
-
-
-Description: Mit domain-containing protein 1 [source:vb community annotation].
-
-TODO

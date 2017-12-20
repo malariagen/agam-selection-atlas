@@ -1,9 +1,0 @@
-
-AGAP010292
-=============
-
-
-
-Description: Guanine nucleotide exchange factor vav [source:vb community annotation].
-
-TODO

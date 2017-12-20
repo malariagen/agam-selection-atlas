@@ -1,9 +1,0 @@
-
-AGAP004549
-=============
-
-
-
-Description: Protein yellow [source:vb community annotation].
-
-TODO

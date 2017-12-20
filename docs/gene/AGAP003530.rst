@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003530
+=============
+
+
+
+Name: **OBP6**
+
+Description: Odorant-binding protein antennal 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003530>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

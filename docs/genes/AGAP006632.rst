@@ -1,9 +1,0 @@
-
-AGAP006632
-=============
-
-
-
-Description: Mitotic spindle assembly checkpoint protein mad1 [source:vb community annotation].
-
-TODO

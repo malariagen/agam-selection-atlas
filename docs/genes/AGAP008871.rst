@@ -1,9 +1,0 @@
-
-AGAP008871
-=============
-
-Name: **GPRFZ4**
-
-Description: Putative frizzled 4-like receptor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002460
-=============
-
-
-
-Description: Forkhead box protein [source:vb community annotation].
-
-TODO

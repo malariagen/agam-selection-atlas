@@ -1,9 +1,0 @@
-
-AGAP006246
-=============
-
-
-
-Description: Sorcin [source:vb community annotation].
-
-TODO

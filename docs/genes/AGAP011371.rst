@@ -1,9 +1,0 @@
-
-AGAP011371
-=============
-
-
-
-Description: Tartan [source:vb community annotation].
-
-TODO

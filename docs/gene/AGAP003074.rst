@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003074
+=============
+
+
+
+Name: **SLC25A10**
+
+Description: Mitochondrial dicarboxylate transporter (solute carrier family 25) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003074>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

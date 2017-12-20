@@ -1,9 +1,0 @@
-
-AGAP009781
-=============
-
-Name: **loqs**
-
-Description: Loquacious [source:vb community annotation].
-
-TODO

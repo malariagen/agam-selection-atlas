@@ -1,9 +1,0 @@
-
-AGAP003002
-=============
-
-
-
-Description: Adomet-dependent rrna methyltransferase [source:vb community annotation].
-
-TODO

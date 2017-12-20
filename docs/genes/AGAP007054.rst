@@ -1,9 +1,0 @@
-
-AGAP007054
-=============
-
-
-
-Description: Solute carrier family 13 (sodium-dependent dicarboxylate transporter), member [source:vb community annotation].
-
-TODO

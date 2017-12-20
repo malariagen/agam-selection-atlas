@@ -1,9 +1,0 @@
-
-AGAP001113
-=============
-
-
-
-Description: A disintegrin and metalloproteinase with thrombospondin motifs 18 [source:vb community annotation].
-
-TODO

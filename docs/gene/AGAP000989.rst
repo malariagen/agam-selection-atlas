@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000989
+=============
+
+
+
+Name: **CPAP3-A1a**
+
+Description: Cuticular protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000989>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

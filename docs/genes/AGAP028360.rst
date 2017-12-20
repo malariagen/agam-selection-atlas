@@ -1,9 +1,0 @@
-
-AGAP028360
-=============
-
-Name: **ND2**
-
-Description: Nadh dehydrogenase subunit 2 [source:european nucleotide archive;acc:nd2].
-
-TODO

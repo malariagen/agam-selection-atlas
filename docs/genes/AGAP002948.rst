@@ -1,9 +1,0 @@
-
-AGAP002948
-=============
-
-
-
-Description: Translation initiation factor 4e [source:vb community annotation].
-
-TODO

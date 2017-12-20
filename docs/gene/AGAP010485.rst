@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010485
+=============
+
+
+
+
+
+Description: Dopamine beta-monooxygenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010485>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

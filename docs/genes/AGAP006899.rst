@@ -1,9 +1,0 @@
-
-AGAP006899
-=============
-
-
-
-Description: Basic tail-containing salivary secreted peptide [source:vb community annotation].
-
-TODO

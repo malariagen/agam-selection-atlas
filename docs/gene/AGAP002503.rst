@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002503
+=============
+
+
+
+
+
+Description: 4-coumarate:coa ligase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002503>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

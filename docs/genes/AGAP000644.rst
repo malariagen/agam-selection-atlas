@@ -1,9 +1,0 @@
-
-AGAP000644
-=============
-
-Name: **OBP37**
-
-Description: Odorant-binding protein 37 [source:vb community annotation].
-
-TODO

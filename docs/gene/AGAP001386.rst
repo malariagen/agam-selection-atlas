@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001386
+=============
+
+
+
+
+
+Description: Remodeling and spacing factor 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001386>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

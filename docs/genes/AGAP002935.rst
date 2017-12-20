@@ -1,9 +1,0 @@
-
-AGAP002935
-=============
-
-Name: **eIF3f**
-
-Description: Eukaryotic translation initiation factor 3 subunit f [source:uniprotkb/swiss-prot;acc:q7qd36].
-
-TODO

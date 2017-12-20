@@ -1,9 +1,0 @@
-
-AGAP004992
-=============
-
-
-
-Description: Microsomal prostaglandin-e synthase 2 [source:vb community annotation].
-
-TODO

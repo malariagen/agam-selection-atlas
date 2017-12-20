@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010421
+=============
+
+
+
+
+
+Description: Pyruvate dehydrogenase e1 component subunit beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010421>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

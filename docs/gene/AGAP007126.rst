@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007126
+=============
+
+
+
+
+
+Description: Dna mismatch repair protein pms2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007126>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

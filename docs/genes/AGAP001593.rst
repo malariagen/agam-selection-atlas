@@ -1,9 +1,0 @@
-
-AGAP001593
-=============
-
-
-
-Description: Homeobox protein goosecoid [source:vb community annotation].
-
-TODO

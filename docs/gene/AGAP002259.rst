@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002259
+=============
+
+
+
+
+
+Description: Structure-specific endonuclease subunit slx1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002259>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

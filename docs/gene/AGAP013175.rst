@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013175
+=============
+
+
+
+Name: **TWDL4**
+
+Description: Cuticular protein twdl family (twdl4) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013175>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP011581
-=============
-
-Name: **mRpL12**
-
-Description: 39s ribosomal protein l12, mitochondrial [source:vb community annotation].
-
-TODO

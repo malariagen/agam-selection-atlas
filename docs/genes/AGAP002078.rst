@@ -1,9 +1,0 @@
-
-AGAP002078
-=============
-
-
-
-Description: 14 kda phosphohistidine phosphatase [source:vb community annotation].
-
-TODO

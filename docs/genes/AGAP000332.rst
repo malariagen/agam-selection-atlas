@@ -1,9 +1,0 @@
-
-AGAP000332
-=============
-
-Name: **Vir**
-
-Description: Protein virilizer [source:vb community annotation].
-
-TODO

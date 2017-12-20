@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010491
+=============
+
+
+
+
+
+Description: N-acetyltransferase 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010491>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

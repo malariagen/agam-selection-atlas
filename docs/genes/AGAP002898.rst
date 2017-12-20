@@ -1,9 +1,0 @@
-
-AGAP002898
-=============
-
-Name: **GSTZ1**
-
-Description: Glutathione s-transferase zeta class 1 [source:vb community annotation].
-
-TODO

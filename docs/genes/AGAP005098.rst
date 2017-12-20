@@ -1,9 +1,0 @@
-
-AGAP005098
-=============
-
-
-
-Description: F-type h -transporting atpase subunit epsilon [source:vb community annotation].
-
-TODO

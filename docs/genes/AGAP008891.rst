@@ -1,9 +1,0 @@
-
-AGAP008891
-=============
-
-
-
-Description: Serine protease snake [source:vb community annotation].
-
-TODO

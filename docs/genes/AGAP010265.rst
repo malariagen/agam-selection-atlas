@@ -1,9 +1,0 @@
-
-AGAP010265
-=============
-
-
-
-Description: Delta, transcript variant a [source:vb community annotation].
-
-TODO

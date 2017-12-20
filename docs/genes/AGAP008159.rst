@@ -1,9 +1,0 @@
-
-AGAP008159
-=============
-
-
-
-Description: Ribosome biogenesis protein enp2 [source:vb community annotation].
-
-TODO

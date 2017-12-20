@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011367
+=============
+
+
+
+Name: **OBP56**
+
+Description: Odorant-binding protein 56 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011367>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

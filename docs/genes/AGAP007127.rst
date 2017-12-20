@@ -1,9 +1,0 @@
-
-AGAP007127
-=============
-
-
-
-Description: Regulator of g-protein signaling [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006083
-=============
-
-Name: **fra**
-
-Description: Frazzled protein [source:vb community annotation].
-
-TODO

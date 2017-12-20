@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000028
+=============
+
+
+
+
+
+Description: Calcium/calmodulin-dependent protein kinase (cam kinase) ii [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000028>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

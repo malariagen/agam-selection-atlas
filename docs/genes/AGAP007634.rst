@@ -1,9 +1,0 @@
-
-AGAP007634
-=============
-
-
-
-Description: Ras-related gtp-binding protein c/d [source:vb community annotation].
-
-TODO

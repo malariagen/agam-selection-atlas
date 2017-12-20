@@ -1,9 +1,0 @@
-
-AGAP007107
-=============
-
-
-
-Description: Dnaj homolog subfamily b member 4 [source:vb community annotation].
-
-TODO

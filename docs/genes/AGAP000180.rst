@@ -1,9 +1,0 @@
-
-AGAP000180
-=============
-
-
-
-Description: Phosphoribosylaminoimidazole carboxylase [source:vb community annotation].
-
-TODO

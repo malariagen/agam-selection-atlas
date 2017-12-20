@@ -1,9 +1,0 @@
-
-AGAP008666
-=============
-
-
-
-Description: Uncharacterized protein cg11426 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000102
+=============
+
+
+
+
+
+Description: Alpha-1,6-mannosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000102>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

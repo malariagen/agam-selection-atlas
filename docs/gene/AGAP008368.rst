@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008368
+=============
+
+
+
+Name: **TEP14**
+
+Description: Thioester-containing protein 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008368>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

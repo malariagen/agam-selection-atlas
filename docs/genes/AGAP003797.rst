@@ -1,9 +1,0 @@
-
-AGAP003797
-=============
-
-
-
-Description: Protein tipe [source:vb community annotation].
-
-TODO

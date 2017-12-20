@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007197
+=============
+
+
+
+
+
+Description: Niemann-pick type c-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007197>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

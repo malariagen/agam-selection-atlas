@@ -1,9 +1,0 @@
-
-AGAP005126
-=============
-
-Name: **SPZ6**
-
-Description: Spaetzle-like cytokine 6 [source:vb community annotation].
-
-TODO

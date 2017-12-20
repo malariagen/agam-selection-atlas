@@ -1,9 +1,0 @@
-
-AGAP001975
-=============
-
-
-
-Description: Protein sys1 homolog [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008493
+=============
+
+
+
+
+
+Description: Palmitoyltransferase [source:uniprotkb/trembl;acc:a0a1s4gyf5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008493>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP013468
-=============
-
-
-
-Description: A disintegrin and metallopeptidase domain 9 (meltrin gamma) [source:vb community annotation].
-
-TODO

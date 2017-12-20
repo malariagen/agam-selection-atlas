@@ -1,9 +1,0 @@
-
-AGAP012969
-=============
-
-Name: **IR41t.2**
-
-Description: Ionotropic receptor ir41t.2 [source:vb community annotation].
-
-TODO

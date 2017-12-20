@@ -1,9 +1,0 @@
-
-AGAP002434
-=============
-
-
-
-Description: Centrosomin [source:vb community annotation].
-
-TODO

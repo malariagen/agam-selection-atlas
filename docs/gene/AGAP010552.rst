@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010552
+=============
+
+
+
+
+
+Description: Mimitin, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010552>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

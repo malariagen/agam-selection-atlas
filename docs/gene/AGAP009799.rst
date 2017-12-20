@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009799
+=============
+
+
+
+Name: **ABCC13**
+
+Description: Atp-binding cassette transporter (abc transporter) family c member 13 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009799>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

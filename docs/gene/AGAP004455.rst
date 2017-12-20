@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004455
+=============
+
+
+
+Name: **GNBPB1**
+
+Description: 3-glucan binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004455>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000270
-=============
-
-
-
-Description: Nucleolar protein 53 [source:vb community annotation].
-
-TODO

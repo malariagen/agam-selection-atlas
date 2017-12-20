@@ -1,9 +1,0 @@
-
-AGAP011794
-=============
-
-
-
-Description: Clipa1 protein [source:vb community annotation].
-
-TODO

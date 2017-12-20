@@ -1,9 +1,0 @@
-
-AGAP003974
-=============
-
-
-
-Description: Trna (cytidine32/guanosine34-2'-o)-methyltransferase [source:vb community annotation].
-
-TODO

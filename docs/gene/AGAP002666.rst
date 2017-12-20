@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002666
+=============
+
+
+
+
+
+Description: Dolichyldiphosphatase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002666>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

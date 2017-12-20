@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009923
+=============
+
+
+
+
+
+Description: Integrator complex subunit 11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009923>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000339
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase hakai [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000339>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

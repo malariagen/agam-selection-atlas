@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002301
+=============
+
+
+
+
+
+Description: Bud site selection protein 31 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002301>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

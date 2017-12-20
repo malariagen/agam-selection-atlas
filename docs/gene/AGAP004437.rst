@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004437
+=============
+
+
+
+
+
+Description: Glycerol-3-phosphate dehydrogenase [source:uniprotkb/trembl;acc:f5hln3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004437>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

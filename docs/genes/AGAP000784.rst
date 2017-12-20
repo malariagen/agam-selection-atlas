@@ -1,9 +1,0 @@
-
-AGAP000784
-=============
-
-
-
-Description: Abhydrolase domain containing 4 [source:vb community annotation].
-
-TODO

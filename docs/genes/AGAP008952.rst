@@ -1,9 +1,0 @@
-
-AGAP008952
-=============
-
-
-
-Description: Lupus la protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005062
-=============
-
-
-
-Description: Cleavage and polyadenylation specificity factor subunit 6/7 [source:vb community annotation].
-
-TODO

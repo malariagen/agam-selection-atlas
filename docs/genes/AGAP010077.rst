@@ -1,9 +1,0 @@
-
-AGAP010077
-=============
-
-Name: **CYP303A1**
-
-Description: Cytochrome p450 [source:vb community annotation].
-
-TODO

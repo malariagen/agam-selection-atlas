@@ -1,9 +1,0 @@
-
-AGAP008352
-=============
-
-
-
-Description: Dna polymerase delta subunit 3 [source:vb community annotation].
-
-TODO

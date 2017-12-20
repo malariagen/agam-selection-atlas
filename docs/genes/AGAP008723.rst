@@ -1,9 +1,0 @@
-
-AGAP008723
-=============
-
-
-
-Description: Minichromosome maintenance protein 10 [source:vb community annotation].
-
-TODO

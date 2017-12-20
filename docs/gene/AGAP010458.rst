@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010458
+=============
+
+
+
+
+
+Description: Ninjurin 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010458>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

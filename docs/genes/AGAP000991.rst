@@ -1,9 +1,0 @@
-
-AGAP000991
-=============
-
-
-
-Description: Seryl-trna synthetase [source:vb community annotation].
-
-TODO

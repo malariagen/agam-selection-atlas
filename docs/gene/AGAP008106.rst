@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008106
+=============
+
+
+
+
+
+Description: Trafficking protein particle complex subunit 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008106>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

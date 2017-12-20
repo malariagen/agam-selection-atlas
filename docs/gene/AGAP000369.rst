@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000369
+=============
+
+
+
+Name: **GPRNNA10**
+
+Description: Putative gpcr class a orphan receptor 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000369>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

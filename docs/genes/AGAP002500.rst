@@ -1,9 +1,0 @@
-
-AGAP002500
-=============
-
-
-
-Description: Monothiol glutaredoxin [source:vb community annotation].
-
-TODO

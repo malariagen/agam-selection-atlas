@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000240
+=============
+
+
+
+
+
+Description: Htra serine peptidase 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000240>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003148
+=============
+
+
+
+
+
+Description: Lanc-like protein 3 homolog [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003148>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

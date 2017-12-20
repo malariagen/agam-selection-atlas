@@ -1,9 +1,0 @@
-
-AGAP010572
-=============
-
-
-
-Description: Protein ltv1 [source:vb community annotation].
-
-TODO

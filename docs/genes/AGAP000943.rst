@@ -1,9 +1,0 @@
-
-AGAP000943
-=============
-
-
-
-Description: Chloride intracellular channel [source:vb community annotation].
-
-TODO

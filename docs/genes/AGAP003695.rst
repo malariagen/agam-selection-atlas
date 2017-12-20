@@ -1,9 +1,0 @@
-
-AGAP003695
-=============
-
-
-
-Description: Aminopeptidase n [source:vb community annotation].
-
-TODO

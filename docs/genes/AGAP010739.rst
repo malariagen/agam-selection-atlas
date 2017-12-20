@@ -1,9 +1,0 @@
-
-AGAP010739
-=============
-
-
-
-Description: Glucose-6-phosphate 1-dehydrogenase [source:uniprotkb/trembl;acc:h2kmf3].
-
-TODO

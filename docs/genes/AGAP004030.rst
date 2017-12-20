@@ -1,9 +1,0 @@
-
-AGAP004030
-=============
-
-
-
-Description: Dynein light intermediate chain, axonemal [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009886
+=============
+
+
+
+Name: **Med15**
+
+Description: Mediator of rna polymerase ii transcription subunit 15 [source:uniprotkb/swiss-prot;acc:q5tp13].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009886>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

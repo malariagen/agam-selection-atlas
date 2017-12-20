@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012568
+=============
+
+
+
+
+
+Description: Galactokinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012568>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

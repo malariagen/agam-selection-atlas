@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002996
+=============
+
+
+
+
+
+Description: Atp-dependent clp protease atp-binding subunit clpx-like, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002996>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

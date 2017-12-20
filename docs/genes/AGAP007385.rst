@@ -1,9 +1,0 @@
-
-AGAP007385
-=============
-
-Name: **LYSC4**
-
-Description: C-type lysozyme [source:vb community annotation].
-
-TODO

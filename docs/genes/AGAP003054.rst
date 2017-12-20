@@ -1,9 +1,0 @@
-
-AGAP003054
-=============
-
-Name: **Or25**
-
-Description: Odorant receptor 25 [source:vb community annotation].
-
-TODO

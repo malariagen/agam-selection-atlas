@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009093
+=============
+
+
+
+
+
+Description: Pre-mrna-splicing factor atp-dependent rna helicase dhx16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009093>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

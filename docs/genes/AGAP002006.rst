@@ -1,9 +1,0 @@
-
-AGAP002006
-=============
-
-
-
-Description: Reticulon/nogo receptor [source:vb community annotation].
-
-TODO

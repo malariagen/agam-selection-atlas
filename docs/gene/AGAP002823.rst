@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002823
+=============
+
+
+
+Name: **Med7**
+
+Description: Mediator of rna polymerase ii transcription subunit 7 [source:uniprotkb/swiss-prot;acc:q7pr68].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002823>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

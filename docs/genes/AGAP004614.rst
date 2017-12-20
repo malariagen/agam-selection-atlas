@@ -1,9 +1,0 @@
-
-AGAP004614
-=============
-
-
-
-Description: Dna polymerase epsilon subunit 2 [source:vb community annotation].
-
-TODO

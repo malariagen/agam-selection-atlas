@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007121
+=============
+
+
+
+
+
+Description: Cytochrome b5 protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007121>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

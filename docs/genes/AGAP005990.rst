@@ -1,9 +1,0 @@
-
-AGAP005990
-=============
-
-
-
-Description: Glycolipid transfer protein domain-containing protein 1 [source:vb community annotation].
-
-TODO

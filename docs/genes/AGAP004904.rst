@@ -1,9 +1,0 @@
-
-AGAP004904
-=============
-
-Name: **CAT1**
-
-Description: Catalase [source:uniprotkb/trembl;acc:a3e7z8].
-
-TODO

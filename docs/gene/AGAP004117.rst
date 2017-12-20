@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004117
+=============
+
+
+
+
+
+Description: G protein-coupled receptor kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004117>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

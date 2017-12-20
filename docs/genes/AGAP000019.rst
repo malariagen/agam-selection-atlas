@@ -1,9 +1,0 @@
-
-AGAP000019
-=============
-
-
-
-Description: Chaoptin [source:vb community annotation].
-
-TODO

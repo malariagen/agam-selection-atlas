@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001407
+=============
+
+
+
+
+
+Description: 26s proteasome regulatory subunit t4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001407>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

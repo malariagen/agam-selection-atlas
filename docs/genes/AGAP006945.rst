@@ -1,9 +1,0 @@
-
-AGAP006945
-=============
-
-
-
-Description: Dna repair and recombination protein rad54b [source:vb community annotation].
-
-TODO

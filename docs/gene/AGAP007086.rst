@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007086
+=============
+
+
+
+
+
+Description: Sodium channel protein [source:uniprotkb/trembl;acc:q7qiv0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007086>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

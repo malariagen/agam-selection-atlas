@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002347
+=============
+
+
+
+
+
+Description: N-acetylglucosamine-6-phosphate deacetylase [source:uniprotkb/trembl;acc:q7qbx3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002347>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

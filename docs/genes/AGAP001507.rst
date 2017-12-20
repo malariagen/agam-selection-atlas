@@ -1,9 +1,0 @@
-
-AGAP001507
-=============
-
-
-
-Description: Procollagen-lysine, 2-oxoglutarate 5-dioxygenase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010480
+=============
+
+
+
+
+
+Description: Kinase [source:uniprotkb/trembl;acc:a0a1s4h446].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010480>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

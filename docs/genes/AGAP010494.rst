@@ -1,9 +1,0 @@
-
-AGAP010494
-=============
-
-
-
-Description: Partitioning defective protein 6 [source:vb community annotation].
-
-TODO

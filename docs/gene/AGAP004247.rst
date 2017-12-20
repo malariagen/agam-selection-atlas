@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004247
+=============
+
+
+
+Name: **GPXH1**
+
+Description: Glutathione peroxidase 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004247>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

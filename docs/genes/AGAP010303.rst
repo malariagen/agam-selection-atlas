@@ -1,9 +1,0 @@
-
-AGAP010303
-=============
-
-
-
-Description: Autophagy-related protein 7 [source:vb community annotation].
-
-TODO

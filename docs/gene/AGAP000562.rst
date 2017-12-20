@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000562
+=============
+
+
+
+Name: **Moe**
+
+Description: Moesin/ezrin/radixin homolog 1 [source:uniprotkb/swiss-prot;acc:q7ps12].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000562>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

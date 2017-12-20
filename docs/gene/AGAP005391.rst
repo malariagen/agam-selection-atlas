@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005391
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx20 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005391>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:14897966-14902000#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003202
+=============
+
+
+
+
+
+Description: Thousand and one amino acid protein kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003202>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

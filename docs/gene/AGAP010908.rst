@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010908
+=============
+
+
+
+Name: **CPFL7**
+
+Description: Cuticular protein 7 from cpfl family [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010908>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

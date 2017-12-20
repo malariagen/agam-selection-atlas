@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005643
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase rfwd3 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005643>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:18166375-18168796#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

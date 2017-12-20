@@ -1,9 +1,0 @@
-
-AGAP002577
-=============
-
-
-
-Description: Voltage-dependent p/q type calcium channel [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006918
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 8 [source:vb community annotation].
-
-TODO

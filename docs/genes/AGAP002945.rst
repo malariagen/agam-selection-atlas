@@ -1,9 +1,0 @@
-
-AGAP002945
-=============
-
-
-
-Description: Bifunctional glutamyl/prolyl-trna synthetase [source:vb community annotation].
-
-TODO

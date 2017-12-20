@@ -1,9 +1,0 @@
-
-AGAP010656
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx46/prp5 [source:vb community annotation].
-
-TODO

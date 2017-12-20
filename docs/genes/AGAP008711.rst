@@ -1,9 +1,0 @@
-
-AGAP008711
-=============
-
-
-
-Description: Solute carrier organic anion transporter family, member 3a [source:vb community annotation].
-
-TODO

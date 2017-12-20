@@ -1,9 +1,0 @@
-
-AGAP000018
-=============
-
-
-
-Description: Phosphatidylinositol-4,5-bisphosphate 3-kinase [source:vb community annotation].
-
-TODO

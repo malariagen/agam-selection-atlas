@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001219
+=============
+
+
+
+Name: **TUB4A**
+
+Description: Tubulin alpha-4a chain [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001219>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

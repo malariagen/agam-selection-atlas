@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007408
+=============
+
+
+
+Name: **CTLMA8**
+
+Description: C-type lectin (ctl) - mannose binding [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007408>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

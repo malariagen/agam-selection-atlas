@@ -1,9 +1,0 @@
-
-AGAP011161
-=============
-
-
-
-Description: Transketolase [source:vb community annotation].
-
-TODO

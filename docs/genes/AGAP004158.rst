@@ -1,9 +1,0 @@
-
-AGAP004158
-=============
-
-
-
-Description: Udp-sugar diphosphatase [source:vb community annotation].
-
-TODO

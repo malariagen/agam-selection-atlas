@@ -1,9 +1,0 @@
-
-AGAP003714
-=============
-
-Name: **HPX3**
-
-Description: Heme peroxidase 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001958
-=============
-
-Name: **CRY1**
-
-Description: Cryptochrome 1 [source:vb community annotation].
-
-TODO

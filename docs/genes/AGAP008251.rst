@@ -1,9 +1,0 @@
-
-AGAP008251
-=============
-
-
-
-Description: Ap-1 complex subunit gamma-1 [source:vb community annotation].
-
-TODO

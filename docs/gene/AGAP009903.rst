@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009903
+=============
+
+
+
+
+
+Description: Trna pseudouridine synthase (fragment) [source:uniprotkb/trembl;acc:q7q194].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009903>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

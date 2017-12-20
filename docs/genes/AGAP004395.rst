@@ -1,9 +1,0 @@
-
-AGAP004395
-=============
-
-
-
-Description: Nucleophosmin 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008769
-=============
-
-
-
-Description: Very long chain acyl-coa dehydrogenase [source:vb community annotation].
-
-TODO

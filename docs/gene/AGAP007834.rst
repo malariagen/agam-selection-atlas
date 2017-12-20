@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007834
+=============
+
+
+
+
+
+Description: Tubulin gamma chain [source:uniprotkb/trembl;acc:q7q3e4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007834>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

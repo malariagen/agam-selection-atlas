@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009400
+=============
+
+
+
+
+
+Description: Nuclear receptor subfamily 5 group a member 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009400>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

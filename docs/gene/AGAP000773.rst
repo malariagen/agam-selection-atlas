@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000773
+=============
+
+
+
+
+
+Description: Single-minded [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000773>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

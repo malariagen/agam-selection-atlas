@@ -1,9 +1,0 @@
-
-AGAP007693
-=============
-
-Name: **SRPN7**
-
-Description: Serine protease inhibitor (serpin) 7 [source:vb community annotation].
-
-TODO

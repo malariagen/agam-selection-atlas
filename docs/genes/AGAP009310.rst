@@ -1,9 +1,0 @@
-
-AGAP009310
-=============
-
-
-
-Description: Peptide chain release factor subunit 3 [source:vb community annotation].
-
-TODO

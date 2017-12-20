@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002218
+=============
+
+
+
+Name: **mRpL47**
+
+Description: 39s ribosomal protein l47, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002218>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

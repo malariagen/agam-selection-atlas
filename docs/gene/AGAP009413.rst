@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009413
+=============
+
+
+
+Name: **Or20**
+
+Description: Odorant receptor 20 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009413>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

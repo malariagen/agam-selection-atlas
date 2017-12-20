@@ -1,9 +1,0 @@
-
-AGAP010040
-=============
-
-
-
-Description: L-carnitine dehydrogenase [source:vb community annotation].
-
-TODO

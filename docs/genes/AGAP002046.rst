@@ -1,9 +1,0 @@
-
-AGAP002046
-=============
-
-Name: **Or76**
-
-Description: Odorant receptor 76 [source:vb community annotation].
-
-TODO

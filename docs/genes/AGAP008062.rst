@@ -1,9 +1,0 @@
-
-AGAP008062
-=============
-
-Name: **CSP4**
-
-Description: Chemosensory protein 4 [source:vb community annotation].
-
-TODO

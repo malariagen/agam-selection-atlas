@@ -1,9 +1,0 @@
-
-AGAP000090
-=============
-
-
-
-Description: Adenylate cyclase [source:vb community annotation].
-
-TODO

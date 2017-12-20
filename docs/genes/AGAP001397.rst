@@ -1,9 +1,0 @@
-
-AGAP001397
-=============
-
-
-
-Description: Zinc metalloproteinase yil108w [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008898
-=============
-
-
-
-Description: Mitochondrial atpase inhibitor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004921
-=============
-
-Name: **CASPS5**
-
-Description: Short caspase 5 [source:vb community annotation].
-
-TODO

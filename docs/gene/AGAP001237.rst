@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001237
+=============
+
+
+
+Name: **Med29**
+
+Description: Mediator of rna polymerase ii transcription subunit 29 [source:uniprotkb/swiss-prot;acc:q7pud7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001237>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004664
+=============
+
+
+
+
+
+Description: Homeobox protein abdominal-b and related proteins [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004664>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

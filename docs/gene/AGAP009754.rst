@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009754
+=============
+
+
+
+Name: **ANCE4**
+
+Description: Angiotensin-converting enzyme 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009754>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

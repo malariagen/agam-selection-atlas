@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003051
+=============
+
+
+
+
+
+Description: Stearoyl-coa desaturase (delta-9 desaturase) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003051>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

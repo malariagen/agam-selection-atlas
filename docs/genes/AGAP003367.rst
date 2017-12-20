@@ -1,9 +1,0 @@
-
-AGAP003367
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 2 [source:vb community annotation].
-
-TODO

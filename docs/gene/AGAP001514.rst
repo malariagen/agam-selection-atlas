@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001514
+=============
+
+
+
+
+
+Description: Pre-mrna 3'-end-processing factor fip1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001514>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

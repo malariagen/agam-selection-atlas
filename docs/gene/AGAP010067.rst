@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010067
+=============
+
+
+
+
+
+Description: Voltage-gated potassium channel subunit beta-2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010067>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

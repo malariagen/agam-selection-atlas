@@ -1,9 +1,0 @@
-
-AGAP004999
-=============
-
-
-
-Description: Microfibrillar-associated protein 4 [source:vb community annotation].
-
-TODO

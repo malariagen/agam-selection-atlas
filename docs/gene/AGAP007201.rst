@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007201
+=============
+
+
+
+Name: **TRX2**
+
+Description: Thioredoxin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007201>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

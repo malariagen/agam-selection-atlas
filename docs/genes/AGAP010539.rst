@@ -1,9 +1,0 @@
-
-AGAP010539
-=============
-
-
-
-Description: Coiled-coil and c2 domain-containing protein 1-like [source:vb community annotation].
-
-TODO

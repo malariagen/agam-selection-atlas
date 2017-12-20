@@ -1,9 +1,0 @@
-
-AGAP009653
-=============
-
-
-
-Description: Tetraspanin [source:uniprotkb/trembl;acc:q7q1s1].
-
-TODO

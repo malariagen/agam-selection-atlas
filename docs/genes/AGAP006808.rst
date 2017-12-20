@@ -1,9 +1,0 @@
-
-AGAP006808
-=============
-
-
-
-Description: Regulator of ribosome biosynthesis [source:vb community annotation].
-
-TODO

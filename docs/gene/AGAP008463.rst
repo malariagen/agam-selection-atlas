@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008463
+=============
+
+
+
+Name: **CPLCG19**
+
+Description: Cuticular protein cplcg family (cplcg19) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008463>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

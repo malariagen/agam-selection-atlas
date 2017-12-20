@@ -1,9 +1,0 @@
-
-AGAP008881
-=============
-
-
-
-Description: Ethanolaminephosphotransferase [source:vb community annotation].
-
-TODO

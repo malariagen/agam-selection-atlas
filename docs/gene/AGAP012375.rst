@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012375
+=============
+
+
+
+
+
+Description: Protein aurora borealis [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012375>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

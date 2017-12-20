@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008287
+=============
+
+
+
+
+
+Description: Programmed cell death protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008287>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

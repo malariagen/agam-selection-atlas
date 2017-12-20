@@ -1,9 +1,0 @@
-
-AGAP011442
-=============
-
-
-
-Description: Serine carboxypeptidase 1 [source:vb community annotation].
-
-TODO

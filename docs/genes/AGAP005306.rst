@@ -1,9 +1,0 @@
-
-AGAP005306
-=============
-
-
-
-Description: Calcium/calmodulin-dependent protein kinase i [source:vb community annotation].
-
-TODO

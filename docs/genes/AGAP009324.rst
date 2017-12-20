@@ -1,9 +1,0 @@
-
-AGAP009324
-=============
-
-Name: **RpL34**
-
-Description: 60s ribosomal protein l34 [source:vb community annotation].
-
-TODO

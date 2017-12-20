@@ -1,9 +1,0 @@
-
-AGAP006164
-=============
-
-
-
-Description: Rad51-like protein 3 [source:vb community annotation].
-
-TODO

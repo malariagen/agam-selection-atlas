@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013436
+=============
+
+
+
+Name: **IR140.2**
+
+Description: Ionotropic receptor ir140.2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013436>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

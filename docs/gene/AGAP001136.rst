@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001136
+=============
+
+
+
+
+
+Description: Tetratricopeptide repeat protein 35 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001136>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

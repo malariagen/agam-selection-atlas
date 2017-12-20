@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010026
+=============
+
+
+
+
+
+Description: Phospholipid-translocating atpase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000112
-=============
-
-
-
-Description: Nad  synthase (glutamine-hydrolysing) [source:vb community annotation].
-
-TODO

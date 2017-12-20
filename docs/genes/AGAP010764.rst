@@ -1,9 +1,0 @@
-
-AGAP010764
-=============
-
-
-
-Description: Metalloendopeptidase [source:uniprotkb/trembl;acc:q7q209].
-
-TODO

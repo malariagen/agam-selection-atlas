@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007583
+=============
+
+
+
+
+
+Description: Golgi-associated plant pathogenesis-related protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007583>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

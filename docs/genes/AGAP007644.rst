@@ -1,9 +1,0 @@
-
-AGAP007644
-=============
-
-
-
-Description: Mrna turnover protein 4 [source:vb community annotation].
-
-TODO

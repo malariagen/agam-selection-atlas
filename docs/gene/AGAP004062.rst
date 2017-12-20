@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004062
+=============
+
+
+
+
+
+Description: Ddb1- and cul4-associated factor 15 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004062>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

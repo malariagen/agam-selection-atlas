@@ -1,9 +1,0 @@
-
-AGAP010015
-=============
-
-
-
-Description: Uncharacterized protein rgd1560283 [source:vb community annotation].
-
-TODO

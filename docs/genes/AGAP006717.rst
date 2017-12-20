@@ -1,9 +1,0 @@
-
-AGAP006717
-=============
-
-Name: **Gr26**
-
-Description: Gustatory receptor 26 [source:vb community annotation].
-
-TODO

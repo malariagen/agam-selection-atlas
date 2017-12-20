@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008863
+=============
+
+
+
+Name: **for**
+
+Description: Protein kinase, cgmp-dependent [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008863>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

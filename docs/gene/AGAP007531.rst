@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007531
+=============
+
+
+
+
+
+Description: 2-oxoisovalerate dehydrogenase e1 component, beta subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007531>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

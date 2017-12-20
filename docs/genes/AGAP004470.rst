@@ -1,9 +1,0 @@
-
-AGAP004470
-=============
-
-
-
-Description: Ste24 endopeptidase [source:vb community annotation].
-
-TODO

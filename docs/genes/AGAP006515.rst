@@ -1,9 +1,0 @@
-
-AGAP006515
-=============
-
-
-
-Description: Multiplexin transcript 1 [source:vb community annotation].
-
-TODO

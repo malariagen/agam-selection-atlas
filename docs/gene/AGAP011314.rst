@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011314
+=============
+
+
+
+
+
+Description: Cytochrome b5 reductase 4 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011314>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

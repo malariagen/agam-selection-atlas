@@ -1,9 +1,0 @@
-
-AGAP009945
-=============
-
-
-
-Description: Dihydrodiol dehydrogenase / d-xylose 1-dehydrogenase (nadp) [source:vb community annotation].
-
-TODO

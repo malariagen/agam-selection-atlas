@@ -1,9 +1,0 @@
-
-AGAP006799
-=============
-
-
-
-Description: Adrenodoxin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004376
-=============
-
-
-
-Description: Aldose 1-epimerase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010701
+=============
+
+
+
+
+
+Description: Proton-coupled amino acid transporter [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010701>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

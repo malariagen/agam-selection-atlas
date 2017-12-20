@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001556
+=============
+
+
+
+Name: **OBP7**
+
+Description: Odorant-binding protein antennal 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001556>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

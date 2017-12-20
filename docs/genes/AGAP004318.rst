@@ -1,9 +1,0 @@
-
-AGAP004318
-=============
-
-Name: **CLIPC3**
-
-Description: Clip-domain serine protease [source:vb community annotation].
-
-TODO

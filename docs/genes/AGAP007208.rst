@@ -1,9 +1,0 @@
-
-AGAP007208
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 11 [source:vb community annotation].
-
-TODO

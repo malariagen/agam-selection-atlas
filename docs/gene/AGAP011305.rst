@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011305
+=============
+
+
+
+
+
+Description: Alkaline phosphatase [source:uniprotkb/trembl;acc:a7us49].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011305>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

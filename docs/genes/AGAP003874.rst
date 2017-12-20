@@ -1,9 +1,0 @@
-
-AGAP003874
-=============
-
-
-
-Description: Uridine kinase [source:vb community annotation].
-
-TODO

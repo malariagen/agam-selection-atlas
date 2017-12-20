@@ -1,9 +1,0 @@
-
-AGAP005744
-=============
-
-Name: **LRIM26**
-
-Description: Leucine-rich immune protein (coil-less) [source:vb community annotation].
-
-TODO

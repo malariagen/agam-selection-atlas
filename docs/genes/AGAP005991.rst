@@ -1,9 +1,0 @@
-
-AGAP005991
-=============
-
-Name: **RpL14**
-
-Description: 60s ribosomal protein l14 [source:vb community annotation].
-
-TODO

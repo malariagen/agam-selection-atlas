@@ -1,9 +1,0 @@
-
-AGAP000641
-=============
-
-Name: **OBP34**
-
-Description: Odorant-binding protein 34 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011652
-=============
-
-
-
-Description: Aaa family atpase, cdc48 subfamily protein [source:vb community annotation].
-
-TODO

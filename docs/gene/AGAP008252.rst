@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008252
+=============
+
+
+
+
+
+Description: Protein of unknown function duf255 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008252>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

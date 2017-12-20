@@ -1,9 +1,0 @@
-
-AGAP008075
-=============
-
-
-
-Description: Cellular nucleic acid-binding protein [source:vb community annotation].
-
-TODO

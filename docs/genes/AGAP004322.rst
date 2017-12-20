@@ -1,9 +1,0 @@
-
-AGAP004322
-=============
-
-
-
-Description: Pumilio homology domain family member 6 [source:vb community annotation].
-
-TODO

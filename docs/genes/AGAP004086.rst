@@ -1,9 +1,0 @@
-
-AGAP004086
-=============
-
-
-
-Description: Prenyl protein peptidase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP003482
-=============
-
-
-
-Description: Oxysterol-binding protein [source:vb community annotation].
-
-TODO

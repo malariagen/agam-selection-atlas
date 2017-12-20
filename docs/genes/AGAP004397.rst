@@ -1,9 +1,0 @@
-
-AGAP004397
-=============
-
-
-
-Description: Alpha-1,6-mannosyl-glycoprotein beta-1,2-n-acetylglucosaminyltransferase [source:vb community annotation].
-
-TODO

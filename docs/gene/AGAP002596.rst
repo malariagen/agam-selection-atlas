@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002596
+=============
+
+
+
+
+
+Description: Metalloendopeptidase [source:uniprotkb/trembl;acc:q7qce7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002596>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

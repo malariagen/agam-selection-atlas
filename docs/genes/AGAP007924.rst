@@ -1,9 +1,0 @@
-
-AGAP007924
-=============
-
-
-
-Description: Protocadherin fat 4 [source:vb community annotation].
-
-TODO

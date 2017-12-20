@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009510
+=============
+
+
+
+
+
+Description: Malate dehydrogenase (fragment) [source:uniprotkb/trembl;acc:q7psb4].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009510>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

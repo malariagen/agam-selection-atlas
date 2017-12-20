@@ -1,9 +1,0 @@
-
-AGAP007136
-=============
-
-Name: **GPR5HT1A**
-
-Description: Putative serotonin 5ht-1a receptor [source:vb community annotation].
-
-TODO

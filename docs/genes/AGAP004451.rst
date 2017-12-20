@@ -1,9 +1,0 @@
-
-AGAP004451
-=============
-
-
-
-Description: Udpglucose--hexose-1-phosphate uridylyltransferase [source:vb community annotation].
-
-TODO

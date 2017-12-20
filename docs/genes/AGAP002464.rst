@@ -1,9 +1,0 @@
-
-AGAP002464
-=============
-
-
-
-Description: Secreted ferritin g subunit [source:vb community annotation].
-
-TODO

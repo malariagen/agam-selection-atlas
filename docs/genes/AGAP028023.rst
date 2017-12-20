@@ -1,9 +1,0 @@
-
-AGAP028023
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class m [source:vb community annotation].
-
-TODO

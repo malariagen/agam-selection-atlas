@@ -1,9 +1,0 @@
-
-AGAP007880
-=============
-
-
-
-Description: 3-ketoacyl-coa reductase [source:vb community annotation].
-
-TODO

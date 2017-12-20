@@ -1,9 +1,0 @@
-
-AGAP009655
-=============
-
-
-
-Description: Fanconi anemia group i protein [source:vb community annotation].
-
-TODO

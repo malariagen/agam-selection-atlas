@@ -1,9 +1,0 @@
-
-AGAP008790
-=============
-
-
-
-Description: Disintegrin and metalloproteinase domain-containing protein 10 [source:vb community annotation].
-
-TODO

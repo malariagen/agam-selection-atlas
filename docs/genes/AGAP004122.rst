@@ -1,9 +1,0 @@
-
-AGAP004122
-=============
-
-
-
-Description: Neuropeptide y receptor y2 [source:vb community annotation].
-
-TODO

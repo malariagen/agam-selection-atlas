@@ -1,9 +1,0 @@
-
-AGAP008707
-=============
-
-
-
-Description: Maf-like protein ycef 1 [source:vb community annotation].
-
-TODO

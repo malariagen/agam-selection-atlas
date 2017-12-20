@@ -1,9 +1,0 @@
-
-AGAP004752
-=============
-
-
-
-Description: Trna (guanine-n(7)-)-methyltransferase [source:uniprotkb/swiss-prot;acc:q7q2p7].
-
-TODO

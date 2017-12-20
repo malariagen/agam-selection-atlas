@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008878
+=============
+
+
+
+
+
+Description: Defense protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008878>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

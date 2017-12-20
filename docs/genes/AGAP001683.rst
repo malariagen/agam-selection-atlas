@@ -1,9 +1,0 @@
-
-AGAP001683
-=============
-
-
-
-Description: Calcium/calmodulin-dependent serine protein kinase [source:vb community annotation].
-
-TODO

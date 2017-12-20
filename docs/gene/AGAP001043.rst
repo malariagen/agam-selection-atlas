@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001043
+=============
+
+
+
+Name: **arm**
+
+Description: Armadillo segment polarity protein [source:uniprotkb/swiss-prot;acc:q7qhw5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001043>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

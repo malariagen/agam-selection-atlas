@@ -1,9 +1,0 @@
-
-AGAP002881
-=============
-
-Name: **GPRNPR1**
-
-Description: Putative neuropeptide receptor 1 [source:vb community annotation].
-
-TODO

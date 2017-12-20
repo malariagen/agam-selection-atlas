@@ -1,9 +1,0 @@
-
-AGAP004351
-=============
-
-
-
-Description: Atp-dependent rna helicase ddx43 [source:vb community annotation].
-
-TODO

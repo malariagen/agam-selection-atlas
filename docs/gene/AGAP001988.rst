@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001988
+=============
+
+
+
+
+
+Description: Hyp37.7-like [source:uniprotkb/trembl;acc:q52p96].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001988>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

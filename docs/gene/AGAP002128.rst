@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002128
+=============
+
+
+
+
+
+Description: Brca1-associated protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002128>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

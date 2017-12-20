@@ -1,9 +1,0 @@
-
-AGAP003681
-=============
-
-
-
-Description: Huntingtin [source:vb community annotation].
-
-TODO

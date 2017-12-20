@@ -1,9 +1,0 @@
-
-AGAP009347
-=============
-
-
-
-Description: Fk506-binding protein 4/5 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007248
+=============
+
+
+
+
+
+Description: Neuronal calcium sensor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007248>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

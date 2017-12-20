@@ -1,9 +1,0 @@
-
-AGAP000237
-=============
-
-
-
-Description: Camp response element-binding protein (creb) [source:vb community annotation].
-
-TODO

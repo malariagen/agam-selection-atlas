@@ -1,9 +1,0 @@
-
-AGAP007781
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 4e-binding protein 1 [source:vb community annotation].
-
-TODO

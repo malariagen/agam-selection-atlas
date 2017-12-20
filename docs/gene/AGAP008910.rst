@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008910
+=============
+
+
+
+
+
+Description: Dna polymerase delta small subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008910>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

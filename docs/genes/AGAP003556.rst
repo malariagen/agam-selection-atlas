@@ -1,9 +1,0 @@
-
-AGAP003556
-=============
-
-Name: **RpL3**
-
-Description: 60s ribosomal protein l3 [source:vb community annotation].
-
-TODO

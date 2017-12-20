@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001825
+=============
+
+
+
+
+
+Description: Salivary lipase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001825>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

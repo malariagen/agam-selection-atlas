@@ -1,9 +1,0 @@
-
-AGAP009652
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex 13 [source:vb community annotation].
-
-TODO

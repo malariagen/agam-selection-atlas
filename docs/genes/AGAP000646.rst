@@ -1,9 +1,0 @@
-
-AGAP000646
-=============
-
-
-
-Description: Myc proto-oncogene protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002073
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase rnf1/2 [source:vb community annotation].
-
-TODO

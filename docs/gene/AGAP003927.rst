@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003927
+=============
+
+
+
+
+
+Description: Insulin-like peptide 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003927>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

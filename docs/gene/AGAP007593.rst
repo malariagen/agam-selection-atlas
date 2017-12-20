@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007593
+=============
+
+
+
+
+
+Description: Glycerol-3-phosphate dehydrogenase (nad ) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007593>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

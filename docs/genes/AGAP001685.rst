@@ -1,9 +1,0 @@
-
-AGAP001685
-=============
-
-
-
-Description: Nuclear pore complex protein nup107 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011848
-=============
-
-
-
-Description: Elongation of very long chain fatty acids protein 7 [source:vb community annotation].
-
-TODO

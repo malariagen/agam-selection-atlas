@@ -1,9 +1,0 @@
-
-AGAP005415
-=============
-
-
-
-Description: Ftsj methyltransferase domain-containing protein 1 [source:vb community annotation].
-
-TODO

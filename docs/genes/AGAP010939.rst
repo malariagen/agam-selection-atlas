@@ -1,9 +1,0 @@
-
-AGAP010939
-=============
-
-Name: **APG5**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

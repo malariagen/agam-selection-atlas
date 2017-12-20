@@ -1,9 +1,0 @@
-
-AGAP006806
-=============
-
-
-
-Description: Mitochondrial thiamine pyrophosphate carrier [source:vb community annotation].
-
-TODO

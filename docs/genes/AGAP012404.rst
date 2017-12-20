@@ -1,9 +1,0 @@
-
-AGAP012404
-=============
-
-
-
-Description: Alanine--glyoxylate aminotransferase 2, mitochondrial [source:vb community annotation].
-
-TODO

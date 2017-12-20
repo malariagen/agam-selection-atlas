@@ -1,9 +1,0 @@
-
-AGAP012191
-=============
-
-
-
-Description: Mitochondrial succinate dehydrogenase assembly factor 2 [source:vb community annotation].
-
-TODO

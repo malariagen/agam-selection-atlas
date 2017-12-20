@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010400
+=============
+
+
+
+
+
+Description: Flavin-containing monooxygenase [source:uniprotkb/trembl;acc:a0a1s4h4u8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010400>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

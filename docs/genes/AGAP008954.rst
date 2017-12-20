@@ -1,9 +1,0 @@
-
-AGAP008954
-=============
-
-
-
-Description: Set and mynd domain-containing protein [source:vb community annotation].
-
-TODO

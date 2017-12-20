@@ -1,9 +1,0 @@
-
-AGAP007798
-=============
-
-
-
-Description: Wee1-like protein kinase [source:vb community annotation].
-
-TODO

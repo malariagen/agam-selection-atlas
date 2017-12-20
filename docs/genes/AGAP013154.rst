@@ -1,9 +1,0 @@
-
-AGAP013154
-=============
-
-Name: **IR7h.1**
-
-Description: Ionotropic receptor ir7h.1 [source:vb community annotation].
-
-TODO

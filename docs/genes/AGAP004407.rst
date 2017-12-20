@@ -1,9 +1,0 @@
-
-AGAP004407
-=============
-
-
-
-Description: Lectin, mannose-binding 2 [source:vb community annotation].
-
-TODO

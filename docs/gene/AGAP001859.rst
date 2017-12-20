@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001859
+=============
+
+
+
+
+
+Description: Dnaj homolog subfamily b member 14 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001859>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

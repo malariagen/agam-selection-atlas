@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007474
+=============
+
+
+
+
+
+Description: Talin-1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007474>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

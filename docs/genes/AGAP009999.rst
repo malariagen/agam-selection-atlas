@@ -1,9 +1,0 @@
-
-AGAP009999
-=============
-
-Name: **Gr22**
-
-Description: Gustatory receptor 22 [source:vb community annotation].
-
-TODO

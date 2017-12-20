@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000406
+=============
+
+
+
+
+
+Description: Rho-associated protein kinase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000406>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

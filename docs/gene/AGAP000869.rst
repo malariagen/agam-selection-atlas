@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000869
+=============
+
+
+
+
+
+Description: Partitioning defective protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000869>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

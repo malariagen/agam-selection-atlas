@@ -1,9 +1,0 @@
-
-AGAP001237
-=============
-
-Name: **Med29**
-
-Description: Mediator of rna polymerase ii transcription subunit 29 [source:uniprotkb/swiss-prot;acc:q7pud7].
-
-TODO

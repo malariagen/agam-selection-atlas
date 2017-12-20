@@ -1,9 +1,0 @@
-
-AGAP011469
-=============
-
-Name: **OR3**
-
-Description: Odorant receptor 3 [source:vb community annotation].
-
-TODO

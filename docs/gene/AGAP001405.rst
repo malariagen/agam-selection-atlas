@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001405
+=============
+
+
+
+
+
+Description: Retinol dehydrogenase 13 (all-trans and 9-cis) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001405>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004425
+=============
+
+
+
+
+
+Description: Dephospho-coa kinase domain-containing protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004425>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

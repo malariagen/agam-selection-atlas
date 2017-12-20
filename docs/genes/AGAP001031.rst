@@ -1,9 +1,0 @@
-
-AGAP001031
-=============
-
-
-
-Description: Ino80 complex subunit e [source:vb community annotation].
-
-TODO

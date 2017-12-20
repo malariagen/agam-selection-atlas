@@ -1,9 +1,0 @@
-
-AGAP003721
-=============
-
-Name: **ANXB10B**
-
-Description: Annexin b10b [source:vb community annotation].
-
-TODO

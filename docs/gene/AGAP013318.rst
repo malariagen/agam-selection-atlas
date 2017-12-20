@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013318
+=============
+
+
+
+
+
+Description: Outer membrane lipoprotein blc [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013318>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007293
+=============
+
+
+
+Name: **IAP7**
+
+Description: Inhibitor of apoptosis 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007293>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

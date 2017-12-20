@@ -1,9 +1,0 @@
-
-AGAP006889
-=============
-
-
-
-Description: Elongator complex protein 2 [source:vb community annotation].
-
-TODO

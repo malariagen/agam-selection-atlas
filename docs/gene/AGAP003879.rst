@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003879
+=============
+
+
+
+Name: **VhaAC45**
+
+Description: Vacuolar h  atpase ac45 accessory subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003879>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

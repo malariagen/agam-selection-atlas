@@ -1,9 +1,0 @@
-
-AGAP027997
-=============
-
-Name: **LRIM5**
-
-Description: Leucine-rich immune protein (short) [source:vb community annotation].
-
-TODO

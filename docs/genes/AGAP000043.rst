@@ -1,9 +1,0 @@
-
-AGAP000043
-=============
-
-
-
-Description: Tousled-like kinase [source:vb community annotation].
-
-TODO

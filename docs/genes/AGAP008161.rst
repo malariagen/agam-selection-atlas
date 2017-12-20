@@ -1,9 +1,0 @@
-
-AGAP008161
-=============
-
-
-
-Description: Ribonuclease h2 subunit b [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000779
+=============
+
+
+
+
+
+Description: Zinc finger homeobox protein 1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000779>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

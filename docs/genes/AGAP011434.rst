@@ -1,9 +1,0 @@
-
-AGAP011434
-=============
-
-
-
-Description: Zinc carboxypeptidase a 1 [source:vb community annotation].
-
-TODO

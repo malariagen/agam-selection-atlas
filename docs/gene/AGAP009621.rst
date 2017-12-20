@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009621
+=============
+
+
+
+
+
+Description: Alpha-n-acetylgalactosaminidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009621>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

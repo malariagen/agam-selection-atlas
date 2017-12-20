@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008006
+=============
+
+
+
+
+
+Description: Hepatoma-derived gf [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008006>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

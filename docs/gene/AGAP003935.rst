@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003935
+=============
+
+
+
+Name: **Prosalpha1**
+
+Description: 26s proteasome alpha 1 subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003935>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

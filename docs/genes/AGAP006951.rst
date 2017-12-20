@@ -1,9 +1,0 @@
-
-AGAP006951
-=============
-
-
-
-Description: Yip1 family member 1 [source:vb community annotation].
-
-TODO

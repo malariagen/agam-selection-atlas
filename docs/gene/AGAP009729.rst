@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009729
+=============
+
+
+
+Name: **CCAP**
+
+Description: Cardioacceleratory peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009729>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

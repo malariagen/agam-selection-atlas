@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010613
+=============
+
+
+
+
+
+Description: Elongation factor 1-beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010613>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008480
+=============
+
+
+
+Name: **CPLCG27**
+
+Description: Cuticular protein cplcg family (cplcg27) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008480>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

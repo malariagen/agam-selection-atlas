@@ -1,9 +1,0 @@
-
-AGAP011319
-=============
-
-
-
-Description: Pacifastin-related peptide [source:vb community annotation].
-
-TODO

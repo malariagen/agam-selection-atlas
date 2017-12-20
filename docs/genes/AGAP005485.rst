@@ -1,9 +1,0 @@
-
-AGAP005485
-=============
-
-
-
-Description: Transcription factor grauzone [source:vb community annotation].
-
-TODO

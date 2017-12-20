@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000088
+=============
+
+
+
+Name: **CYP4H19**
+
+Description: Cytochrome p450 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000088>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

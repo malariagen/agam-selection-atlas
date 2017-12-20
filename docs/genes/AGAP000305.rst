@@ -1,9 +1,0 @@
-
-AGAP000305
-=============
-
-
-
-Description: Sparc [source:vb community annotation].
-
-TODO

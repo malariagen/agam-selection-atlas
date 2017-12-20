@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004408
+=============
+
+
+
+
+
+Description: Dna replication licensing factor mcm5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004408>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

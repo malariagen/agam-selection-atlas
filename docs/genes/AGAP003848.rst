@@ -1,9 +1,0 @@
-
-AGAP003848
-=============
-
-
-
-Description: Acyl-coa thioesterase 9.1 [source:vb community annotation].
-
-TODO

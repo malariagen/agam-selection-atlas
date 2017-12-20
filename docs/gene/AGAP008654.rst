@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008654
+=============
+
+
+
+Name: **TEP12**
+
+Description: Thioester-containing protein 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008654>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

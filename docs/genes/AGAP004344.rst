@@ -1,9 +1,0 @@
-
-AGAP004344
-=============
-
-
-
-Description: Hairless [source:vb community annotation].
-
-TODO

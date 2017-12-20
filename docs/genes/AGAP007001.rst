@@ -1,9 +1,0 @@
-
-AGAP007001
-=============
-
-
-
-Description: Ubiquitin thioesterase otu1 [source:vb community annotation].
-
-TODO

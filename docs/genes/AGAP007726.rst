@@ -1,9 +1,0 @@
-
-AGAP007726
-=============
-
-
-
-Description: Arfgap with sh3 domain, ankyrin repeat and ph domain 2 [source:vb community annotation].
-
-TODO

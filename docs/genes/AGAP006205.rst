@@ -1,9 +1,0 @@
-
-AGAP006205
-=============
-
-
-
-Description: Ribosome biogenesis atpase [source:vb community annotation].
-
-TODO

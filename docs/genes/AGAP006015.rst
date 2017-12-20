@@ -1,9 +1,0 @@
-
-AGAP006015
-=============
-
-
-
-Description: Decaprenyl-diphosphate synthase subunit 2 [source:vb community annotation].
-
-TODO

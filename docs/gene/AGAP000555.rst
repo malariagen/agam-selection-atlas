@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000555
+=============
+
+
+
+Name: **mal**
+
+Description: Molybdenum cofactor sulfurase [source:uniprotkb/swiss-prot;acc:q7qfl7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000555>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008279
-=============
-
-Name: **D7L2**
-
-Description: D7 long form salivary protein [source:vb community annotation].
-
-TODO

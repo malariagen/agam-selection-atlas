@@ -1,9 +1,0 @@
-
-AGAP010396
-=============
-
-
-
-Description: Kinesin family member 3/17 [source:vb community annotation].
-
-TODO

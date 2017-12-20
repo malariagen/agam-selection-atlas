@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028113
+=============
+
+
+
+Name: **CPLCW9**
+
+Description: Cuticular protein cplcw family (cplcw9) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028113>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

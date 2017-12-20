@@ -1,9 +1,0 @@
-
-AGAP010685
-=============
-
-
-
-Description: Aladin [source:vb community annotation].
-
-TODO

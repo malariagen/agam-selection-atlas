@@ -1,9 +1,0 @@
-
-AGAP001700
-=============
-
-
-
-Description: Translational activator gcn1 [source:vb community annotation].
-
-TODO

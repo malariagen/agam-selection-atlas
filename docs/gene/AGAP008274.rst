@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008274
+=============
+
+
+
+
+
+Description: Snail, invertebrate [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008274>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

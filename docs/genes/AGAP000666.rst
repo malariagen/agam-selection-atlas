@@ -1,9 +1,0 @@
-
-AGAP000666
-=============
-
-
-
-Description: Ubiquitin carboxyl-terminal hydrolase 16/45 [source:vb community annotation].
-
-TODO

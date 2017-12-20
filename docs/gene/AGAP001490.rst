@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001490
+=============
+
+
+
+
+
+Description: 26s proteasome non-atpase regulatory subunit 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001490>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008151
-=============
-
-
-
-Description: Dna-directed rna polymerase iii subunit rpc2 [source:vb community annotation].
-
-TODO

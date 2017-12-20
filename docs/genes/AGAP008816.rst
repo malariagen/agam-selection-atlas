@@ -1,9 +1,0 @@
-
-AGAP008816
-=============
-
-Name: **Prosalpha5**
-
-Description: 26s proteasome alpha 5 subunit [source:vb community annotation].
-
-TODO

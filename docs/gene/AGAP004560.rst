@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004560
+=============
+
+
+
+
+
+Description: Cohesin complex subunit scc1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004560>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

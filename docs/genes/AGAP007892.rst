@@ -1,9 +1,0 @@
-
-AGAP007892
-=============
-
-
-
-Description: Paired amphipathic helix protein sin3a [source:vb community annotation].
-
-TODO

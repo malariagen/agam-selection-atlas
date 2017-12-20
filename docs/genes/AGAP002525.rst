@@ -1,9 +1,0 @@
-
-AGAP002525
-=============
-
-
-
-Description: Eukaryotic translation initiation factor 2a [source:vb community annotation].
-
-TODO

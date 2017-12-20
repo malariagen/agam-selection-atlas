@@ -1,9 +1,0 @@
-
-AGAP010060
-=============
-
-
-
-Description: Dna repair protein rad62 [source:vb community annotation].
-
-TODO

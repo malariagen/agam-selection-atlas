@@ -1,9 +1,0 @@
-
-AGAP007996
-=============
-
-
-
-Description: Nuclear receptor-binding protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010959
-=============
-
-
-
-Description: Preli domain-containing protein 1, mitochondrial [source:vb community annotation].
-
-TODO

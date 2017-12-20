@@ -1,9 +1,0 @@
-
-AGAP006891
-=============
-
-
-
-Description: Nadh dehydrogenase (ubiquinone) fe-s protein 2 [source:vb community annotation].
-
-TODO

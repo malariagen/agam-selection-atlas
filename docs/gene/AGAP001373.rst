@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001373
+=============
+
+
+
+
+
+Description: Inhibitor of growth protein [source:uniprotkb/trembl;acc:q7pxf0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001373>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

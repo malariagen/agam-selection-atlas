@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007026
+=============
+
+
+
+Name: **Ccs**
+
+Description: Copper chaperone for superoxide dismutase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007026>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

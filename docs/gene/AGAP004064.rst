@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004064
+=============
+
+
+
+
+
+Description: Rna-binding protein nob1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004064>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

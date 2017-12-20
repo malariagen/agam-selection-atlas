@@ -1,9 +1,0 @@
-
-AGAP004175
-=============
-
-
-
-Description: Uridine monophosphate synthetase [source:vb community annotation].
-
-TODO

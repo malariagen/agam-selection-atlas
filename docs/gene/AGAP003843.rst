@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003843
+=============
+
+
+
+
+
+Description: Cytochrome c heme-lyase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003843>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003656
+=============
+
+
+
+
+
+Description: Terribly reduced optic lobes, isoform b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003656>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

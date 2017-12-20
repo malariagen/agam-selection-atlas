@@ -1,9 +1,0 @@
-
-AGAP011449
-=============
-
-
-
-Description: Integrator complex subunit 8 [source:vb community annotation].
-
-TODO

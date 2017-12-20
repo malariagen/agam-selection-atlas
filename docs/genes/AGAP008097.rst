@@ -1,9 +1,0 @@
-
-AGAP008097
-=============
-
-
-
-Description: Glucose-fructose oxidoreductase domain-containing protein 2 precursor [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP012038
-=============
-
-
-
-Description: Glutamate--cysteine ligase regulatory subunit [source:vb community annotation].
-
-TODO

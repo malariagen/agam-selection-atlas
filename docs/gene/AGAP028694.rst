@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028694
+=============
+
+
+
+Name: **RpS18**
+
+Description: 40s ribosomal protein s18 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028694>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

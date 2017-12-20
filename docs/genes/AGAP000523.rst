@@ -1,9 +1,0 @@
-
-AGAP000523
-=============
-
-
-
-Description: F-type h -transporting atpase subunit c [source:vb community annotation].
-
-TODO

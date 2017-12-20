@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001937
+=============
+
+
+
+Name: **mRpL33**
+
+Description: 39s ribosomal protein l33, mitochondrial [source:uniprotkb/swiss-prot;acc:q7pyh1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001937>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

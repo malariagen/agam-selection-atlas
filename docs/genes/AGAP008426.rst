@@ -1,9 +1,0 @@
-
-AGAP008426
-=============
-
-
-
-Description: Swi/snf-related matrix-associated actin-dependent regulator of chromatin subfamily a-like protein 1 [source:vb community annotation].
-
-TODO

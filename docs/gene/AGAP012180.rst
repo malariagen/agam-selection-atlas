@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012180
+=============
+
+
+
+
+
+Description: Transmembrane protein 234 homolog [source:uniprotkb/swiss-prot;acc:a0ngi1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012180>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

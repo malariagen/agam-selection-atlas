@@ -1,9 +1,0 @@
-
-AGAP006614
-=============
-
-
-
-Description: Transcription factor btf3 homolog 4 [source:vb community annotation].
-
-TODO

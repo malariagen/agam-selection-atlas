@@ -1,9 +1,0 @@
-
-AGAP007815
-=============
-
-
-
-Description: Kinesin family member 4/7/21/27 [source:vb community annotation].
-
-TODO

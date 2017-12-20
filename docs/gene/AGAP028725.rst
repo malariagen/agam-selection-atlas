@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP028725
+=============
+
+
+
+Name: **SPCLIP1**
+
+Description: Clip-domain serine protease [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028725>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

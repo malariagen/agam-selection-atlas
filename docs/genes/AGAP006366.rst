@@ -1,9 +1,0 @@
-
-AGAP006366
-=============
-
-
-
-Description: 2-oxoglutarate dehydrogenase e1 component [source:vb community annotation].
-
-TODO

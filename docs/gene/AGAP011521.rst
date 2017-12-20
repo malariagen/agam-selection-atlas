@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011521
+=============
+
+
+
+
+
+Description: 28 kda heat-and acid-stable phosphoprotein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011521>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

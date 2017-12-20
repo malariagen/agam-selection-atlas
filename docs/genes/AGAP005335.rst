@@ -1,9 +1,0 @@
-
-AGAP005335
-=============
-
-Name: **CTL4**
-
-Description: C-type lectin (ctl) [source:vb community annotation].
-
-TODO

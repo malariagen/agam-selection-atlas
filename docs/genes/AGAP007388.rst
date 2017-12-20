@@ -1,9 +1,0 @@
-
-AGAP007388
-=============
-
-
-
-Description: Midasin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005174
-=============
-
-
-
-Description: Nucleoporin seh1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005547
-=============
-
-
-
-Description: Alpha-crystallin b chain [source:vb community annotation].
-
-TODO

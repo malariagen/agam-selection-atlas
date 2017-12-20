@@ -1,9 +1,0 @@
-
-AGAP008960
-=============
-
-Name: **CPR110**
-
-Description: Cuticular protein rr-2 family 110 [source:vb community annotation].
-
-TODO

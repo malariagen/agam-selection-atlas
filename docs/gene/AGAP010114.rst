@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010114
+=============
+
+
+
+Name: **CPR94**
+
+Description: Cuticular protein rr-2 family 94 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010114>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

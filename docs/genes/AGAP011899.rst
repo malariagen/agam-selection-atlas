@@ -1,9 +1,0 @@
-
-AGAP011899
-=============
-
-
-
-Description: Bardet-biedl syndrome 7 protein [source:vb community annotation].
-
-TODO

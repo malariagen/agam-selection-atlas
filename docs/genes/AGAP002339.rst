@@ -1,9 +1,0 @@
-
-AGAP002339
-=============
-
-
-
-Description: An1-type zinc finger protein 2b [source:vb community annotation].
-
-TODO

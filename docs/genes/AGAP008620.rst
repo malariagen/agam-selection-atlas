@@ -1,9 +1,0 @@
-
-AGAP008620
-=============
-
-
-
-Description: Phospholipase a-2-activating protein [source:vb community annotation].
-
-TODO

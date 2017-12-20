@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010504
+=============
+
+
+
+Name: **Or43**
+
+Description: Odorant receptor 43 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010504>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

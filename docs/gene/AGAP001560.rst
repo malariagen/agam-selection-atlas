@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001560
+=============
+
+
+
+
+
+Description: Homeobox protein gsh [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001560>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

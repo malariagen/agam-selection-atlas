@@ -1,9 +1,0 @@
-
-AGAP002510
-=============
-
-
-
-Description: Sarcolemmal associated protein [source:vb community annotation].
-
-TODO

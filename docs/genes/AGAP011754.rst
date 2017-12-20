@@ -1,9 +1,0 @@
-
-AGAP011754
-=============
-
-
-
-Description: Cu2 -exporting atpase [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011177
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase mycbp2 [source:vb community annotation].
-
-TODO

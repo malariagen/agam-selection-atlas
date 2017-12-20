@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000663
+=============
+
+
+
+
+
+Description: Solute carrier family 41 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000663>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

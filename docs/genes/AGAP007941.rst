@@ -1,9 +1,0 @@
-
-AGAP007941
-=============
-
-
-
-Description: Serine palmitoyltransferase [source:vb community annotation].
-
-TODO

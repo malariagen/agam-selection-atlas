@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011425
+=============
+
+
+
+
+
+Description: Structural maintenance of chromosome 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011425>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

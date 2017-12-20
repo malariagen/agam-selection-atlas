@@ -1,9 +1,0 @@
-
-AGAP012672
-=============
-
-
-
-Description: Sulfotransferase [source:vb community annotation].
-
-TODO

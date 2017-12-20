@@ -1,9 +1,0 @@
-
-AGAP008006
-=============
-
-
-
-Description: Hepatoma-derived gf [source:vb community annotation].
-
-TODO

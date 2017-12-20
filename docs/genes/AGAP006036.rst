@@ -1,9 +1,0 @@
-
-AGAP006036
-=============
-
-
-
-Description: Axonemal dynein intermediate chain inner arm i1 [source:vb community annotation].
-
-TODO

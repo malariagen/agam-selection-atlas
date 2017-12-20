@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009048
+=============
+
+
+
+
+
+Description: Protein arginine n-methyltransferase 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009048>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

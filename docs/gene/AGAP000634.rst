@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000634
+=============
+
+
+
+
+
+Description: Regulator of telomere elongation helicase 1 homolog [source:uniprotkb/swiss-prot;acc:q7qei1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000634>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

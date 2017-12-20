@@ -1,9 +1,0 @@
-
-AGAP005465
-=============
-
-Name: **GPRDIH2**
-
-Description: Putative diuretic insect hormone receptor 2 [source:vb community annotation].
-
-TODO

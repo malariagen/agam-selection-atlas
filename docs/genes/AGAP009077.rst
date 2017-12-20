@@ -1,9 +1,0 @@
-
-AGAP009077
-=============
-
-Name: **mRpS14**
-
-Description: 28s ribosomal protein s14, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP002523
-=============
-
-Name: **Med12**
-
-Description: Mediator of rna polymerase ii transcription subunit 12 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009600
-=============
-
-
-
-Description: Atp-dependent rna helicase dob1 [source:vb community annotation].
-
-TODO

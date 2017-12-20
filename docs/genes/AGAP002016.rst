@@ -1,9 +1,0 @@
-
-AGAP002016
-=============
-
-
-
-Description: Iron/zinc purple acid phosphatase-like protein precursor [source:vb community annotation].
-
-TODO

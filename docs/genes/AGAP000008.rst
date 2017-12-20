@@ -1,9 +1,0 @@
-
-AGAP000008
-=============
-
-
-
-Description: Dnaj (hsp40) homolog subfamily a member 1 [source:vb community annotation].
-
-TODO

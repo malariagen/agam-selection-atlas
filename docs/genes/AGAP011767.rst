@@ -1,9 +1,0 @@
-
-AGAP011767
-=============
-
-
-
-Description: Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [source:vb community annotation].
-
-TODO

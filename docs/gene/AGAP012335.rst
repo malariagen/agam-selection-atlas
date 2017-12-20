@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP012335
+=============
+
+
+
+
+
+Description: Structure-specific recognition protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012335>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

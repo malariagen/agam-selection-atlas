@@ -1,9 +1,0 @@
-
-AGAP006612
-=============
-
-Name: **RpL29**
-
-Description: 60s ribosomal protein l29 [source:vb community annotation].
-
-TODO

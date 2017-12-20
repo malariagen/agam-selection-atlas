@@ -1,9 +1,0 @@
-
-AGAP001715
-=============
-
-
-
-Description: Enoyl-coa hydratase echa5 [source:vb community annotation].
-
-TODO

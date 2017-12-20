@@ -1,9 +1,0 @@
-
-AGAP009798
-=============
-
-
-
-Description: Protein kinase, cgmp-dependent [source:vb community annotation].
-
-TODO

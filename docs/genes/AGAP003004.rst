@@ -1,9 +1,0 @@
-
-AGAP003004
-=============
-
-
-
-Description: Tnf-receptor-associated factor [source:vb community annotation].
-
-TODO

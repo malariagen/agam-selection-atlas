@@ -1,9 +1,0 @@
-
-AGAP008405
-=============
-
-Name: **mRpL24**
-
-Description: 39s ribosomal protein l24, mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP009660
-=============
-
-
-
-Description: Gtp:amp phosphotransferase mitochondrial [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003618
+=============
+
+
+
+
+
+Description: Serine/threonine-protein kinase lats1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003618>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

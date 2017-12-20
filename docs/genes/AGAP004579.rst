@@ -1,9 +1,0 @@
-
-AGAP004579
-=============
-
-Name: **cdk2**
-
-Description: Cyclin-dependent kinase 2 [source:vb community annotation].
-
-TODO

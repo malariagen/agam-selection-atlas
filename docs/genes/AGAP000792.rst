@@ -1,9 +1,0 @@
-
-AGAP000792
-=============
-
-
-
-Description: Adenosylhomocysteinase [source:uniprotkb/trembl;acc:q7qe71].
-
-TODO

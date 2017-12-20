@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007627
+=============
+
+
+
+
+
+Description: Carboxyl-terminal pdz ligand of neuronal nitric oxide synthase protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007627>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

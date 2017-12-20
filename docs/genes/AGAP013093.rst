@@ -1,9 +1,0 @@
-
-AGAP013093
-=============
-
-
-
-Description: Glutamyl-trna(gln) amidotransferase subunit c, mitochondrial [source:uniprotkb/trembl;acc:f5hj21].
-
-TODO

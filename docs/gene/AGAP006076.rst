@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006076
+=============
+
+
+
+Name: **OBP50**
+
+Description: Odorant-binding protein 50 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006076>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:26104148-26104931#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

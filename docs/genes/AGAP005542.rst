@@ -1,9 +1,0 @@
-
-AGAP005542
-=============
-
-
-
-Description: Queuine trna-ribosyltransferase subunit qtrtd1 homolog [source:vb community annotation].
-
-TODO

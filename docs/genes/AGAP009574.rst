@@ -1,9 +1,0 @@
-
-AGAP009574
-=============
-
-
-
-Description: Wd repeat-containing protein 69 [source:vb community annotation].
-
-TODO

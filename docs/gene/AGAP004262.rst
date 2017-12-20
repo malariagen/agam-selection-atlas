@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004262
+=============
+
+
+
+Name: **TO3**
+
+Description: Takeout 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004262>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

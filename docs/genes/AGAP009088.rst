@@ -1,9 +1,0 @@
-
-AGAP009088
-=============
-
-
-
-Description: Lim/homeobox protein lhx3 [source:vb community annotation].
-
-TODO

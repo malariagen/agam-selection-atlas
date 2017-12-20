@@ -1,9 +1,0 @@
-
-AGAP008412
-=============
-
-
-
-Description: Ubiquitin thioesterase cyld [source:vb community annotation].
-
-TODO

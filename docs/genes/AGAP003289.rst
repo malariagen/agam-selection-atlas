@@ -1,9 +1,0 @@
-
-AGAP003289
-=============
-
-
-
-Description: Carbonic anhydrase [source:vb community annotation].
-
-TODO

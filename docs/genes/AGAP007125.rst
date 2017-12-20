@@ -1,9 +1,0 @@
-
-AGAP007125
-=============
-
-
-
-Description: Glutamate-rich wd repeat-containing protein 1 [source:vb community annotation].
-
-TODO

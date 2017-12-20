@@ -1,9 +1,0 @@
-
-AGAP005847
-=============
-
-
-
-Description: Hydroxymethylglutaryl-coa synthase [source:vb community annotation].
-
-TODO

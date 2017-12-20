@@ -1,9 +1,0 @@
-
-AGAP003381
-=============
-
-Name: **CPR119**
-
-Description: Cuticular protein rr-2 family 119 [source:vb community annotation].
-
-TODO

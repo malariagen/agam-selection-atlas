@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007044
+=============
+
+
+
+
+
+Description: Potassium channel tetramerisation domain containing 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007044>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

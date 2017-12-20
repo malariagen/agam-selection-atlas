@@ -1,9 +1,0 @@
-
-AGAP013725
-=============
-
-
-
-Description: Hemk methyltransferase family member 1 [source:vb community annotation].
-
-TODO

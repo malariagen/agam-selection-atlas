@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005873
+=============
+
+
+
+
+
+Description: Dna-directed rna polymerases i, ii, and iii subunit rpabc2 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005873>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:22716169-22716812#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP000140
-=============
-
-Name: **IR100a**
-
-Description: Ionotropic receptor ir100a [source:vb community annotation].
-
-TODO

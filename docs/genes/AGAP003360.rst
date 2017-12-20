@@ -1,9 +1,0 @@
-
-AGAP003360
-=============
-
-
-
-Description: Dynein light chain roadblock-type [source:vb community annotation].
-
-TODO

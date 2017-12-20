@@ -1,9 +1,0 @@
-
-AGAP002721
-=============
-
-
-
-Description: Tryptophan 2,3-dioxygenase [source:uniprotkb/swiss-prot;acc:o77457].
-
-TODO

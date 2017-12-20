@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010790
+=============
+
+
+
+
+
+Description: Dynein heavy chain 2, cytosolic [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010790>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

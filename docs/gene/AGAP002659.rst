@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002659
+=============
+
+
+
+
+
+Description: Solute carrier family 10 (sodium/bile acid cotransporter) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002659>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

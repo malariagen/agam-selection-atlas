@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007175
+=============
+
+
+
+
+
+Description: Phosphatidate cytidylyltransferase [source:uniprotkb/trembl;acc:q7qj08].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007175>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

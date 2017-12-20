@@ -1,9 +1,0 @@
-
-AGAP000108
-=============
-
-Name: **OEH**
-
-Description: Ovary ecdysteroidogenic hormone [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005435
-=============
-
-
-
-Description: Iodotyrosine dehalogenase [source:vb community annotation].
-
-TODO

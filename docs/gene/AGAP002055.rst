@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002055
+=============
+
+
+
+
+
+Description: Beta-galactosidase [source:uniprotkb/trembl;acc:q380s2].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002055>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

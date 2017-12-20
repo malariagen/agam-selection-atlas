@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003070
+=============
+
+
+
+
+
+Description: Disintegrin and metalloproteinase domain-containing protein 10 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003070>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

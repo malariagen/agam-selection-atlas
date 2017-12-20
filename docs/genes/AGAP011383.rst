@@ -1,9 +1,0 @@
-
-AGAP011383
-=============
-
-
-
-Description: Rrna-processing protein ebp2 [source:vb community annotation].
-
-TODO

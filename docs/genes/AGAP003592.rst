@@ -1,9 +1,0 @@
-
-AGAP003592
-=============
-
-Name: **RpLP0**
-
-Description: 60s ribosomal protein lp0 [source:vb community annotation].
-
-TODO

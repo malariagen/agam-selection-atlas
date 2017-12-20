@@ -1,9 +1,0 @@
-
-AGAP008461
-=============
-
-Name: **CPLCG17**
-
-Description: Cuticular protein cplcg family (cplcg17) [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006968
-=============
-
-
-
-Description: Solute carrier family 4 member 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007661
-=============
-
-
-
-Description: Trna uridine 5-carboxymethylaminomethyl modification enzyme [source:vb community annotation].
-
-TODO

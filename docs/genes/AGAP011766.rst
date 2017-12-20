@@ -1,9 +1,0 @@
-
-AGAP011766
-=============
-
-
-
-Description: Ethanolaminephosphotransferase [source:vb community annotation].
-
-TODO

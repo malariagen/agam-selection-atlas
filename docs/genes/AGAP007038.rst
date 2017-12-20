@@ -1,9 +1,0 @@
-
-AGAP007038
-=============
-
-
-
-Description: Krueppel-like factor 6/7 [source:vb community annotation].
-
-TODO

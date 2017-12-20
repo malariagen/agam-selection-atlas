@@ -1,9 +1,0 @@
-
-AGAP000512
-=============
-
-
-
-Description: Transcriptional enhancer factor [source:vb community annotation].
-
-TODO

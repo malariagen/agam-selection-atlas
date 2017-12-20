@@ -1,9 +1,0 @@
-
-AGAP000880
-=============
-
-
-
-Description: Suppressor of cytokine signaling, invertebrate [source:vb community annotation].
-
-TODO

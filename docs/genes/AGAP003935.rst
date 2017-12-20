@@ -1,9 +1,0 @@
-
-AGAP003935
-=============
-
-Name: **Prosalpha1**
-
-Description: 26s proteasome alpha 1 subunit [source:vb community annotation].
-
-TODO

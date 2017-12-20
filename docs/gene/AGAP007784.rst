@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007784
+=============
+
+
+
+
+
+Description: Enoyl-coa hydratase / long-chain 3-hydroxyacyl-coa dehydrogenase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007784>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

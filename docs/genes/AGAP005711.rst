@@ -1,9 +1,0 @@
-
-AGAP005711
-=============
-
-Name: **CLK**
-
-Description: Clock [source:vb community annotation].
-
-TODO

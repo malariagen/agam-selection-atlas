@@ -1,9 +1,0 @@
-
-AGAP002183
-=============
-
-
-
-Description: Signal recognition particle subunit srp68 [source:uniprotkb/trembl;acc:q7qk73].
-
-TODO

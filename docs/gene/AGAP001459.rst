@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001459
+=============
+
+
+
+Name: **RpL17**
+
+Description: 60s ribosomal protein l17 [source:uniprotkb/swiss-prot;acc:a0ngy0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001459>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

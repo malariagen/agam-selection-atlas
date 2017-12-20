@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001544
+=============
+
+
+
+
+
+Description: Tripartite motif-containing protein 37 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001544>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

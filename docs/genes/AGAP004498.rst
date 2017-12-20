@@ -1,9 +1,0 @@
-
-AGAP004498
-=============
-
-
-
-Description: Sulfotransferase (sult) [source:vb community annotation].
-
-TODO

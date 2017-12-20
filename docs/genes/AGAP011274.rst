@@ -1,9 +1,0 @@
-
-AGAP011274
-=============
-
-
-
-Description: Phosphatidylinositol glycan, class a [source:vb community annotation].
-
-TODO

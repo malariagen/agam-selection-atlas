@@ -1,9 +1,0 @@
-
-AGAP001569
-=============
-
-
-
-Description: Myosin alkali light chain 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007844
-=============
-
-
-
-Description: Aspartyl-trna synthetase [source:vb community annotation].
-
-TODO

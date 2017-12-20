@@ -1,9 +1,0 @@
-
-AGAP009132
-=============
-
-
-
-Description: Cklf-like marvel transmembrane domain-containing protein 4 [source:vb community annotation].
-
-TODO

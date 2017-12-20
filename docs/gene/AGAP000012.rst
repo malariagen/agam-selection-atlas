@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000012
+=============
+
+
+
+Name: **TTRNA1**
+
+Description: Tyrosyl-trna synthetase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000012>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

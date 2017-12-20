@@ -1,9 +1,0 @@
-
-AGAP005856
-=============
-
-
-
-Description: Nodal modulator 2 [source:vb community annotation].
-
-TODO

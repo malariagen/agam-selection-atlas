@@ -1,9 +1,0 @@
-
-AGAP009039
-=============
-
-
-
-Description: Glucose-6-phosphate 1-epimerase [source:vb community annotation].
-
-TODO

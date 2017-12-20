@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011552
+=============
+
+
+
+Name: **DEBCL**
+
+Description: Autophagy related gene debcl [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011552>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

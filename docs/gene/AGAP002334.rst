@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002334
+=============
+
+
+
+Name: **spas**
+
+Description: Spastin [source:uniprotkb/swiss-prot;acc:q7qbw0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002334>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

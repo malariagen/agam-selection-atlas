@@ -1,9 +1,0 @@
-
-AGAP012951
-=============
-
-Name: **IR41c**
-
-Description: Ionotropic receptor ir41c [source:vb community annotation].
-
-TODO

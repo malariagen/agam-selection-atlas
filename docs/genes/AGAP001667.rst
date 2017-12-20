@@ -1,9 +1,0 @@
-
-AGAP001667
-=============
-
-Name: **CPR4**
-
-Description: Cuticular protein rr-2 family 4 [source:vb community annotation].
-
-TODO

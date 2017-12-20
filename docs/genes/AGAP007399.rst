@@ -1,9 +1,0 @@
-
-AGAP007399
-=============
-
-Name: **PARN**
-
-Description: Polya-specific ribonuclease [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001704
-=============
-
-
-
-Description: Isopentenyl-diphosphate delta-isomerase [source:vb community annotation].
-
-TODO

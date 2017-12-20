@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002924
+=============
+
+
+
+
+
+Description: Protein tweety homolog [source:uniprotkb/trembl;acc:f5hkf1].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002924>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

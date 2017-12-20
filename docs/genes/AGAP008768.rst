@@ -1,9 +1,0 @@
-
-AGAP008768
-=============
-
-
-
-Description: Leucine carboxyl methyltransferase 1 protein [source:vb community annotation].
-
-TODO

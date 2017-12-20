@@ -1,9 +1,0 @@
-
-AGAP001469
-=============
-
-
-
-Description: Protein tyrosine phosphatase, receptor type, f polypeptide (ptprf) interacting protein (liprin) [source:vb community annotation].
-
-TODO

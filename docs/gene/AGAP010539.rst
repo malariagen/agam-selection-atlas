@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010539
+=============
+
+
+
+
+
+Description: Coiled-coil and c2 domain-containing protein 1-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010539>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

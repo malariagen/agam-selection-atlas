@@ -1,9 +1,0 @@
-
-AGAP012851
-=============
-
-
-
-Description: Aldo-keto reductase family 1, member c3 [source:vb community annotation].
-
-TODO

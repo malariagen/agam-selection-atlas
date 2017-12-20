@@ -1,9 +1,0 @@
-
-AGAP010392
-=============
-
-
-
-Description: Calumenin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004440
-=============
-
-
-
-Description: Spectrin beta [source:vb community annotation].
-
-TODO

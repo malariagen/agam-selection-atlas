@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004380
+=============
+
+
+
+Name: **GSTD12**
+
+Description: Glutathione s-transferase delta class 12 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004380>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

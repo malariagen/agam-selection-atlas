@@ -1,9 +1,0 @@
-
-AGAP001497
-=============
-
-Name: **ACTN**
-
-Description: Alpha-actinin, sarcomeric [source:uniprotkb/swiss-prot;acc:q7pkq5].
-
-TODO

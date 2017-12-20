@@ -1,9 +1,0 @@
-
-AGAP002400
-=============
-
-Name: **mRpL37**
-
-Description: 39s ribosomal protein l37, mitochondrial [source:vb community annotation].
-
-TODO

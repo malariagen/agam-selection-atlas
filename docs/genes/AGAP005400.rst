@@ -1,9 +1,0 @@
-
-AGAP005400
-=============
-
-
-
-Description: Four and a half lim domains [source:vb community annotation].
-
-TODO

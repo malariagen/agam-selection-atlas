@@ -1,9 +1,0 @@
-
-AGAP006027
-=============
-
-
-
-Description: Glutamate receptor, ionotropic , ampa [source:vb community annotation].
-
-TODO

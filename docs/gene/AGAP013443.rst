@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013443
+=============
+
+
+
+
+
+Description: Plasma glutamate carboxypeptidase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013443>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

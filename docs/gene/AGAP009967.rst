@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009967
+=============
+
+
+
+
+
+Description: Protein of unknown function duf938 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009967>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

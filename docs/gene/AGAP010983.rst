@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010983
+=============
+
+
+
+
+
+Description: Bag family molecular chaperone regulator 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010983>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

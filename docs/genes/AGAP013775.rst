@@ -1,9 +1,0 @@
-
-AGAP013775
-=============
-
-
-
-Description: General transcription factor iih subunit 5 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001356
+=============
+
+
+
+Name: **ACE1**
+
+Description: Acetylcholinesterase [source:uniprotkb/swiss-prot;acc:q869c3].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001356>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

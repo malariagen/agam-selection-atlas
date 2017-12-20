@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000607
+=============
+
+
+
+Name: **SG1c**
+
+Description: Salivary gland protein 1-like 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000607>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

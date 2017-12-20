@@ -1,9 +1,0 @@
-
-AGAP004521
-=============
-
-
-
-Description: Snw domain-containing protein 1 [source:vb community annotation].
-
-TODO

@@ -3,6 +3,7 @@ from __future__ import absolute_import, print_function, division
 import jinja2
 import os
 import allel
+import pandas as pd
 
 
 if __name__ == '__main__':
@@ -19,17 +20,30 @@ if __name__ == '__main__':
     )
     genes = features[features['type'] == 'gene']
 
+    signals = pd.read_csv('docs/signals.csv')
+
     for _, gene in genes.iterrows():
+
+        overlapping_signals = signals[
+            (signals.focus_arm == gene.seqid) &
+            (signals.focus_start <= gene.end) &
+            (signals.focus_stop >= gene.start)
+        ]
 
         gene_report = {
             'gene': {
                 'id': gene.ID,
                 'name': gene.Name,
                 'description': gene.description,
+                'seqid': gene.seqid,
+                'start': gene.start,
+                'end': gene.end,
             },
+            'overlapping_signals':
+                overlapping_signals.to_dict(orient='records'),
         }
 
-        out_path = os.path.join('docs', 'genes', gene.ID + '.rst')
+        out_path = os.path.join('docs', 'gene', gene.ID + '.rst')
         print('rendering', out_path)
         with open(out_path, mode='w') as f:
             print(template.render(**gene_report), file=f)

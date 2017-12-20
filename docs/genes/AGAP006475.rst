@@ -1,9 +1,0 @@
-
-AGAP006475
-=============
-
-
-
-Description: Inositol 1,4,5-triphosphate receptor type 1 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP001200
-=============
-
-
-
-Description: Glycogen debranching enzyme [source:vb community annotation].
-
-TODO

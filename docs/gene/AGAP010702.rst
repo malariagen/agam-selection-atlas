@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010702
+=============
+
+
+
+
+
+Description: Atp-dependent rna helicase ddx24/mak5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010702>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

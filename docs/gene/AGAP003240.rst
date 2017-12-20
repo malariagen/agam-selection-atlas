@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003240
+=============
+
+
+
+
+
+Description: Protein jagunal [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003240>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

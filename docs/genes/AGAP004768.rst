@@ -1,9 +1,0 @@
-
-AGAP004768
-=============
-
-
-
-Description: Periodic tryptophan protein 1 [source:vb community annotation].
-
-TODO

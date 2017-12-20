@@ -1,9 +1,0 @@
-
-AGAP010566
-=============
-
-
-
-Description: Orm1-like 3 [source:vb community annotation].
-
-TODO

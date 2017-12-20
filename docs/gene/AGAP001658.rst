@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001658
+=============
+
+
+
+
+
+Description: Beat-vi [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001658>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

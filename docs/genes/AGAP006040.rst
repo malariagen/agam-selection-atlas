@@ -1,9 +1,0 @@
-
-AGAP006040
-=============
-
-
-
-Description: Peroxisomal membrane protein 2 [source:vb community annotation].
-
-TODO

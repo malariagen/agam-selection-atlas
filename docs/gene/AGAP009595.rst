@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009595
+=============
+
+
+
+
+
+Description: Sodium/potassium-transporting atpase subunit beta [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009595>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

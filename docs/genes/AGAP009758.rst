@@ -1,9 +1,0 @@
-
-AGAP009758
-=============
-
-Name: **CPLCP11**
-
-Description: Cuticular protein cplcp11 [source:vb community annotation].
-
-TODO

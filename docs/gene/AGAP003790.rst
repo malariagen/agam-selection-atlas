@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003790
+=============
+
+
+
+Name: **ANXB9**
+
+Description: Annexin b9 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003790>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP009822
-=============
-
-
-
-Description: Dna-binding protein rfxank [source:vb community annotation].
-
-TODO

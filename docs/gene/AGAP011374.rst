@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011374
+=============
+
+
+
+
+
+Description: Ap-1 complex subunit mu [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011374>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

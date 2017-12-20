@@ -1,9 +1,0 @@
-
-AGAP010519
-=============
-
-
-
-Description: Kinesin-like protein unc-104 [source:vb community annotation].
-
-TODO

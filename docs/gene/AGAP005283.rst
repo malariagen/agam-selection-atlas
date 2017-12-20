@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005283
+=============
+
+
+
+
+
+Description: Cat eye syndrome chromosome region, candidate 1 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005283>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:13624375-13626179#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

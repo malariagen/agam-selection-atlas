@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002721
+=============
+
+
+
+
+
+Description: Tryptophan 2,3-dioxygenase [source:uniprotkb/swiss-prot;acc:o77457].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002721>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

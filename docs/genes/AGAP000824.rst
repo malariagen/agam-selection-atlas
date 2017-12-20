@@ -1,9 +1,0 @@
-
-AGAP000824
-=============
-
-
-
-Description: Bone morphogenetic protein 5 [source:vb community annotation].
-
-TODO

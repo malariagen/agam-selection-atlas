@@ -1,9 +1,0 @@
-
-AGAP004459
-=============
-
-
-
-Description: Ubiquitin-like 1-activating enzyme e1 a [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP008759
-=============
-
-Name: **IR41b**
-
-Description: Ionotropic receptor ir41b [source:vb community annotation].
-
-TODO

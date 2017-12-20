@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000672
+=============
+
+
+
+
+
+Description: Obg-like atpase 1 [source:uniprotkb/trembl;acc:q7qeg0].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000672>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

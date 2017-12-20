@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003017
+=============
+
+
+
+
+
+Description: Serine/threonine-protein phosphatase 6 catalytic subunit [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003017>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

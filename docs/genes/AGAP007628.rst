@@ -1,9 +1,0 @@
-
-AGAP007628
-=============
-
-
-
-Description: Transmembrane channel-like 3 [source:vb community annotation].
-
-TODO

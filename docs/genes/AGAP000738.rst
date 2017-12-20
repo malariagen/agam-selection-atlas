@@ -1,9 +1,0 @@
-
-AGAP000738
-=============
-
-
-
-Description: Suppressor of defective silencing 3 homolog [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP010192
-=============
-
-
-
-Description: Dedicator of cytokinesis protein 7 [source:vb community annotation].
-
-TODO

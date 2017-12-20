@@ -1,9 +1,0 @@
-
-AGAP007396
-=============
-
-
-
-Description: Epsin [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP000908
-=============
-
-
-
-Description: Dynactin 4 [source:vb community annotation].
-
-TODO

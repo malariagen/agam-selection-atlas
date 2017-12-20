@@ -1,9 +1,0 @@
-
-AGAP009974
-=============
-
-Name: **AAPP**
-
-Description: Anopheline antiplatelet protein [source:vb community annotation].
-
-TODO

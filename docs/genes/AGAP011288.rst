@@ -1,9 +1,0 @@
-
-AGAP011288
-=============
-
-
-
-Description: Diphthamide biosynthesis protein 3 [source:vb community annotation].
-
-TODO

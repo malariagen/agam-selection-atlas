@@ -1,9 +1,0 @@
-
-AGAP011295
-=============
-
-
-
-Description: Unc51-like kinase [source:vb community annotation].
-
-TODO

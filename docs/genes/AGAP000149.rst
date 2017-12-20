@@ -1,9 +1,0 @@
-
-AGAP000149
-=============
-
-
-
-Description: Ras association domain-containing protein 2/4 [source:vb community annotation].
-
-TODO

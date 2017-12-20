@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009699
+=============
+
+
+
+
+
+Description: Growth factor independent 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009699>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP002172
-=============
-
-
-
-Description: Pou domain transcription factor, class 4 [source:vb community annotation].
-
-TODO

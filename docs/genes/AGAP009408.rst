@@ -1,9 +1,0 @@
-
-AGAP009408
-=============
-
-Name: **Or14**
-
-Description: Odorant receptor 14 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009707
+=============
+
+
+
+Name: **Or71**
+
+Description: Odorant receptor 71 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009707>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001724
+=============
+
+
+
+Name: **Sply**
+
+Description: Sphingosine-1-phosphate lyase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001724>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

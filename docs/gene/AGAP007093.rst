@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007093
+=============
+
+
+
+
+
+Description: Collagen type iv alpha-3-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007093>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

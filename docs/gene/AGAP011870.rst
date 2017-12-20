@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011870
+=============
+
+
+
+Name: **MMP2**
+
+Description: Matrix metalloprotease 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011870>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006736
-=============
-
-
-
-Description: Zinc finger protein glis2 [source:vb community annotation].
-
-TODO

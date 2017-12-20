@@ -1,9 +1,0 @@
-
-AGAP012127
-=============
-
-
-
-Description: F-box protein 25/32 [source:vb community annotation].
-
-TODO

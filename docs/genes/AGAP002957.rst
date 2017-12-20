@@ -1,9 +1,0 @@
-
-AGAP002957
-=============
-
-
-
-Description: Presenilin 1 [source:vb community annotation].
-
-TODO

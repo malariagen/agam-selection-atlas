@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003080
+=============
+
+
+
+
+
+Description: Oo18 rna-binding protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003080>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

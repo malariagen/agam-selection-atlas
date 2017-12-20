@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005822
+=============
+
+
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005822>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:21865434-21867120#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007362
+=============
+
+
+
+
+
+Description: Sh3 domain-binding glutamic acid-rich-like protein 3 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007362>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

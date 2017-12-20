@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009905
+=============
+
+
+
+
+
+Description: Phd finger-like domain-containing protein 5a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009905>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

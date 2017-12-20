@@ -1,9 +1,0 @@
-
-AGAP006125
-=============
-
-
-
-Description: Density-regulated protein [source:uniprotkb/trembl;acc:q7q5z2].
-
-TODO

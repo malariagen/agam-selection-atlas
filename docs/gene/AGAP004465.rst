@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004465
+=============
+
+
+
+
+
+Description: 18s rrna (adenine1779-n6/adenine1780-n6)-dimethyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004465>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

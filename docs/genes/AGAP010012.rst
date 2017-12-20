@@ -1,9 +1,0 @@
-
-AGAP010012
-=============
-
-
-
-Description: Leucine-rich repeat and calponin-like proteiny domain-containing protein 3 [source:vb community annotation].
-
-TODO

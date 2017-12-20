@@ -1,9 +1,0 @@
-
-AGAP000402
-=============
-
-
-
-Description: Nogo-b receptor precursor [source:vb community annotation].
-
-TODO

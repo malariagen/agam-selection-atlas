@@ -1,9 +1,0 @@
-
-AGAP011536
-=============
-
-
-
-Description: Mini-chromosome maintenance complex-binding protein [source:vb community annotation].
-
-TODO

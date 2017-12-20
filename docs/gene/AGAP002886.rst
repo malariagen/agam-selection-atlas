@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002886
+=============
+
+
+
+Name: **GPRNNA2**
+
+Description: Putative gpcr class a orphan receptor 2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002886>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP006541
-=============
-
-
-
-Description: Transcriptional regulators containing a dna-binding hth domain and an aminotransferase domain transcription regulator protein [source:vb community annotation].
-
-TODO

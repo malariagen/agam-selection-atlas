@@ -1,9 +1,0 @@
-
-AGAP009619
-=============
-
-
-
-Description: S-adenosylmethionine decarboxylase proenzyme [source:uniprotkb/trembl;acc:q7q1v3].
-
-TODO

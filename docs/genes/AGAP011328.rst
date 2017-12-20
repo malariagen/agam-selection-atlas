@@ -1,9 +1,0 @@
-
-AGAP011328
-=============
-
-
-
-Description: Splicing factor 3a subunit 1 [source:vb community annotation].
-
-TODO

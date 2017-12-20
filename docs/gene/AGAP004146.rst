@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004146
+=============
+
+
+
+
+
+Description: Ras-related protein rab-1a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004146>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

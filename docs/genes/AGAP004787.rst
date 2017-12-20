@@ -1,9 +1,0 @@
-
-AGAP004787
-=============
-
-
-
-Description: Fatty acyl-coa reductase [source:uniprotkb/trembl;acc:q7q2s4].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011541
-=============
-
-
-
-Description: Ecto-nox disulfide-thiol exchanger 1 [source:vb community annotation].
-
-TODO

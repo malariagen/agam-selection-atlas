@@ -1,9 +1,0 @@
-
-AGAP028137
-=============
-
-Name: **CPLCP17**
-
-Description: Cuticular protein (putative) cplcp17 [source:vb community annotation].
-
-TODO

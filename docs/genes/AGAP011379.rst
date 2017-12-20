@@ -1,9 +1,0 @@
-
-AGAP011379
-=============
-
-Name: **GPRFZ1**
-
-Description: Frizzled receptor [source:vb community annotation].
-
-TODO

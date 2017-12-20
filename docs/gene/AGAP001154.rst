@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001154
+=============
+
+
+
+
+
+Description: Swi/snf-related matrix-associated actin-dependent regulator of chromatin [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001154>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

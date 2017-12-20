@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000331
+=============
+
+
+
+
+
+Description: Low density lipoprotein-related protein 2] [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000331>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

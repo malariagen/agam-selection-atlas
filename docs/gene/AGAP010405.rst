@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010405
+=============
+
+
+
+
+
+Description: Transcription factor maff/g/k [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010405>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

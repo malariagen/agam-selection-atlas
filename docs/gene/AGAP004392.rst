@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004392
+=============
+
+
+
+
+
+Description: Dna polymerase alpha subunit b [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004392>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

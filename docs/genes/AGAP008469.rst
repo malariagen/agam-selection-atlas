@@ -1,9 +1,0 @@
-
-AGAP008469
-=============
-
-Name: **CPLCG21**
-
-Description: Cuticular protein cplcg family (cplcg21) [source:vb community annotation].
-
-TODO

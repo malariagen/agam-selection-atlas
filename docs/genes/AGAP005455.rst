@@ -1,9 +1,0 @@
-
-AGAP005455
-=============
-
-Name: **CPR14**
-
-Description: Cuticular protein rr-1 family 14 [source:vb community annotation].
-
-TODO

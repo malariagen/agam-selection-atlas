@@ -1,9 +1,0 @@
-
-AGAP013001
-=============
-
-
-
-Description: Aminopeptidase n [source:vb community annotation].
-
-TODO

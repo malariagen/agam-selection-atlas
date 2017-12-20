@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008528
+=============
+
+
+
+
+
+Description: Pre-mrna-splicing factor atp-dependent rna helicase prp16 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008528>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

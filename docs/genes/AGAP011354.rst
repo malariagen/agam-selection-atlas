@@ -1,9 +1,0 @@
-
-AGAP011354
-=============
-
-
-
-Description: Methylglutaconyl-coa hydratase [source:vb community annotation].
-
-TODO

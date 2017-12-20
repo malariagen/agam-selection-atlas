@@ -1,9 +1,0 @@
-
-AGAP007976
-=============
-
-
-
-Description: Antennae-specific protein [source:vb community annotation].
-
-TODO

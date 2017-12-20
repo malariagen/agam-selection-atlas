@@ -1,9 +1,0 @@
-
-AGAP009261
-=============
-
-
-
-Description: Rap guanine nucleotide exchange factor (gef) 2 [source:vb community annotation].
-
-TODO

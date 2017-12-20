@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001805
+=============
+
+
+
+Name: **RpL13**
+
+Description: 60s ribosomal protein l13 [source:uniprotkb/trembl;acc:q7puq7].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001805>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

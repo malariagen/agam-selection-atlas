@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011845
+=============
+
+
+
+
+
+Description: Histone h2a [source:uniprotkb/trembl;acc:q7pzc9].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011845>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

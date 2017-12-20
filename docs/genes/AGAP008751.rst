@@ -1,9 +1,0 @@
-
-AGAP008751
-=============
-
-
-
-Description: Tripartite motif-containing protein 9 [source:vb community annotation].
-
-TODO

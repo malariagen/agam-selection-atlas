@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013015
+=============
+
+
+
+
+
+Description: P53 and dna damage-regulated protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013015>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

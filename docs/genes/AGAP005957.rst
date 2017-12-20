@@ -1,9 +1,0 @@
-
-AGAP005957
-=============
-
-
-
-Description: Ribonuclease p/mrp protein subunit pop5 [source:uniprotkb/trembl;acc:q7q699].
-
-TODO

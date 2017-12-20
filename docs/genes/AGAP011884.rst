@@ -1,9 +1,0 @@
-
-AGAP011884
-=============
-
-
-
-Description: Nucleolar protein 4 [source:vb community annotation].
-
-TODO

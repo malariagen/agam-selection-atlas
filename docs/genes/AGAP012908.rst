@@ -1,9 +1,0 @@
-
-AGAP012908
-=============
-
-
-
-Description: Dehydrodolichyl diphosphate synthase [source:vb community annotation].
-
-TODO

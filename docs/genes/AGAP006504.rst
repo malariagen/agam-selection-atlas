@@ -1,9 +1,0 @@
-
-AGAP006504
-=============
-
-Name: **SG2b**
-
-Description: Salivary gland protein 2-like [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP005644
-=============
-
-
-
-Description: Neurotactin [source:vb community annotation].
-
-TODO

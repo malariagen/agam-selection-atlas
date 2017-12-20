@@ -1,9 +1,0 @@
-
-AGAP004581
-=============
-
-
-
-Description: Heat shock protein 70kda [source:vb community annotation].
-
-TODO

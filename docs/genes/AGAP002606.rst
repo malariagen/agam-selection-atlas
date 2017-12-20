@@ -1,9 +1,0 @@
-
-AGAP002606
-=============
-
-
-
-Description: 26s proteasome regulatory subunit n12 [source:vb community annotation].
-
-TODO

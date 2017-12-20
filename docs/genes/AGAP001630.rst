@@ -1,9 +1,0 @@
-
-AGAP001630
-=============
-
-Name: **Tpi**
-
-Description: Triosephosphate isomerase [source:uniprotkb/trembl;acc:q7pxw5].
-
-TODO

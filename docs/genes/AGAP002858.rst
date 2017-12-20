@@ -1,9 +1,0 @@
-
-AGAP002858
-=============
-
-
-
-Description: Sodium/potassium-transporting atpase subunit alpha [source:uniprotkb/trembl;acc:f5hkj1].
-
-TODO

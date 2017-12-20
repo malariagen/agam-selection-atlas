@@ -1,9 +1,0 @@
-
-AGAP002711
-=============
-
-
-
-Description: Stardust, isoform b [source:vb community annotation].
-
-TODO

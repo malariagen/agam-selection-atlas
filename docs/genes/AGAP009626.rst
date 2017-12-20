@@ -1,9 +1,0 @@
-
-AGAP009626
-=============
-
-
-
-Description: Kv channel-interacting protein 4 isoform 2 [source:vb community annotation].
-
-TODO

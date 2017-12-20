@@ -1,9 +1,0 @@
-
-AGAP006974
-=============
-
-Name: **TOLL9**
-
-Description: Toll-like receptor 9 [source:vb community annotation].
-
-TODO

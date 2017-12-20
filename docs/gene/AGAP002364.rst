@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002364
+=============
+
+
+
+
+
+Description: Micos complex subunit mic60 [source:uniprotkb/trembl;acc:f5hk71].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002364>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

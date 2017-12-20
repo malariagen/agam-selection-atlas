@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011357
+=============
+
+
+
+
+
+Description: All-trans/9-cis/11-cis [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011357>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

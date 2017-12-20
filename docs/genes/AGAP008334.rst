@@ -1,9 +1,0 @@
-
-AGAP008334
-=============
-
-
-
-Description: Nuclear receptor subfamily 4 group a member 2 [source:vb community annotation].
-
-TODO

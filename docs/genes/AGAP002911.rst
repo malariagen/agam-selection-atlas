@@ -1,9 +1,0 @@
-
-AGAP002911
-=============
-
-Name: **CTLMA9**
-
-Description: C-type lectin (ctl) - mannose binding [source:vb community annotation].
-
-TODO

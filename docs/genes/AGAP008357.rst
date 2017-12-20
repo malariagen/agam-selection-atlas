@@ -1,9 +1,0 @@
-
-AGAP008357
-=============
-
-
-
-Description: Kinesin family member 26 [source:vb community annotation].
-
-TODO

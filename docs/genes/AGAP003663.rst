@@ -1,9 +1,0 @@
-
-AGAP003663
-=============
-
-
-
-Description: Atp-dependent rna helicase dbp2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP004142
-=============
-
-
-
-Description: Aspartate aminotransferase, cytoplasmic [source:vb community annotation].
-
-TODO

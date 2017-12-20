@@ -1,9 +1,0 @@
-
-AGAP001773
-=============
-
-Name: **GPRALS2**
-
-Description: Putative allatostatin receptor 2 [source:vb community annotation].
-
-TODO

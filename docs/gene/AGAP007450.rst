@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007450
+=============
+
+
+
+
+
+Description: Hairy and enhancer of split related with yrpw motif [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007450>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

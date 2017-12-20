@@ -1,9 +1,0 @@
-
-AGAP005092
-=============
-
-
-
-Description: 40s ribosomal protein s25 [source:vb community annotation].
-
-TODO

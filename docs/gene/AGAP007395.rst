@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007395
+=============
+
+
+
+
+
+Description: Dis3-like exonuclease 2 [source:uniprotkb/trembl;acc:q7qjb5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007395>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

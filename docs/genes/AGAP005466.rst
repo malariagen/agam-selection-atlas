@@ -1,9 +1,0 @@
-
-AGAP005466
-=============
-
-Name: **IR75l**
-
-Description: Ionotropic receptor ir75l [source:vb community annotation].
-
-TODO

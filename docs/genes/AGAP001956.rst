@@ -1,9 +1,0 @@
-
-AGAP001956
-=============
-
-
-
-Description: Niemann-pick type c-2 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP011170
-=============
-
-
-
-Description: U3 small nucleolar rna-associated protein 25 [source:vb community annotation].
-
-TODO

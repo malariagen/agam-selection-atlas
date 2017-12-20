@@ -1,9 +1,0 @@
-
-AGAP010828
-=============
-
-Name: **CASPS9**
-
-Description: Short caspase 9 [source:vb community annotation].
-
-TODO

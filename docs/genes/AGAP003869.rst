@@ -1,9 +1,0 @@
-
-AGAP003869
-=============
-
-
-
-Description: Cytosol aminopeptidase [source:vb community annotation].
-
-TODO

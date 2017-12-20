@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000679
+=============
+
+
+
+
+
+Description: Aminoacylase [source:uniprotkb/trembl;acc:q7qef5].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000679>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

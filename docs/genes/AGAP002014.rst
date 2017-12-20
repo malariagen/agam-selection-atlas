@@ -1,9 +1,0 @@
-
-AGAP002014
-=============
-
-
-
-Description: Leucyl-trna synthetase [source:vb community annotation].
-
-TODO

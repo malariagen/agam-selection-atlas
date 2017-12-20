@@ -1,9 +1,0 @@
-
-AGAP000933
-=============
-
-Name: **APG10**
-
-Description: Autophagy related gene [source:vb community annotation].
-
-TODO

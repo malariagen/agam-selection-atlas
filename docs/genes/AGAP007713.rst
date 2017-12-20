@@ -1,9 +1,0 @@
-
-AGAP007713
-=============
-
-
-
-Description: Solute carrier family 39 (zinc transporter), member 11 [source:vb community annotation].
-
-TODO

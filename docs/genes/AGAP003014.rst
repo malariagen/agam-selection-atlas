@@ -1,9 +1,0 @@
-
-AGAP003014
-=============
-
-
-
-Description: Fasciculation and elongation protein zeta 2 (zygin ii) [source:vb community annotation].
-
-TODO

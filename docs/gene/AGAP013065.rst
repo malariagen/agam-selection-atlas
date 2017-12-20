@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013065
+=============
+
+
+
+
+
+Description: Tal-like protein aa [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013065>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

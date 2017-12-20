@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001944
+=============
+
+
+
+
+
+Description: F-box and wd-40 domain protein 1/11 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001944>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

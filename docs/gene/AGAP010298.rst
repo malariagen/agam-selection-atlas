@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010298
+=============
+
+
+
+
+
+Description: V-type h -transporting atpase subunit d [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010298>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

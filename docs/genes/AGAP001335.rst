@@ -1,9 +1,0 @@
-
-AGAP001335
-=============
-
-
-
-Description: Dynein light chain lc8-type [source:vb community annotation].
-
-TODO

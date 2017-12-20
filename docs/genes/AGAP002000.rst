@@ -1,9 +1,0 @@
-
-AGAP002000
-=============
-
-
-
-Description: Kv channel-interacting protein [source:vb community annotation].
-
-TODO

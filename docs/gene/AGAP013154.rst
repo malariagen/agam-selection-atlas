@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013154
+=============
+
+
+
+Name: **IR7h.1**
+
+Description: Ionotropic receptor ir7h.1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013154>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

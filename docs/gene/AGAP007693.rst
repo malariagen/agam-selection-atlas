@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007693
+=============
+
+
+
+Name: **SRPN7**
+
+Description: Serine protease inhibitor (serpin) 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007693>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

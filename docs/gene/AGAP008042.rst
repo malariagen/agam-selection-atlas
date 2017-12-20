@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008042
+=============
+
+
+
+
+
+Description: Pyridine nucleotide-disulfide oxidoreductase domain 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008042>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

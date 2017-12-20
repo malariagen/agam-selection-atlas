@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000457
+=============
+
+
+
+
+
+Description: Protein-l-isoaspartate(d-aspartate) o-methyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000457>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

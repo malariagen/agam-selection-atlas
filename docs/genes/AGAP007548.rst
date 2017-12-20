@@ -1,9 +1,0 @@
-
-AGAP007548
-=============
-
-Name: **GPROP10**
-
-Description: Rh7-like sensitivity opsin [source:vb community annotation].
-
-TODO

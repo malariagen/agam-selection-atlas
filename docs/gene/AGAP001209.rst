@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP001209
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 6/32 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001209>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

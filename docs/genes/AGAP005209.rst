@@ -1,9 +1,0 @@
-
-AGAP005209
-=============
-
-
-
-Description: Uridine kinase [source:uniprotkb/trembl;acc:q5tsq7].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP007662
+=============
+
+
+
+
+
+Description: All-trans/9-cis [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007662>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

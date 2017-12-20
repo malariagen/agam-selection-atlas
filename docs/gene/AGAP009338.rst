@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009338
+=============
+
+
+
+
+
+Description: Cell division cycle 20, cofactor of apc complex [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009338>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

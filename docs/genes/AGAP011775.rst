@@ -1,9 +1,0 @@
-
-AGAP011775
-=============
-
-
-
-Description: Phd finger protein 7 [source:vb community annotation].
-
-TODO

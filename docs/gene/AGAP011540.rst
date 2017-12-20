@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011540
+=============
+
+
+
+
+
+Description: Dynein intermediate chain 2, axonemal [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011540>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

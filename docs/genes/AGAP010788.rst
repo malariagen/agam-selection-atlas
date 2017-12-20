@@ -1,9 +1,0 @@
-
-AGAP010788
-=============
-
-
-
-Description: Fatty acyl-coa reductase 1 [source:vb community annotation].
-
-TODO

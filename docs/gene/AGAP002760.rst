@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002760
+=============
+
+
+
+
+
+Description: Topoisomerase (dna) ii binding protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002760>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP008766
-=============
-
-
-
-Description: Aquaporin [source:vb community annotation].
-
-TODO

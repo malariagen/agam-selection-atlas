@@ -1,9 +1,0 @@
-
-AGAP007884
-=============
-
-
-
-Description: Protein dpy-30 [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011444
+=============
+
+
+
+
+
+Description: 20s proteasome subunit beta 7 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011444>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

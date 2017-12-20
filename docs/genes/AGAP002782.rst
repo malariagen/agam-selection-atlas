@@ -1,9 +1,0 @@
-
-AGAP002782
-=============
-
-
-
-Description: Nuclear autoantigenic sperm protein [source:vb community annotation].
-
-TODO

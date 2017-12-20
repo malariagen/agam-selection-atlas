@@ -1,9 +1,0 @@
-
-AGAP005904
-=============
-
-
-
-Description: Guanine nucleotide-binding protein g(i) subunit alpha [source:vb community annotation].
-
-TODO

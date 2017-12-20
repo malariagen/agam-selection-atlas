@@ -1,9 +1,0 @@
-
-AGAP003715
-=============
-
-
-
-Description: Cyclin g-associated kinase [source:vb community annotation].
-
-TODO

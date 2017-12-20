@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010218
+=============
+
+
+
+
+
+Description: Lkb1 interacting protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010218>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

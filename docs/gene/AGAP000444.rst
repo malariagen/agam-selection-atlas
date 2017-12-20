@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000444
+=============
+
+
+
+Name: **Ciao1**
+
+Description: Cytosolic iron-sulfur protein assembly protein [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000444>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

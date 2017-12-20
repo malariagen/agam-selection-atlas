@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004164
+=============
+
+
+
+Name: **GSTD1-4**
+
+Description: Glutathione s-transferase delta class 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004164>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

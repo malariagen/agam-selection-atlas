@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002073
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase rnf1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002073>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

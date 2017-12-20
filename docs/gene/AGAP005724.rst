@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP005724
+=============
+
+
+
+
+
+Description: Lipoma hmgic fusion partner-like protein 4 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005724>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:19628473-19649154#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

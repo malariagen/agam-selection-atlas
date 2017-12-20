@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP004291
+=============
+
+
+
+
+
+Description: Protein phosphatase 1d (formerly 2c) [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004291>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

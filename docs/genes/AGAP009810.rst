@@ -1,9 +1,0 @@
-
-AGAP009810
-=============
-
-
-
-Description: Peptidyl-prolyl isomerase e (cyclophilin e) [source:vb community annotation].
-
-TODO

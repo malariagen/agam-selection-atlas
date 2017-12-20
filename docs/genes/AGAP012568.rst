@@ -1,9 +1,0 @@
-
-AGAP012568
-=============
-
-
-
-Description: Galactokinase [source:vb community annotation].
-
-TODO

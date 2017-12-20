@@ -1,9 +1,0 @@
-
-AGAP002513
-=============
-
-
-
-Description: Defective in cullin neddylation protein [source:uniprotkb/trembl;acc:q7pgi3].
-
-TODO

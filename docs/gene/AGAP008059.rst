@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP008059
+=============
+
+
+
+Name: **CSP1**
+
+Description: Chemosensory protein 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008059>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP007775
-=============
-
-
-
-Description: Atp-dependent dna helicase pif1 [source:uniprotkb/trembl;acc:q7q395].
-
-TODO

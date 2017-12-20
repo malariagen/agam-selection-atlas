@@ -1,9 +1,0 @@
-
-AGAP012186
-=============
-
-
-
-Description: Lipoyltransferase 1 [source:vb community annotation].
-
-TODO

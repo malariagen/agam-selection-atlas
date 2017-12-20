@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP006880
+=============
+
+
+
+
+
+Description: Protein lmbr1l [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006880>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

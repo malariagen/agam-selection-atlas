@@ -1,9 +1,0 @@
-
-AGAP001682
-=============
-
-
-
-Description: Mitochondrial inner membrane protease subunit 1 [source:uniprotkb/trembl;acc:q4jsb3].
-
-TODO

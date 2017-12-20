@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009179
+=============
+
+
+
+
+
+Description: Nucleolar protein 6 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009179>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

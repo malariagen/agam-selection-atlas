@@ -1,9 +1,0 @@
-
-AGAP002477
-=============
-
-
-
-Description: Single-stranded dna-binding protein, mitochondrial [source:vb community annotation].
-
-TODO

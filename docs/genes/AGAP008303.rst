@@ -1,9 +1,0 @@
-
-AGAP008303
-=============
-
-
-
-Description: Splicing factor, arginine/serine-rich 7 [source:vb community annotation].
-
-TODO

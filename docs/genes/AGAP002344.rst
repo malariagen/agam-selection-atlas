@@ -1,9 +1,0 @@
-
-AGAP002344
-=============
-
-
-
-Description: Brain tumor protein [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP006031
-=============
-
-
-
-Description: Nuclear pore complex protein nup54 [source:vb community annotation].
-
-TODO

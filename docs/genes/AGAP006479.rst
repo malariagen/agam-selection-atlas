@@ -1,9 +1,0 @@
-
-AGAP006479
-=============
-
-
-
-Description: Myosin v [source:vb community annotation].
-
-TODO

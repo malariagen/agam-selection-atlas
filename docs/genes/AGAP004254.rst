@@ -1,9 +1,0 @@
-
-AGAP004254
-=============
-
-
-
-Description: Transcription initiation factor tfiid subunit 6 [source:vb community annotation].
-
-TODO

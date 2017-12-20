@@ -1,9 +1,0 @@
-
-AGAP008494
-=============
-
-
-
-Description: Signal transducing adaptor molecule [source:vb community annotation].
-
-TODO

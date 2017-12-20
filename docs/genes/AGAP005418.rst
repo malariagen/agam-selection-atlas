@@ -1,9 +1,0 @@
-
-AGAP005418
-=============
-
-
-
-Description: Aminoacyl trna synthase complex-interacting multifunctional protein 2 [source:vb community annotation].
-
-TODO

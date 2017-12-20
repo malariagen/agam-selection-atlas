@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP009740
+=============
+
+
+
+
+
+Description: Trna (guanine26-n2/guanine27-n2)-dimethyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009740>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

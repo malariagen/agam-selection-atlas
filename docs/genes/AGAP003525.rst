@@ -1,9 +1,0 @@
-
-AGAP003525
-=============
-
-
-
-Description: Ccr4-not transcription complex, subunit 2 [source:vb community annotation].
-
-TODO

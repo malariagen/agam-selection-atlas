@@ -1,9 +1,0 @@
-
-AGAP000392
-=============
-
-
-
-Description: Synaptobrevin homolog ykt6 [source:vb community annotation].
-
-TODO

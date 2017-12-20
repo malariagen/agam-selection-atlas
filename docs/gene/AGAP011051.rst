@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP011051
+=============
+
+
+
+
+
+Description: Aldehyde reductase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011051>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

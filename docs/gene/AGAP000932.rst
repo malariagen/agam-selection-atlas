@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000932
+=============
+
+
+
+
+
+Description: Rap guanine nucleotide exchange factor (gef) 1 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000932>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

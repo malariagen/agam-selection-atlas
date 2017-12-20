@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013488
+=============
+
+
+
+
+
+Description: Trafficking protein particle complex 2-like [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013488>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

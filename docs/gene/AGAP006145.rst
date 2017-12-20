@@ -1,0 +1,23 @@
+:orphan:
+
+AGAP006145
+=============
+
+
+
+Name: **CPLCA1**
+
+Description: Cuticular protein 1 in cplca family [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006145>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:27150726-27151310#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

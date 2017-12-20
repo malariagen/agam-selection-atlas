@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000053
+=============
+
+
+
+
+
+Description: Mannose-6-phosphate isomerase [source:uniprotkb/trembl;acc:q7qel8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000053>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

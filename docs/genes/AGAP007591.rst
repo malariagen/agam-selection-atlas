@@ -1,9 +1,0 @@
-
-AGAP007591
-=============
-
-
-
-Description: Trna-splicing endonuclease subunit sen15 [source:vb community annotation].
-
-TODO

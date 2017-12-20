@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010857
+=============
+
+
+
+
+
+Description: Sodium-dependent nutrient amino acid transporter 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010857>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

@@ -1,9 +1,0 @@
-
-AGAP005053
-=============
-
-
-
-Description: E3 ubiquitin-protein ligase lrsam1 [source:vb community annotation].
-
-TODO

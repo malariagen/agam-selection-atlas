@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013439
+=============
+
+
+
+
+
+Description: Serine/threonine-protein kinase sik [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013439>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

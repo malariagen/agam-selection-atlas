@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000357
+=============
+
+
+
+
+
+Description: E3 ubiquitin-protein ligase znrf1/2 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000357>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

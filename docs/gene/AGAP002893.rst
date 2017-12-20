@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002893
+=============
+
+
+
+Name: **mRpS23**
+
+Description: 28s ribosomal protein s23, mitochondrial [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002893>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

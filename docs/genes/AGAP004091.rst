@@ -1,9 +1,0 @@
-
-AGAP004091
-=============
-
-Name: **mRpS5**
-
-Description: 28s ribosomal protein s5, mitochondrial [source:vb community annotation].
-
-TODO

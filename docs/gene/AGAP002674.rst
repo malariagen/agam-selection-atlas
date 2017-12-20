@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002674
+=============
+
+
+
+
+
+Description: Dolichyl-phosphate-mannose-protein mannosyltransferase [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002674>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

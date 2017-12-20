@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP003861
+=============
+
+
+
+
+
+Description: Peptide deformylase [source:uniprotkb/trembl;acc:q7qfs8].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003861>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

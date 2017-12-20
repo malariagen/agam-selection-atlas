@@ -1,9 +1,0 @@
-
-AGAP009179
-=============
-
-
-
-Description: Nucleolar protein 6 [source:vb community annotation].
-
-TODO

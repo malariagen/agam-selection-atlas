@@ -1,9 +1,0 @@
-
-AGAP010478
-=============
-
-
-
-Description: Protein crossbronx homolog [source:uniprotkb/swiss-prot;acc:q7prh1].
-
-TODO

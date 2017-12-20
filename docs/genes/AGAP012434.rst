@@ -1,9 +1,0 @@
-
-AGAP012434
-=============
-
-
-
-Description: Voltage-dependent calcium channel alpha 1, invertebrate [source:vb community annotation].
-
-TODO

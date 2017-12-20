@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP002900
+=============
+
+
+
+
+
+Description: Ubiquitin carboxyl-terminal hydrolase 8 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002900>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

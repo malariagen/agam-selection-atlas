@@ -1,9 +1,0 @@
-
-AGAP002357
-=============
-
-
-
-Description: Vesicle transport protein got1b [source:vb community annotation].
-
-TODO

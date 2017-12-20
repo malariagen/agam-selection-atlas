@@ -1,9 +1,0 @@
-
-AGAP009202
-=============
-
-
-
-Description: Selenoprotein t [source:vb community annotation].
-
-TODO

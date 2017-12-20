@@ -1,9 +1,0 @@
-
-AGAP002597
-=============
-
-
-
-Description: Proteasome activator subunit 4 [source:vb community annotation].
-
-TODO

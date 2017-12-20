@@ -1,9 +1,0 @@
-
-AGAP005365
-=============
-
-
-
-Description: Ribosome biogenesis protein brx1 [source:vb community annotation].
-
-TODO

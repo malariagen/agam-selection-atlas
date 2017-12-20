@@ -1,9 +1,0 @@
-
-AGAP009007
-=============
-
-Name: **GPRNNB1**
-
-Description: Putative gpcr class b orphan receptor 1 [source:vb community annotation].
-
-TODO

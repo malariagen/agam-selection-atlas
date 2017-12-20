@@ -1,9 +1,0 @@
-
-AGAP006949
-=============
-
-
-
-Description: Afg3 family protein [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP013742
+=============
+
+
+
+
+
+Description: 40s ribosomal protein s27a [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013742>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

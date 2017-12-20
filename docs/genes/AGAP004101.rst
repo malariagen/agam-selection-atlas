@@ -1,9 +1,0 @@
-
-AGAP004101
-=============
-
-Name: **Dnmt2**
-
-Description: Dna methyltransferase 2 [source:vb community annotation].
-
-TODO

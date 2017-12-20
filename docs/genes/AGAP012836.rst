@@ -1,9 +1,0 @@
-
-AGAP012836
-=============
-
-
-
-Description: Trna (cytosine38-c5)-methyltransferase [source:vb community annotation].
-
-TODO

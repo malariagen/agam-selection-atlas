@@ -1,9 +1,0 @@
-
-AGAP008798
-=============
-
-
-
-Description: Guanine nucleotide exchange factor mss4 [source:vb community annotation].
-
-TODO

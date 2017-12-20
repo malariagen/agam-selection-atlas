@@ -1,9 +1,0 @@
-
-AGAP009203
-=============
-
-
-
-Description: Spry domain-containing socs box protein 3 [source:vb community annotation].
-
-TODO

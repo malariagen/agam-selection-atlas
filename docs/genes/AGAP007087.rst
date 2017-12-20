@@ -1,9 +1,0 @@
-
-AGAP007087
-=============
-
-Name: **RpL41**
-
-Description: 60s ribosomal protein l41 [source:uniprotkb/trembl;acc:q52p89].
-
-TODO

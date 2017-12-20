@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP010837
+=============
+
+
+
+
+
+Description: Mitogen-activated protein kinase kinase kinase kinase 5 [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010837>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+

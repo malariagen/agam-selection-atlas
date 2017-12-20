@@ -1,9 +1,0 @@
-
-AGAP001218
-=============
-
-
-
-Description: Tubulin alpha-4a chain [source:vb community annotation].
-
-TODO

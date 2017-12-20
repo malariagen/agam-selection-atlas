@@ -1,9 +1,0 @@
-
-AGAP005697
-=============
-
-Name: **CPTC3**
-
-Description: Cuticular protein from two-cysteine family 3 [source:vb community annotation].
-
-TODO

@@ -1,9 +1,0 @@
-
-AGAP007706
-=============
-
-
-
-Description: Kinesin family member 20/23 [source:vb community annotation].
-
-TODO

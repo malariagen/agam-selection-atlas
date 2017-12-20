@@ -1,9 +1,0 @@
-
-AGAP006569
-=============
-
-
-
-Description: Acetyl-coa synthetase [source:vb community annotation].
-
-TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+AGAP000692
+=============
+
+
+
+Name: **CEC2**
+
+Description: Cecropin anti-microbial peptide [source:vb community annotation].
+
+External links:
+* `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000692>`_
+
+Overlapping signals
+-------------------
+
+
+
+No signals.
+
+
