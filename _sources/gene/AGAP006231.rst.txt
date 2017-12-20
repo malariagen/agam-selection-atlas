@@ -1,0 +1,42 @@
+:orphan:
+
+AGAP006231
+=============
+
+
+
+
+
+Description: Serine/threonine-protein phosphatase dullard homolog [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006231>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:28554773-28560186#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFS/chr2/2/index`,":28500001-28620000",1077
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+No signals.
+
+

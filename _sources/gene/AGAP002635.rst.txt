@@ -1,0 +1,42 @@
+:orphan:
+
+AGAP002635
+=============
+
+
+
+Name: **Gr13**
+
+Description: Gustatory receptor 13 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002635>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:24811173-24812613#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFM/chr2/5/index`,":24820001-24860000",247
+    
+
+

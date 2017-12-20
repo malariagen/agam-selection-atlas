@@ -1,0 +1,52 @@
+:orphan:
+
+AGAP004718
+=============
+
+
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004718>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:2687938-2714108#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/BFM/chr2/1/index`,":2500001-2900000",1736
+    :doc:`/signal/H12/BFS/chr2/1/index`,":2420001-2720000",1728
+    :doc:`/signal/H12/GNS/chr2/1/index`,":1720001-2700000",1554
+    :doc:`/signal/H12/UGS/chr2/2/index`,":1940001-3080000",1332
+    :doc:`/signal/H12/CMS/chr2/2/index`,":2460001-2960000",635
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/GAS/chr2/2/index`,":2600001-2640000",321
+    
+
+

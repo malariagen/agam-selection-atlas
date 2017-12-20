@@ -1,0 +1,42 @@
+:orphan:
+
+AGAP006440
+=============
+
+
+
+Name: **IR136**
+
+Description: Ionotropic receptor ir136 [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006440>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:31954985-31960962#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`/signal/H12/GWA/chr2/1/index`,":31920001-31960000",362
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+No signals.
+
+

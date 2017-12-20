@@ -1,0 +1,36 @@
+:orphan:
+
+AGAP005098
+=============
+
+
+
+
+
+Description: F-type h -transporting atpase subunit epsilon [source:vb community annotation].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005098>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:10059627-10059806#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+No signals.
+
+

@@ -1,0 +1,36 @@
+:orphan:
+
+AGAP004642
+=============
+
+
+
+Name: **NPF**
+
+Description: Neuropeptide f [source:uniprotkb/swiss-prot;acc:q7q7r8].
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004642>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:58869335-58892774#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+No signals.
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+No signals.
+
+
