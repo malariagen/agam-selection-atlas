@@ -8,8 +8,8 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #9
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 28,740,001 and
-29,160,000**.
+2R between position 28,740,001 and
+29,160,000.
 
 
 
@@ -18,7 +18,7 @@ The following 34 genes overlap the focal region: :doc:`/gene/AGAP002886` (GPRNNA
 
 
 
-Gene :doc:`/gene/AGAP002909` (Control protein HCTL029) is within 40 kbp of the focal region.
+Gene :doc:`/gene/AGAP002909` (Control protein HCTL029) is within 50 kbp of the focal region.
 
 
 

@@ -8,8 +8,8 @@ Gabon *An. gambiae* | H12 | Chromosome X | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/GAS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**X between position 9,160,001 and
-9,200,000**.
+X between position 9,160,001 and
+9,200,000.
 
 
 No genes overlap the focal region.
@@ -19,7 +19,7 @@ No genes overlap the focal region.
 
 
 
-The following 3 genes are within 40 kbp of the focal
+The following 3 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP000515` (enhancer of rudimentary protein),  :doc:`/gene/AGAP000516` (enhancer of rudimentary protein),  :doc:`/gene/AGAP000519` (diacylglycerol kinase (ATP dependent)).
 
 
@@ -45,7 +45,7 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFS/chrX/2/index`,":9180001-9260000",504
+    :doc:`/signal/H12/BFS/chrX/2/index`,"X:9,180,001-9,260,000",504
     
 
 

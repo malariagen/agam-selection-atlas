@@ -8,8 +8,8 @@ Cameroon *An. gambiae* | H12 | Chromosome 2 | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/CMS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 40,620,001 and
-41,020,000**.
+2R between position 40,620,001 and
+41,020,000.
 
 
 
@@ -19,7 +19,7 @@ The following 29 genes overlap the focal region: :doc:`/gene/AGAP003623` (long-c
 
 
 
-The following 9 genes are within 40 kbp of the focal
+The following 9 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP003618` (serine/threonine-protein kinase LATS1/2),  :doc:`/gene/AGAP003619` (transcription elongation factor SPT6),  :doc:`/gene/AGAP003620`,  :doc:`/gene/AGAP003621` (coiled-coil domain-containing protein 25),  :doc:`/gene/AGAP003622` (Queuine tRNA-ribosyltransferase catalytic subunit 1),  :doc:`/gene/AGAP012992`,  :doc:`/gene/AGAP013502`,  :doc:`/gene/AGAP003652` (aldehyde dehydrogenase (NAD )),  :doc:`/gene/AGAP003654` (GPRCAL3 - putative calcitonin receptor 3).
 
 
@@ -45,8 +45,8 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFM/chr2/3/index`,":40880001-40980000",512
-    :doc:`/signal/H12/BFS/chr2/4/index`,":40800001-41020000",469
+    :doc:`/signal/H12/BFM/chr2/3/index`,"2R:40,880,001-40,980,000",512
+    :doc:`/signal/H12/BFS/chr2/4/index`,"2R:40,800,001-41,020,000",469
     
 
 

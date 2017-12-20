@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 28,420,001 and
-28,520,000**.
+2R between position 28,420,001 and
+28,520,000.
 
 
 
@@ -19,7 +19,7 @@ The following 12 genes overlap the focal region: :doc:`/gene/AGAP002859` (solute
 
 
 
-The following 7 genes are within 40 kbp of the focal
+The following 7 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP002858` (Sodium/potassium-transporting ATPase subunit alpha),  :doc:`/gene/AGAP000586`,  :doc:`/gene/AGAP002872` (lipase),  :doc:`/gene/AGAP002873`,  :doc:`/gene/AGAP013069`,  :doc:`/gene/AGAP002874`,  :doc:`/gene/AGAP002875` (protein HEXIM1/2).
 
 
@@ -45,10 +45,10 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/CMS/chr2/1/index`,":28400001-28460000",1231
-    :doc:`/signal/H12/GNS/chr2/2/index`,":28420001-28540000",1069
-    :doc:`/signal/H12/BFS/chr2/3/index`,":28440001-28520000",965
-    :doc:`/signal/H12/BFM/chr2/4/index`,":28380001-28500000",442
+    :doc:`/signal/H12/CMS/chr2/1/index`,"2R:28,400,001-28,460,000",1231
+    :doc:`/signal/H12/GNS/chr2/2/index`,"2R:28,420,001-28,540,000",1069
+    :doc:`/signal/H12/BFS/chr2/3/index`,"2R:28,440,001-28,520,000",965
+    :doc:`/signal/H12/BFM/chr2/4/index`,"2R:28,380,001-28,500,000",442
     
 
 

@@ -8,8 +8,8 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #7
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 28,640,001 and
-28,980,000**.
+2L between position 28,640,001 and
+28,980,000.
 
 
 
@@ -19,7 +19,7 @@ The following 20 genes overlap the focal region: :doc:`/gene/AGAP006254` (polype
 
 
 
-The following 14 genes are within 40 kbp of the focal
+The following 14 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP006243` (phosphatidylinositol-4,5-bisphosphate 4-phosphatase),  :doc:`/gene/AGAP029069`,  :doc:`/gene/AGAP006244` (CTL-like protein 1),  :doc:`/gene/AGAP006245` (zinc finger matrin-type protein 2),  :doc:`/gene/AGAP006246` (Sorcin),  :doc:`/gene/AGAP006247` (Survival of motor neuron-related-splicing factor 30),  :doc:`/gene/AGAP006248` (Med10 - Mediator of RNA polymerase II transcription subunit 10),  :doc:`/gene/AGAP006249` (solute carrier family 12 (potassium/chloride transporters), member 8),  :doc:`/gene/AGAP006250` (eukaryotic elongation factor, selenocysteine-tRNA-specific),  :doc:`/gene/AGAP006251` (syntaxin 6),  :doc:`/gene/AGAP006252` (Cysteine-rich venom protein),  :doc:`/gene/AGAP006253` (Cysteine-rich venom protein),  :doc:`/gene/AGAP006272`,  :doc:`/gene/AGAP006273` (ABCB3 - ATP-binding cassette transporter (ABC transporter) family B member 3).
 
 
@@ -45,7 +45,7 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/GNS/chr2/3/index`,":28740001-28840000",352
+    :doc:`/signal/H12/GNS/chr2/3/index`,"2L:28,740,001-28,840,000",352
     
 
 

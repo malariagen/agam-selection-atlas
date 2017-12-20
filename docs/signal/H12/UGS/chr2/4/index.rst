@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #4
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 8,600,001 and
-8,780,000**.
+2L between position 8,600,001 and
+8,780,000.
 
 
 
@@ -19,7 +19,7 @@ The following 13 genes overlap the focal region: :doc:`/gene/AGAP005031` (E3 SUM
 
 
 
-The following 13 genes are within 40 kbp of the focal
+The following 13 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP005029` (serine-threonine kinase receptor-associated protein),  :doc:`/gene/AGAP005030`,  :doc:`/gene/AGAP005044`,  :doc:`/gene/AGAP005045`,  :doc:`/gene/AGAP005046` (RpL22 - 60S ribosomal protein L22),  :doc:`/gene/AGAP005047` (Gr43 - gustatory receptor 43),  :doc:`/gene/AGAP028210` (SRPN13 - serine protease inhibitor (serpin) 13),  :doc:`/gene/AGAP005048` (anaphase-promoting complex subunit 2),  :doc:`/gene/AGAP005049` (coiled-coil domain-containing protein 53),  :doc:`/gene/AGAP005050` (interferon-stimulated gene 20 kDa protein),  :doc:`/gene/AGAP005051` (DNA polymerase epsilon subunit 3),  :doc:`/gene/AGAP005052` (deoxyribodipyrimidine photo-lyase),  :doc:`/gene/AGAP005053` (E3 ubiquitin-protein ligase LRSAM1).
 
 

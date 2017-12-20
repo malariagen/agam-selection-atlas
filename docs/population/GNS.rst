@@ -14,10 +14,10 @@ Chromosome 2
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/GNS/chr2/1/index`,"2L:1720001-2L:2700000",1554
-    :doc:`/signal/H12/GNS/chr2/2/index`,"2R:28420001-2R:28540000",1069
-    :doc:`/signal/H12/GNS/chr2/3/index`,"2L:28740001-2L:28840000",352
-    :doc:`/signal/H12/GNS/chr2/4/index`,"2L:25640001-2L:25740000",249
+    :doc:`/signal/H12/GNS/chr2/1/index`,"2L:1,720,001-2,700,000",1554
+    :doc:`/signal/H12/GNS/chr2/2/index`,"2R:28,420,001-28,540,000",1069
+    :doc:`/signal/H12/GNS/chr2/3/index`,"2L:28,740,001-28,840,000",352
+    :doc:`/signal/H12/GNS/chr2/4/index`,"2L:25,640,001-25,740,000",249
     
 
 
@@ -29,9 +29,9 @@ Chromosome 3
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/GNS/chr3/1/index`,"3R:28480001-3R:28600000",968
-    :doc:`/signal/H12/GNS/chr3/2/index`,"3R:4760001-3R:4980000",262
-    :doc:`/signal/H12/GNS/chr3/3/index`,"3L:26860001-3L:26900000",180
+    :doc:`/signal/H12/GNS/chr3/1/index`,"3R:28,480,001-28,600,000",968
+    :doc:`/signal/H12/GNS/chr3/2/index`,"3R:4,760,001-4,980,000",262
+    :doc:`/signal/H12/GNS/chr3/3/index`,"3L:26,860,001-26,900,000",180
     
 
 
@@ -43,6 +43,6 @@ Chromosome X
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/GNS/chrX/1/index`,"X:15100001-X:15220000",595
+    :doc:`/signal/H12/GNS/chrX/1/index`,"X:15,100,001-15,220,000",595
     
 

@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome X | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**X between position 15,320,001 and
-15,460,000**.
+X between position 15,320,001 and
+15,460,000.
 
 
 
@@ -19,7 +19,7 @@ The following 13 genes overlap the focal region: :doc:`/gene/AGAP000822`,  :doc:
 
 
 
-The following 3 genes are within 40 kbp of the focal
+The following 3 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP000820` (CPR125 - cuticular protein RR-2 family 125),  :doc:`/gene/AGAP000821`,  :doc:`/gene/AGAP013506`.
 
 
@@ -45,7 +45,7 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFM/chrX/1/index`,":15100001-15380000",1272
+    :doc:`/signal/H12/BFM/chrX/1/index`,"X:15,100,001-15,380,000",1272
     
 
 

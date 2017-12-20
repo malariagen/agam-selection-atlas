@@ -8,8 +8,8 @@ Cameroon *An. gambiae* | H12 | Chromosome 2 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/CMS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 2,460,001 and
-2,960,000**.
+2L between position 2,460,001 and
+2,960,000.
 
 
 
@@ -19,7 +19,7 @@ The following 26 genes overlap the focal region: :doc:`/gene/AGAP004708` (arginy
 
 
 
-The following 9 genes are within 40 kbp of the focal
+The following 9 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP004707` (para - voltage-gated sodium channel),  :doc:`/gene/AGAP004735`,  :doc:`/gene/AGAP004736` (mitochondrial GTPase 1 homolog),  :doc:`/gene/AGAP004737` (Rhomboid-4, isoform B),  :doc:`/gene/AGAP004738` (IK cytokine),  :doc:`/gene/AGAP004739` (H/ACA ribonucleoprotein complex subunit 4),  :doc:`/gene/AGAP004740`,  :doc:`/gene/AGAP004741` (serine proteinase),  :doc:`/gene/AGAP004742` (Pyruvate carboxylase).
 
 
@@ -45,11 +45,11 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFM/chr2/1/index`,":2500001-2900000",1736
-    :doc:`/signal/H12/BFS/chr2/1/index`,":2420001-2720000",1728
-    :doc:`/signal/H12/GNS/chr2/1/index`,":1720001-2700000",1554
-    :doc:`/signal/H12/UGS/chr2/2/index`,":1940001-3080000",1332
-    :doc:`/signal/H12/GAS/chr2/2/index`,":2600001-2640000",321
+    :doc:`/signal/H12/BFM/chr2/1/index`,"2L:2,500,001-2,900,000",1736
+    :doc:`/signal/H12/BFS/chr2/1/index`,"2L:2,420,001-2,720,000",1728
+    :doc:`/signal/H12/GNS/chr2/1/index`,"2L:1,720,001-2,700,000",1554
+    :doc:`/signal/H12/UGS/chr2/2/index`,"2L:1,940,001-3,080,000",1332
+    :doc:`/signal/H12/GAS/chr2/2/index`,"2L:2,600,001-2,640,000",321
     
 
 

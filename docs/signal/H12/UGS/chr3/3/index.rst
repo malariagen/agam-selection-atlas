@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 3 | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**3R between position 43,980,001 and
-44,060,000**.
+3R between position 43,980,001 and
+44,060,000.
 
 
 
@@ -19,7 +19,7 @@ The following 8 genes overlap the focal region: :doc:`/gene/AGAP009829` (beat pr
 
 
 
-The following 12 genes are within 40 kbp of the focal
+The following 12 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP009828`,  :doc:`/gene/AGAP009836`,  :doc:`/gene/AGAP009837`,  :doc:`/gene/AGAP009838` (Non-imprinted in Prader-Willi/Angelman syndrome region protein 2-like protein),  :doc:`/gene/AGAP009839` (Phosphatase 1 regulatory subunit 7),  :doc:`/gene/AGAP009840` (USO1 vesicle docking protein homolog),  :doc:`/gene/AGAP009841`,  :doc:`/gene/AGAP009842` (ribonuclease T2),  :doc:`/gene/AGAP009843`,  :doc:`/gene/AGAP009844` (CLIPB15 - CLIP-domain serine protease),  :doc:`/gene/AGAP009845`,  :doc:`/gene/AGAP009846` (Ras-related protein Rab-9A).
 
 

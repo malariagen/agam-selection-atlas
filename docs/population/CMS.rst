@@ -14,10 +14,10 @@ Chromosome 2
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/CMS/chr2/1/index`,"2R:28400001-2R:28460000",1231
-    :doc:`/signal/H12/CMS/chr2/2/index`,"2L:2460001-2L:2960000",635
-    :doc:`/signal/H12/CMS/chr2/3/index`,"2R:40620001-2R:41020000",451
-    :doc:`/signal/H12/CMS/chr2/4/index`,"2L:3660001-2L:3700000",143
+    :doc:`/signal/H12/CMS/chr2/1/index`,"2R:28,400,001-28,460,000",1231
+    :doc:`/signal/H12/CMS/chr2/2/index`,"2L:2,460,001-2,960,000",635
+    :doc:`/signal/H12/CMS/chr2/3/index`,"2R:40,620,001-41,020,000",451
+    :doc:`/signal/H12/CMS/chr2/4/index`,"2L:3,660,001-3,700,000",143
     
 
 
@@ -29,8 +29,8 @@ Chromosome 3
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/CMS/chr3/1/index`,"3R:28540001-3R:28640000",1425
-    :doc:`/signal/H12/CMS/chr3/2/index`,"3L:26880001-3L:26940000",308
+    :doc:`/signal/H12/CMS/chr3/1/index`,"3R:28,540,001-28,640,000",1425
+    :doc:`/signal/H12/CMS/chr3/2/index`,"3L:26,880,001-26,940,000",308
     
 
 

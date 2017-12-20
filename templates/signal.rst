@@ -18,12 +18,12 @@ This page describes a signal of selection found in the
 :doc:`/method/{{ statistic.id }}` statistic.
 {%- if focus.start[0] == focus.stop[0] -%}
 The inferred focus of this signal is on chromosome arm
-**{{ focus.start[0] }} between position {{ "{:,}".format(focus.start[1]) }} and
-{{ "{:,}".format(focus.stop[1]) }}**.
+**{{ focus.start[0] }}** between positions **{{ "{:,}".format(focus.start[1]) }}** and
+**{{ "{:,}".format(focus.stop[1]) }}**.
 {%- else -%}
 The inferred focus of this signal is between
-**{{ focus.start[0] }}:{{ "{:,}".format(focus.start[1]) }} and
-{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
+**{{ focus.start[0] }}:{{ "{:,}".format(focus.start[1]) }}** and
+**{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
 {%- endif %}
 
 {% if overlapping_genes|length == 0 %}
@@ -42,10 +42,10 @@ The following {{ overlapping_genes|length }} genes overlap the focal region:
 No genes are within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length == 1 %}
-Gene {{ gene(adjacent_genes[0]) }} is within 40 kbp of the focal region.
+Gene {{ gene(adjacent_genes[0]) }} is within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length > 1 %}
-The following {{ adjacent_genes|length }} genes are within 40 kbp of the focal
+The following {{ adjacent_genes|length }} genes are within 50 kbp of the focal
 region:
 {%- for value in adjacent_genes %} {{ gene(value) }}{{ ", " if not loop.last }}
 {%- endfor %}.
@@ -74,7 +74,7 @@ focus of this signal:
     :header: Signal, Focus, Score
 
     {% for signal in overlapping_signals -%}
-    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
+    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ "{:,}".format(signal.focus_start|int) }}-{% if signal.focus_stop_arm != signal.focus_start_arm%}{{ signal.focus_stop_arm }}:{% endif %}{{ "{:,}".format(signal.focus_stop|int) }}",{{ signal.sum_delta_aic|int }}
     {% endfor %}
 
 {% else %}

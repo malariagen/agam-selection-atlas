@@ -8,8 +8,8 @@ Burkina Faso *An. coluzzii* | H12 | Chromosome 3 | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/BFM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is between
-**3R:52,840,001 and
-3L:260,000**.
+3R:52,840,001 and
+3L:260,000.
 
 
 
@@ -19,7 +19,7 @@ The following 10 genes overlap the focal region: :doc:`/gene/AGAP010301`,  :doc:
 
 
 
-The following 2 genes are within 40 kbp of the focal
+The following 2 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP010299`,  :doc:`/gene/AGAP010300`.
 
 

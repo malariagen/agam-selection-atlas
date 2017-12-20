@@ -8,8 +8,8 @@ Cameroon *An. gambiae* | H12 | Chromosome 2 | Signal #4
 This page describes a signal of selection found in the
 :doc:`/population/CMS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 3,660,001 and
-3,700,000**.
+2L between position 3,660,001 and
+3,700,000.
 
 
 No genes overlap the focal region.
@@ -19,7 +19,7 @@ No genes overlap the focal region.
 
 
 
-The following 9 genes are within 40 kbp of the focal
+The following 9 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP004795` (RNA polymerase II elongation factor ELL),  :doc:`/gene/AGAP004797`,  :doc:`/gene/AGAP004798` (Coatomer protein complex, subunit beta 2),  :doc:`/gene/AGAP004799`,  :doc:`/gene/AGAP004800`,  :doc:`/gene/AGAP004801` (Huntingtin interacting protein),  :doc:`/gene/AGAP004802` (4-hydroxyphenylpyruvate dioxygenase),  :doc:`/gene/AGAP004803`,  :doc:`/gene/AGAP004804`.
 
 

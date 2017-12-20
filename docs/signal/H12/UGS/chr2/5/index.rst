@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #5
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 50,420,001 and
-50,820,000**.
+2R between position 50,420,001 and
+50,820,000.
 
 
 
@@ -19,7 +19,7 @@ The following 36 genes overlap the focal region: :doc:`/gene/AGAP004126` (Osi3 -
 
 
 
-The following 2 genes are within 40 kbp of the focal
+The following 2 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP004124` (Osi24 - osiris 24),  :doc:`/gene/AGAP004125` (Osi2 - osiris 2).
 
 

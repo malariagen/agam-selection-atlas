@@ -8,8 +8,8 @@ Guinea *An. gambiae* | H12 | Chromosome X | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/GNS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**X between position 15,100,001 and
-15,220,000**.
+X between position 15,100,001 and
+15,220,000.
 
 
 
@@ -19,7 +19,7 @@ Gene :doc:`/gene/AGAP012997` overlaps the focal region.
 
 
 
-The following 4 genes are within 40 kbp of the focal
+The following 4 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP013173`,  :doc:`/gene/AGAP013424`,  :doc:`/gene/AGAP000818` (CYP9K1 - cytochrome P450),  :doc:`/gene/AGAP000819` (nuclear receptor subfamily 2 group E member (Tailless)).
 
 
@@ -45,8 +45,8 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFM/chrX/1/index`,":15100001-15380000",1272
-    :doc:`/signal/H12/BFS/chrX/1/index`,":15120001-15260000",1073
+    :doc:`/signal/H12/BFM/chrX/1/index`,"X:15,100,001-15,380,000",1272
+    :doc:`/signal/H12/BFS/chrX/1/index`,"X:15,120,001-15,260,000",1073
     
 
 

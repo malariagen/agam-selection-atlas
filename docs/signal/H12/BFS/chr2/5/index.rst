@@ -8,8 +8,8 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #5
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 25,380,001 and
-25,440,000**.
+2L between position 25,380,001 and
+25,440,000.
 
 
 
@@ -19,7 +19,7 @@ Gene :doc:`/gene/AGAP006028` (Rdl - GABA-gated chloride channel subunit) overlap
 
 
 
-The following 6 genes are within 40 kbp of the focal
+The following 6 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP006029`,  :doc:`/gene/AGAP006030` (mfrn - mitoferrin),  :doc:`/gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`/gene/AGAP006032`,  :doc:`/gene/AGAP006033`,  :doc:`/gene/AGAP006034`.
 
 
@@ -45,8 +45,8 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFM/chr2/2/index`,":25400001-25500000",1180
-    :doc:`/signal/H12/AOM/chr2/3/index`,":25380001-25460000",392
+    :doc:`/signal/H12/BFM/chr2/2/index`,"2L:25,400,001-25,500,000",1180
+    :doc:`/signal/H12/AOM/chr2/3/index`,"2L:25,380,001-25,460,000",392
     
 
 

@@ -8,8 +8,8 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #8
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 61,240,001 and
-61,340,000**.
+2R between position 61,240,001 and
+61,340,000.
 
 
 
@@ -18,7 +18,7 @@ The following 2 genes overlap the focal region: :doc:`/gene/AGAP004672`,  :doc:`
 
 
 
-Gene :doc:`/gene/AGAP004671` (nuclear pore complex protein Nup160) is within 40 kbp of the focal region.
+Gene :doc:`/gene/AGAP004671` (nuclear pore complex protein Nup160) is within 50 kbp of the focal region.
 
 
 

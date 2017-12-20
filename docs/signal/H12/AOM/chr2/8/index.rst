@@ -8,8 +8,8 @@ Angola *An. coluzzii* | H12 | Chromosome 2 | Signal #8
 This page describes a signal of selection found in the
 :doc:`/population/AOM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 13,580,001 and
-13,820,000**.
+2R between position 13,580,001 and
+13,820,000.
 
 
 
@@ -19,7 +19,7 @@ Gene :doc:`/gene/AGAP002007` (reticulon/nogo receptor) overlaps the focal region
 
 
 
-The following 3 genes are within 40 kbp of the focal
+The following 3 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP002005`,  :doc:`/gene/AGAP002006` (reticulon/nogo receptor),  :doc:`/gene/AGAP002008`.
 
 

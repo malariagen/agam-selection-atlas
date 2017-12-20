@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #6
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 42,760,001 and
-42,800,000**.
+2L between position 42,760,001 and
+42,800,000.
 
 
 
@@ -19,7 +19,7 @@ The following 3 genes overlap the focal region: :doc:`/gene/AGAP007103` (calsynt
 
 
 
-The following 3 genes are within 40 kbp of the focal
+The following 3 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP007106` (ubiquitin carboxyl-terminal hydrolase 47),  :doc:`/gene/AGAP007107` (DnaJ homolog subfamily B member 4),  :doc:`/gene/AGAP007108` (multiple PDZ domain protein).
 
 

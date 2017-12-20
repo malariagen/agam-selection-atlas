@@ -14,17 +14,17 @@ Chromosome 2
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chr2/1/index`,"2L:2420001-2L:2720000",1728
-    :doc:`/signal/H12/BFS/chr2/2/index`,"2L:28500001-2L:28620000",1077
-    :doc:`/signal/H12/BFS/chr2/3/index`,"2R:28440001-2R:28520000",965
-    :doc:`/signal/H12/BFS/chr2/4/index`,"2R:40800001-2R:41020000",469
-    :doc:`/signal/H12/BFS/chr2/5/index`,"2L:25380001-2L:25440000",365
-    :doc:`/signal/H12/BFS/chr2/6/index`,"2L:27740001-2L:27960000",254
-    :doc:`/signal/H12/BFS/chr2/7/index`,"2L:28640001-2L:28980000",144
-    :doc:`/signal/H12/BFS/chr2/8/index`,"2R:61240001-2R:61340000",134
-    :doc:`/signal/H12/BFS/chr2/10/index`,"2R:27480001-2R:27520000",127
-    :doc:`/signal/H12/BFS/chr2/9/index`,"2R:28740001-2R:29160000",108
-    :doc:`/signal/H12/BFS/chr2/11/index`,"2R:34420001-2R:34540000",90
+    :doc:`/signal/H12/BFS/chr2/1/index`,"2L:2,420,001-2,720,000",1728
+    :doc:`/signal/H12/BFS/chr2/2/index`,"2L:28,500,001-28,620,000",1077
+    :doc:`/signal/H12/BFS/chr2/3/index`,"2R:28,440,001-28,520,000",965
+    :doc:`/signal/H12/BFS/chr2/4/index`,"2R:40,800,001-41,020,000",469
+    :doc:`/signal/H12/BFS/chr2/5/index`,"2L:25,380,001-25,440,000",365
+    :doc:`/signal/H12/BFS/chr2/6/index`,"2L:27,740,001-27,960,000",254
+    :doc:`/signal/H12/BFS/chr2/7/index`,"2L:28,640,001-28,980,000",144
+    :doc:`/signal/H12/BFS/chr2/8/index`,"2R:61,240,001-61,340,000",134
+    :doc:`/signal/H12/BFS/chr2/10/index`,"2R:27,480,001-27,520,000",127
+    :doc:`/signal/H12/BFS/chr2/9/index`,"2R:28,740,001-29,160,000",108
+    :doc:`/signal/H12/BFS/chr2/11/index`,"2R:34,420,001-34,540,000",90
     
 
 
@@ -36,8 +36,8 @@ Chromosome 3
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chr3/1/index`,"3R:28480001-3R:28620000",1057
-    :doc:`/signal/H12/BFS/chr3/2/index`,"3L:26880001-3L:26920000",257
+    :doc:`/signal/H12/BFS/chr3/1/index`,"3R:28,480,001-28,620,000",1057
+    :doc:`/signal/H12/BFS/chr3/2/index`,"3L:26,880,001-26,920,000",257
     
 
 
@@ -49,8 +49,8 @@ Chromosome X
     :widths: auto
     :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chrX/1/index`,"X:15120001-X:15260000",1073
-    :doc:`/signal/H12/BFS/chrX/2/index`,"X:9180001-X:9260000",504
-    :doc:`/signal/H12/BFS/chrX/3/index`,"X:9620001-X:9740000",291
+    :doc:`/signal/H12/BFS/chrX/1/index`,"X:15,120,001-15,260,000",1073
+    :doc:`/signal/H12/BFS/chrX/2/index`,"X:9,180,001-9,260,000",504
+    :doc:`/signal/H12/BFS/chrX/3/index`,"X:9,620,001-9,740,000",291
     
 

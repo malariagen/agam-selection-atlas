@@ -8,8 +8,8 @@ Angola *An. coluzzii* | H12 | Chromosome 2 | Signal #6
 This page describes a signal of selection found in the
 :doc:`/population/AOM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 34,440,001 and
-34,540,000**.
+2R between position 34,440,001 and
+34,540,000.
 
 
 
@@ -19,7 +19,7 @@ The following 18 genes overlap the focal region: :doc:`/gene/AGAP003245` (CLIPA1
 
 
 
-The following 6 genes are within 40 kbp of the focal
+The following 6 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP003242` (RNA polymerase-associated protein LEO1),  :doc:`/gene/AGAP003243`,  :doc:`/gene/AGAP003244` (GPRGHP2 - putative growth hormone releasing hormone receptor 2),  :doc:`/gene/AGAP003261`,  :doc:`/gene/AGAP003262` (integrator complex subunit 10),  :doc:`/gene/AGAP003263` (CDC42 small effector protein-like protein).
 
 
@@ -45,7 +45,7 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/BFS/chr2/11/index`,":34420001-34540000",90
+    :doc:`/signal/H12/BFS/chr2/11/index`,"2R:34,420,001-34,540,000",90
     
 
 

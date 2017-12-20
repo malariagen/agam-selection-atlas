@@ -8,8 +8,8 @@ Guinea-Bissau | H12 | Chromosome 2 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/GWA` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 31,920,001 and
-31,960,000**.
+2L between position 31,920,001 and
+31,960,000.
 
 
 
@@ -19,7 +19,7 @@ The following 2 genes overlap the focal region: :doc:`/gene/AGAP006439` (fringe)
 
 
 
-The following 4 genes are within 40 kbp of the focal
+The following 4 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP006436` (Med13 - mediator of RNA polymerase II transcription subunit 13),  :doc:`/gene/AGAP028457`,  :doc:`/gene/AGAP006437`,  :doc:`/gene/AGAP006438` (ribosomal biogenesis protein LAS1).
 
 

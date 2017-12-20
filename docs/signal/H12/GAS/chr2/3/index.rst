@@ -8,8 +8,8 @@ Gabon *An. gambiae* | H12 | Chromosome 2 | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/GAS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 15,440,001 and
-15,780,000**.
+2L between position 15,440,001 and
+15,780,000.
 
 
 
@@ -19,7 +19,7 @@ The following 22 genes overlap the focal region: :doc:`/gene/AGAP005433`,  :doc:
 
 
 
-The following 12 genes are within 40 kbp of the focal
+The following 12 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP005425` (actin-binding LIM protein),  :doc:`/gene/AGAP005427` (RpL28 - 60S ribosomal protein L28),  :doc:`/gene/AGAP005428` (transcription elongation factor SPT4 1),  :doc:`/gene/AGAP005429` (Thoc6 - THO complex subunit 6),  :doc:`/gene/AGAP005430`,  :doc:`/gene/AGAP005431` (thioredoxin domain-containing protein),  :doc:`/gene/AGAP005432` (programmed cell death protein 5),  :doc:`/gene/AGAP005459` (CPR16 - cuticular protein RR-1 family 16),  :doc:`/gene/AGAP005460` (phosphopantetheine adenylyltransferase / dephospho-CoA kinase),  :doc:`/gene/AGAP005461`,  :doc:`/gene/AGAP005462`,  :doc:`/gene/AGAP005463`.
 
 

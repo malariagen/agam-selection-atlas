@@ -8,8 +8,8 @@ Burkina Faso *An. coluzzii* | H12 | Chromosome 3 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/BFM` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**3L between position 11,200,001 and
-11,240,000**.
+3L between position 11,200,001 and
+11,240,000.
 
 
 
@@ -19,7 +19,7 @@ The following 2 genes overlap the focal region: :doc:`/gene/AGAP010815` (TEP1 - 
 
 
 
-The following 4 genes are within 40 kbp of the focal
+The following 4 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP010813` (TEP18 - thioester-containing protein 18),  :doc:`/gene/AGAP010814` (TEP6 - thioester-containing protein 6),  :doc:`/gene/AGAP010817`,  :doc:`/gene/AGAP010818` (TEP11 - thioester-containing protein 11).
 
 

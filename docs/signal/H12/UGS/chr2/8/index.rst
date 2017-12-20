@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #8
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 58,080,001 and
-58,700,000**.
+2R between position 58,080,001 and
+58,700,000.
 
 
 
@@ -18,7 +18,7 @@ The following 53 genes overlap the focal region: :doc:`/gene/AGAP004586` (ADP-ri
 
 
 
-Gene :doc:`/gene/AGAP004636` (sodium-independent sulfate anion transporter) is within 40 kbp of the focal region.
+Gene :doc:`/gene/AGAP004636` (sodium-independent sulfate anion transporter) is within 50 kbp of the focal region.
 
 
 

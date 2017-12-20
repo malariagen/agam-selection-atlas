@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 3 | Signal #4
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**3R between position 18,920,001 and
-18,980,000**.
+3R between position 18,920,001 and
+18,980,000.
 
 
 
@@ -18,7 +18,7 @@ Gene :doc:`/gene/AGAP008826` overlaps the focal region.
 
 
 
-Gene :doc:`/gene/AGAP008825` is within 40 kbp of the focal region.
+Gene :doc:`/gene/AGAP008825` is within 50 kbp of the focal region.
 
 
 

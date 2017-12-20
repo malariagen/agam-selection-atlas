@@ -8,8 +8,8 @@ Cameroon *An. gambiae* | H12 | Chromosome 2 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/CMS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 28,400,001 and
-28,460,000**.
+2R between position 28,400,001 and
+28,460,000.
 
 
 
@@ -19,7 +19,7 @@ Gene :doc:`/gene/AGAP002859` (solute carrier family 8 (sodium/calcium exchanger)
 
 
 
-The following 11 genes are within 40 kbp of the focal
+The following 11 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP002858` (Sodium/potassium-transporting ATPase subunit alpha),  :doc:`/gene/AGAP002862` (CYP6AA1 - cytochrome P450),  :doc:`/gene/AGAP013128` (CYP6AA2 - cytochrome P450),  :doc:`/gene/AGAP002863` (COEAE6O - carboxylesterase alpha esterase),  :doc:`/gene/AGAP002864` (CYP6P15P - cytochrome P450),  :doc:`/gene/AGAP002865` (CYP6P3 - cytochrome P450),  :doc:`/gene/AGAP002866` (CYP6P5 - cytochrome P450),  :doc:`/gene/AGAP002867` (CYP6P4 - cytochrome P450),  :doc:`/gene/AGAP002868` (CYP6P1 - cytochrome P450),  :doc:`/gene/AGAP002869` (CYP6P2 - cytochrome P450),  :doc:`/gene/AGAP002870` (CYP6AD1 - cytochrome P450).
 
 
@@ -45,10 +45,10 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/UGS/chr2/1/index`,":28420001-28520000",1602
-    :doc:`/signal/H12/GNS/chr2/2/index`,":28420001-28540000",1069
-    :doc:`/signal/H12/BFS/chr2/3/index`,":28440001-28520000",965
-    :doc:`/signal/H12/BFM/chr2/4/index`,":28380001-28500000",442
+    :doc:`/signal/H12/UGS/chr2/1/index`,"2R:28,420,001-28,520,000",1602
+    :doc:`/signal/H12/GNS/chr2/2/index`,"2R:28,420,001-28,540,000",1069
+    :doc:`/signal/H12/BFS/chr2/3/index`,"2R:28,440,001-28,520,000",965
+    :doc:`/signal/H12/BFM/chr2/4/index`,"2R:28,380,001-28,500,000",442
     
 
 

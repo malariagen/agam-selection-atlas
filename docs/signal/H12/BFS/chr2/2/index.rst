@@ -8,8 +8,8 @@ Burkina Faso *An. gambiae* | H12 | Chromosome 2 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 28,500,001 and
-28,620,000**.
+2L between position 28,500,001 and
+28,620,000.
 
 
 
@@ -19,7 +19,7 @@ The following 34 genes overlap the focal region: :doc:`/gene/AGAP006219` (recept
 
 
 
-The following 11 genes are within 40 kbp of the focal
+The following 11 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP028453`,  :doc:`/gene/AGAP006214`,  :doc:`/gene/AGAP006215` (GPRMTH1 - methuselah receptor 1),  :doc:`/gene/AGAP006216` (GPRMTH2 - methuselah receptor 2),  :doc:`/gene/AGAP006217`,  :doc:`/gene/AGAP006218` (GPRMTH4 - methuselah receptor 4),  :doc:`/gene/AGAP006253` (Cysteine-rich venom protein),  :doc:`/gene/AGAP006254` (polypeptide N-acetylglucosaminyltransferase),  :doc:`/gene/AGAP006255`,  :doc:`/gene/AGAP006256` (Cad74A),  :doc:`/gene/AGAP028399`.
 
 

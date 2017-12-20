@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 3 | Signal #5
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**3R between position 37,080,001 and
-37,260,000**.
+3R between position 37,080,001 and
+37,260,000.
 
 
 
@@ -19,7 +19,7 @@ The following 7 genes overlap the focal region: :doc:`/gene/AGAP009621` (alpha-N
 
 
 
-The following 6 genes are within 40 kbp of the focal
+The following 6 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP009616`,  :doc:`/gene/AGAP009617` (fatty-acid amide hydrolase 2),  :doc:`/gene/AGAP009618`,  :doc:`/gene/AGAP009619` (S-adenosylmethionine decarboxylase proenzyme),  :doc:`/gene/AGAP009620` (reduction in cnn dots 4),  :doc:`/gene/AGAP009628` (phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity).
 
 

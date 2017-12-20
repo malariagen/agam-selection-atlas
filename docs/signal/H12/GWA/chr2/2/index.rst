@@ -8,8 +8,8 @@ Guinea-Bissau | H12 | Chromosome 2 | Signal #2
 This page describes a signal of selection found in the
 :doc:`/population/GWA` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2R between position 47,820,001 and
-47,860,000**.
+2R between position 47,820,001 and
+47,860,000.
 
 
 
@@ -19,7 +19,7 @@ The following 5 genes overlap the focal region: :doc:`/gene/AGAP004005`,  :doc:`
 
 
 
-The following 14 genes are within 40 kbp of the focal
+The following 14 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP004000` (myosin IX),  :doc:`/gene/AGAP004002` (60 kDa heat shock protein, mitochondrial precursor),  :doc:`/gene/AGAP013015` (p53 and DNA damage-regulated protein),  :doc:`/gene/AGAP004003`,  :doc:`/gene/AGAP004004`,  :doc:`/gene/AGAP004011` (survival motor neuron protein),  :doc:`/gene/AGAP004012` (katanin p60 ATPase-containing subunit),  :doc:`/gene/AGAP004013` (SP11838),  :doc:`/gene/AGAP004014` (SP11706),  :doc:`/gene/AGAP004015` (SP21408),  :doc:`/gene/AGAP013186`,  :doc:`/gene/AGAP004017`,  :doc:`/gene/AGAP004016`,  :doc:`/gene/AGAP004018`.
 
 

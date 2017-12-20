@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 2 | Signal #7
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**2L between position 220,001 and
-320,000**.
+2L between position 220,001 and
+320,000.
 
 
 
@@ -19,7 +19,7 @@ Gene :doc:`/gene/AGAP004680` overlaps the focal region.
 
 
 
-The following 4 genes are within 40 kbp of the focal
+The following 4 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP004677` (methylenetetrahydrofolate dehydrogenase(NAD ) / 5,10-methenyltetrahydrofolate),  :doc:`/gene/AGAP004678`,  :doc:`/gene/AGAP004679` (Folylpolyglutamate synthase),  :doc:`/gene/AGAP004681`.
 
 

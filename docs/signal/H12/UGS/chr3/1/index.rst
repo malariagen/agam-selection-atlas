@@ -8,8 +8,8 @@ Uganda *An. gambiae* | H12 | Chromosome 3 | Signal #1
 This page describes a signal of selection found in the
 :doc:`/population/UGS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**3R between position 28,560,001 and
-28,620,000**.
+3R between position 28,560,001 and
+28,620,000.
 
 
 
@@ -19,7 +19,7 @@ The following 15 genes overlap the focal region: :doc:`/gene/AGAP009185`,  :doc:
 
 
 
-The following 4 genes are within 40 kbp of the focal
+The following 4 genes are within 50 kbp of the focal
 region: :doc:`/gene/AGAP009201` (collagen type IV alpha),  :doc:`/gene/AGAP009202` (selenoprotein T),  :doc:`/gene/AGAP028058`,  :doc:`/gene/AGAP009203` (SPRY domain-containing SOCS box protein 3).
 
 
@@ -45,10 +45,10 @@ focus of this signal:
     :widths: auto
     :header: Signal, Focus, Score
 
-    :doc:`/signal/H12/CMS/chr3/1/index`,":28540001-28640000",1425
-    :doc:`/signal/H12/BFS/chr3/1/index`,":28480001-28620000",1057
-    :doc:`/signal/H12/GNS/chr3/1/index`,":28480001-28600000",968
-    :doc:`/signal/H12/BFM/chr3/1/index`,":28520001-28620000",730
+    :doc:`/signal/H12/CMS/chr3/1/index`,"3R:28,540,001-28,640,000",1425
+    :doc:`/signal/H12/BFS/chr3/1/index`,"3R:28,480,001-28,620,000",1057
+    :doc:`/signal/H12/GNS/chr3/1/index`,"3R:28,480,001-28,600,000",968
+    :doc:`/signal/H12/BFM/chr3/1/index`,"3R:28,520,001-28,620,000",730
     
 
 
