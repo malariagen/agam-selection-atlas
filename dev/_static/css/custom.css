@@ -1,0 +1,20 @@
+.bk-root > div {
+    margin: auto;
+}
+
+div.figure {
+    margin: .5em 2em .5em 2em;
+    padding: .5em 2em .5em 2em;
+}
+
+p.caption {
+    color: #777777;
+}
+
+.bokeh-figure {
+}
+
+.bokeh-figure p.caption {
+    width: 900px;
+    margin: auto;
+}

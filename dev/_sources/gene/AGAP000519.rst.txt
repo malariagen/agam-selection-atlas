@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP000519
+=============
+
+
+
+
+
+Description: Diacylglycerol kinase (atp dependent).
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000519>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:9215504-9266532#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/BFS/X/2/index`,"X:9,180,001-9,260,000",394 (212 | 181)
+    
+
+
+
+
+
+
