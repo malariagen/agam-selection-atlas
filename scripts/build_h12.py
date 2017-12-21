@@ -92,6 +92,7 @@ def compile_signal_report(rank, peak, chromosome, population):
 
     report['minor_delta_aic'] = peak.minor_delta_aic
     report['sum_delta_aic'] = peak.sum_delta_aic
+    report['delta_aic'] = peak.delta_aic.tolist()
 
     report['fit_data'] = {
         'xx_gpos': peak.best_fit.xx.tolist(),

@@ -8,8 +8,10 @@ Burkina Faso *An. gambiae* | H12 | Chromosome X | Signal #3
 This page describes a signal of selection found in the
 :doc:`/population/BFS` population using the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
-**X** between positions **9,620,001** and
-**9,740,000**.
+**X** between positions **9,640,001** and
+**9,720,000**.
+The evidence supporting this signal is
+**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
 .. raw:: html
     :file: peak_location.html
@@ -29,13 +31,13 @@ This page describes a signal of selection found in the
 
 
 
-The following 7 genes overlap the focal region: :doc:`/gene/AGAP000536` (PGRPS1 - peptidoglycan recognition protein (short)),  :doc:`/gene/AGAP000537` (TWDL8 - cuticular protein TWDL family (TWDL8)),  :doc:`/gene/AGAP000538` (TWDL9 - cuticular protein TWDL family (TWDL9)),  :doc:`/gene/AGAP000539`,  :doc:`/gene/AGAP000540` (proton-coupled amino acid transporter),  :doc:`/gene/AGAP000541` (RpS15a-1 - 40S ribosomal protein S15a),  :doc:`/gene/AGAP013055`.
+The following 4 genes overlap the focal region: :doc:`/gene/AGAP000539`,  :doc:`/gene/AGAP000540` (proton-coupled amino acid transporter),  :doc:`/gene/AGAP000541` (RpS15a-1 - 40S ribosomal protein S15a),  :doc:`/gene/AGAP013055`.
 
 
 
 
-The following 5 genes are within 50 kbp of the focal
-region: :doc:`/gene/AGAP013287`,  :doc:`/gene/AGAP000535`,  :doc:`/gene/AGAP028592`,  :doc:`/gene/AGAP012976`,  :doc:`/gene/AGAP013521`.
+The following 7 genes are within 50 kbp of the focal
+region: :doc:`/gene/AGAP000535`,  :doc:`/gene/AGAP028592`,  :doc:`/gene/AGAP012976`,  :doc:`/gene/AGAP013521`,  :doc:`/gene/AGAP000536` (PGRPS1 - peptidoglycan recognition protein (short)),  :doc:`/gene/AGAP000537` (TWDL8 - cuticular protein TWDL family (TWDL8)),  :doc:`/gene/AGAP000538` (TWDL9 - cuticular protein TWDL family (TWDL9)).
 
 
 Overlapping signals
@@ -75,20 +77,20 @@ Left flank, peak model::
         Model(exponential)
     [[Fit Statistics]]
         # function evals   = 35
-        # data points      = 201
+        # data points      = 151
         # variables        = 3
-        chi-square         = 0.034
+        chi-square         = 0.032
         reduced chi-square = 0.000
-        Akaike info crit   = -1739.051
-        Bayesian info crit = -1729.141
+        Akaike info crit   = -1272.262
+        Bayesian info crit = -1263.210
     [[Variables]]
-        amplitude:   0.06969484 +/- 0.009657 (13.86%) (init= 0.5)
-        decay:       0.20544312 +/- 0.045457 (22.13%) (init= 0.5)
-        c:           0.01824651 +/- 0.000977 (5.35%) (init= 0.03)
+        amplitude:   0.06460198 +/- 0.011786 (18.25%) (init= 0.5)
+        decay:       0.15435250 +/- 0.045938 (29.76%) (init= 0.5)
+        c:           0.02036912 +/- 0.001259 (6.18%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.610 
-        C(decay, c)                  = -0.232 
+        C(amplitude, decay)          = -0.584 
+        C(decay, c)                  = -0.233 
 
 
 Right flank, peak model::
@@ -96,21 +98,21 @@ Right flank, peak model::
     [[Model]]
         Model(exponential)
     [[Fit Statistics]]
-        # function evals   = 23
-        # data points      = 199
+        # function evals   = 27
+        # data points      = 149
         # variables        = 3
-        chi-square         = 0.008
+        chi-square         = 0.003
         reduced chi-square = 0.000
-        Akaike info crit   = -1998.741
-        Bayesian info crit = -1988.861
+        Akaike info crit   = -1595.473
+        Bayesian info crit = -1586.461
     [[Variables]]
-        amplitude:   0.07702811 +/- 0.004743 (6.16%) (init= 0.5)
-        decay:       0.37899841 +/- 0.033057 (8.72%) (init= 0.5)
-        c:           0.01731812 +/- 0.000515 (2.98%) (init= 0.03)
+        amplitude:   0.07966178 +/- 0.003243 (4.07%) (init= 0.5)
+        decay:       0.40856456 +/- 0.024394 (5.97%) (init= 0.5)
+        c:           0.01702704 +/- 0.000450 (2.64%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.711 
-        C(decay, c)                  = -0.324 
+        C(amplitude, decay)          = -0.691 
+        C(decay, c)                  = -0.399 
 
 
 Left flank, null model::
@@ -119,14 +121,14 @@ Left flank, null model::
         Model(constant)
     [[Fit Statistics]]
         # function evals   = 6
-        # data points      = 200
+        # data points      = 150
         # variables        = 1
-        chi-square         = 0.043
+        chi-square         = 0.036
         reduced chi-square = 0.000
-        Akaike info crit   = -1687.763
-        Bayesian info crit = -1684.465
+        Akaike info crit   = -1247.831
+        Bayesian info crit = -1244.821
     [[Variables]]
-        c:   0.01983468 +/- 0.001037 (5.23%) (init= 0.03)
+        c:   0.02175038 +/- 0.001270 (5.84%) (init= 0.03)
 
 
 Right flank, null model::
@@ -135,14 +137,14 @@ Right flank, null model::
         Model(constant)
     [[Fit Statistics]]
         # function evals   = 6
-        # data points      = 198
+        # data points      = 148
         # variables        = 1
-        chi-square         = 0.027
+        chi-square         = 0.025
         reduced chi-square = 0.000
-        Akaike info crit   = -1758.374
-        Bayesian info crit = -1755.086
+        Akaike info crit   = -1285.253
+        Bayesian info crit = -1282.256
     [[Variables]]
-        c:   0.02047783 +/- 0.000836 (4.08%) (init= 0.03)
+        c:   0.02180952 +/- 0.001065 (4.89%) (init= 0.03)
 
 
 Comments

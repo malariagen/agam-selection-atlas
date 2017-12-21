@@ -25,6 +25,14 @@ The inferred focus of this signal is between
 **{{ focus.start[0] }}:{{ "{:,}".format(focus.start[1]) }}** and
 **{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
 {%- endif %}
+The evidence supporting this signal is
+{% if minor_delta_aic >= 100 -%}
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks)
+{%- elif minor_delta_aic > 50 -%}
+**moderate** (:math:`\Delta_{i}` >= 50 on both flanks)
+{%- else -%}
+**weak** (:math:`\Delta_{i}` < 50 on one or both flanks)
+{%- endif -%}.
 
 .. raw:: html
     :file: peak_location.html

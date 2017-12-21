@@ -34,6 +34,8 @@ if __name__ == '__main__':
               'peak_stop',
               'minor_delta_aic',
               'sum_delta_aic',
+              'delta_aic_left',
+              'delta_aic_right',
               'overlapping_genes',
               ]]
 
@@ -102,6 +104,8 @@ if __name__ == '__main__':
             report['peak']['stop'][1],
             report['minor_delta_aic'],
             report['sum_delta_aic'],
+            report['delta_aic'][0],
+            report['delta_aic'][1],
             overlapping_genes,
         ]
         table += [row]

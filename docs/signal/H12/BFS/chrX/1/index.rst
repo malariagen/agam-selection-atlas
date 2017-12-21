@@ -10,6 +10,8 @@ This page describes a signal of selection found in the
 :doc:`/method/H12` statistic.The inferred focus of this signal is on chromosome arm
 **X** between positions **15,120,001** and
 **15,260,000**.
+The evidence supporting this signal is
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
 .. raw:: html
     :file: peak_location.html
@@ -75,20 +77,20 @@ Left flank, peak model::
         Model(exponential)
     [[Fit Statistics]]
         # function evals   = 19
-        # data points      = 195
+        # data points      = 146
         # variables        = 3
-        chi-square         = 0.035
+        chi-square         = 0.034
         reduced chi-square = 0.000
-        Akaike info crit   = -1675.472
-        Bayesian info crit = -1665.653
+        Akaike info crit   = -1216.298
+        Bayesian info crit = -1207.348
     [[Variables]]
-        amplitude:   0.44522572 +/- 0.006781 (1.52%) (init= 0.5)
-        decay:       0.64673082 +/- 0.014980 (2.32%) (init= 0.5)
-        c:           0.01548482 +/- 0.001163 (7.52%) (init= 0.03)
+        amplitude:   0.44556414 +/- 0.007692 (1.73%) (init= 0.5)
+        decay:       0.65192407 +/- 0.018025 (2.76%) (init= 0.5)
+        c:           0.01449774 +/- 0.001661 (11.46%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.557 
-        C(decay, c)                  = -0.440 
+        C(decay, c)                  = -0.525 
+        C(amplitude, decay)          = -0.520 
 
 
 Right flank, peak model::
@@ -96,21 +98,21 @@ Right flank, peak model::
     [[Model]]
         Model(exponential)
     [[Fit Statistics]]
-        # function evals   = 23
-        # data points      = 196
+        # function evals   = 19
+        # data points      = 146
         # variables        = 3
-        chi-square         = 0.112
+        chi-square         = 0.082
         reduced chi-square = 0.001
-        Akaike info crit   = -1458.202
-        Bayesian info crit = -1448.367
+        Akaike info crit   = -1087.426
+        Bayesian info crit = -1078.475
     [[Variables]]
-        amplitude:   0.49168227 +/- 0.017545 (3.57%) (init= 0.5)
-        decay:       0.45351876 +/- 0.021865 (4.82%) (init= 0.5)
-        c:           0.05657645 +/- 0.001955 (3.46%) (init= 0.03)
+        amplitude:   0.49155334 +/- 0.017368 (3.53%) (init= 0.5)
+        decay:       0.45628987 +/- 0.022483 (4.93%) (init= 0.5)
+        c:           0.05582530 +/- 0.002376 (4.26%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.726 
-        C(decay, c)                  = -0.359 
+        C(amplitude, decay)          = -0.710 
+        C(decay, c)                  = -0.427 
 
 
 Left flank, null model::
@@ -119,14 +121,14 @@ Left flank, null model::
         Model(constant)
     [[Fit Statistics]]
         # function evals   = 6
-        # data points      = 194
+        # data points      = 145
         # variables        = 1
-        chi-square         = 1.035
-        reduced chi-square = 0.005
-        Akaike info crit   = -1013.361
-        Bayesian info crit = -1010.093
+        chi-square         = 0.984
+        reduced chi-square = 0.007
+        Akaike info crit   = -721.895
+        Bayesian info crit = -718.918
     [[Variables]]
-        c:   0.04463175 +/- 0.005256 (11.78%) (init= 0.03)
+        c:   0.05387687 +/- 0.006866 (12.74%) (init= 0.03)
 
 
 Right flank, null model::
@@ -135,14 +137,14 @@ Right flank, null model::
         Model(constant)
     [[Fit Statistics]]
         # function evals   = 6
-        # data points      = 195
+        # data points      = 145
         # variables        = 1
-        chi-square         = 0.900
-        reduced chi-square = 0.005
-        Akaike info crit   = -1046.726
-        Bayesian info crit = -1043.453
+        chi-square         = 0.839
+        reduced chi-square = 0.006
+        Akaike info crit   = -744.996
+        Bayesian info crit = -742.019
     [[Variables]]
-        c:   0.07956298 +/- 0.004878 (6.13%) (init= 0.03)
+        c:   0.08695567 +/- 0.006340 (7.29%) (init= 0.03)
 
 
 Comments
