@@ -52,7 +52,7 @@ def split_arms(chromosome, coord):
             arm = '3R'
     else:
         arm = chromosome
-    return arm, coord
+    return [arm, coord]
 
 
 def compile_signal_report(rank, peak, chromosome, population):
@@ -65,14 +65,20 @@ def compile_signal_report(rank, peak, chromosome, population):
     report['statistic'] = {'id': 'H12',
                            'label': 'H12'}
 
+    report['epicenter_start'] = peak.epicenter_start
+    report['epicenter_stop'] = peak.epicenter_stop
     epicenter_start = split_arms(chromosome, peak.epicenter_start)
     epicenter_stop = split_arms(chromosome, peak.epicenter_stop)
     report['epicenter'] = {'start': epicenter_start, 'stop': epicenter_stop}
 
+    report['focus_start'] = peak.focus_start
+    report['focus_stop'] = peak.focus_stop
     focus_start = split_arms(chromosome, peak.focus_start)
     focus_stop = split_arms(chromosome, peak.focus_stop)
     report['focus'] = {'start': focus_start, 'stop': focus_stop}
 
+    report['peak_start'] = peak.peak_start
+    report['peak_stop'] = peak.peak_stop
     peak_start = split_arms(chromosome, peak.peak_start)
     peak_stop = split_arms(chromosome, peak.peak_stop)
     report['peak'] = {'start': peak_start, 'stop': peak_stop}
@@ -86,6 +92,13 @@ def compile_signal_report(rank, peak, chromosome, population):
 
     report['minor_delta_aic'] = peak.minor_delta_aic
     report['sum_delta_aic'] = peak.sum_delta_aic
+
+    report['fit_data'] = {
+        'xx_gpos': peak.best_fit.xx.tolist(),
+        'xx_ppos': peak.ppos.tolist(),
+        'yy_signal': peak.best_fit.yy.tolist(),
+        'yy_best_fit': peak.best_fit.best_fit.tolist(),
+    }
 
     return report
 

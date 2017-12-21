@@ -180,3 +180,10 @@ texinfo_documents = [
      author, 'Ag1000GSelectionAtlas', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+
+def setup(app):
+    app.add_stylesheet(
+        '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css')
+    app.add_javascript(
+        '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js')

@@ -1,0 +1,39 @@
+# This is a Snakemake file.
+
+
+import yaml
+# load populations definitions
+with open('docs/populations.yml', mode='r') as f:
+    populations = yaml.load(f)
+    pop_ids = [p['id'] for p in populations]
+chromosomes = ['2', '3', 'X']
+
+
+rule build_h12:
+    input:
+        "agam-report-base/src/python/rockies.py",
+        "scripts/build_h12.py",
+        "ngs.sanger.ac.uk/production/ag1000g/phase1/selection.1.RC2/windowed/hstats.txt.gz",
+    output:
+        "docs/signal/H12/{population}/chr{chromosome}",
+        touch("docs/signal/H12/{population}/chr{chromosome}/build.done"),
+    shell:
+        "python scripts/build_h12.py "
+        "    --population {wildcards.population}"
+        "    --chromosome {wildcards.chromosome}"
+
+
+rule tabulate_signals:
+    input:
+        "scripts/tabulate_signals.py",
+        expand("docs/signal/H12/{population}/chr{chromosome}/build.done", population=pop_ids, chromosome=chromosomes),
+        # TODO more signals here
+    output:
+        "docs/signals.csv",
+    shell:
+        "python scripts/tabulate_signals.py"
+
+
+rule all:
+    input:
+        rules.tabulate_signals.output

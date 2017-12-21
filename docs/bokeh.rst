@@ -1,5 +1,10 @@
 Bokeh Spike
 ===========
 
-.. bokeh-plot:: ../scripts/spike_bokeh.py
-    :source-position: none
+Make some changes.........
+
+raw directive
+-------------
+
+.. raw:: html
+    :file: plot.html
