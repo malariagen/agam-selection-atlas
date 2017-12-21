@@ -11,7 +11,7 @@
     :header: Signal,Focus,Score
 
     {% for signal in signals -%}
-    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/chr{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
+    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_arm }}:{{ signal.focus_start }}-{{ signal.focus_stop }}",{{ signal.sum_delta_aic|int }}
     {% endfor %}
 {% else %}
 No signals.

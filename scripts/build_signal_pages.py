@@ -245,10 +245,10 @@ def main():
     genes = features[features['type'] == 'gene']
 
     # setup signals
-    signals = pd.read_csv('docs/signals.csv')
+    signals = pd.read_csv('docs/_static/data/signals.csv')
 
     # iterate over signal reports
-    for path in sorted(glob('docs/signal/*/*/*/*/report.yml')):
+    for path in sorted(glob('docs/_static/data/signal/*/*/*/*/report.yml')):
         build_signal_outputs(path, template, genes, signals)
 
 

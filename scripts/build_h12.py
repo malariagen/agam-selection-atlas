@@ -140,7 +140,7 @@ def main(population, chromosome, amplitude, min_amplitude, decay,
     )
 
     # setup output directory
-    output_dir = 'docs/signal/H12/{}/chr{}'.format(population, chromosome)
+    output_dir = 'docs/_static/data/signal/H12/{}/{}'.format(population, chromosome)
     if os.path.exists(output_dir):
         shutil.rmtree(output_dir)
     os.makedirs(output_dir)
@@ -191,7 +191,7 @@ if __name__ == '__main__':
     parser.add_argument('--min-minor-di', type=float, default=40)
     parser.add_argument('--min-total-di', type=float, default=80)
     parser.add_argument('--extend-di-frc', type=float, default=0.05)
-    parser.add_argument('--flank', type=float, default=8)
+    parser.add_argument('--flank', type=float, default=6)
     parser.add_argument('--cap', type=float, default=1)
     parser.add_argument('--vary-cap', action='store_true', default=False)
     args = parser.parse_args()

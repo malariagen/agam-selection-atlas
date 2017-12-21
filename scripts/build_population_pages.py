@@ -28,7 +28,7 @@ if __name__ == '__main__':
     population_template = env.get_template('population.rst')
 
     # load signals
-    tbl_signals = etl.fromcsv('docs/signals.csv')
+    tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
 
     for population in populations:
 

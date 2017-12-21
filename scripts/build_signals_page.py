@@ -17,7 +17,7 @@ if __name__ == '__main__':
     template = env.get_template('signals.rst')
 
     data = dict()
-    data['signals'] = list(etl.fromcsv('docs/signals.csv').dicts())
+    data['signals'] = list(etl.fromcsv('docs/_static/data/signals.csv').dicts())
 
     # render the report
     out_path = 'docs/signals.rst'

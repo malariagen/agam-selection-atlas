@@ -28,7 +28,7 @@ if __name__ == '__main__':
     )
     genes = features[features['type'] == 'gene']
 
-    signals = pd.read_csv('docs/signals.csv')
+    signals = pd.read_csv('docs/_static/data/signals.csv')
 
     for _, gene in genes.iterrows():
 

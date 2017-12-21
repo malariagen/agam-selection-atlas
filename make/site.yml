@@ -11,18 +11,18 @@ chromosomes = ['2', '3', 'X']
 
 rule build_signal_pages:
     input:
-        "docs/signals.csv",
+        "docs/_static/data/signals.csv",
         "scripts/build_signal_pages.py",
         "templates/signal.rst",
     output:
-        touch("docs/signal/docs.done"),
+        touch("docs/signal/.make"),
     shell:
         "python scripts/build_signal_pages.py"
 
 
 rule build_signals_page:
     input:
-        "docs/signals.csv",
+        "docs/_static/data/signals.csv",
         "scripts/build_signals_page.py",
         "templates/signals.rst",
     output:
@@ -33,7 +33,7 @@ rule build_signals_page:
 
 rule build_population_pages:
     input:
-        "docs/signals.csv",
+        "docs/_static/data/signals.csv",
         "scripts/build_population_pages.py",
         "templates/populations.rst",
         "templates/population.rst",
@@ -46,11 +46,11 @@ rule build_population_pages:
 
 rule build_gene_pages:
     input:
-        "docs/signals.csv",
+        "docs/_static/data/signals.csv",
         "scripts/build_gene_pages.py",
         "templates/gene.rst",
     output:
-        touch("docs/gene/docs.done"),
+        touch("docs/gene/.make"),
     shell:
         "python scripts/build_gene_pages.py"
 
@@ -60,6 +60,7 @@ rule docs:
         rules.build_signal_pages.output,
         rules.build_signals_page.output,
         rules.build_population_pages.output,
-        rules.build_gene_pages.output,
+        # disable for now, to save time
+#        rules.build_gene_pages.output,
     shell:
         "cd docs && make html"

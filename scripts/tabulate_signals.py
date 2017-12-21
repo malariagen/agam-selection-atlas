@@ -45,7 +45,7 @@ if __name__ == '__main__':
     )
     genes = features[features['type'] == 'gene']
 
-    for path in sorted(glob('docs/signal/*/*/*/*/report.yml')):
+    for path in sorted(glob('docs/_static/data/signal/*/*/*/*/report.yml')):
         print('reading', path)
 
         # load the basic signal report
@@ -111,4 +111,4 @@ if __name__ == '__main__':
         table += [row]
 
     table = etl.wrap(table).sort(key='sum_delta_aic', reverse=True)
-    table.tocsv('docs/signals.csv')
+    table.tocsv('docs/_static/data/signals.csv')
