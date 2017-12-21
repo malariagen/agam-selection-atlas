@@ -15,7 +15,7 @@ if __name__ == '__main__':
     env = jinja2.Environment(loader=loader)
 
     # load populations definitions
-    with open('docs/populations.yml', mode='r') as f:
+    with open('docs/_static/data/populations.yml', mode='r') as f:
         populations = yaml.load(f)
 
     # make the populations index page

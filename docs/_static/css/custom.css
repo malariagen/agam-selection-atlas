@@ -2,6 +2,11 @@
     margin: auto;
 }
 
+div.figure {
+    margin: 2em;
+    padding: 2em;
+}
+
 p.caption {
     color: #777777;
 }

@@ -213,17 +213,22 @@ def build_signal_outputs(path, template, genes, signals):
         orient='records')
 
     # render the report
-    out_path = os.path.join(os.path.dirname(path), 'index.rst')
-    print('rendering', out_path)
-    with open(out_path, mode='w') as f:
+    out_dir = os.path.join(
+        'docs',
+        os.path.dirname(path)[len('docs/_static/data/'):]
+    )
+    os.makedirs(out_dir, exist_ok=True)
+    page_path = os.path.join(out_dir, 'index.rst')
+    print('rendering', page_path)
+    with open(page_path, mode='w') as f:
         print(template.render(**report), file=f)
 
     # render a bokeh signal plot
     fig = fig_signal_location(report, genes)
     script, div = bemb.components(fig)
-    plot_out_path = os.path.join(os.path.dirname(path), 'peak_location.html')
-    print('rendering', plot_out_path)
-    with open(plot_out_path, mode='w') as f:
+    plot_path = os.path.join(out_dir, 'peak_location.html')
+    print('rendering', plot_path)
+    with open(plot_path, mode='w') as f:
         print('<div class="bokeh-figure peak-location">', file=f)
         print(script, file=f)
         print(div, file=f)

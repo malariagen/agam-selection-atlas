@@ -2,10 +2,13 @@
 
 
 import yaml
+
 # load populations definitions
-with open('docs/populations.yml', mode='r') as f:
+with open('docs/_static/data/populations.yml', mode='r') as f:
     populations = yaml.load(f)
     pop_ids = [p['id'] for p in populations]
+
+# analyse whole chromosomes
 chromosomes = ['2', '3', 'X']
 
 
@@ -55,7 +58,7 @@ rule build_gene_pages:
         "python scripts/build_gene_pages.py"
 
 
-rule docs:
+rule all:
     input:
         rules.build_signal_pages.output,
         rules.build_signals_page.output,

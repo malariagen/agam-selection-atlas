@@ -4,7 +4,7 @@
 ================================================================================
 
 {% macro gene(value) -%}
-:doc:`/gene/{{ value.id }}`
+:doc:`../../../../../gene/{{ value.id }}`
 {%- if value.name or value.description %} (
     {%- if value.name %}{{ value.name|trim }}{% endif -%}
     {%- if value.name and value.description %} - {% endif %}
@@ -14,8 +14,8 @@
 {%- endmacro %}
 
 This page describes a signal of selection found in the
-:doc:`/population/{{ population.id }}` population using the
-:doc:`/method/{{ statistic.id }}` statistic.
+:doc:`../../../../../population/{{ population.id }}` population using the
+:doc:`../../../../../method/{{ statistic.id }}` statistic.
 {%- if focus.start[0] == focus.stop[0] -%}
 The inferred focus of this signal is on chromosome arm
 **{{ focus.start[0] }}** between positions **{{ "{:,}".format(focus.start[1]) }}** and
@@ -40,7 +40,7 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Figure 1</strong>. Location of the signal of selection. Blue markers
+    <strong>Signal location</strong>. Blue markers
     show the values of the selection statistic.
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
@@ -88,7 +88,7 @@ focus of this signal:
     :header: Signal, Focus, Score
 
     {% for signal in overlapping_signals -%}
-    :doc:`/signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ "{:,}".format(signal.focus_start|int) }}-{% if signal.focus_stop_arm != signal.focus_start_arm%}{{ signal.focus_stop_arm }}:{% endif %}{{ "{:,}".format(signal.focus_stop|int) }}",{{ signal.sum_delta_aic|int }}
+    :doc:`../../../../../signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ "{:,}".format(signal.focus_start|int) }}-{% if signal.focus_stop_arm != signal.focus_start_arm%}{{ signal.focus_stop_arm }}:{% endif %}{{ "{:,}".format(signal.focus_stop|int) }}",{{ signal.sum_delta_aic|int }}
     {% endfor %}
 
 {% else %}
@@ -101,20 +101,26 @@ Diagnostics
 The information below provides some diagnostics from the
 :doc:`/method/peak_modelling` algorithm.
 
-.. figure:: peak_context.png
+.. raw:: html
 
-    **Figure 2**. Chromosome-wide selection statistic and results from peak
-    modelling. **a**, TODO. **b**, TODO.
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_context.png"/>
+    <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
+    </div>
 
-.. figure:: peak_targetting.png
+.. raw:: html
 
-    **Figure 3**. Diagnostics from targetting the selection signal to a focal
-    region. TODO.
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_targetting.png"/>
+    <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
+    </div>
 
-.. figure:: peak_fit.png
+.. raw:: html
 
-    **Figure 4**. Diagnostics from fitting a peak model to the selection signal.
-    **a**, TODO. **b**, TODO. **c**, TODO.
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_fit.png"/>
+    <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
+    </div>
 
 Model fit reports
 ~~~~~~~~~~~~~~~~~

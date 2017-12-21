@@ -7,8 +7,6 @@ import lmfit
 import shutil
 import yaml
 import seaborn as sns
-sns.set_context('paper')
-sns.set_style('darkgrid')
 sys.path.insert(0, 'agam-report-base/src/python')
 import rockies
 from ag1k import phase1_selection, phase1_ar3, phase1_ar31
@@ -19,7 +17,9 @@ phase1_ar31.init(os.path.join(ag1k_dir, 'AR3.1'))
 phase1_selection.init(os.path.join(ag1k_dir, 'selection.1.RC2'))
 genome = phase1_ar3.genome
 chromosomes = '2R', '2L', '3R', '3L', 'X'
-
+# setup styles
+sns.set_context('paper', font_scale=0.9)
+sns.set_style('darkgrid')
 
 # setup population labels
 pop_labels = {
@@ -140,7 +140,8 @@ def main(population, chromosome, amplitude, min_amplitude, decay,
     )
 
     # setup output directory
-    output_dir = 'docs/_static/data/signal/H12/{}/{}'.format(population, chromosome)
+    output_dir = 'docs/_static/data/signal/H12/{}/{}'.format(population,
+                                                             chromosome)
     if os.path.exists(output_dir):
         shutil.rmtree(output_dir)
     os.makedirs(output_dir)
@@ -166,10 +167,10 @@ def main(population, chromosome, amplitude, min_amplitude, decay,
     # build peak reports
     for i, peak in enumerate(peaks):
         rank = i + 1
-
         report = compile_signal_report(rank, peak, chromosome, population)
-
-        report_path = os.path.join(output_dir, str(rank), 'report.yml')
+        signal_dir = os.path.join(output_dir, str(rank))
+        os.makedirs(signal_dir, exist_ok=True)
+        report_path = os.path.join(signal_dir, 'report.yml')
         with open(report_path, mode='w') as f:
             yaml.dump(report, f, default_flow_style=False)
 

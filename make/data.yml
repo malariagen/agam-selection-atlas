@@ -4,7 +4,7 @@
 import yaml
 
 # load populations definitions
-with open('docs/populations.yml', mode='r') as f:
+with open('docs/_static/data/populations.yml', mode='r') as f:
     populations = yaml.load(f)
     pop_ids = [p['id'] for p in populations]
 
@@ -88,7 +88,8 @@ rule build_h12:
 rule tabulate_signals:
     input:
         "scripts/tabulate_signals.py",
-        expand("docs/_static/data/signal/H12/{population}/{chromosome}/.make", population=pop_ids, chromosome=chromosomes),
+        "docs/_static/data/signal/H12/BFS/X/.make",
+        # expand("docs/_static/data/signal/H12/{population}/{chromosome}/.make", population=pop_ids, chromosome=chromosomes),
         # TODO more signals here
     output:
         "docs/_static/data/signals.csv",
