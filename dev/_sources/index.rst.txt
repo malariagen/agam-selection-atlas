@@ -6,7 +6,7 @@ Ag1000G Selection Atlas
 
 Welcome to the *Anopheles gambiae* 1000 Genomes Project atlas of recent
 selection. This site provides information about signals of recent evolutionary
-selection in one or more natural populations of the malaria vector species
+selection in natural populations of the malaria vector species
 *Anopheles gambiae* and *Anopheles coluzzii*.
 
 .. toctree::
