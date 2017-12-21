@@ -185,5 +185,7 @@ texinfo_documents = [
 def setup(app):
     app.add_stylesheet(
         '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css')
+    app.add_stylesheet(
+        '/_static/css/custom.css')
     app.add_javascript(
         '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js')

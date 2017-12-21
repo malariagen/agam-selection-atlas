@@ -26,6 +26,21 @@ The inferred focus of this signal is between
 **{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
 {%- endif %}
 
+.. raw:: html
+    :file: peak_location.html
+
+.. raw:: html
+
+    <div class='bokeh-figure figure'><p class='caption'>
+    <strong>Figure 1</strong>. Location of the signal of selection. Blue markers
+    show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area
+    shows the focus of the selection signal. The shaded blue area shows
+    the genomic region in linkage with the selection event. Use the
+    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    over genes to see gene names and descriptions.
+    </p></div>
+
 {% if overlapping_genes|length == 0 %}
 No genes overlap the focal region.
 {% endif %}
@@ -50,15 +65,6 @@ region:
 {%- for value in adjacent_genes %} {{ gene(value) }}{{ ", " if not loop.last }}
 {%- endfor %}.
 {% endif %}
-
-.. figure:: peak_location.png
-    :alt: signal location
-
-    **Figure 1**. Location of the signal of selection. Blue markers show the
-    value of the selection statistic in non-overlapping 20 kbp windows. The
-    dashed black line shows the fitted peak model. The vertical red bar shows
-    the inferred focus of the selection signal. The shaded blue area shows the
-    inferred genomic region affected by the selection event.
 
 Overlapping signals
 -------------------

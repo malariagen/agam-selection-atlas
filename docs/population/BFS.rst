@@ -9,30 +9,15 @@ Burkina Faso *An. gambiae* population.
 Chromosome 2
 ------------
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chr2/1/index`,"2L:2,420,001-2,720,000",1728
-    :doc:`/signal/H12/BFS/chr2/2/index`,"2L:28,500,001-28,620,000",1077
-    :doc:`/signal/H12/BFS/chr2/3/index`,"2R:28,440,001-28,520,000",965
-    :doc:`/signal/H12/BFS/chr2/4/index`,"2R:40,800,001-41,020,000",469
-    :doc:`/signal/H12/BFS/chr2/5/index`,"2L:25,380,001-25,440,000",365
-    
+No signals.
 
 
 Chromosome 3
 ------------
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/BFS/chr3/1/index`,"3R:28,480,001-28,620,000",1057
-    :doc:`/signal/H12/BFS/chr3/2/index`,"3L:26,880,001-26,920,000",257
-    
+No signals.
 
 
 Chromosome X

@@ -96,7 +96,8 @@ def compile_signal_report(rank, peak, chromosome, population):
     report['fit_data'] = {
         'xx_gpos': peak.best_fit.xx.tolist(),
         'xx_ppos': peak.ppos.tolist(),
-        'yy_signal': peak.best_fit.yy.tolist(),
+        'yy_signal': peak.signal.tolist(),
+        'yy_signal_fitted': peak.best_fit.yy.tolist(),
         'yy_best_fit': peak.best_fit.best_fit.tolist(),
     }
 
