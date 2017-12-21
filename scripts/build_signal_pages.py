@@ -21,7 +21,7 @@ phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
 genome = phase1_ar3.genome
 
 
-def plot_signal_location(report, plot_width=800, plot_height=200):
+def plot_signal_location(report, plot_width=900, plot_height=200):
     fig = bplt.figure(title='Signal location', plot_width=plot_width,
                       plot_height=plot_height,
                       tools='xpan,xzoom_in,xzoom_out,xwheel_zoom,reset',
@@ -56,7 +56,7 @@ def plot_signal_location(report, plot_width=800, plot_height=200):
 
 
 def plot_genes(genes, chrom, start, stop, fig=None, offset=0, x_range=None,
-               plot_width=800, plot_height=100):
+               plot_width=900, plot_height=100):
 
     # setup figure
     if fig is None:
@@ -69,7 +69,7 @@ def plot_genes(genes, chrom, start, stop, fig=None, offset=0, x_range=None,
                           toolbar_location='above', active_drag='xpan',
                           active_scroll='xwheel_zoom')
         fig.xaxis.axis_label = 'Chromosome {} position (Mbp)'.format(chrom)
-        url = '/gene/@id'
+        url = '../../../../../gene/@id'
         taptool = fig.select(type=bmod.TapTool)
         taptool.callback = bmod.OpenURL(url=url)
 

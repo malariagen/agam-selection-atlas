@@ -88,6 +88,8 @@ rule build_h12:
 rule tabulate_signals:
     input:
         "scripts/tabulate_signals.py",
+        "docs/_static/data/signal/H12/BFS/2/.make",
+        "docs/_static/data/signal/H12/BFS/3/.make",
         "docs/_static/data/signal/H12/BFS/X/.make",
         # expand("docs/_static/data/signal/H12/{population}/{chromosome}/.make", population=pop_ids, chromosome=chromosomes),
         # TODO more signals here

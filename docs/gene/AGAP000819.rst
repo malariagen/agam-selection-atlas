@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP000819
+=============
+
+
+
+
+
+Description: Nuclear receptor subfamily 2 group e member (tailless).
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000819>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:15252295-15254168#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/BFS/X/1/index`,"X:15,120,001-15,260,000",836 (494 | 342)
+    
+
+
+
+
+
+

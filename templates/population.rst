@@ -1,7 +1,7 @@
 {{ population.label }}
 ======================
 
-The table below lists signals of recent selection discovered in the
+The tables below list signals of recent selection discovered in the
 {{ population.label }} population.
 
 {% macro signals_table(signals) -%}
@@ -19,15 +19,25 @@ No signals.
 {% endif %}
 {%- endmacro %}
 
-Chromosome 2
-------------
+Chromosome arm 2R
+-----------------
 
-{{ signals_table(signals['2']) }}
+{{ signals_table(signals['2R']) }}
 
-Chromosome 3
-------------
+Chromosome arm 2L
+-----------------
 
-{{ signals_table(signals['3']) }}
+{{ signals_table(signals['2L']) }}
+
+Chromosome arm 3R
+-----------------
+
+{{ signals_table(signals['3R']) }}
+
+Chromosome arm 3L
+-----------------
+
+{{ signals_table(signals['3L']) }}
 
 Chromosome X
 ------------

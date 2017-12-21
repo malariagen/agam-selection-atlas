@@ -50,22 +50,24 @@ if __name__ == '__main__':
             ((signals.focus_stop + 50000) >= gene.start)
         ]
 
-        gene_report = {
-            'gene': {
-                'id': gene.ID,
-                'name': gene.Name,
-                'description': gene.description,
-                'seqid': gene.seqid,
-                'start': gene.start,
-                'end': gene.end,
-            },
-            'overlapping_signals':
-                overlapping_signals.to_dict(orient='records'),
-            'adjacent_signals':
-                adjacent_signals.to_dict(orient='records'),
-        }
+        if len(overlapping_signals) or len(adjacent_signals):
 
-        out_path = os.path.join('docs', 'gene', gene.ID + '.rst')
-        print('rendering', out_path)
-        with open(out_path, mode='w') as f:
-            print(template.render(**gene_report), file=f)
+            gene_report = {
+                'gene': {
+                    'id': gene.ID,
+                    'name': gene.Name,
+                    'description': gene.description.split('[Source:')[0].strip(),
+                    'seqid': gene.seqid,
+                    'start': gene.start,
+                    'end': gene.end,
+                },
+                'overlapping_signals':
+                    overlapping_signals.to_dict(orient='records'),
+                'adjacent_signals':
+                    adjacent_signals.to_dict(orient='records'),
+            }
+
+            out_path = os.path.join('docs', 'gene', gene.ID + '.rst')
+            print('rendering', out_path)
+            with open(out_path, mode='w') as f:
+                print(template.render(**gene_report), file=f)

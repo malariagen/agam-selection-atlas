@@ -3,8 +3,8 @@
 }
 
 div.figure {
-    margin: 2em;
-    padding: 2em;
+    margin: .5em 2em .5em 2em;
+    padding: .5em 2em .5em 2em;
 }
 
 p.caption {
@@ -15,6 +15,6 @@ p.caption {
 }
 
 .bokeh-figure p.caption {
-    width: 800px;
+    width: 900px;
     margin: auto;
 }

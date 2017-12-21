@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP000540
+=============
+
+
+
+
+
+Description: Proton-coupled amino acid transporter.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000540>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:9662048-9670481#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/BFS/X/3/index`,"X:9,640,001-9,720,000",334 (24 | 310)
+    
+
+
+
+
+
+

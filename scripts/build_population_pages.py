@@ -40,9 +40,11 @@ if __name__ == '__main__':
         data = dict()
         data['population'] = population
         data['signals'] = {
-            '2': [s for s in pop_signals if s['chromosome'] == '2'],
-            '3': [s for s in pop_signals if s['chromosome'] == '3'],
-            'X': [s for s in pop_signals if s['chromosome'] == 'X'],
+            '2R': [s for s in pop_signals if s['epicenter_arm'] == '2R'],
+            '2L': [s for s in pop_signals if s['epicenter_arm'] == '2L'],
+            '3R': [s for s in pop_signals if s['epicenter_arm'] == '3R'],
+            '3L': [s for s in pop_signals if s['epicenter_arm'] == '3L'],
+            'X': [s for s in pop_signals if s['epicenter_arm'] == 'X'],
         }
 
         # render the report

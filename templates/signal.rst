@@ -1,6 +1,6 @@
 :orphan:
 
-{{ population.label }} | {{ statistic.label }} | Chromosome {{ chromosome }} | Signal #{{ rank }}
+{{ statistic.label }} / {{ population.label }} / Chromosome {{ chromosome }} / #{{ rank }}
 ================================================================================
 
 {% macro gene(value) -%}

@@ -1,7 +1,11 @@
 # This is a Snakemake file.
 
-
 import yaml
+import os
+
+static_files = [os.path.join(dirpath, name)
+                for (dirpath, _, filenames) in os.walk('docs/_static')
+                for name in filenames]
 
 # load populations definitions
 with open('docs/_static/data/populations.yml', mode='r') as f:
@@ -60,10 +64,10 @@ rule build_gene_pages:
 
 rule all:
     input:
+        static_files,
         rules.build_signal_pages.output,
         rules.build_signals_page.output,
         rules.build_population_pages.output,
-        # disable for now, to save time
-#        rules.build_gene_pages.output,
+        rules.build_gene_pages.output,
     shell:
-        "cd docs && make html"
+        "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../agam-selection-atlas-gh-pages/dev/"

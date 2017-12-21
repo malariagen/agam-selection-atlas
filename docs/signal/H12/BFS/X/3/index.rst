@@ -1,6 +1,6 @@
 :orphan:
 
-Burkina Faso *An. gambiae* | H12 | Chromosome X | Signal #3
+H12 / Burkina Faso *An. gambiae* / Chromosome X / #3
 ================================================================================
 
 

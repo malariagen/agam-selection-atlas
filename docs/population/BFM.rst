@@ -6,15 +6,29 @@ Burkina Faso *An. coluzzii* population.
 
 
 
-Chromosome 2
-------------
+Chromosome arm 2R
+-----------------
 
 
 No signals.
 
 
-Chromosome 3
-------------
+Chromosome arm 2L
+-----------------
+
+
+No signals.
+
+
+Chromosome arm 3R
+-----------------
+
+
+No signals.
+
+
+Chromosome arm 3L
+-----------------
 
 
 No signals.
