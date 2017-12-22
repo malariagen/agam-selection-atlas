@@ -3,14 +3,14 @@ delta_aic:
 - 30.586424538438905
 - 208.8111216493969
 epicenter:
+  end:
+  - 3R
+  - 49360000
   start:
   - 3R
   - 49320001
-  stop:
-  - 3R
-  - 49360000
+epicenter_end: 49360000
 epicenter_start: 49320001
-epicenter_stop: 49360000
 fit_data:
   xx_gpos:
   - -5.960000000000932
@@ -960,7 +960,7 @@ fit_data:
   - 0.03642942524153944
   - 0.036429389388667514
   - 0.03642935418958419
-  yy_signal:
+  yy_values:
   - 0.05151228733459357
   - 0.05316635160680529
   - 0.06734404536862004
@@ -1276,7 +1276,7 @@ fit_data:
   - 0.031190926275992445
   - 0.030245746691871456
   - 0.058601134215500936
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.05151228733459357
   - 0.05316635160680529
   - 0.06734404536862004
@@ -1622,27 +1622,27 @@ fit_reports:
     \ are <  0.100)\n    C(amplitude, decay)          = -0.670 \n    C(decay, c) \
     \                 = -0.436 \n"
 focus:
+  end:
+  - 3R
+  - 49380000
   start:
   - 3R
   - 49320001
-  stop:
-  - 3R
-  - 49380000
+focus_end: 49380000
 focus_start: 49320001
-focus_stop: 49380000
 minor_delta_aic: 30.586424538438905
 peak:
+  end:
+  - 3R
+  - 50020000
   start:
   - 3R
   - 47940001
-  stop:
-  - 3R
-  - 50020000
+peak_end: 50020000
 peak_start: 47940001
-peak_stop: 50020000
 population:
   id: GWA
-  label: Guinea-Bissau
+  label: Guinea Bissau
 rank: 1
 statistic:
   id: H12

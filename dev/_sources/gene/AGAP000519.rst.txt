@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP000519
-=============
+==========
+
+Location: **X:9,215,504-9,266,532**
 
 
 
-
-
-Description: Diacylglycerol kinase (atp dependent).
+Description: **Diacylglycerol kinase (atp dependent)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000519>`_ |
@@ -16,21 +18,41 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/BFS/X/2/index`,"X:9,180,001-9,260,000",394 (212 | 181)
-    :doc:`../signal/H12/BFM/X/2/index`,"X:9,200,001-9,240,000",165 (44 | 120)
+    :doc:`../signal/H12/BFS/X/2/index`, "X:9,180,001-9,260,000", 394 (212 | 181)
+    :doc:`../signal/H12/BFM/X/2/index`, "X:9,200,001-9,240,000", 165 (44 | 120)
     
 
 
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

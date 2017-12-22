@@ -126,7 +126,7 @@ Window: 75660685 75680684
 find extent of region under selection
 extend hit left 154.456204562
 extend hit right 153.670557065
-extend hit right 149.495833956
+extend hit right 149.495833957
 find flanking region
 rescan 3384 4185
 scan progress 3400 126.2628445

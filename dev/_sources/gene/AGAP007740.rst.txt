@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP007740
-=============
+==========
 
-
+Location: **3R:172,973-173,928**
 
 Name: **RpLP1**
 
-Description: 60s ribosomal protein lp1.
+Description: **60s ribosomal protein lp1**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007740>`_ |
@@ -16,20 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GAS/3/2/index`,"3R:80,001-180,000",160 (23 | 136)
+    :doc:`../signal/H12/GAS/3/2/index`, "3R:80,001-180,000", 160 (23 | 136)
     
 
 
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

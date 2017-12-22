@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Guinea *An. gambiae* / Chromosome 3 / #1
-================================================================================
-
-
+==============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/GNS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **3R** between positions **28,480,001** and
 **28,600,000**.
 The evidence supporting this signal is
@@ -24,39 +25,43 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 11 genes overlap the focal region: :doc:`../../../../../gene/AGAP009184`,  :doc:`../../../../../gene/AGAP009185`,  :doc:`../../../../../gene/AGAP009187` (Indanol dehydrogenase),  :doc:`../../../../../gene/AGAP009188` (solute carrier family 39 (zinc transporter), member 9),  :doc:`../../../../../gene/AGAP009189`,  :doc:`../../../../../gene/AGAP009190` (GSTE8 - glutathione S-transferase epsilon class 8),  :doc:`../../../../../gene/AGAP009191` (GSTE6 - glutathione S-transferase epsilon class 6),  :doc:`../../../../../gene/AGAP009192` (GSTE5 - glutathione S-transferase epsilon class 5),  :doc:`../../../../../gene/AGAP009193` (GSTE4 - glutathione S-transferase epsilon class 4),  :doc:`../../../../../gene/AGAP009194` (GSTE2 - glutathione S-transferase epsilon class 2),  :doc:`../../../../../gene/AGAP009195` (GSTE1 - glutathione S-transferase epsilon class 1).
+
+The following 11 genes overlap the focal region: :doc:`../../../../../gene/AGAP009184`,  :doc:`../../../../../gene/AGAP009185`,  :doc:`../../../../../gene/AGAP009187`:sup:`1` (Indanol dehydrogenase),  :doc:`../../../../../gene/AGAP009188` (solute carrier family 39 (zinc transporter), member 9),  :doc:`../../../../../gene/AGAP009189`,  :doc:`../../../../../gene/AGAP009190`:sup:`1` (GSTE8 - glutathione S-transferase epsilon class 8),  :doc:`../../../../../gene/AGAP009191`:sup:`1` (GSTE6 - glutathione S-transferase epsilon class 6),  :doc:`../../../../../gene/AGAP009192`:sup:`1` (GSTE5 - glutathione S-transferase epsilon class 5),  :doc:`../../../../../gene/AGAP009193`:sup:`1` (GSTE4 - glutathione S-transferase epsilon class 4),  :doc:`../../../../../gene/AGAP009194`:sup:`1` (GSTE2 - glutathione S-transferase epsilon class 2),  :doc:`../../../../../gene/AGAP009195`:sup:`1` (GSTE1 - glutathione S-transferase epsilon class 1).
 
 
 
 
 The following 6 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP009196` (GSTE7 - glutathione S-transferase epsilon class 7),  :doc:`../../../../../gene/AGAP009197` (GSTE3 - glutathione S-transferase epsilon class 3),  :doc:`../../../../../gene/AGAP009198`,  :doc:`../../../../../gene/AGAP009199` (palmitoyltransferase ZDHHC24),  :doc:`../../../../../gene/AGAP009200` (collagen type IV alpha),  :doc:`../../../../../gene/AGAP009201` (collagen type IV alpha).
+region: :doc:`../../../../../gene/AGAP009196`:sup:`1` (GSTE7 - glutathione S-transferase epsilon class 7),  :doc:`../../../../../gene/AGAP009197`:sup:`1` (GSTE3 - glutathione S-transferase epsilon class 3),  :doc:`../../../../../gene/AGAP009198`,  :doc:`../../../../../gene/AGAP009199` (palmitoyltransferase ZDHHC24),  :doc:`../../../../../gene/AGAP009200` (collagen type IV alpha),  :doc:`../../../../../gene/AGAP009201` (collagen type IV alpha).
 
+
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
 Overlapping signals
 -------------------
 
-
-
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
+The following selection signals have an focus which overlaps with the
+focus of this signal.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal, Focus, Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../../../../../signal/H12/CMS/3/1/index`,"3R:28,540,001-28,640,000",1109
-    :doc:`../../../../../signal/H12/BFS/3/1/index`,"3R:28,480,001-28,620,000",818
-    :doc:`../../../../../signal/H12/UGS/3/1/index`,"3R:28,560,001-28,620,000",750
-    :doc:`../../../../../signal/H12/BFM/3/1/index`,"3R:28,520,001-28,620,000",676
+    :doc:`../../../../../signal/H12/CMS/3/1/index`, "3R:28,540,001-28,640,000", 1109 (680 | 428)
+    :doc:`../../../../../signal/H12/BFS/3/1/index`, "3R:28,480,001-28,620,000", 818 (500 | 318)
+    :doc:`../../../../../signal/H12/UGS/3/1/index`, "3R:28,560,001-28,620,000", 750 (426 | 323)
+    :doc:`../../../../../signal/H12/BFM/3/1/index`, "3R:28,520,001-28,620,000", 676 (393 | 283)
     
 
 
@@ -65,7 +70,7 @@ Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -170,10 +175,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -181,4 +188,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

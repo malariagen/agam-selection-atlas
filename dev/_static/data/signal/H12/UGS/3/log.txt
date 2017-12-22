@@ -80,7 +80,7 @@ extend hit right 297.846486347
 extend hit right 295.542285727
 extend hit right 294.385883038
 extend hit right 296.999440125
-extend hit right 293.867865062
+extend hit right 293.867865063
 find flanking region
 rescan 2185 2921
 scan progress 2200 83.732837

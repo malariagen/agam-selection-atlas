@@ -3,14 +3,14 @@ delta_aic:
 - 76.18184323471928
 - 20.423723728166806
 epicenter:
+  end:
+  - 3R
+  - 36480000
   start:
   - 3R
   - 36440001
-  stop:
-  - 3R
-  - 36480000
+epicenter_end: 36480000
 epicenter_start: 36440001
-epicenter_stop: 36480000
 fit_data:
   xx_gpos:
   - -5.960000000000932
@@ -1077,7 +1077,7 @@ fit_data:
   - 0.03798385720901968
   - 0.03797534777504059
   - 0.03796688078205508
-  yy_signal:
+  yy_values:
   - 0.013667640682439437
   - 0.01272504477330568
   - 0.013479121500612685
@@ -1432,7 +1432,7 @@ fit_data:
   - 0.04090866245640494
   - 0.04020171552455463
   - 0.04665849750212083
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.013667640682439437
   - 0.01272504477330568
   - 0.013479121500612685
@@ -1818,24 +1818,24 @@ fit_reports:
     \ C(amplitude, c)              = -0.168 \n    C(amplitude, decay)          = -0.163\
     \ \n"
 focus:
+  end:
+  - 3R
+  - 36560000
   start:
   - 3R
   - 36320001
-  stop:
-  - 3R
-  - 36560000
+focus_end: 36560000
 focus_start: 36320001
-focus_stop: 36560000
 minor_delta_aic: 20.423723728166806
 peak:
+  end:
+  - 3R
+  - 38520000
   start:
   - 3R
   - 35980001
-  stop:
-  - 3R
-  - 38520000
+peak_end: 38520000
 peak_start: 35980001
-peak_stop: 38520000
 population:
   id: UGS
   label: Uganda *An. gambiae*

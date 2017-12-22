@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Burkina Faso *An. gambiae* / Chromosome 3 / #5
-================================================================================
-
-
+====================================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **3R** between positions **43,640,001** and
 **43,680,000**.
 The evidence supporting this signal is
@@ -24,14 +25,17 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP009799` (ABCC13 - ATP-binding cassette transporter (ABC transporter) family C member 13),  :doc:`../../../../../gene/AGAP009800`,  :doc:`../../../../../gene/AGAP009801`,  :doc:`../../../../../gene/AGAP009802` (Gr12 - gustatory receptor 12),  :doc:`../../../../../gene/AGAP009803` (Gr11 - gustatory receptor 11),  :doc:`../../../../../gene/AGAP009804` (Gr10 - gustatory receptor 10),  :doc:`../../../../../gene/AGAP009805` (Gr9 - gustatory receptor 9).
+
+The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP009799` (ABCC13 - ATP-binding cassette transporter (ABC transporter) family C member 13),  :doc:`../../../../../gene/AGAP009800`,  :doc:`../../../../../gene/AGAP009801`,  :doc:`../../../../../gene/AGAP009802`:sup:`3` (Gr12 - gustatory receptor 12),  :doc:`../../../../../gene/AGAP009803`:sup:`3` (Gr11 - gustatory receptor 11),  :doc:`../../../../../gene/AGAP009804`:sup:`3` (Gr10 - gustatory receptor 10),  :doc:`../../../../../gene/AGAP009805`:sup:`3` (Gr9 - gustatory receptor 9).
 
 
 
@@ -40,18 +44,16 @@ The following 4 genes are within 50 kbp of the focal
 region: :doc:`../../../../../gene/AGAP009806` (MAX-like protein X),  :doc:`../../../../../gene/AGAP009807` (E2F transcription factor 4/5),  :doc:`../../../../../gene/AGAP009808` (ATP-dependent RNA helicase DDX47/RRP3),  :doc:`../../../../../gene/AGAP009809`.
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -157,10 +159,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -168,4 +172,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

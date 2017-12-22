@@ -1,9 +1,11 @@
 :orphan:
 
+
+
 AGAP029071
-=============
+==========
 
-
+Location: **3R:31,741,329-31,741,691**
 
 
 
@@ -18,18 +20,38 @@ External links:
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/BFS/3/4/index`,"3R:31,760,001-31,800,000",95 (27 | 68)
+    :doc:`../signal/H12/BFS/3/4/index`, "3R:31,760,001-31,800,000", 95 (27 | 68)
     
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

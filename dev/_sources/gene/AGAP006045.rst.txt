@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP006045
-=============
+==========
+
+Location: **2L:25,588,281-25,619,543**
 
 
 
-
-
-Description: Protein yorkie.
+Description: **Protein yorkie**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006045>`_ |
@@ -18,18 +20,38 @@ External links:
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GNS/2/4/index`,"2L:25,660,001-25,760,000",298 (232 | 66)
+    :doc:`../signal/H12/GNS/2/4/index`, "2L:25,660,001-25,760,000", 298 (232 | 66)
     
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

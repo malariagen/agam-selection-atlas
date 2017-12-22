@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Uganda *An. gambiae* / Chromosome 3 / #2
-================================================================================
-
-
+==============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/UGS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **3R** between positions **49,600,001** and
 **49,820,000**.
 The evidence supporting this signal is
@@ -24,9 +25,12 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
+
+Genes
+-----
 
 
 
@@ -37,21 +41,19 @@ The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP0
 
 
 The following 5 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP010156` (ATP citrate lyase),  :doc:`../../../../../gene/AGAP013762`,  :doc:`../../../../../gene/AGAP010157` (Ast2 - allatostatin 2),  :doc:`../../../../../gene/AGAP010168`,  :doc:`../../../../../gene/AGAP010169`.
+region: :doc:`../../../../../gene/AGAP010156` (ATP citrate lyase),  :doc:`../../../../../gene/AGAP013762`,  :doc:`../../../../../gene/AGAP010157` (Ast2 - allatostatin 2),  :doc:`../../../../../gene/AGAP010168`,  :doc:`../../../../../gene/AGAP010169`:sup:`2`.
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -114,13 +116,13 @@ Right flank, peak model::
         Bayesian info crit = -1781.840
     [[Variables]]
         amplitude:   0.07322357 +/- 0.003790 (5.18%) (init= 0.5)
-        decay:       1.99999998 +/- 0.311615 (15.58%) (init= 0.5)
-        c:           0.02537728 +/- 0.002926 (11.53%) (init= 0.03)
+        decay:       1.99999998 +/- 0.310843 (15.54%) (init= 0.5)
+        c:           0.02537728 +/- 0.002924 (11.53%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
         C(decay, c)                  = -0.897 
-        C(amplitude, c)              = -0.172 
-        C(amplitude, decay)          = -0.154 
+        C(amplitude, c)              = -0.173 
+        C(amplitude, decay)          = -0.153 
 
 
 Left flank, null model::
@@ -158,10 +160,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -169,4 +173,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

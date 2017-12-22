@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Burkina Faso *An. gambiae* / Chromosome 3 / #4
-================================================================================
-
-
+====================================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **3R** between positions **31,760,001** and
 **31,800,000**.
 The evidence supporting this signal is
@@ -24,34 +25,35 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 16 genes overlap the focal region: :doc:`../../../../../gene/AGAP009359`,  :doc:`../../../../../gene/AGAP029068`,  :doc:`../../../../../gene/AGAP013734`,  :doc:`../../../../../gene/AGAP029063`,  :doc:`../../../../../gene/AGAP013756`,  :doc:`../../../../../gene/AGAP029094`,  :doc:`../../../../../gene/AGAP009360`,  :doc:`../../../../../gene/AGAP028158`,  :doc:`../../../../../gene/AGAP013714`,  :doc:`../../../../../gene/AGAP029089`,  :doc:`../../../../../gene/AGAP013731`,  :doc:`../../../../../gene/AGAP009361`,  :doc:`../../../../../gene/AGAP028039`,  :doc:`../../../../../gene/AGAP009362`,  :doc:`../../../../../gene/AGAP009363` (CYP9M1 - cytochrome P450),  :doc:`../../../../../gene/AGAP009364`.
+
+The following 16 genes overlap the focal region: :doc:`../../../../../gene/AGAP009359`,  :doc:`../../../../../gene/AGAP029068`,  :doc:`../../../../../gene/AGAP013734`,  :doc:`../../../../../gene/AGAP029063`,  :doc:`../../../../../gene/AGAP013756`,  :doc:`../../../../../gene/AGAP029094`,  :doc:`../../../../../gene/AGAP009360`,  :doc:`../../../../../gene/AGAP028158`,  :doc:`../../../../../gene/AGAP013714`,  :doc:`../../../../../gene/AGAP029089`,  :doc:`../../../../../gene/AGAP013731`,  :doc:`../../../../../gene/AGAP009361`,  :doc:`../../../../../gene/AGAP028039`,  :doc:`../../../../../gene/AGAP009362`,  :doc:`../../../../../gene/AGAP009363`:sup:`1` (CYP9M1 - cytochrome P450),  :doc:`../../../../../gene/AGAP009364`.
 
 
 
 
 The following 27 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP029071`,  :doc:`../../../../../gene/AGAP029072`,  :doc:`../../../../../gene/AGAP013718`,  :doc:`../../../../../gene/AGAP009352`,  :doc:`../../../../../gene/AGAP009353`,  :doc:`../../../../../gene/AGAP009354`,  :doc:`../../../../../gene/AGAP009355`,  :doc:`../../../../../gene/AGAP029090`,  :doc:`../../../../../gene/AGAP028222`,  :doc:`../../../../../gene/AGAP009356`,  :doc:`../../../../../gene/AGAP009357`,  :doc:`../../../../../gene/AGAP029081`,  :doc:`../../../../../gene/AGAP009358`,  :doc:`../../../../../gene/AGAP029076`,  :doc:`../../../../../gene/AGAP029075`,  :doc:`../../../../../gene/AGAP013776`,  :doc:`../../../../../gene/AGAP009365` (cellular retinaldehyde binding protein),  :doc:`../../../../../gene/AGAP009366`,  :doc:`../../../../../gene/AGAP009367`,  :doc:`../../../../../gene/AGAP009368` (plugin - plugin),  :doc:`../../../../../gene/AGAP009369`,  :doc:`../../../../../gene/AGAP009370` (Acp34A-2),  :doc:`../../../../../gene/AGAP009371`,  :doc:`../../../../../gene/AGAP009372`,  :doc:`../../../../../gene/AGAP009373`,  :doc:`../../../../../gene/AGAP009374` (CYP9M1 - cytochrome P450),  :doc:`../../../../../gene/AGAP009375` (CYP9M2 - cytochrome P450).
+region: :doc:`../../../../../gene/AGAP029071`,  :doc:`../../../../../gene/AGAP029072`,  :doc:`../../../../../gene/AGAP013718`,  :doc:`../../../../../gene/AGAP009352`,  :doc:`../../../../../gene/AGAP009353`,  :doc:`../../../../../gene/AGAP009354`,  :doc:`../../../../../gene/AGAP009355`,  :doc:`../../../../../gene/AGAP029090`,  :doc:`../../../../../gene/AGAP028222`,  :doc:`../../../../../gene/AGAP009356`,  :doc:`../../../../../gene/AGAP009357`,  :doc:`../../../../../gene/AGAP029081`,  :doc:`../../../../../gene/AGAP009358`,  :doc:`../../../../../gene/AGAP029076`,  :doc:`../../../../../gene/AGAP029075`,  :doc:`../../../../../gene/AGAP013776`,  :doc:`../../../../../gene/AGAP009365` (cellular retinaldehyde binding protein),  :doc:`../../../../../gene/AGAP009366`,  :doc:`../../../../../gene/AGAP009367`,  :doc:`../../../../../gene/AGAP009368` (plugin - plugin),  :doc:`../../../../../gene/AGAP009369`,  :doc:`../../../../../gene/AGAP009370` (Acp34A-2),  :doc:`../../../../../gene/AGAP009371`,  :doc:`../../../../../gene/AGAP009372`,  :doc:`../../../../../gene/AGAP009373`,  :doc:`../../../../../gene/AGAP009374`:sup:`1` (CYP9M1 - cytochrome P450),  :doc:`../../../../../gene/AGAP009375`:sup:`1` (CYP9M2 - cytochrome P450).
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -156,10 +158,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -167,4 +171,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

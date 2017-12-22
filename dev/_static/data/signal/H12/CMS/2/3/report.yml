@@ -3,14 +3,14 @@ delta_aic:
 - 195.3673184787633
 - 74.46500818179697
 epicenter:
+  end:
+  - 2R
+  - 40720000
   start:
   - 2R
   - 40680001
-  stop:
-  - 2R
-  - 40720000
+epicenter_end: 40720000
 epicenter_start: 40680001
-epicenter_stop: 40720000
 fit_data:
   xx_gpos:
   - -5.960000000000932
@@ -906,7 +906,7 @@ fit_data:
   - 0.05494905733829465
   - 0.054890070169832356
   - 0.054832251026431085
-  yy_signal:
+  yy_values:
   - 0.02577190082644628
   - 0.022393388429752067
   - 0.019722314049586773
@@ -1204,7 +1204,7 @@ fit_data:
   - 0.043451239669421486
   - 0.033970247933884305
   - 0.04180495867768595
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.02577190082644628
   - 0.022393388429752067
   - 0.019722314049586773
@@ -1533,24 +1533,24 @@ fit_reports:
     \ C(amplitude, c)              = -0.422 \n    C(amplitude, decay)          = \
     \ 0.107 \n"
 focus:
+  end:
+  - 2R
+  - 40980000
   start:
   - 2R
   - 40600001
-  stop:
-  - 2R
-  - 40980000
+focus_end: 40980000
 focus_start: 40600001
-focus_stop: 40980000
 minor_delta_aic: 74.46500818179697
 peak:
+  end:
+  - 2R
+  - 43000000
   start:
   - 2R
   - 39820001
-  stop:
-  - 2R
-  - 43000000
+peak_end: 43000000
 peak_start: 39820001
-peak_stop: 43000000
 population:
   id: CMS
   label: Cameroon *An. gambiae*

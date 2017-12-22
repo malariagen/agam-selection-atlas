@@ -3,14 +3,14 @@ delta_aic:
 - 91.57754829615988
 - 22.430772244124
 epicenter:
+  end:
+  - 2R
+  - 27520000
   start:
   - 2R
   - 27480001
-  stop:
-  - 2R
-  - 27520000
+epicenter_end: 27520000
 epicenter_start: 27480001
-epicenter_stop: 27520000
 fit_data:
   xx_gpos:
   - -5.999999999999872
@@ -918,7 +918,7 @@ fit_data:
   - 0.028481985612872383
   - 0.028481985612872383
   - 0.028481985612872383
-  yy_signal:
+  yy_values:
   - 0.011659807956104249
   - 0.01226947111720774
   - 0.011964639536655991
@@ -1220,7 +1220,7 @@ fit_data:
   - 0.0197378448407255
   - 0.015927450083828683
   - 0.016841944825483922
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.011659807956104249
   - 0.01226947111720774
   - 0.011964639536655991
@@ -1552,24 +1552,24 @@ fit_reports:
     \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.782 \n   \
     \ C(decay, c)                  = -0.230 \n"
 focus:
+  end:
+  - 2R
+  - 27520000
   start:
   - 2R
   - 27480001
-  stop:
-  - 2R
-  - 27520000
+focus_end: 27520000
 focus_start: 27480001
-focus_stop: 27520000
 minor_delta_aic: 22.430772244124
 peak:
+  end:
+  - 2R
+  - 27800000
   start:
   - 2R
   - 27360001
-  stop:
-  - 2R
-  - 27800000
+peak_end: 27800000
 peak_start: 27360001
-peak_stop: 27800000
 population:
   id: BFS
   label: Burkina Faso *An. gambiae*

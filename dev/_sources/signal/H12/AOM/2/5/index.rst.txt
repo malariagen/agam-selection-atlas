@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Angola *An. coluzzii* / Chromosome 2 / #5
-================================================================================
-
-
+===============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/AOM` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **2R** between positions **59,700,001** and
 **60,240,000**.
 The evidence supporting this signal is
@@ -24,9 +25,12 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
+
+Genes
+-----
 
 
 
@@ -40,18 +44,16 @@ No genes are within 50 kbp of the focal region.
 
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -113,13 +115,13 @@ Right flank, peak model::
         Akaike info crit   = -1567.850
         Bayesian info crit = -1556.461
     [[Variables]]
-        amplitude:   0.27637999 +/- 0.020384 (7.38%) (init= 0.5)
-        decay:       3          +/- 0.066735 (2.22%) (init= 0.5)
-        c:           0.05999999 +/- 0.194553 (324.26%) (init= 0.03)
+        amplitude:   0.27637999 +/- 0.020414 (7.39%) (init= 0.5)
+        decay:       3          +/- 0.065861 (2.20%) (init= 0.5)
+        c:           0.05999999 +/- 0.193846 (323.08%) (init= 0.03)
         cap:         1 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  =  0.910 
-        C(amplitude, c)              =  0.751 
+        C(decay, c)                  =  0.909 
+        C(amplitude, c)              =  0.752 
         C(amplitude, decay)          =  0.487 
 
 
@@ -158,10 +160,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -169,4 +173,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

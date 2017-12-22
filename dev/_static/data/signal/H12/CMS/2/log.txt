@@ -71,36 +71,36 @@ scan progress 1400 56.04
 scan progress 1500 60.04
 scan progress 1600 64.04
 scan progress 1700 68.04
-next peak: 3213 [ 461.82269762  104.6038033 ]
+next peak: 3213 [ 461.82269761  104.6038033 ]
 ********************************************************************************
 Iteration 2
 Peak index: 3213
-Delta AIC: [ 461.82269762  104.6038033 ]
+Delta AIC: [ 461.82269761  104.6038033 ]
 Window: 64245106 64265105
 ********************************************************************************
 find extent of region under selection
-extend hit left 565.153631432
-extend hit left 564.0403749
-extend hit left 563.160462593
-extend hit left 564.152353931
-extend hit left 562.618272576
-extend hit left 561.043800896
-extend hit left 558.416893626
-extend hit left 555.556815925
-extend hit left 552.296621557
-extend hit left 549.378882176
-extend hit left 546.892861675
-extend hit left 543.964274992
-extend hit left 541.061602576
-extend hit left 538.308069673
-extend hit right 566.05520383
+extend hit left 565.153631466
+extend hit left 564.040374897
+extend hit left 563.16046257
+extend hit left 564.152354393
+extend hit left 562.618272561
+extend hit left 561.043800897
+extend hit left 558.416893395
+extend hit left 555.556815988
+extend hit left 552.296617529
+extend hit left 549.378884337
+extend hit left 546.892861663
+extend hit left 543.964274978
+extend hit left 541.061616906
+extend hit left 538.30806968
+extend hit right 566.055203826
 extend hit right 566.374920187
-extend hit right 558.657126922
-extend hit right 558.466226543
-extend hit right 554.777615077
-extend hit right 553.634250644
-extend hit right 552.023365602
-extend hit right 546.397832603
+extend hit right 558.65712686
+extend hit right 558.466226636
+extend hit right 554.777615075
+extend hit right 553.63424981
+extend hit right 552.023365882
+extend hit right 546.397832497
 extend hit right 540.169939118
 find flanking region
 rescan 2715 3545
@@ -145,5 +145,5 @@ scan progress 2000 80.04
 scan progress 2100 84.04
 scan progress 2200 88.04
 scan progress 2300 92.04
-next peak: 2828 [ 54.88024817  24.71622184]
+next peak: 2828 [ 54.88024817  24.71622077]
 all done

@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Angola *An. coluzzii* / Chromosome 3 / #3
-================================================================================
-
-
+===============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/AOM` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **3L** between positions **5,980,001** and
 **6,040,000**.
 The evidence supporting this signal is
@@ -24,9 +25,12 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
+
+Genes
+-----
 
 
 
@@ -40,18 +44,16 @@ The following 3 genes are within 50 kbp of the focal
 region: :doc:`../../../../../gene/AGAP010542`,  :doc:`../../../../../gene/AGAP010545`,  :doc:`../../../../../gene/AGAP028728` (CLIPE5 - CLIP-domain serine protease).
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -157,10 +159,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -168,4 +172,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

@@ -3,14 +3,14 @@ delta_aic:
 - 142.76906016015027
 - 37.05570701771262
 epicenter:
+  end:
+  - 2R
+  - 3440000
   start:
   - 2R
   - 3400001
-  stop:
-  - 2R
-  - 3440000
+epicenter_end: 3440000
 epicenter_start: 3400001
-epicenter_stop: 3440000
 fit_data:
   xx_gpos:
   - -5.960000000000004
@@ -909,7 +909,7 @@ fit_data:
   - 0.023829141391671447
   - 0.023826014314879233
   - 0.023823000499058018
-  yy_signal:
+  yy_values:
   - 0.048907388137356934
   - 0.03798126951092612
   - 0.034859521331945885
@@ -1208,7 +1208,7 @@ fit_data:
   - 0.01925078043704474
   - 0.019771071800208116
   - 0.03537981269510925
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.048907388137356934
   - 0.03798126951092612
   - 0.034859521331945885
@@ -1537,24 +1537,24 @@ fit_reports:
     \ correlations are <  0.100)\n    C(decay, c)                  = -0.716 \n   \
     \ C(amplitude, decay)          = -0.500 \n"
 focus:
+  end:
+  - 2R
+  - 3460000
   start:
   - 2R
   - 3400001
-  stop:
-  - 2R
-  - 3460000
+focus_end: 3460000
 focus_start: 3400001
-focus_stop: 3460000
 minor_delta_aic: 37.05570701771262
 peak:
+  end:
+  - 2R
+  - 4980000
   start:
   - 2R
   - 2300001
-  stop:
-  - 2R
-  - 4980000
+peak_end: 4980000
 peak_start: 2300001
-peak_stop: 4980000
 population:
   id: GNS
   label: Guinea *An. gambiae*

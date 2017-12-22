@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Gabon *An. gambiae* / Chromosome X / #1
-================================================================================
-
-
+=============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/GAS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **X** between positions **14,480,001** and
 **14,720,000**.
 The evidence supporting this signal is
@@ -24,36 +25,40 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 4 genes overlap the focal region: :doc:`../../../../../gene/AGAP000795`,  :doc:`../../../../../gene/AGAP000797` (E3 ubiquitin-protein ligase HECW2),  :doc:`../../../../../gene/AGAP000798` (GLURIIc - ionotropic receptor GLURIIc),  :doc:`../../../../../gene/AGAP000801` (GLURIIb - ionotropic receptor GLURIIb).
+
+The following 4 genes overlap the focal region: :doc:`../../../../../gene/AGAP000795`,  :doc:`../../../../../gene/AGAP000797` (E3 ubiquitin-protein ligase HECW2),  :doc:`../../../../../gene/AGAP000798`:sup:`2` (GLURIIc - ionotropic receptor GLURIIc),  :doc:`../../../../../gene/AGAP000801`:sup:`2` (GLURIIb - ionotropic receptor GLURIIb).
 
 
 
 
 The following 7 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP000792` (Adenosylhomocysteinase),  :doc:`../../../../../gene/AGAP000793`,  :doc:`../../../../../gene/AGAP000794` (NADH dehydrogenase (ubiquinone) Fe-S protein 2),  :doc:`../../../../../gene/AGAP013289`,  :doc:`../../../../../gene/AGAP000803` (GLURIIa - ionotropic receptor GLURIIa),  :doc:`../../../../../gene/AGAP000804` (GPXH2 - glutathione peroxidase 2),  :doc:`../../../../../gene/AGAP000805` (BTB/POZ domain-containing protein KCTD16).
+region: :doc:`../../../../../gene/AGAP000792` (Adenosylhomocysteinase),  :doc:`../../../../../gene/AGAP000793`,  :doc:`../../../../../gene/AGAP000794`:sup:`1` (NADH dehydrogenase (ubiquinone) Fe-S protein 2),  :doc:`../../../../../gene/AGAP013289`,  :doc:`../../../../../gene/AGAP000803`:sup:`2` (GLURIIa - ionotropic receptor GLURIIa),  :doc:`../../../../../gene/AGAP000804`:sup:`1` (GPXH2 - glutathione peroxidase 2),  :doc:`../../../../../gene/AGAP000805` (BTB/POZ domain-containing protein KCTD16).
 
+
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
 Overlapping signals
 -------------------
 
-
-
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
+The following selection signals have an focus which overlaps with the
+focus of this signal.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal, Focus, Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../../../../../signal/H12/AOM/X/2/index`,"X:14,660,001-14,720,000",262
+    :doc:`../../../../../signal/H12/AOM/X/2/index`, "X:14,660,001-14,720,000", 262 (204 | 58)
     
 
 
@@ -62,7 +67,7 @@ Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -169,10 +174,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -180,4 +187,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

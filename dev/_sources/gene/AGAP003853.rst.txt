@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP003853
-=============
+==========
+
+Location: **2R:44,558,366-44,562,030**
 
 
 
-
-
-Description: Ubiquitin thioesterase zranb1.
+Description: **Ubiquitin thioesterase zranb1**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003853>`_ |
@@ -16,20 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GAS/2/6/index`,"2R:44,380,001-44,580,000",80 (57 | 22)
+    :doc:`../signal/H12/GAS/2/6/index`, "2R:44,380,001-44,580,000", 80 (57 | 22)
     
 
 
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

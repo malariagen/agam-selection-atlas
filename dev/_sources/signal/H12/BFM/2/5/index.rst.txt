@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Burkina Faso *An. coluzzii* / Chromosome 2 / #5
-================================================================================
-
-
+=====================================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFM` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **2R** between positions **24,820,001** and
 **24,860,000**.
 The evidence supporting this signal is
@@ -24,34 +25,35 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP002636`,  :doc:`../../../../../gene/AGAP002637`,  :doc:`../../../../../gene/AGAP013045`,  :doc:`../../../../../gene/AGAP002638` (ABCH1 - ATP-binding cassette transporter (ABC transporter) family H member 1),  :doc:`../../../../../gene/AGAP002639` (Or39 - odorant receptor 39),  :doc:`../../../../../gene/AGAP002640` (Or38 - odorant receptor 38).
+
+The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP002636`,  :doc:`../../../../../gene/AGAP002637`,  :doc:`../../../../../gene/AGAP013045`,  :doc:`../../../../../gene/AGAP002638` (ABCH1 - ATP-binding cassette transporter (ABC transporter) family H member 1),  :doc:`../../../../../gene/AGAP002639`:sup:`3` (Or39 - odorant receptor 39),  :doc:`../../../../../gene/AGAP002640`:sup:`3` (Or38 - odorant receptor 38).
 
 
 
 
 The following 15 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP002634` (membrane dipeptidase),  :doc:`../../../../../gene/AGAP002635` (Gr13 - gustatory receptor 13),  :doc:`../../../../../gene/AGAP013517`,  :doc:`../../../../../gene/AGAP013086`,  :doc:`../../../../../gene/AGAP013456`,  :doc:`../../../../../gene/AGAP013225`,  :doc:`../../../../../gene/AGAP013322`,  :doc:`../../../../../gene/AGAP013353`,  :doc:`../../../../../gene/AGAP013110`,  :doc:`../../../../../gene/AGAP013484`,  :doc:`../../../../../gene/AGAP013247`,  :doc:`../../../../../gene/AGAP013316`,  :doc:`../../../../../gene/AGAP002641`,  :doc:`../../../../../gene/AGAP002642` (DNA mismatch repair protein MSH5),  :doc:`../../../../../gene/AGAP002643`.
+region: :doc:`../../../../../gene/AGAP002634` (membrane dipeptidase),  :doc:`../../../../../gene/AGAP002635`:sup:`3` (Gr13 - gustatory receptor 13),  :doc:`../../../../../gene/AGAP013517`,  :doc:`../../../../../gene/AGAP013086`,  :doc:`../../../../../gene/AGAP013456`,  :doc:`../../../../../gene/AGAP013225`,  :doc:`../../../../../gene/AGAP013322`,  :doc:`../../../../../gene/AGAP013353`,  :doc:`../../../../../gene/AGAP013110`,  :doc:`../../../../../gene/AGAP013484`,  :doc:`../../../../../gene/AGAP013247`,  :doc:`../../../../../gene/AGAP013316`,  :doc:`../../../../../gene/AGAP002641`,  :doc:`../../../../../gene/AGAP002642` (DNA mismatch repair protein MSH5),  :doc:`../../../../../gene/AGAP002643`.
 
 
-Overlapping signals
--------------------
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -156,10 +158,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -167,4 +171,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

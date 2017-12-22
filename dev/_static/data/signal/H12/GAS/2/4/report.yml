@@ -3,14 +3,14 @@ delta_aic:
 - 55.73236192747345
 - 30.6548936045308
 epicenter:
+  end:
+  - 2L
+  - 15640000
   start:
   - 2L
   - 15600001
-  stop:
-  - 2L
-  - 15640000
+epicenter_end: 77185105
 epicenter_start: 77145106
-epicenter_stop: 77185105
 fit_data:
   xx_gpos:
   - -5.999999999999886
@@ -909,7 +909,7 @@ fit_data:
   - 0.056126394239997365
   - 0.056126394239987956
   - 0.05612639423998021
-  yy_signal:
+  yy_values:
   - 0.03125
   - 0.04225127551020408
   - 0.043526785714285726
@@ -1208,7 +1208,7 @@ fit_data:
   - 0.021364795918367343
   - 0.036352040816326515
   - 0.07669005102040817
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.03125
   - 0.04225127551020408
   - 0.043526785714285726
@@ -1538,24 +1538,24 @@ fit_reports:
     \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.752 \n   \
     \ C(decay, c)                  = -0.270 \n"
 focus:
+  end:
+  - 2L
+  - 15680000
   start:
   - 2L
   - 15600001
-  stop:
-  - 2L
-  - 15680000
+focus_end: 77225105
 focus_start: 77145106
-focus_stop: 77225105
 minor_delta_aic: 30.6548936045308
 peak:
+  end:
+  - 2L
+  - 15920000
   start:
   - 2L
   - 14620001
-  stop:
-  - 2L
-  - 15920000
+peak_end: 77465105
 peak_start: 76165106
-peak_stop: 77465105
 population:
   id: GAS
   label: Gabon *An. gambiae*

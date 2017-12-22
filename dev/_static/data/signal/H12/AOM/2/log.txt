@@ -122,7 +122,7 @@ Window: 95145106 95165105
 find extent of region under selection
 extend hit left 361.522953624
 extend hit left 351.385457731
-extend hit right 364.353941921
+extend hit right 364.353941913
 find flanking region
 rescan 4358 5158
 scan progress 4400 166.844847
@@ -141,31 +141,31 @@ Delta AIC: [ 291.20260759   35.84074461]
 Window: 60120001 60140000
 ********************************************************************************
 find extent of region under selection
-extend hit left 326.786032787
-extend hit left 326.364573653
-extend hit left 325.875663416
-extend hit left 325.17747546
-extend hit left 326.444816923
-extend hit left 325.700179533
-extend hit left 325.820020889
-extend hit left 325.135250069
-extend hit left 324.692021101
-extend hit left 324.864434365
-extend hit left 325.215005971
-extend hit left 321.554627803
-extend hit left 319.266842298
-extend hit left 318.125905468
+extend hit left 326.786032767
+extend hit left 326.364573599
+extend hit left 325.875663341
+extend hit left 325.177475457
+extend hit left 326.444816898
+extend hit left 325.700179532
+extend hit left 325.820020883
+extend hit left 325.135250058
+extend hit left 324.692021096
+extend hit left 324.864434366
+extend hit left 325.215021975
+extend hit left 321.554627951
+extend hit left 319.266842296
+extend hit left 318.125905522
 extend hit left 319.849548957
-extend hit left 319.298596701
-extend hit left 318.046203423
-extend hit left 316.545083809
-extend hit left 314.916131185
-extend hit left 313.250554779
-extend hit left 311.497614452
-extend hit right 326.701551652
-extend hit right 325.45303646
-extend hit right 320.702898306
-extend hit right 312.007723829
+extend hit left 319.298596593
+extend hit left 318.046203427
+extend hit left 316.54508385
+extend hit left 314.916131198
+extend hit left 313.250554744
+extend hit left 311.497614435
+extend hit right 326.701551625
+extend hit right 325.453036464
+extend hit right 320.702898304
+extend hit right 312.007723833
 find flanking region
 rescan 2563 3593
 scan progress 2600 104.04
@@ -281,5 +281,5 @@ scan progress 2300 92.04
 scan progress 2400 96.04
 scan progress 2500 100.04
 scan progress 2600 104.04
-next peak: 3259 [ 32.48393941  20.52130958]
+next peak: 3259 [ 32.48393939  20.52128773]
 all done

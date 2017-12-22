@@ -3,14 +3,14 @@ delta_aic:
 - 103.7304792990127
 - 126.98146444292638
 epicenter:
+  end:
+  - 2R
+  - 24860000
   start:
   - 2R
   - 24820001
-  stop:
-  - 2R
-  - 24860000
+epicenter_end: 24860000
 epicenter_start: 24820001
-epicenter_stop: 24860000
 fit_data:
   xx_gpos:
   - -5.999999999999872
@@ -918,7 +918,7 @@ fit_data:
   - 0.04447701747285227
   - 0.04447701747285227
   - 0.04447701747285227
-  yy_signal:
+  yy_values:
   - 0.024259609325771904
   - 0.024154589371980683
   - 0.0237345095568158
@@ -1220,7 +1220,7 @@ fit_data:
   - 0.045998739760554505
   - 0.06700273051879857
   - 0.06763285024154589
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.024259609325771904
   - 0.024154589371980683
   - 0.0237345095568158
@@ -1552,24 +1552,24 @@ fit_reports:
     \ are <  0.100)\n    C(amplitude, decay)          = -0.782 \n    C(decay, c) \
     \                 = -0.230 \n"
 focus:
+  end:
+  - 2R
+  - 24860000
   start:
   - 2R
   - 24820001
-  stop:
-  - 2R
-  - 24860000
+focus_end: 24860000
 focus_start: 24820001
-focus_stop: 24860000
 minor_delta_aic: 103.7304792990127
 peak:
+  end:
+  - 2R
+  - 25220000
   start:
   - 2R
   - 24060001
-  stop:
-  - 2R
-  - 25220000
+peak_end: 25220000
 peak_start: 24060001
-peak_stop: 25220000
 population:
   id: BFM
   label: Burkina Faso *An. coluzzii*

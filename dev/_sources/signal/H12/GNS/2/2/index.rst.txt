@@ -1,13 +1,14 @@
 :orphan:
 
+
+
+
 H12 / Guinea *An. gambiae* / Chromosome 2 / #2
-================================================================================
-
-
+==============================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/GNS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **2R** between positions **28,420,001** and
 **28,540,000**.
 The evidence supporting this signal is
@@ -24,14 +25,17 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
 
+Genes
+-----
 
 
 
-The following 15 genes overlap the focal region: :doc:`../../../../../gene/AGAP002859` (solute carrier family 8 (sodium/calcium exchanger)),  :doc:`../../../../../gene/AGAP002862` (CYP6AA1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013128` (CYP6AA2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002863` (COEAE6O - carboxylesterase alpha esterase),  :doc:`../../../../../gene/AGAP002864` (CYP6P15P - cytochrome P450),  :doc:`../../../../../gene/AGAP002865` (CYP6P3 - cytochrome P450),  :doc:`../../../../../gene/AGAP002866` (CYP6P5 - cytochrome P450),  :doc:`../../../../../gene/AGAP002867` (CYP6P4 - cytochrome P450),  :doc:`../../../../../gene/AGAP002868` (CYP6P1 - cytochrome P450),  :doc:`../../../../../gene/AGAP002869` (CYP6P2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002870` (CYP6AD1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013202`,  :doc:`../../../../../gene/AGAP000586`,  :doc:`../../../../../gene/AGAP002872` (lipase),  :doc:`../../../../../gene/AGAP002873`.
+
+The following 15 genes overlap the focal region: :doc:`../../../../../gene/AGAP002859` (solute carrier family 8 (sodium/calcium exchanger)),  :doc:`../../../../../gene/AGAP002862`:sup:`1` (CYP6AA1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013128`:sup:`1` (CYP6AA2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002863`:sup:`1` (COEAE6O - carboxylesterase alpha esterase),  :doc:`../../../../../gene/AGAP002864`:sup:`1` (CYP6P15P - cytochrome P450),  :doc:`../../../../../gene/AGAP002865`:sup:`1` (CYP6P3 - cytochrome P450),  :doc:`../../../../../gene/AGAP002866`:sup:`1` (CYP6P5 - cytochrome P450),  :doc:`../../../../../gene/AGAP002867`:sup:`1` (CYP6P4 - cytochrome P450),  :doc:`../../../../../gene/AGAP002868`:sup:`1` (CYP6P1 - cytochrome P450),  :doc:`../../../../../gene/AGAP002869`:sup:`1` (CYP6P2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002870`:sup:`1` (CYP6AD1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013202`,  :doc:`../../../../../gene/AGAP000586`,  :doc:`../../../../../gene/AGAP002872` (lipase),  :doc:`../../../../../gene/AGAP002873`.
 
 
 
@@ -40,23 +44,24 @@ The following 10 genes are within 50 kbp of the focal
 region: :doc:`../../../../../gene/AGAP002858` (Sodium/potassium-transporting ATPase subunit alpha),  :doc:`../../../../../gene/AGAP013069`,  :doc:`../../../../../gene/AGAP002874`,  :doc:`../../../../../gene/AGAP002875` (protein HEXIM1/2),  :doc:`../../../../../gene/AGAP013244` (adenosine deaminase, tRNA-specific 2, TAD2 homolog),  :doc:`../../../../../gene/AGAP002876` (single-strand selective monofunctional uracil DNA glycosylase),  :doc:`../../../../../gene/AGAP002877` (Tetratricopeptide repeat protein 30 homolog),  :doc:`../../../../../gene/AGAP002878` (Cystatin-like protein),  :doc:`../../../../../gene/AGAP002879` (cathepsin F),  :doc:`../../../../../gene/AGAP002880` (COP9 signalosome complex subunit 5).
 
 
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
 Overlapping signals
 -------------------
 
-
-
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
+The following selection signals have an focus which overlaps with the
+focus of this signal.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal, Focus, Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../../../../../signal/H12/UGS/2/1/index`,"2R:28,420,001-28,520,000",1230
-    :doc:`../../../../../signal/H12/CMS/2/1/index`,"2R:28,400,001-28,440,000",910
-    :doc:`../../../../../signal/H12/BFS/2/3/index`,"2R:28,440,001-28,520,000",753
-    :doc:`../../../../../signal/H12/BFM/2/3/index`,"2R:28,420,001-28,560,000",557
+    :doc:`../../../../../signal/H12/UGS/2/1/index`, "2R:28,420,001-28,520,000", 1230 (582 | 647)
+    :doc:`../../../../../signal/H12/CMS/2/1/index`, "2R:28,400,001-28,440,000", 910 (469 | 441)
+    :doc:`../../../../../signal/H12/BFS/2/3/index`, "2R:28,440,001-28,520,000", 753 (371 | 382)
+    :doc:`../../../../../signal/H12/BFM/2/3/index`, "2R:28,420,001-28,560,000", 557 (369 | 188)
     
 
 
@@ -65,7 +70,7 @@ Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -170,10 +175,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -181,4 +188,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

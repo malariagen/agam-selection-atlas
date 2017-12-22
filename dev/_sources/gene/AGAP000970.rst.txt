@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP000970
-=============
+==========
+
+Location: **X:18,632,743-18,636,223**
 
 
 
-
-
-Description: Dnaj homolog subfamily c.
+Description: **Dnaj homolog subfamily c**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000970>`_ |
@@ -16,20 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/AOM/X/3/index`,"X:18,420,001-18,800,000",115 (20 | 94)
+    :doc:`../signal/H12/AOM/X/3/index`, "X:18,420,001-18,800,000", 115 (20 | 94)
     
 
 
 
 
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/{{ gene.id }}';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

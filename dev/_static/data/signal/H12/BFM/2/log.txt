@@ -70,16 +70,16 @@ extend hit left 1392.34752906
 extend hit left 1382.4586922
 extend hit left 1375.01696714
 extend hit left 1385.65951154
-extend hit left 1382.87788073
-extend hit left 1359.39119748
+extend hit left 1382.87788074
+extend hit left 1359.39119749
 extend hit left 1362.9393198
 extend hit left 1368.16621666
-extend hit left 1364.85785387
+extend hit left 1364.85785385
 extend hit left 1362.81051759
 extend hit left 1356.87601807
 extend hit left 1331.67741798
 extend hit right 1380.27053929
-extend hit right 1348.22874608
+extend hit right 1348.22874609
 find flanking region
 rescan 2716 3546
 scan progress 2800 112.04

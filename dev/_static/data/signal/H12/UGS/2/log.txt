@@ -74,42 +74,42 @@ scan progress 1400 56.04
 scan progress 1500 60.04
 scan progress 1600 64.04
 scan progress 1700 68.04
-next peak: 3224 [ 573.54496571  409.19187148]
+next peak: 3224 [ 573.5449411   409.19187148]
 ********************************************************************************
 Iteration 2
 Peak index: 3224
-Delta AIC: [ 573.54496571  409.19187148]
+Delta AIC: [ 573.5449411   409.19187148]
 Window: 64465106 64485105
 ********************************************************************************
 find extent of region under selection
-extend hit left 968.14372785
-extend hit left 970.053988883
-extend hit left 971.252656009
+extend hit left 968.143727857
+extend hit left 970.053988973
+extend hit left 971.252656016
 extend hit left 971.825229331
-extend hit left 961.801109308
+extend hit left 961.801109325
 extend hit left 959.159918342
-extend hit left 958.39970186
+extend hit left 958.399701862
 extend hit left 956.475783273
-extend hit left 945.263037683
-extend hit left 943.220886178
+extend hit left 945.263037685
+extend hit left 943.220886175
 extend hit left 942.592481902
-extend hit left 942.844137245
-extend hit left 942.455726326
-extend hit left 940.854794824
-extend hit left 940.220322133
-extend hit left 940.168501788
-extend hit left 936.767786219
-extend hit left 935.744919745
-extend hit left 935.386773274
-extend hit left 934.796854284
-extend hit right 981.32551084
-extend hit right 977.111100524
-extend hit right 971.066130571
-extend hit right 965.858700877
-extend hit right 958.410672739
-extend hit right 952.650027158
-extend hit right 945.726272391
-extend hit right 937.325549738
+extend hit left 942.844137243
+extend hit left 942.455726328
+extend hit left 940.854794823
+extend hit left 940.220322126
+extend hit left 940.168501795
+extend hit left 936.76778622
+extend hit left 935.744919746
+extend hit left 935.386773266
+extend hit left 934.796854285
+extend hit right 981.325523166
+extend hit right 977.111100937
+extend hit right 971.066139123
+extend hit right 965.858700876
+extend hit right 958.410672946
+extend hit right 952.65002719
+extend hit right 945.726358708
+extend hit right 937.325549791
 find flanking region
 rescan 2721 3551
 scan progress 2800 112.04

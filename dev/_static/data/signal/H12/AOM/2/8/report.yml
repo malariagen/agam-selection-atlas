@@ -3,14 +3,14 @@ delta_aic:
 - 34.862205712606965
 - 73.97037516126943
 epicenter:
+  end:
+  - 2R
+  - 13800000
   start:
   - 2R
   - 13760001
-  stop:
-  - 2R
-  - 13800000
+epicenter_end: 13800000
 epicenter_start: 13760001
-epicenter_stop: 13800000
 fit_data:
   xx_gpos:
   - -7.559999999999839
@@ -1167,7 +1167,7 @@ fit_data:
   - 0.020530861105494402
   - 0.02053086104521546
   - 0.020530860990055712
-  yy_signal:
+  yy_values:
   - 0.014861111111111115
   - 0.014861111111111115
   - 0.015972222222222228
@@ -1552,7 +1552,7 @@ fit_data:
   - 0.038888888888888896
   - 0.04375
   - 0.046388888888888896
-  yy_signal_fitted:
+  yy_values_fitted:
   - 0.01455113653930235
   - 0.014571445549990502
   - 0.015791965100440643
@@ -1967,24 +1967,24 @@ fit_reports:
     \ correlations are <  0.100)\n    C(amplitude, decay)          = -0.698 \n   \
     \ C(decay, c)                  = -0.357 \n"
 focus:
+  end:
+  - 2R
+  - 13800000
   start:
   - 2R
   - 13600001
-  stop:
-  - 2R
-  - 13800000
+focus_end: 13800000
 focus_start: 13600001
-focus_stop: 13800000
 minor_delta_aic: 34.862205712606965
 peak:
+  end:
+  - 2R
+  - 14140000
   start:
   - 2R
   - 12500001
-  stop:
-  - 2R
-  - 14140000
+peak_end: 14140000
 peak_start: 12500001
-peak_stop: 14140000
 population:
   id: AOM
   label: Angola *An. coluzzii*
