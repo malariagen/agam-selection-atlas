@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP009728
+=============
+
+
+
+
+
+Description: Ficolin.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009728>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:41844579-41845348#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/GAS/3/3/index`,"3R:41,840,001-41,960,000",158 (30 | 128)
+    
+
+
+
+
+
+

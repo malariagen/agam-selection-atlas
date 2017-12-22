@@ -88,10 +88,14 @@ rule build_h12:
 rule tabulate_signals:
     input:
         "scripts/tabulate_signals.py",
-        "docs/_static/data/signal/H12/BFS/2/.make",
-        "docs/_static/data/signal/H12/BFS/3/.make",
-        "docs/_static/data/signal/H12/BFS/X/.make",
-        # expand("docs/_static/data/signal/H12/{population}/{chromosome}/.make", population=pop_ids, chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/BFS/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/BFM/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/AOM/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/GWA/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/GNS/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/CMS/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/UGS/{chromosome}/.make", chromosome=chromosomes),
+        expand("docs/_static/data/signal/H12/GAS/{chromosome}/.make", chromosome=chromosomes),
         # TODO more signals here
     output:
         "docs/_static/data/signals.csv",

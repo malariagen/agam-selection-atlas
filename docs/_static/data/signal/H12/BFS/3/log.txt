@@ -172,3 +172,29 @@ extend hit right 89.4356793026
 extend hit right 82.221181327
 extend hit right 78.1197193753
 find flanking region
+rescan 646 1247
+scan progress 700 28.04
+scan progress 800 32.04
+scan progress 900 36.04
+scan progress 1000 40.04
+scan progress 1100 44.04
+scan progress 1200 48.04
+next peak: 1041 [ 40.42012143  78.22051604]
+********************************************************************************
+Iteration 7
+Peak index: 1041
+Delta AIC: [ 40.42012143  78.22051604]
+Window: 20820001 20840000
+********************************************************************************
+find extent of region under selection
+extend hit left 118.316713448
+find flanking region
+rescan 741 1342
+scan progress 800 32.04
+scan progress 900 36.04
+scan progress 1000 40.04
+scan progress 1100 44.04
+scan progress 1200 48.04
+scan progress 1300 52.04
+next peak: 0 [ 0.  0.]
+all done

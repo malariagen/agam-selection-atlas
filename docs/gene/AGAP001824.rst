@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP001824
+=============
+
+
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001824>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:10911118-11033305#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/GWA/2/5/index`,"2R:11,080,001-11,160,000",101 (33 | 68)
+    
+
+
+
+

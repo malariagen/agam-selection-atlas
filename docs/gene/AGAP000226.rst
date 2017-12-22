@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP000226
+=============
+
+
+
+Name: **Or41**
+
+Description: Odorant receptor 41.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000226>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:4258020-4259409#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/AOM/X/1/index`,"X:4,300,001-4,340,000",497 (221 | 275)
+    
+
+
+
+
