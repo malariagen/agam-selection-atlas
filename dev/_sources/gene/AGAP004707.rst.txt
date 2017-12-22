@@ -26,6 +26,8 @@ The following signals have a focus which overlaps this gene:
     :header: Signal,Focus,Score
 
     :doc:`../signal/H12/BFS/2/1/index`,"2L:2,420,001-2,720,000",1365 (680 | 685)
+    :doc:`../signal/H12/GNS/2/1/index`,"2L:1,760,001-2,700,000",1256 (673 | 583)
+    :doc:`../signal/H12/CMS/2/2/index`,"2L:2,420,001-2,920,000",566 (461 | 104)
     
 
 

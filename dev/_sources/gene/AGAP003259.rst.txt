@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP003259
+=============
+
+
+
+Name: **Gr20**
+
+Description: Gustatory receptor 20.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003259>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:34500539-34502354#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/AOM/2/6/index`,"2R:34,480,001-34,540,000",220 (193 | 27)
+    
+
+
+
+
+
+

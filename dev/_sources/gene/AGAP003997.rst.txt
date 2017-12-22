@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP003997
+=============
+
+
+
+
+
+Description: Casein kinase 1, gamma.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003997>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:47664455-47730436#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/GWA/2/1/index`,"2R:47,760,001-47,820,000",307 (182 | 124)
+    
+
+
+
+

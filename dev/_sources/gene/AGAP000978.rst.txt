@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP000978
+=============
+
+
+
+
+
+Description: Origin recognition complex subunit 5.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000978>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:18801785-18803385#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/AOM/X/3/index`,"X:18,420,001-18,800,000",115 (20 | 94)
+    
+
+
+
+

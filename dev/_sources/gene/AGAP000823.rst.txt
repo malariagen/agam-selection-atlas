@@ -1,0 +1,36 @@
+:orphan:
+
+AGAP000823
+=============
+
+
+
+
+
+Description: Cd81 antigen.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000823>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:15327411-15333680#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/BFM/X/1/index`,"X:15,100,001-15,380,000",954 (534 | 420)
+    :doc:`../signal/H12/UGS/X/1/index`,"X:15,320,001-15,460,000",384 (293 | 90)
+    
+
+
+
+
+
+

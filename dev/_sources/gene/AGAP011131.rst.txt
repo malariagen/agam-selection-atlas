@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP011131
+=============
+
+
+
+
+
+Description: F-type h -transporting atpase subunit d.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011131>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3L:17689307-17690340#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/AOM/3/5/index`,"3L:17,740,001-17,780,000",127 (51 | 75)
+    
+
+
+
+

@@ -1,0 +1,35 @@
+:orphan:
+
+AGAP003845
+=============
+
+
+
+
+
+Description: Bromodomain-containing protein 8.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003845>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:44341108-44344050#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/GAS/2/6/index`,"2R:44,380,001-44,580,000",80 (57 | 22)
+    
+
+
+
+

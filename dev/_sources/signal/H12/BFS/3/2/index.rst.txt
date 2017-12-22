@@ -44,7 +44,19 @@ Overlapping signals
 -------------------
 
 
-No overlapping signals.
+
+The following selection signals have an inferred focus which overlaps with the
+focus of this signal:
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal, Focus, Score
+
+    :doc:`../../../../../signal/H12/CMS/3/2/index`,"3L:26,880,001-26,940,000",294
+    :doc:`../../../../../signal/H12/GNS/3/3/index`,"3L:26,860,001-26,900,000",171
+    
+
 
 
 Diagnostics

@@ -32,4 +32,21 @@ The following signals have a focus which overlaps this gene:
 
 
 
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/GNS/3/4/index`,"3R:18,980,001-19,020,000",88 (57 | 30)
+    
+
+
+
 

@@ -13,6 +13,24 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006033>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:25466906-25468254#genomebrowser>`_
 
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene:
+
+
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score
+
+    :doc:`../signal/H12/BFM/2/2/index`,"2L:25,400,001-25,520,000",919 (426 | 492)
+    :doc:`../signal/H12/GAS/2/1/index`,"2L:25,460,001-25,520,000",496 (193 | 303)
+    
+
+
+
 
 
 Adjacent signals
@@ -28,6 +46,7 @@ The following signals have a focus which occurs within 50 kbp of this gene:
     :header: Signal,Focus,Score
 
     :doc:`../signal/H12/BFS/2/5/index`,"2L:25,380,001-25,420,000",409 (195 | 214)
+    :doc:`../signal/H12/AOM/2/3/index`,"2L:25,380,001-25,460,000",392 (242 | 150)
     
 
 

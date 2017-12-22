@@ -27,6 +27,7 @@ The following signals have a focus which occurs within 50 kbp of this gene:
     :widths: auto
     :header: Signal,Focus,Score
 
+    :doc:`../signal/H12/GNS/3/2/index`,"3R:4,580,001-4,740,000",235 (152 | 82)
     :doc:`../signal/H12/BFS/3/3/index`,"3R:4,580,001-4,760,000",167 (145 | 21)
     
 
