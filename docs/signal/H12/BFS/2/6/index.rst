@@ -1,0 +1,191 @@
+:orphan:
+
+
+
+
+H12 / Burkina Faso *An. gambiae* / Chromosome 2 / #6
+====================================================
+
+This page describes a signal of selection found in the
+:doc:`../../../../../population/BFS` population using the
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2R** between positions **40,820,001** and
+**41,000,000**.
+The evidence supporting this signal is
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+.. raw:: html
+    :file: peak_location.html
+
+.. raw:: html
+
+    <div class='bokeh-figure figure'><p class='caption'>
+    <strong>Signal location</strong>. Blue markers
+    show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area
+    shows the focus of the selection signal. The shaded blue area shows
+    the genomic region in linkage with the selection event. Use the
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
+    over genes to see gene names and descriptions.
+    </p></div>
+
+Genes
+-----
+
+
+
+
+The following 13 genes overlap the focal region: :doc:`../../../../../gene/AGAP003638`,  :doc:`../../../../../gene/AGAP003639` (Prolylcarboxypeptidase),  :doc:`../../../../../gene/AGAP003640`:sup:`1` (SP8905),  :doc:`../../../../../gene/AGAP003641`:sup:`1` (SP8907),  :doc:`../../../../../gene/AGAP003642`:sup:`1` (SP8898),  :doc:`../../../../../gene/AGAP003643` (ubiquitin carboxyl-terminal hydrolase 34),  :doc:`../../../../../gene/AGAP003644` (mRpS11 - 28S ribosomal protein S11, mitochondrial),  :doc:`../../../../../gene/AGAP003645` (kelch-like protein 19),  :doc:`../../../../../gene/AGAP013307`,  :doc:`../../../../../gene/AGAP003646`,  :doc:`../../../../../gene/AGAP003647`,  :doc:`../../../../../gene/AGAP003648` (DNA-directed RNA polymerase II subunit RPB2),  :doc:`../../../../../gene/AGAP003649`.
+
+
+
+
+The following 6 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP003632` (U3 small nucleolar RNA-associated protein 14),  :doc:`../../../../../gene/AGAP003633`,  :doc:`../../../../../gene/AGAP003635`,  :doc:`../../../../../gene/AGAP003636`:sup:`1` (inositol oxygenase),  :doc:`../../../../../gene/AGAP003650` (translation initiation factor eIF-2B subunit alpha),  :doc:`../../../../../gene/AGAP003651` (Tyrosine-protein kinase Fes/Fps).
+
+
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping signals
+-------------------
+
+The following selection signals have an focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../../../../../signal/H12/BFM/2/4/index`, "2R:40,880,001-40,980,000", 400 (185 | 214)
+    :doc:`../../../../../signal/H12/CMS/2/3/index`, "2R:40,600,001-40,980,000", 269 (195 | 74)
+    
+
+
+
+Diagnostics
+-----------
+
+The information below provides some diagnostics from the
+:doc:`../../../../../method/peak_modelling` algorithm.
+
+.. raw:: html
+
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/H12/BFS/2/6/peak_context.png"/>
+    <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
+    </div>
+
+.. raw:: html
+
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/H12/BFS/2/6/peak_targetting.png"/>
+    <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
+    </div>
+
+.. raw:: html
+
+    <div class="figure">
+    <img src="../../../../../_static/data/signal/H12/BFS/2/6/peak_fit.png"/>
+    <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
+    </div>
+
+Model fit reports
+~~~~~~~~~~~~~~~~~
+
+Left flank, peak model::
+
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 23
+        # data points      = 150
+        # variables        = 3
+        chi-square         = 0.028
+        reduced chi-square = 0.000
+        Akaike info crit   = -1279.995
+        Bayesian info crit = -1270.963
+    [[Variables]]
+        amplitude:   0.12859787 +/- 0.005824 (4.53%) (init= 0.5)
+        decay:       0.82830421 +/- 0.068595 (8.28%) (init= 0.5)
+        c:           0.02779849 +/- 0.001682 (6.05%) (init= 0.03)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(decay, c)                  = -0.611 
+        C(amplitude, decay)          = -0.526 
+
+
+Right flank, peak model::
+
+    [[Model]]
+        Model(exponential)
+    [[Fit Statistics]]
+        # function evals   = 27
+        # data points      = 147
+        # variables        = 3
+        chi-square         = 0.064
+        reduced chi-square = 0.000
+        Akaike info crit   = -1131.103
+        Bayesian info crit = -1122.131
+    [[Variables]]
+        amplitude:   0.11918115 +/- 0.011344 (9.52%) (init= 0.5)
+        decay:       0.63462767 +/- 0.097183 (15.31%) (init= 0.5)
+        c:           0.04258928 +/- 0.002291 (5.38%) (init= 0.03)
+        cap:         1 (fixed)
+    [[Correlations]] (unreported correlations are <  0.100)
+        C(amplitude, decay)          = -0.638 
+        C(decay, c)                  = -0.515 
+
+
+Left flank, null model::
+
+    [[Model]]
+        Model(constant)
+    [[Fit Statistics]]
+        # function evals   = 6
+        # data points      = 149
+        # variables        = 1
+        chi-square         = 0.146
+        reduced chi-square = 0.001
+        Akaike info crit   = -1030.029
+        Bayesian info crit = -1027.025
+    [[Variables]]
+        c:   0.04523168 +/- 0.002575 (5.69%) (init= 0.03)
+
+
+Right flank, null model::
+
+    [[Model]]
+        Model(constant)
+    [[Fit Statistics]]
+        # function evals   = 6
+        # data points      = 146
+        # variables        = 1
+        chi-square         = 0.132
+        reduced chi-square = 0.001
+        Akaike info crit   = -1021.620
+        Bayesian info crit = -1018.636
+    [[Variables]]
+        c:   0.05410447 +/- 0.002493 (4.61%) (init= 0.03)
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

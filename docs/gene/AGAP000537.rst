@@ -9,7 +9,7 @@ Location: **X:9,628,331-9,630,253**
 
 Name: **TWDL8**
 
-Description: Cuticular protein twdl family (twdl8).
+Description: **Cuticular protein twdl family (twdl8)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000537>`_ |

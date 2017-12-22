@@ -9,7 +9,7 @@ Location: **X:9,680,497-9,683,814**
 
 Name: **RpS15a-1**
 
-Description: 40s ribosomal protein s15a.
+Description: **40s ribosomal protein s15a**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000541>`_ |

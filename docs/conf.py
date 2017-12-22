@@ -98,7 +98,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'bootswatch_theme': 'sandstone',
     'source_link_position': 'nowhere',
-    'globaltoc_depth': 2,
+    'globaltoc_depth': -1,
 }
 html_sidebars = {}
 

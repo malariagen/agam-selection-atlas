@@ -9,7 +9,7 @@ Location: **X:9,622,535-9,623,830**
 
 Name: **PGRPS1**
 
-Description: Peptidoglycan recognition protein (short).
+Description: **Peptidoglycan recognition protein (short)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000536>`_ |

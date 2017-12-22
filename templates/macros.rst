@@ -32,8 +32,13 @@ No signals.
 {% endif %}
 {%- endmacro %}
 
-{% macro gene_doc(value, root_path, describe=True) -%}
+{% macro gene_doc(value, root_path, ir_candidates, describe=True) -%}
 :doc:`{{ root_path }}gene/{{ value.id }}`
+{%- if value.id in ir_candidates.metabolic %}:sup:`1`
+{%- elif value.id in ir_candidates.target_site %}:sup:`2`
+{%- elif value.id in ir_candidates.behavioural %}:sup:`3`
+{%- elif value.id in ir_candidates.cuticular %}:sup:`4`
+{%- endif %}
 {%- if value.name or (value.description and describe) %} (
     {%- if value.name %}{{ value.name|trim }}{% endif -%}
     {%- if value.name and value.description and describe %} - {% endif %}

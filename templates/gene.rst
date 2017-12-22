@@ -10,7 +10,7 @@ Location: **{{ gene.seqid }}:{{ intcomma(gene.start) }}-{{ intcomma(gene.end) }}
 {% if gene.name|length > 0 %}Name: **{{ gene.name }}**{% endif %}
 
 {% if gene.description|length > 0 -%}
-Description: {{ gene.description|capitalize }}.
+Description: **{{ gene.description|capitalize }}**.
 {%- endif %}
 
 External links:

@@ -2,6 +2,7 @@
 
 import yaml
 import os
+import glob
 
 static_files = [os.path.join(dirpath, name)
                 for (dirpath, _, filenames) in os.walk('docs/_static')
@@ -96,13 +97,29 @@ rule build_gene_pages:
         "python scripts/build_gene_pages.py"
 
 
+rule build_ir_candidate_pages:
+    input:
+        "docs/conf.py",
+        "docs/_static/data/signals.csv",
+        glob.glob("docs/_static/data/ir-candidate-genes/*"),
+        "scripts/build_ir_candidate_pages.py",
+        "templates/macros.rst",
+        "templates/ir-candidate.rst",
+    output:
+        "docs/ir-candidate/metabolic.rst",
+    shell:
+        "python scripts/build_ir_candidate_pages.py"
+
+
 rule all:
     input:
         static_files,
+        glob.glob("docs/*.rst"),
         rules.build_signal_pages.output,
         rules.build_signals_page.output,
         rules.build_population_pages.output,
         rules.build_seqid_pages.output,
+        rules.build_ir_candidate_pages.output,
         # temporarily disable as building all gene pages takes a while
         rules.build_gene_pages.output,
     shell:

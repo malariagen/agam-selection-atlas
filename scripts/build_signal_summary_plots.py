@@ -39,7 +39,7 @@ def plot_genes(genes, chrom, start=None, end=None, fig=None, offset=0, x_range=N
                           toolbar_location='above', active_drag='xpan',
                           active_scroll='xwheel_zoom')
         fig.xaxis.axis_label = 'Chromosome {} position (Mbp)'.format(chrom)
-        url = root_path + 'gene/@id'
+        url = root_path + 'gene/@id.html'
         taptool = fig.select(type=bmod.TapTool)
         taptool.callback = bmod.OpenURL(url=url)
 

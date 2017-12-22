@@ -19,6 +19,7 @@ from ag1k import phase1_ar3
 ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
 phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
 genome = phase1_ar3.genome
+import petl as etl
 
 
 def plot_signal_location(report, plot_width=900, plot_height=200):
@@ -69,7 +70,7 @@ def plot_genes(genes, chrom, start, end, fig=None, offset=0, x_range=None,
                           toolbar_location='above', active_drag='xpan',
                           active_scroll='xwheel_zoom')
         fig.xaxis.axis_label = 'Chromosome {} position (Mbp)'.format(chrom)
-        url = '../../../../../gene/@id'
+        url = '../../../../../gene/@id.html'
         taptool = fig.select(type=bmod.TapTool)
         taptool.callback = bmod.OpenURL(url=url)
 
@@ -142,11 +143,11 @@ def fig_signal_location(report, genes):
     end = report['fit_data']['xx_ppos'][-1]
     fig1.xaxis.visible = False
     fig2 = plot_genes(genes, chrom, start, end, x_range=fig1.x_range)
-    gfig = blay.gridplot([[fig1], [fig2]], toolbar_location='right')
+    gfig = blay.gridplot([[fig1], [fig2]], toolbar_location='above')
     return gfig
 
 
-def build_signal_outputs(path, template, genes, signals):
+def build_signal_outputs(path, template, genes, signals, ir_candidates):
 
     # load the basic signal report
     with open(path, mode='rb') as f:
@@ -213,6 +214,8 @@ def build_signal_outputs(path, template, genes, signals):
     report['overlapping_signals'] = overlapping_signals.to_dict(
         orient='records')
 
+    report['ir_candidates'] = ir_candidates
+
     # render the report
     out_dir = os.path.join(
         'docs',
@@ -253,9 +256,19 @@ def main():
     # setup signals
     signals = pd.read_csv('docs/_static/data/signals.csv')
 
+    # setup IR candidates
+    ir_candidates = {
+        slug: (
+            etl
+            .fromtsv('docs/_static/data/ir-candidate-genes/{}.csv'.format(slug))
+            .values(0).set()
+        )
+        for slug in ['metabolic', 'target_site', 'behavioural', 'cuticular']
+    }
+
     # iterate over signal reports
     for path in sorted(glob('docs/_static/data/signal/*/*/*/*/report.yml')):
-        build_signal_outputs(path, template, genes, signals)
+        build_signal_outputs(path, template, genes, signals, ir_candidates)
 
 
 if __name__ == '__main__':

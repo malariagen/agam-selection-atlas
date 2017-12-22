@@ -9,7 +9,7 @@ Location: **X:9,631,418-9,634,853**
 
 Name: **TWDL9**
 
-Description: Cuticular protein twdl family (twdl9).
+Description: **Cuticular protein twdl family (twdl9)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000538>`_ |

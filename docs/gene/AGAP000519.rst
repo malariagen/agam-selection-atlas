@@ -9,7 +9,7 @@ Location: **X:9,215,504-9,266,532**
 
 
 
-Description: Diacylglycerol kinase (atp dependent).
+Description: **Diacylglycerol kinase (atp dependent)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000519>`_ |
@@ -26,6 +26,7 @@ The following signals have a focus which overlaps this gene.
     :header: Signal,Focus,Score (Left | Right)
 
     :doc:`../signal/H12/BFS/X/2/index`, "X:9,180,001-9,260,000", 394 (212 | 181)
+    :doc:`../signal/H12/BFM/X/2/index`, "X:9,200,001-9,240,000", 165 (44 | 120)
     
 
 

@@ -9,7 +9,7 @@ Location: **X:9,662,048-9,670,481**
 
 
 
-Description: Proton-coupled amino acid transporter.
+Description: **Proton-coupled amino acid transporter**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000540>`_ |

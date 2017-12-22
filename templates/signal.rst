@@ -1,7 +1,7 @@
 :orphan:
 {% from 'macros.rst' import signals_table, gene_doc, disqus, intcomma %}
 {% set root_path = '../../../../../' %}
-{% set title = statistic.label + ' / ' + population.label + ' / ' + chromosome + ' / #' + rank|string %}
+{% set title = statistic.label + ' / ' + population.label + ' / Chromosome ' + chromosome + ' / #' + rank|string %}
 
 {{ title }}
 {% for c in title %}={% endfor %}
@@ -38,19 +38,22 @@ The evidence supporting this signal is
     The dashed black line shows the fitted peak model. The shaded red area
     shows the focus of the selection signal. The shaded blue area shows
     the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the right of the plot to zoom in, and hover
+    mouse wheel or the controls at the top right of the plot to zoom in, and hover
     over genes to see gene names and descriptions.
     </p></div>
+
+Genes
+-----
 
 {% if overlapping_genes|length == 0 %}
 No genes overlap the focal region.
 {% endif %}
 {% if overlapping_genes|length == 1 %}
-Gene {{ gene_doc(overlapping_genes[0], root_path) }} overlaps the focal region.
+Gene {{ gene_doc(overlapping_genes[0], root_path, ir_candidates) }} overlaps the focal region.
 {% endif %}
 {% if overlapping_genes|length > 1 %}
 The following {{ overlapping_genes|length }} genes overlap the focal region:
-{%- for value in overlapping_genes %} {{ gene_doc(value, root_path) }}{{ ", " if not loop.last }}
+{%- for value in overlapping_genes %} {{ gene_doc(value, root_path, ir_candidates) }}{{ ", " if not loop.last }}
 {%- endfor %}.
 {% endif %}
 {% if adjacent_genes|length == 0 %}
@@ -58,14 +61,17 @@ The following {{ overlapping_genes|length }} genes overlap the focal region:
 No genes are within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length == 1 %}
-Gene {{ gene_doc(adjacent_genes[0], root_path) }} is within 50 kbp of the focal region.
+Gene {{ gene_doc(adjacent_genes[0], root_path, ir_candidates) }} is within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length > 1 %}
 The following {{ adjacent_genes|length }} genes are within 50 kbp of the focal
 region:
-{%- for value in adjacent_genes %} {{ gene_doc(value, root_path) }}{{ ", " if not loop.last }}
+{%- for value in adjacent_genes %} {{ gene_doc(value, root_path, ir_candidates) }}{{ ", " if not loop.last }}
 {%- endfor %}.
 {% endif %}
+
+Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
+:sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
 {% if overlapping_signals|length > 0 -%}
 Overlapping signals
