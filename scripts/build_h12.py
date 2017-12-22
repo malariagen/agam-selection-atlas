@@ -160,7 +160,6 @@ def compile_signal_report(rank, peak, chromosome, pop_id):
     return report
 
 
-
 if __name__ == '__main__':
 
     import argparse

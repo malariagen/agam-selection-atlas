@@ -18,3 +18,11 @@ p.caption {
     width: 900px;
     margin: auto;
 }
+
+div.signal-summary {
+    width: 500px;
+}
+
+div.signal-summary table {
+    width: 100%;
+}

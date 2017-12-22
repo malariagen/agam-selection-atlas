@@ -14,6 +14,7 @@ selection in natural populations of the malaria vector species
 
     signals
     populations
+    seqids
     methods
 
 Indices and tables

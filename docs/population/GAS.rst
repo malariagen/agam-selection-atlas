@@ -6,39 +6,51 @@ Gabon *An. gambiae*
 The tables below list signals of recent selection discovered in the
 Gabon *An. gambiae* population.
 
+
+
 Chromosome arm 2R
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 2L
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 3R
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 3L
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome X
 ------------
 
 
+
 No signals.
+
 
 
 Comments

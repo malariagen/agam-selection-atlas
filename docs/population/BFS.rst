@@ -6,36 +6,51 @@ Burkina Faso *An. gambiae*
 The tables below list signals of recent selection discovered in the
 Burkina Faso *An. gambiae* population.
 
+
+
 Chromosome arm 2R
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 2L
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 3R
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome arm 3L
 -----------------
 
 
+
 No signals.
+
 
 
 Chromosome X
 ------------
+
+
+
+.. raw:: html
+    :file: BFS.X.signals.html
 
 .. cssclass:: table-hover
 .. csv-table::
@@ -46,6 +61,8 @@ Chromosome X
     :doc:`../signal/H12/BFS/X/2/index`, "X:9,180,001-9,260,000", 394 (212 | 181)
     :doc:`../signal/H12/BFS/X/3/index`, "X:9,640,001-9,720,000", 334 (24 | 310)
     
+
+
 
 
 Comments

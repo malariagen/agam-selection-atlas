@@ -12,8 +12,9 @@ with open('docs/_static/data/populations.yml', mode='r') as f:
     populations = yaml.load(f)
     pop_ids = list(populations.keys())
 
-# analyse whole chromosomes
+# convenience
 chromosomes = ['2', '3', 'X']
+seqids = ['2R', '2L', '3R', '3L', 'X']
 
 
 rule build_signal_pages:
@@ -42,6 +43,16 @@ rule build_signals_page:
         "python scripts/build_signals_page.py"
 
 
+rule build_signal_summary_plots:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_signal_summary_plots.py",
+    output:
+        touch("docs/population/.plots.make"),
+    shell:
+        "python scripts/build_signal_summary_plots.py"
+
+
 rule build_population_pages:
     input:
         "docs/conf.py",
@@ -50,11 +61,26 @@ rule build_population_pages:
         "templates/macros.rst",
         "templates/populations.rst",
         "templates/population.rst",
+        rules.build_signal_summary_plots.output,
     output:
         "docs/populations.rst",
         expand("docs/population/{population}.rst", population=pop_ids),
     shell:
         "python scripts/build_population_pages.py"
+
+
+rule build_seqid_pages:
+    input:
+        "docs/conf.py",
+        "docs/_static/data/signals.csv",
+        "scripts/build_seqid_pages.py",
+        "templates/macros.rst",
+        "templates/seqid.rst",
+        rules.build_signal_summary_plots.output,
+    output:
+        expand("docs/seqid/{seqid}.rst", seqid=seqids),
+    shell:
+        "python scripts/build_seqid_pages.py"
 
 
 rule build_gene_pages:
@@ -76,7 +102,8 @@ rule all:
         rules.build_signal_pages.output,
         rules.build_signals_page.output,
         rules.build_population_pages.output,
+        rules.build_seqid_pages.output,
         # temporarily disable as building all gene pages takes a while
-#        rules.build_gene_pages.output,
+        rules.build_gene_pages.output,
     shell:
         "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../agam-selection-atlas-gh-pages/dev/"
