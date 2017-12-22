@@ -35,39 +35,37 @@ if __name__ == '__main__':
         # TODO this doesn't properly handle overlapping signals spanning a
         # centromere
         overlapping_signals = signals[
-            (signals.epicenter_arm == gene.seqid) &
+            (signals.epicenter_seqid == gene.seqid) &
             (signals.focus_start <= gene.end) &
-            (signals.focus_stop >= gene.start)
+            (signals.focus_end >= gene.start)
         ]
 
         # TODO this doesn't properly handle overlapping signals spanning a
         # centromere
         adjacent_signals = signals[
-            (signals.epicenter_arm == gene.seqid) &
+            (signals.epicenter_seqid == gene.seqid) &
             ((gene.end < signals.focus_start) |
-             (gene.start > signals.focus_stop)) &
+             (gene.start > signals.focus_end)) &
             ((signals.focus_start - 50000) <= gene.end) &
-            ((signals.focus_stop + 50000) >= gene.start)
+            ((signals.focus_end + 50000) >= gene.start)
         ]
 
-        if len(overlapping_signals) or len(adjacent_signals):
+        gene_report = {
+            'gene': {
+                'id': gene.ID,
+                'name': gene.Name,
+                'description': gene.description.split('[Source:')[0].strip(),
+                'seqid': gene.seqid,
+                'start': int(gene.start),
+                'end': int(gene.end),
+            },
+            'overlapping_signals':
+                overlapping_signals.to_dict(orient='records'),
+            'adjacent_signals':
+                adjacent_signals.to_dict(orient='records'),
+        }
 
-            gene_report = {
-                'gene': {
-                    'id': gene.ID,
-                    'name': gene.Name,
-                    'description': gene.description.split('[Source:')[0].strip(),
-                    'seqid': gene.seqid,
-                    'start': gene.start,
-                    'end': gene.end,
-                },
-                'overlapping_signals':
-                    overlapping_signals.to_dict(orient='records'),
-                'adjacent_signals':
-                    adjacent_signals.to_dict(orient='records'),
-            }
-
-            out_path = os.path.join('docs', 'gene', gene.ID + '.rst')
-            print('rendering', out_path)
-            with open(out_path, mode='w') as f:
-                print(template.render(**gene_report), file=f)
+        out_path = os.path.join('docs', 'gene', gene.ID + '.rst')
+        print('rendering', out_path)
+        with open(out_path, mode='w') as f:
+            print(template.render(**gene_report), file=f)

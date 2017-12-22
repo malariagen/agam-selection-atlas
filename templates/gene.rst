@@ -1,26 +1,15 @@
 :orphan:
+{% from 'macros.rst' import signals_table, disqus, intcomma %}
+{% set root_path = '../' %}
 
 {{ gene.id }}
-=============
+{% for c in gene.id %}={% endfor %}
 
-{% macro signals_table(signals) %}
-{% if signals|length > 0 %}
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
+Location: **{{ gene.seqid }}:{{ intcomma(gene.start) }}-{{ intcomma(gene.end) }}**
 
-    {% for signal in signals -%}
-    :doc:`../signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ "{:,}".format(signal.focus_start|int) }}-{% if signal.focus_start_arm != signal.focus_stop_arm %}{{ signal.focus_stop_arm }}:{% endif %}{{ "{:,}".format(signal.focus_stop|int) }}",{{ signal.sum_delta_aic|int }} ({{ signal.delta_aic_left|int }} | {{ signal.delta_aic_right|int }})
-    {% endfor %}
-{% else %}
-No signals.
-{% endif %}
-{% endmacro %}
+{% if gene.name|length > 0 %}Name: **{{ gene.name }}**{% endif %}
 
-{% if gene.name %}Name: **{{ gene.name }}**{% endif %}
-
-{% if gene.description -%}
+{% if gene.description|length > 0 -%}
 Description: {{ gene.description|capitalize }}.
 {%- endif %}
 
@@ -32,18 +21,21 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
 
-{{ signals_table(overlapping_signals) }}
-
+{{ signals_table(overlapping_signals, root_path) }}
 {% endif %}
 
 {% if adjacent_signals|length > 0 -%}
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
+The following signals have a focus which occurs within 50 kbp of this gene.
 
-{{ signals_table(adjacent_signals) }}
-
+{{ signals_table(adjacent_signals, root_path) }}
 {% endif %}
+
+Comments
+--------
+
+{{ disqus('/gene/{{ gene.id }}') }}

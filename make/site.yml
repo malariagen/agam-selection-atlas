@@ -10,7 +10,7 @@ static_files = [os.path.join(dirpath, name)
 # load populations definitions
 with open('docs/_static/data/populations.yml', mode='r') as f:
     populations = yaml.load(f)
-    pop_ids = [p['id'] for p in populations]
+    pop_ids = list(populations.keys())
 
 # analyse whole chromosomes
 chromosomes = ['2', '3', 'X']
@@ -18,8 +18,10 @@ chromosomes = ['2', '3', 'X']
 
 rule build_signal_pages:
     input:
+        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_signal_pages.py",
+        "templates/macros.rst",
         "templates/signal.rst",
     output:
         touch("docs/signal/.make"),
@@ -29,8 +31,10 @@ rule build_signal_pages:
 
 rule build_signals_page:
     input:
+        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_signals_page.py",
+        "templates/macros.rst",
         "templates/signals.rst",
     output:
         "docs/signals.rst",
@@ -40,8 +44,10 @@ rule build_signals_page:
 
 rule build_population_pages:
     input:
+        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_population_pages.py",
+        "templates/macros.rst",
         "templates/populations.rst",
         "templates/population.rst",
     output:
@@ -53,8 +59,10 @@ rule build_population_pages:
 
 rule build_gene_pages:
     input:
+        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_gene_pages.py",
+        "templates/macros.rst",
         "templates/gene.rst",
     output:
         touch("docs/gene/.make"),
@@ -68,6 +76,7 @@ rule all:
         rules.build_signal_pages.output,
         rules.build_signals_page.output,
         rules.build_population_pages.output,
-        rules.build_gene_pages.output,
+        # temporarily disable as building all gene pages takes a while
+#        rules.build_gene_pages.output,
     shell:
         "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../agam-selection-atlas-gh-pages/dev/"

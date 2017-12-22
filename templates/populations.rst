@@ -6,5 +6,5 @@ Signals by population
     :maxdepth: 1
 
     {% for population in populations -%}
-    population/{{ population.id }}
+    population/{{ population }}
     {% endfor %}

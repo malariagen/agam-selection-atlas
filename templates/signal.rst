@@ -1,29 +1,22 @@
 :orphan:
+{% from 'macros.rst' import signals_table, gene_doc, disqus, intcomma %}
+{% set root_path = '../../../../../' %}
+{% set title = statistic.label + ' / ' + population.label + ' / ' + chromosome + ' / #' + rank|string %}
 
-{{ statistic.label }} / {{ population.label }} / Chromosome {{ chromosome }} / #{{ rank }}
-================================================================================
-
-{% macro gene(value) -%}
-:doc:`../../../../../gene/{{ value.id }}`
-{%- if value.name or value.description %} (
-    {%- if value.name %}{{ value.name|trim }}{% endif -%}
-    {%- if value.name and value.description %} - {% endif %}
-    {%- if value.description %}{{ value.description|trim }}{% endif -%}
-)
-{%- endif %}
-{%- endmacro %}
+{{ title }}
+{% for c in title %}={% endfor %}
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/{{ population.id }}` population using the
-:doc:`../../../../../method/{{ statistic.id }}` statistic.
-{%- if focus.start[0] == focus.stop[0] -%}
-The inferred focus of this signal is on chromosome arm
-**{{ focus.start[0] }}** between positions **{{ "{:,}".format(focus.start[1]) }}** and
-**{{ "{:,}".format(focus.stop[1]) }}**.
+:doc:`{{ root_path }}population/{{ population.id }}` population using the
+:doc:`{{ root_path }}method/{{ statistic.id }}` statistic.
+{%- if focus.start[0] == focus.end[0] -%}
+The focus of this signal is on chromosome arm
+**{{ focus.start[0] }}** between positions **{{ intcomma(focus.start[1]) }}** and
+**{{ intcomma(focus.end[1]) }}**.
 {%- else -%}
-The inferred focus of this signal is between
-**{{ focus.start[0] }}:{{ "{:,}".format(focus.start[1]) }}** and
-**{{ focus.stop[0] }}:{{ "{:,}".format(focus.stop[1]) }}**.
+The focus of this signal is between
+**{{ focus.start[0] }}:{{ intcomma(focus.start[1]) }}** and
+**{{ focus.end[0] }}:{{ intcomma(focus.end[1]) }}**.
 {%- endif %}
 The evidence supporting this signal is
 {% if minor_delta_aic >= 100 -%}
@@ -53,11 +46,11 @@ The evidence supporting this signal is
 No genes overlap the focal region.
 {% endif %}
 {% if overlapping_genes|length == 1 %}
-Gene {{ gene(overlapping_genes[0]) }} overlaps the focal region.
+Gene {{ gene_doc(overlapping_genes[0], root_path) }} overlaps the focal region.
 {% endif %}
 {% if overlapping_genes|length > 1 %}
 The following {{ overlapping_genes|length }} genes overlap the focal region:
-{%- for value in overlapping_genes %} {{ gene(value) }}{{ ", " if not loop.last }}
+{%- for value in overlapping_genes %} {{ gene_doc(value, root_path) }}{{ ", " if not loop.last }}
 {%- endfor %}.
 {% endif %}
 {% if adjacent_genes|length == 0 %}
@@ -65,60 +58,49 @@ The following {{ overlapping_genes|length }} genes overlap the focal region:
 No genes are within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length == 1 %}
-Gene {{ gene(adjacent_genes[0]) }} is within 50 kbp of the focal region.
+Gene {{ gene_doc(adjacent_genes[0], root_path) }} is within 50 kbp of the focal region.
 {% endif %}
 {% if adjacent_genes|length > 1 %}
 The following {{ adjacent_genes|length }} genes are within 50 kbp of the focal
 region:
-{%- for value in adjacent_genes %} {{ gene(value) }}{{ ", " if not loop.last }}
+{%- for value in adjacent_genes %} {{ gene_doc(value, root_path) }}{{ ", " if not loop.last }}
 {%- endfor %}.
 {% endif %}
 
+{% if overlapping_signals|length > 0 -%}
 Overlapping signals
 -------------------
 
-{% if overlapping_signals|length > 0 %}
+The following selection signals have an focus which overlaps with the
+focus of this signal.
 
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal, Focus, Score
-
-    {% for signal in overlapping_signals -%}
-    :doc:`../../../../../signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`,"{{ signal.focus_start_arm }}:{{ "{:,}".format(signal.focus_start|int) }}-{% if signal.focus_stop_arm != signal.focus_start_arm%}{{ signal.focus_stop_arm }}:{% endif %}{{ "{:,}".format(signal.focus_stop|int) }}",{{ signal.sum_delta_aic|int }}
-    {% endfor %}
-
-{% else %}
-No overlapping signals.
+{{ signals_table(overlapping_signals, root_path) }}
 {% endif %}
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`{{ root_path }}method/peak_modelling` algorithm.
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_context.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_context.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_targetting.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_targetting.png"/>
     <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_fit.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_fit.png"/>
     <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
     </div>
 
@@ -144,15 +126,4 @@ Right flank, null model::
 Comments
 --------
 
-.. raw:: html
-
-    <div id="disqus_thread"></div>
-    <script>
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{{ disqus() }}

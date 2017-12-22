@@ -1,13 +1,14 @@
 :orphan:
 
-H12 / Burkina Faso *An. gambiae* / Chromosome X / #2
-================================================================================
 
 
+
+H12 / Burkina Faso *An. gambiae* / X / #2
+=========================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **X** between positions **9,180,001** and
 **9,260,000**.
 The evidence supporting this signal is
@@ -40,29 +41,13 @@ The following 2 genes are within 50 kbp of the focal
 region: :doc:`../../../../../gene/AGAP000520`,  :doc:`../../../../../gene/AGAP000521`.
 
 
-Overlapping signals
--------------------
-
-
-
-The following selection signals have an inferred focus which overlaps with the
-focus of this signal:
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal, Focus, Score
-
-    :doc:`../../../../../signal/H12/BFM/X/2/index`,"X:9,200,001-9,240,000",165
-    
-
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -167,10 +152,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -178,4 +165,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

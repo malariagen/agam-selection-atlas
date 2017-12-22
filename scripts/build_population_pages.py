@@ -2,9 +2,6 @@
 from __future__ import absolute_import, print_function, division
 import jinja2
 import yaml
-from glob import glob
-import os
-import allel
 import petl as etl
 
 
@@ -30,25 +27,25 @@ if __name__ == '__main__':
     # load signals
     tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
 
-    for population in populations:
+    for pop_id, pop_label in populations.items():
 
         pop_signals = list(
             tbl_signals
-            .eq('population', population['id'])
+            .eq('population', pop_id)
             .dicts()
         )
         data = dict()
-        data['population'] = population
+        data['population'] = {'id': pop_id, 'label': pop_label}
         data['signals'] = {
-            '2R': [s for s in pop_signals if s['epicenter_arm'] == '2R'],
-            '2L': [s for s in pop_signals if s['epicenter_arm'] == '2L'],
-            '3R': [s for s in pop_signals if s['epicenter_arm'] == '3R'],
-            '3L': [s for s in pop_signals if s['epicenter_arm'] == '3L'],
-            'X': [s for s in pop_signals if s['epicenter_arm'] == 'X'],
+            '2R': [s for s in pop_signals if s['epicenter_seqid'] == '2R'],
+            '2L': [s for s in pop_signals if s['epicenter_seqid'] == '2L'],
+            '3R': [s for s in pop_signals if s['epicenter_seqid'] == '3R'],
+            '3L': [s for s in pop_signals if s['epicenter_seqid'] == '3L'],
+            'X': [s for s in pop_signals if s['epicenter_seqid'] == 'X'],
         }
 
         # render the report
-        out_path = 'docs/population/{}.rst'.format(population['id'])
+        out_path = 'docs/population/{}.rst'.format(pop_id)
         print('rendering', out_path)
         with open(out_path, mode='w') as f:
             print(population_template.render(**data), file=f)

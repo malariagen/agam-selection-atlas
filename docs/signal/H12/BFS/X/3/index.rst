@@ -1,13 +1,14 @@
 :orphan:
 
-H12 / Burkina Faso *An. gambiae* / Chromosome X / #3
-================================================================================
 
 
+
+H12 / Burkina Faso *An. gambiae* / X / #3
+=========================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The inferred focus of this signal is on chromosome arm
+:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **X** between positions **9,640,001** and
 **9,720,000**.
 The evidence supporting this signal is
@@ -40,18 +41,13 @@ The following 7 genes are within 50 kbp of the focal
 region: :doc:`../../../../../gene/AGAP000535`,  :doc:`../../../../../gene/AGAP028592`,  :doc:`../../../../../gene/AGAP012976`,  :doc:`../../../../../gene/AGAP013521`,  :doc:`../../../../../gene/AGAP000536` (PGRPS1 - peptidoglycan recognition protein (short)),  :doc:`../../../../../gene/AGAP000537` (TWDL8 - cuticular protein TWDL family (TWDL8)),  :doc:`../../../../../gene/AGAP000538` (TWDL9 - cuticular protein TWDL family (TWDL9)).
 
 
-Overlapping signals
--------------------
-
-
-No overlapping signals.
 
 
 Diagnostics
 -----------
 
 The information below provides some diagnostics from the
-:doc:`/method/peak_modelling` algorithm.
+:doc:`../../../../../method/peak_modelling` algorithm.
 
 .. raw:: html
 
@@ -156,10 +152,12 @@ Right flank, null model::
 Comments
 --------
 
+
 .. raw:: html
 
     <div id="disqus_thread"></div>
     <script>
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
@@ -167,4 +165,6 @@ Comments
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+
