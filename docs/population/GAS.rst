@@ -121,7 +121,7 @@ Comments
     <script>
     
     var disqus_config = function () {
-        this.page.identifier = '/population/{{ population.id }}';
+        this.page.identifier = '/population/GAS';
     };
     
     (function() { // DON'T EDIT BELOW THIS LINE

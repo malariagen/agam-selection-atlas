@@ -45,4 +45,4 @@ Chromosome X
 Comments
 --------
 
-{{ disqus('/population/{{ population.id }}') }}
+{{ disqus('/population/' + population.id) }}

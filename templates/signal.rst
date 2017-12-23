@@ -77,7 +77,7 @@ Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 Overlapping signals
 -------------------
 
-The following selection signals have an focus which overlaps with the
+The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 {{ signals_table(overlapping_signals, root_path) }}

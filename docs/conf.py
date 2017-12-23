@@ -64,7 +64,7 @@ author = 'Anopheles gambiae 1000 Genomes Consortium'
 # built documents.
 #
 # The short X.Y version.
-version = 'DEVELOPMENT VERSION'
+version = 'DEV'
 # The full version, including alpha/beta/rc tags.
 release = 'dev'
 
@@ -188,6 +188,6 @@ def setup(app):
     app.add_stylesheet(
         '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css')
     app.add_stylesheet(
-        '/{}/_static/css/custom.css'.format(release))
+        '/agam-selection-atlas/{}/_static/css/custom.css'.format(release))
     app.add_javascript(
         '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js')

@@ -38,4 +38,4 @@ The following signals have a focus which occurs within 50 kbp of this gene.
 Comments
 --------
 
-{{ disqus('/gene/{{ gene.id }}') }}
+{{ disqus('/gene/' + gene.id) }}
