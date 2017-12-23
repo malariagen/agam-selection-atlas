@@ -1,36 +1,44 @@
 :orphan:
 
+
+
 AGAP007901
-=============
+==========
+
+Location: **3R:2,585,748-2,593,117**
 
 
 
-
-
-Description: Ras-related protein rab-5c [source:vb community annotation].
+Description: **Ras-related protein rab-5c**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007901>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:2585748-2593117#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP007901';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

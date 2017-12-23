@@ -1,9 +1,11 @@
 :orphan:
 
+
+
 AGAP006259
-=============
+==========
 
-
+Location: **2L:28,705,998-28,706,261**
 
 
 
@@ -13,30 +15,30 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006259>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:28705998-28706261#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    :doc:`/signal/H12/GNS/chr2/3/index`,":28740001-28840000",352
+    <div id="disqus_thread"></div>
+    <script>
     
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP006259';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

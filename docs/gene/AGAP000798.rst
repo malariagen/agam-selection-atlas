@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP000798
-=============
+==========
 
-
+Location: **X:14,600,998-14,612,133**
 
 Name: **GLURIIc**
 
-Description: Ionotropic receptor gluriic [source:vb community annotation].
+Description: **Ionotropic receptor gluriic**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000798>`_ |
@@ -16,27 +18,53 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
 
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
 
-
-No signals.
+    :doc:`../signal/H12/GAS/X/1/index`, "X:14,480,001-14,720,000", 94 (20 | 73)
+    
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/AOM/chrX/2/index`,":14660001-14720000",262
+    :doc:`../signal/H12/AOM/X/2/index`, "X:14,660,001-14,720,000", 262 (204 | 58)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP000798';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

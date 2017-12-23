@@ -1,42 +1,57 @@
 :orphan:
 
+
+
 AGAP009204
-=============
+==========
 
-
+Location: **3R:28,673,260-28,674,754**
 
 Name: **eIF3h**
 
-Description: Eukaryotic translation initiation factor 3 subunit h [source:uniprotkb/swiss-prot;acc:q7pvr3].
+Description: **Eukaryotic translation initiation factor 3 subunit h**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009204>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:28673260-28674754#genomebrowser>`_
-
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
-
-
-
-No signals.
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/CMS/chr3/1/index`,":28540001-28640000",1425
+    :doc:`../signal/H12/CMS/3/1/index`, "3R:28,540,001-28,640,000", 1109 (680 | 428)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009204';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

@@ -1,36 +1,44 @@
 :orphan:
 
+
+
 AGAP005669
-=============
+==========
+
+Location: **2L:18,513,455-18,514,360**
 
 
 
-
-
-Description: Chymotrypsin-like protease (precursor) [source:vb community annotation].
+Description: **Chymotrypsin-like protease (precursor)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP005669>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:18513455-18514360#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP005669';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

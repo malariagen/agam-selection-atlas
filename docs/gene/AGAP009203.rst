@@ -1,45 +1,60 @@
 :orphan:
 
+
+
 AGAP009203
-=============
+==========
+
+Location: **3R:28,659,350-28,670,101**
 
 
 
-
-
-Description: Spry domain-containing socs box protein 3 [source:vb community annotation].
+Description: **Spry domain-containing socs box protein 3**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009203>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:28659350-28670101#genomebrowser>`_
-
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
-
-
-
-No signals.
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/CMS/chr3/1/index`,":28540001-28640000",1425
-    :doc:`/signal/H12/BFS/chr3/1/index`,":28480001-28620000",1057
-    :doc:`/signal/H12/UGS/chr3/1/index`,":28560001-28620000",881
-    :doc:`/signal/H12/BFM/chr3/1/index`,":28520001-28620000",730
+    :doc:`../signal/H12/CMS/3/1/index`, "3R:28,540,001-28,640,000", 1109 (680 | 428)
+    :doc:`../signal/H12/BFS/3/1/index`, "3R:28,480,001-28,620,000", 818 (500 | 318)
+    :doc:`../signal/H12/UGS/3/1/index`, "3R:28,560,001-28,620,000", 750 (426 | 323)
+    :doc:`../signal/H12/BFM/3/1/index`, "3R:28,520,001-28,620,000", 676 (393 | 283)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009203';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

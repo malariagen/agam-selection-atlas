@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP001683
-=============
+==========
+
+Location: **2R:8,247,070-8,438,651**
 
 
 
-
-
-Description: Calcium/calmodulin-dependent serine protein kinase [source:vb community annotation].
+Description: **Calcium/calmodulin-dependent serine protein kinase**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001683>`_ |
@@ -16,27 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/AOM/chr2/2/index`,":8320001-8380000",484
+    :doc:`../signal/H12/AOM/2/2/index`, "2R:8,320,001-8,380,000", 484 (283 | 201)
     
 
 
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
 
 
+Comments
+--------
 
-No signals.
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP001683';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

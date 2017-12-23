@@ -1,42 +1,57 @@
 :orphan:
 
+
+
 AGAP004035
-=============
+==========
 
-
+Location: **2R:48,240,411-48,249,362**
 
 Name: **GPRFSH**
 
-Description: Putative glyco-protein hormone fsh-like receptor [source:vb community annotation].
+Description: **Putative glyco-protein hormone fsh-like receptor**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004035>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:48240411-48249362#genomebrowser>`_
-
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
-
-
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    :doc:`/signal/H12/AOM/chr2/7/index`,":48140001-48280000",107
-    
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/AOM/2/7/index`, "2R:48,180,001-48,240,000", 115 (81 | 33)
+    
 
 
 
-No signals.
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004035';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

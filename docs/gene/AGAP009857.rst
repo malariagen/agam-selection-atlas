@@ -1,42 +1,44 @@
 :orphan:
 
+
+
 AGAP009857
-=============
+==========
 
-
+Location: **3R:44,357,873-44,359,336**
 
 Name: **Gr4**
 
-Description: Gustatory receptor 4 [source:vb community annotation].
+Description: **Gustatory receptor 4**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009857>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:44357873-44359336#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
 
-    :doc:`/signal/H12/AOM/chr3/2/index`,":44120001-44600000",167
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
     
-
-
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-No signals.
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009857';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

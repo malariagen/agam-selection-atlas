@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP004453
-=============
+==========
 
-
+Location: **2R:56,483,698-56,565,575**
 
 Name: **GPRDOP3**
 
-Description: Gpcr dopamine family 3 [source:vb community annotation].
+Description: **Gpcr dopamine family 3**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004453>`_ |
@@ -16,21 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/GNS/2/6/index`, "2R:56,440,001-56,520,000", 123 (34 | 88)
+    
 
 
 
-No signals.
 
 
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
+Comments
+--------
 
 
+.. raw:: html
 
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004453';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

@@ -1,36 +1,44 @@
 :orphan:
 
+
+
 AGAP010039
-=============
+==========
 
-
+Location: **3R:48,117,528-48,119,289**
 
 Name: **NADH_dehyd**
 
-Description: Nadh dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (fragment) [source:uniprotkb/trembl;acc:q7pmh3].
+Description: **Nadh dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (fragment)**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010039>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:48117528-48119289#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP010039';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

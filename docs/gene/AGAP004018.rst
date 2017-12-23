@@ -1,9 +1,11 @@
 :orphan:
 
+
+
 AGAP004018
-=============
+==========
 
-
+Location: **2R:47,887,680-47,910,298**
 
 
 
@@ -13,30 +15,30 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004018>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:47887680-47910298#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    :doc:`/signal/H12/GWA/chr2/2/index`,":47820001-47860000",358
+    <div id="disqus_thread"></div>
+    <script>
     
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004018';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

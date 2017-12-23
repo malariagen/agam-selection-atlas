@@ -1,36 +1,57 @@
 :orphan:
 
+
+
 AGAP000981
-=============
+==========
+
+Location: **X:18,817,350-18,821,904**
 
 
 
-
-
-Description: Nuclear receptor interaction protein [source:vb community annotation].
+Description: **Nuclear receptor interaction protein**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000981>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:18817350-18821904#genomebrowser>`_
-
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
-
-
-
-No signals.
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/AOM/X/3/index`, "X:18,420,001-18,800,000", 115 (20 | 94)
+    
 
 
 
-No signals.
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP000981';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

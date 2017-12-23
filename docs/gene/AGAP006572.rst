@@ -1,42 +1,44 @@
 :orphan:
 
+
+
 AGAP006572
-=============
+==========
+
+Location: **2L:34,197,256-34,197,923**
 
 
 
-
-
-Description: Ubiquinone biosynthesis protein coq7 homolog [source:vb community annotation].
+Description: **Ubiquinone biosynthesis protein coq7 homolog**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006572>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:34197256-34197923#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
 
 
 
-No signals.
+
+Comments
+--------
 
 
+.. raw:: html
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score
-
-    :doc:`/signal/H12/UGS/chr2/3/index`,":34040001-34160000",1197
+    <div id="disqus_thread"></div>
+    <script>
     
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP006572';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

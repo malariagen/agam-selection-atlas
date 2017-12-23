@@ -1,42 +1,57 @@
 :orphan:
 
+
+
 AGAP010131
-=============
+==========
+
+Location: **3R:49,268,902-49,275,200**
 
 
 
-
-
-Description: Ornithine decarboxylase antizyme 1 [source:vb community annotation].
+Description: **Ornithine decarboxylase antizyme 1**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP010131>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:49268902-49275200#genomebrowser>`_
-
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene:
-
-
-
-No signals.
 
 
 
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/GWA/chr3/1/index`,":49320001-49420000",138
+    :doc:`../signal/H12/GWA/3/1/index`, "3R:49,320,001-49,380,000", 239 (30 | 208)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP010131';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

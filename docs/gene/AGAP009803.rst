@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP009803
-=============
+==========
 
-
+Location: **3R:43,668,907-43,670,281**
 
 Name: **Gr11**
 
-Description: Gustatory receptor 11 [source:vb community annotation].
+Description: **Gustatory receptor 11**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009803>`_ |
@@ -16,21 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/BFS/3/5/index`, "3R:43,640,001-43,680,000", 84 (48 | 36)
+    
 
 
 
-No signals.
 
 
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
+Comments
+--------
 
 
+.. raw:: html
 
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009803';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

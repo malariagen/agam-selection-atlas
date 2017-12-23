@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP006030
-=============
+==========
 
-
+Location: **2L:25,450,808-25,461,067**
 
 Name: **mfrn**
 
-Description: Mitoferrin [source:vb community annotation].
+Description: **Mitoferrin**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP006030>`_ |
@@ -16,18 +18,16 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/BFM/chr2/2/index`,":25400001-25500000",1180
-    :doc:`/signal/H12/GAS/chr2/1/index`,":25460001-25540000",568
-    :doc:`/signal/H12/AOM/chr2/3/index`,":25380001-25460000",392
+    :doc:`../signal/H12/BFM/2/2/index`, "2L:25,400,001-25,520,000", 919 (426 | 492)
+    :doc:`../signal/H12/GAS/2/1/index`, "2L:25,460,001-25,520,000", 496 (193 | 303)
+    :doc:`../signal/H12/AOM/2/3/index`, "2L:25,380,001-25,460,000", 392 (242 | 150)
     
 
 
@@ -35,16 +35,38 @@ The following signals have a focus which overlaps this gene:
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/BFS/chr2/5/index`,":25380001-25440000",365
+    :doc:`../signal/H12/BFS/2/5/index`, "2L:25,380,001-25,420,000", 409 (195 | 214)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP006030';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

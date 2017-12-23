@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP007742
-=============
+==========
+
+Location: **3R:176,320-179,405**
 
 
 
-
-
-Description: E3 ufm1-protein ligase 1 homolog [source:uniprotkb/swiss-prot;acc:q7q373].
+Description: **E3 ufm1-protein ligase 1 homolog**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP007742>`_ |
@@ -16,21 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/GAS/3/2/index`, "3R:80,001-180,000", 160 (23 | 136)
+    
 
 
 
-No signals.
 
 
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
+Comments
+--------
 
 
+.. raw:: html
 
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP007742';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

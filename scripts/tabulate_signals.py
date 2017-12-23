@@ -21,19 +21,21 @@ if __name__ == '__main__':
               'statistic',
               'chromosome',
               'rank',
-              'epicenter_arm',
+              'epicenter_seqid',
               'epicenter_start',
-              'epicenter_stop',
-              'focus_start_arm',
-              'focus_stop_arm',
+              'epicenter_end',
+              'focus_start_seqid',
+              'focus_end_seqid',
               'focus_start',
-              'focus_stop',
-              'peak_start_arm',
-              'peak_stop_arm',
+              'focus_end',
+              'peak_start_seqid',
+              'peak_end_seqid',
               'peak_start',
-              'peak_stop',
+              'peak_end',
               'minor_delta_aic',
               'sum_delta_aic',
+              'delta_aic_left',
+              'delta_aic_right',
               'overlapping_genes',
               ]]
 
@@ -43,7 +45,7 @@ if __name__ == '__main__':
     )
     genes = features[features['type'] == 'gene']
 
-    for path in sorted(glob('docs/signal/*/*/*/*/report.yml')):
+    for path in sorted(glob('docs/_static/data/signal/*/*/*/*/report.yml')):
         print('reading', path)
 
         # load the basic signal report
@@ -54,28 +56,29 @@ if __name__ == '__main__':
         epicenter = report['epicenter']
         # check epicenter does not span centromere - not sure how to handle that
         # case
-        assert epicenter['start'][0] == epicenter['stop'][0]
-        epicenter_arm = epicenter['start'][0]
+        assert epicenter['start'][0] == epicenter['end'][0]
+        epicenter_seqid = epicenter['start'][0]
         epicenter_start = epicenter['start'][1]
-        epicenter_stop = epicenter['stop'][1]
+        epicenter_end = epicenter['end'][1]
 
         # obtain focus
         focus = report['focus']
-        focus_start_arm = focus['start'][0]
-        focus_stop_arm = focus['stop'][0]
+        focus_start_seqid = focus['start'][0]
+        focus_end_seqid = focus['end'][0]
         focus_start = focus['start'][1]
-        focus_stop = focus['stop'][1]
+        focus_end = focus['end'][1]
 
         # crude way to deal with rare case where focus spans centromere
-        if focus_start_arm != epicenter_arm:
+        # TODO work with whole chromosome
+        if focus_start_seqid != epicenter_seqid:
             focus_start = 1
-        if focus_stop_arm != epicenter_arm:
-            focus_stop = len(genome[epicenter_arm])
+        if focus_end_seqid != epicenter_seqid:
+            focus_end = len(genome[epicenter_seqid])
 
         # augment report with gene information
         overlapping_genes = genes[(
-            (genes.seqid == epicenter_arm) &
-            (genes.start <= focus_stop) &
+            (genes.seqid == epicenter_seqid) &
+            (genes.start <= focus_end) &
             (genes.end >= focus_start)
         )]
         overlapping_genes = ' '.join(
@@ -89,22 +92,24 @@ if __name__ == '__main__':
             report['rank'],
             report['epicenter']['start'][0],
             report['epicenter']['start'][1],
-            report['epicenter']['stop'][1],
-            # focus may start and stop on different arms, preserve this info
+            report['epicenter']['end'][1],
+            # focus may start and end on different arms, preserve this info
             report['focus']['start'][0],
-            report['focus']['stop'][0],
+            report['focus']['end'][0],
             report['focus']['start'][1],
-            report['focus']['stop'][1],
-            # peak may start and stop on different arms, preserve this info
+            report['focus']['end'][1],
+            # peak may start and end on different arms, preserve this info
             report['peak']['start'][0],
-            report['peak']['stop'][0],
+            report['peak']['end'][0],
             report['peak']['start'][1],
-            report['peak']['stop'][1],
+            report['peak']['end'][1],
             report['minor_delta_aic'],
             report['sum_delta_aic'],
+            report['delta_aic'][0],
+            report['delta_aic'][1],
             overlapping_genes,
         ]
         table += [row]
 
     table = etl.wrap(table).sort(key='sum_delta_aic', reverse=True)
-    table.tocsv('docs/signals.csv')
+    table.tocsv('docs/_static/data/signals.csv')

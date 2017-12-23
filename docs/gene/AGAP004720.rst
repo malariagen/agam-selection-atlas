@@ -1,9 +1,11 @@
 :orphan:
 
+
+
 AGAP004720
-=============
+==========
 
-
+Location: **2L:2,727,394-2,742,060**
 
 
 
@@ -16,18 +18,16 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/BFM/chr2/1/index`,":2500001-2900000",1736
-    :doc:`/signal/H12/UGS/chr2/2/index`,":1940001-3080000",1332
-    :doc:`/signal/H12/CMS/chr2/2/index`,":2460001-2960000",635
+    :doc:`../signal/H12/BFM/2/1/index`, "2L:2,520,001-2,900,000", 1399 (800 | 599)
+    :doc:`../signal/H12/UGS/2/2/index`, "2L:2,520,001-3,120,000", 982 (573 | 409)
+    :doc:`../signal/H12/CMS/2/2/index`, "2L:2,420,001-2,920,000", 566 (461 | 104)
     
 
 
@@ -35,17 +35,39 @@ The following signals have a focus which overlaps this gene:
 Adjacent signals
 ----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/BFS/chr2/1/index`,":2420001-2720000",1728
-    :doc:`/signal/H12/GNS/chr2/1/index`,":1720001-2700000",1554
+    :doc:`../signal/H12/BFS/2/1/index`, "2L:2,420,001-2,720,000", 1365 (680 | 685)
+    :doc:`../signal/H12/GNS/2/1/index`, "2L:1,760,001-2,700,000", 1256 (673 | 583)
     
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004720';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

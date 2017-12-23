@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP003260
-=============
+==========
 
-
+Location: **2R:34,504,196-34,506,056**
 
 Name: **Gr21**
 
-Description: Gustatory receptor 21 [source:vb community annotation].
+Description: **Gustatory receptor 21**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003260>`_ |
@@ -16,27 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/AOM/chr2/6/index`,":34440001-34540000",205
+    :doc:`../signal/H12/AOM/2/6/index`, "2R:34,480,001-34,540,000", 220 (193 | 27)
     
 
 
 
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
 
 
+Comments
+--------
 
-No signals.
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP003260';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

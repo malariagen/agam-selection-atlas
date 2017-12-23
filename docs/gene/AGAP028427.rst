@@ -1,9 +1,11 @@
 :orphan:
 
+
+
 AGAP028427
-=============
+==========
 
-
+Location: **3R:4,689,808-4,754,923**
 
 
 
@@ -16,27 +18,41 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
-
-
-
-No signals.
-
-
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
-
-
+The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score
+    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`/signal/H12/GNS/chr3/2/index`,":4760001-4980000",262
+    :doc:`../signal/H12/GNS/3/2/index`, "3R:4,580,001-4,740,000", 235 (152 | 82)
+    :doc:`../signal/H12/BFS/3/3/index`, "3R:4,580,001-4,760,000", 167 (145 | 21)
     
+
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP028427';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 

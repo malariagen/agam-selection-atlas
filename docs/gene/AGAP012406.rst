@@ -1,13 +1,15 @@
 :orphan:
 
+
+
 AGAP012406
-=============
+==========
+
+Location: **3L:41,755,657-41,759,200**
 
 
 
-
-
-Description: Uncharacterized protein slr0305 [source:vb community annotation].
+Description: **Uncharacterized protein slr0305**.
 
 External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012406>`_ |
@@ -16,21 +18,40 @@ External links:
 Overlapping signals
 -------------------
 
-The following signals have a focus which overlaps this gene:
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/GAS/3/5/index`, "3L:41,500,001-41,860,000", 84 (62 | 21)
+    
 
 
 
-No signals.
 
 
-
-Adjacent signals
-----------------
-
-The following signals have a focus which occurs within 50 kbp of this gene:
+Comments
+--------
 
 
+.. raw:: html
 
-No signals.
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP012406';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
 
 
