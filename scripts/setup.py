@@ -16,13 +16,16 @@ import bokeh.layouts as blay
 import bokeh.embed as bemb
 import matplotlib as mpl
 import seaborn as sns
-sys.path.insert(0, 'agam-report-base/src/python')
+# print(os.path.abspath(__file__))
+scripts_dir = os.path.dirname(__file__)
+repo_dir = os.path.dirname(scripts_dir)
+sys.path.insert(0, os.path.join(repo_dir, 'agam-report-base', 'src', 'python'))
 import rockies
 from ag1k import phase1_selection, phase1_ar3, phase1_ar31
 
 
 # setup data sources
-ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
+ag1k_dir = os.path.join(repo_dir, 'ngs.sanger.ac.uk', 'production', 'ag1000g', 'phase1')
 phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
 phase1_ar31.init(os.path.join(ag1k_dir, 'AR3.1'))
 phase1_selection.init(os.path.join(ag1k_dir, 'selection.1.RC2'))
@@ -36,7 +39,8 @@ sns.set_style('darkgrid')
 
 
 # load populations definitions
-with open('docs/_static/data/populations.yml', mode='r') as f:
+populations_file = os.path.join(repo_dir, 'docs', '_static', 'data', 'populations.yml')
+with open(populations_file, mode='r') as f:
     populations = yaml.load(f)
 
 
@@ -69,4 +73,3 @@ recmap = {chrom: np.full(len(genome[chrom]), fill_value=2e-6)
           for chrom in seqids}
 for row in tbl_rr.records():
     recmap[row.chrom][row.start-1:row.end] = row.rr
-
