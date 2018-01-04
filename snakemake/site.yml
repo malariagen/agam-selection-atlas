@@ -18,6 +18,17 @@ chromosomes = ['2', '3', 'X']
 seqids = ['2R', '2L', '3R', '3L', 'X']
 
 
+rule tabulate_signals:
+    input:
+        "scripts/tabulate_signals.py",
+        "docs/_static/data/signal/H12/.make",
+        # TODO more signals here
+    output:
+        "docs/_static/data/signals.csv",
+    shell:
+        "python scripts/tabulate_signals.py"
+
+
 rule build_signal_pages:
     input:
         "docs/conf.py",
