@@ -29,7 +29,7 @@ rule tabulate_signals:
         "python scripts/tabulate_signals.py"
 
 
-rule build_signal_pages:
+rule signal_pages:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
@@ -42,7 +42,7 @@ rule build_signal_pages:
         "python scripts/build_signal_pages.py"
 
 
-rule build_signals_page:
+rule signals_page:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
@@ -55,7 +55,7 @@ rule build_signals_page:
         "python scripts/build_signals_page.py"
 
 
-rule build_signal_summary_plots:
+rule signal_summary_plots:
     input:
         "docs/_static/data/signals.csv",
         "scripts/build_signal_summary_plots.py",
@@ -65,7 +65,7 @@ rule build_signal_summary_plots:
         "python scripts/build_signal_summary_plots.py"
 
 
-rule build_population_pages:
+rule population_pages:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
@@ -81,7 +81,7 @@ rule build_population_pages:
         "python scripts/build_population_pages.py"
 
 
-rule build_seqid_pages:
+rule seqid_pages:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
@@ -95,7 +95,7 @@ rule build_seqid_pages:
         "python scripts/build_seqid_pages.py"
 
 
-rule build_gene_pages:
+rule gene_pages:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
@@ -108,7 +108,7 @@ rule build_gene_pages:
         "python scripts/build_gene_pages.py"
 
 
-rule build_ir_candidate_pages:
+rule ir_candidate_pages:
     input:
         "docs/conf.py",
         "docs/_static/data/signals.csv",
