@@ -1,18 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import yaml
-from glob import glob
-import os
-import allel
-import petl as etl
-import sys
-sys.path.insert(0, 'agam-report-base/src/python')
-from ag1k import phase1_ar3
-# setup data sources
-ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
-phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
-genome = phase1_ar3.genome
-chromosomes = '2R', '2L', '3R', '3L', 'X'
+from setup import *
 
 
 if __name__ == '__main__':

@@ -1,25 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import jinja2
-import yaml
-from glob import glob
-import os
-import allel
-import pandas as pd
-import sys
-import numpy as np
-import bokeh.plotting as bplt
-import bokeh.models as bmod
-import bokeh.layouts as blay
-import bokeh.embed as bemb
-import itertools
-sys.path.insert(0, 'agam-report-base/src/python')
-from ag1k import phase1_ar3
-# setup data sources
-ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
-phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
-genome = phase1_ar3.genome
-import petl as etl
+from setup import *
 
 
 def plot_signal_location(report, plot_width=900, plot_height=200):

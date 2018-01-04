@@ -1,28 +1,8 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import jinja2
-import yaml
-from glob import glob
-import os
-import allel
-import pandas as pd
-import matplotlib as mpl
-import sys
-import numpy as np
-import bokeh.plotting as bplt
-import bokeh.models as bmod
-import bokeh.layouts as blay
-import bokeh.embed as bemb
-import itertools
-sys.path.insert(0, 'agam-report-base/src/python')
-from ag1k import phase1_ar3
-# setup data sources
-ag1k_dir = 'ngs.sanger.ac.uk/production/ag1000g/phase1'
-phase1_ar3.init(os.path.join(ag1k_dir, 'AR3'))
-genome = phase1_ar3.genome
-import seaborn as sns
+from setup import *
+
+
 palette = [mpl.colors.rgb2hex(c) for c in sns.color_palette()]
-seqids = '2R', '2L', '3R', '3L', 'X'
 
 
 def plot_genes(genes, chrom, start=None, end=None, fig=None, offset=0, x_range=None,
