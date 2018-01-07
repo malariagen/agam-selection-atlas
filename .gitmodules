@@ -2,3 +2,6 @@
 	path = agam-report-base
 	url = git@github.com:malariagen/agam-report-base.git
 	branch = master
+[submodule "scikit-allel"]
+	path = scikit-allel
+	url = git@github.com:cggh/scikit-allel.git
