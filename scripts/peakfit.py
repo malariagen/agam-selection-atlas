@@ -87,10 +87,12 @@ def extract_windowed_values(df, seqid, recmap, genome, spacing=0, values_col='va
         percentiles = np.concatenate([percentiles1, percentiles2])
         return starts, ends, gstarts, gends, values, percentiles
 
-    # extract data for single seqid
-    df = df.reset_index().set_index(seqid_col)
+    # compute percentiles, with nans removed
+    df = df.iloc[~np.isnan(df[values_col].values)]
     df['percentile'] = sp.stats.rankdata(df[values_col]) / len(df)
 
+    # extract data for single seqid
+    df = df.reset_index().set_index(seqid_col)
     df_seq = df.loc[seqid]
 
     # extract window starts and ends
@@ -310,6 +312,11 @@ class PeakFitter(object):
     def split_peak_params(self, peak_result):
         raise NotImplemented
 
+    def get_baseline(self, peak_result):
+        baseline = peak_result.params['baseline'].value
+        baseline_stderr = peak_result.params['baseline'].stderr
+        return baseline, baseline_stderr
+
     def fit(self, x, y, center, flank):
 
         # slice out the region of data to fit against
@@ -328,8 +335,7 @@ class PeakFitter(object):
         peak_result = self.peak_model.fit(yy, x=xx, params=self.peak_params)
 
         # obtain best fit for peak data for subtracting from values
-        baseline = peak_result.params['baseline'].value
-        baseline_stderr = peak_result.params['baseline'].stderr
+        baseline, baseline_stderr = self.get_baseline(peak_result)
         best_fit = peak_result.best_fit
         peak = best_fit - baseline
         residual = yy - peak
@@ -474,6 +480,246 @@ class AsymmetricDecayExponentialPeakFitter(PeakFitter):
         return peak_params_left, peak_params_right
 
 
+class GaussianPeakFitter(PeakFitter):
+
+    def __init__(self, amplitude, sigma, baseline, null):
+
+        # initialise null model
+        null_model = lmfit.models.ConstantModel()
+        null_params = lmfit.Parameters()
+        null_params['c'] = null
+
+        # initialise peak model
+        peak_model = lmfit.models.GaussianModel() + lmfit.models.ConstantModel()
+        peak_params = lmfit.Parameters()
+        peak_params['center'] = lmfit.Parameter(value=0, vary=False)
+        peak_params['amplitude'] = amplitude
+        peak_params['sigma'] = sigma
+        peak_params['c'] = baseline
+
+        # initialise flank model
+        half_peak_model = lmfit.models.GaussianModel() + lmfit.models.ConstantModel()
+
+        super(GaussianPeakFitter, self).__init__(
+            null_model=null_model, null_params=null_params, peak_model=peak_model,
+            peak_params=peak_params, half_peak_model=half_peak_model
+        )
+
+    def get_baseline(self, peak_result):
+        baseline = peak_result.params['c'].value
+        baseline_stderr = peak_result.params['c'].stderr
+        return baseline, baseline_stderr
+
+    def split_peak_params(self, peak_result):
+        amplitude = peak_result.params['amplitude'].value
+        sigma = peak_result.params['sigma'].value
+        baseline = peak_result.params['c'].value
+        half_peak_params = lmfit.Parameters()
+        half_peak_params['amplitude'] = lmfit.Parameter(value=amplitude, vary=False)
+        half_peak_params['sigma'] = lmfit.Parameter(value=sigma, vary=False)
+        half_peak_params['c'] = lmfit.Parameter(value=baseline, vary=False)
+        half_peak_params['center'] = lmfit.Parameter(value=0, vary=False)
+        return half_peak_params, half_peak_params
+
+
+import os
+
+
+def setup_logging(log_file, output_dir, verbose):
+
+    # determine path to log file
+    log_path = None
+    if log_file:
+        if output_dir:
+            log_path = os.path.join(output_dir, log_file)
+        else:
+            log_path = log_file
+        if os.path.exists(log_path):
+            os.remove(log_path)
+
+    # define logging function
+    def log(*args):
+        if verbose:
+            if log_path:
+                with open(log_path, mode='a') as f:
+                    kwargs = dict(file=f)
+                    print(*args, **kwargs)
+            else:
+                print(*args)
+
+    return log
+
+
+def find_peaks(starts, ends, gstarts, gends, values, percentiles, centers, flank, fitter,
+               min_flank_delta_aic=20, min_peak_delta_aic=80, max_iter=100,
+               extend_delta_aic_frc=0.05, verbose=True, output_dir=None, log_file='log.txt',
+               dpi=None, statistic_label='Selection statistic', show_plots=False):
+
+    # setup logging
+    log = setup_logging(log_file, output_dir, verbose)
+
+    # setup data
+    starts = np.asarray(starts)
+    ends = np.asarray(ends)
+    pos = (starts + ends) / 2
+    gstarts = np.asarray(gstarts)
+    gends = np.asarray(gends)
+    gpos = (gstarts + gends) / 2
+    values = np.asarray(values)
+    original_values = values.copy()
+    # assume no missing data here
+    assert ~np.any(np.isnan(values))
+    percentiles = np.asarray(percentiles)
+    assert (starts.shape == ends.shape == gstarts.shape == gends.shape ==
+            values.shape == percentiles.shape)
+    centers = np.asarray(centers)
+    n_centers = centers.shape[0]
+
+    # setup working data structures
+    delta_aics = np.zeros(n_centers, dtype='f4')
+    flank_delta_aics = np.zeros((n_centers, 2), dtype='f4')
+    fits = np.empty(n_centers, dtype=object)
+
+    # first pass model fits
+    scan_fit(gpos, values, centers=centers, flank=flank, fitter=fitter, delta_aics=delta_aics,
+             flank_delta_aics=flank_delta_aics, fits=fits, log=log, start=None,
+             end=None)
+
+    # keep track of which iteration we're on, starting from 1 (be human friendly)
+    iteration = 1
+
+    # find the first peak
+    peak_center_ix, peak_delta_aic = find_best_peak(
+        delta_aics=delta_aics, flank_delta_aics=flank_delta_aics,
+        min_peak_delta_aic=min_peak_delta_aic, min_flank_delta_aic=min_flank_delta_aic
+    )
+    peak_fit = fits[peak_center_ix]
+    log('first peak:', peak_center_ix, peak_delta_aic)
+
+    # iterate
+    while peak_delta_aic > min_peak_delta_aic and iteration < max_iter:
+
+        log('=' * 80)
+        log('Iteration', iteration)
+        log('Peak center (index, location): {}, {:.1f}'
+            .format(peak_center_ix, centers[peak_center_ix]))
+        log('Delta AIC: {:.1f}'.format(peak_delta_aic))
+        log('Flank delta AICs: {:.1f}, {:.1f}'.format(*flank_delta_aics[peak_center_ix]))
+        log('=' * 80)
+
+        log('find limits of peak')
+        # N.B., physical coords
+        peak_start = int(starts[peak_fit.peak_start_ix])
+        peak_end = int(ends[peak_fit.peak_end_ix])
+        peak_start_center_ix = bisect_left(centers, peak_start)
+        peak_end_center_ix = bisect_right(centers, peak_end)
+        log('peak limits:', peak_start, peak_end)
+
+        log('check flank fits')
+        minor_flank_delta_aic = min(flank_delta_aics[peak_center_ix])
+
+        if minor_flank_delta_aic < min_flank_delta_aic:
+            log('POOR FLANK: SKIPPING PEAK')
+
+            # scrub delta aics in the peak region, so we don't find the same peak twice
+            delta_aics[peak_start_center_ix:peak_end_center_ix] = 0
+            flank_delta_aics[peak_start_center_ix:peak_end_center_ix, :] = 0
+
+        else:
+            log('FLANK OK: PROCESSING PEAK')
+
+            log('setup output directory for this peak')
+            if output_dir:
+                peak_dir = os.path.join(output_dir, str(iteration))
+                os.makedirs(peak_dir, exist_ok=True)
+            else:
+                peak_dir = None
+
+            log('plot some diagnostics about the peak finding algorithm')
+            fig = plot_peak_finding_diagnostics(pos, values, original_values, centers=centers,
+                                                delta_aics=delta_aics, peak_center_ix=peak_center_ix,
+                                                iteration=iteration, ylabel=statistic_label)
+            if peak_dir:
+                fig.savefig(os.path.join(peak_dir, 'peak_finding_diagnostics.png'),
+                            bbox_inches='tight', dpi=dpi, facecolor='w')
+            if show_plots:
+                plt.show()
+            else:
+                plt.close()
+
+            log('plot some diagnostics for the peak fit')
+            fig = plot_peak_fit_diagnostics(peak_fit, ylabel=statistic_label)
+            if peak_dir:
+                fig.savefig(os.path.join(peak_dir, 'peak_fit_diagnostics.png'),
+                            bbox_inches='tight', dpi=dpi, facecolor='w')
+            if show_plots:
+                plt.show()
+            else:
+                plt.close()
+
+            log('find focus of selection')
+            epicenter = int(centers[peak_center_ix])
+            log('epicenter:', epicenter)
+            # TODO review this logic for deciding boundaries
+            focus_start = int(centers[peak_center_ix - 1])
+            focus_end = int(centers[peak_center_ix + 1])
+            # search left
+            i = peak_center_ix - 2
+            while 0 <= i < n_centers:
+                if (peak_delta_aic - fits[i].delta_aic) < (extend_delta_aic_frc * peak_delta_aic):
+                    focus_start = int(centers[i])
+                    log('extend signal left', focus_start)
+                    i -= 1
+                else:
+                    break
+            # search right
+            i = peak_center_ix + 2
+            while 0 <= i < n_centers:
+                if (peak_delta_aic - fits[i].delta_aic) < (extend_delta_aic_frc * peak_delta_aic):
+                    focus_end = int(centers[i])
+                    log('extend signal right', focus_end)
+                    i += 1
+                else:
+                    break
+            log('found focus:', focus_start, focus_end)
+
+            # plot peak focus
+            fig = plot_peak_focus(pos, values, peak_fit=peak_fit, epicenter=epicenter,
+                                  focus_start=focus_start, focus_end=focus_end,
+                                  peak_start=peak_start, peak_end=peak_end, ylabel=statistic_label)
+            if peak_dir:
+                fig.savefig(os.path.join(peak_dir, 'peak_focus.png'),
+                            bbox_inches='tight', dpi=dpi, facecolor='w')
+            if show_plots:
+                plt.show()
+            else:
+                plt.close()
+
+            # plot peak targetting diagnostics
+
+
+            # TODO Process peak
+
+        # find the next peak
+        peak_center_ix, peak_delta_aic = find_best_peak(
+            delta_aics=delta_aics, flank_delta_aics=flank_delta_aics,
+            min_peak_delta_aic=min_peak_delta_aic, min_flank_delta_aic=min_flank_delta_aic
+        )
+        peak_fit = fits[peak_center_ix]
+        log('next peak:', peak_center_ix, peak_delta_aic)
+
+
+def scan_fit(x, y, centers, flank, fitter, delta_aics, flank_delta_aics, fits, log, start,
+             end):
+    # TODO
+    pass
+
+
+def find_best_peak(delta_aics, flank_delta_aics, min_peak_delta_aic, min_flank_delta_aic):
+    # TODO
+    return None, None
+
+
 def plot_peak_fit_diagnostics(fit, figsize=(8, 2.5), dpi=None,
                               xlabel='Genetic distance (cM)',
                               ylabel='Selection statistic'):
@@ -523,4 +769,73 @@ def plot_peak_fit_diagnostics(fit, figsize=(8, 2.5), dpi=None,
     ax.set_title('Residual', loc='left')
 
     fig.tight_layout()
+    return fig
+
+
+def plot_peak_finding_diagnostics(pos, values, original_values, centers, delta_aics, peak_center_ix,
+                                  iteration, ylabel='Selection statistic', figsize=(8, 5)):
+    # noinspection PyTypeChecker
+    fig, axs = plt.subplots(nrows=3, figsize=figsize, sharex=True)
+    vline_opts = dict(linestyle='--', lw=.5, color='k')
+    plot_opts = dict(marker='o', linestyle=' ', markersize=2, mfc='none', mew=.5)
+
+    # plot original values over the genome
+    ax = axs[0]
+    ax.set_ylim(bottom=0)
+    ax.axvline(centers[peak_center_ix], **vline_opts)
+    ax.plot(pos, original_values, **plot_opts)
+    ax.set_ylabel(ylabel)
+    ax.set_title('Original values')
+
+    # plot remaining values over the genome
+    ax = axs[1]
+    ax.set_ylim(bottom=0)
+    ax.axvline(centers[peak_center_ix], **vline_opts)
+    ax.plot(pos, values, **plot_opts)
+    ax.set_ylabel(ylabel)
+    ax.set_title('Remaining values at iteration {}'.format(iteration))
+
+    # plot delta AICs over the genome
+    ax = axs[2]
+    ax.plot(pos, delta_aics, lw=.5)
+    ax.text(centers[peak_center_ix], delta_aics[peak_center_ix], 'v', va='bottom', ha='center')
+    ax.set_ylim(bottom=0)
+    ax.set_ylabel(r'$\Delta_{i}$')
+    ax.set_xticklabels(['{:.1f}'.format(x/1e6) for x in ax.get_xticks()])
+    ax.set_xlabel('Position (Mbp)')
+    ax.set_title('Peak model fit at iteration {}'.format(iteration))
+
+    fig.tight_layout()
+    return fig
+
+
+def plot_peak_focus(pos, values, peak_fit, epicenter, focus_start, focus_end, peak_start, peak_end,
+                    figsize=(6, 3), ylabel='Selection statistic'):
+
+    fig, ax = plt.subplots(figsize=figsize)
+
+    # plot linked regions
+    ax.axvspan(peak_start, focus_start, color=palette[0], alpha=.2)
+    ax.axvspan(focus_end, peak_end, color=palette[0], alpha=.2)
+
+    # plot focus
+    ax.axvspan(focus_start, focus_end, color=palette[3], alpha=.3)
+
+    # plot epicenter
+    ax.axvline(epicenter, color=palette[3], alpha=1, lw=2)
+
+    # plot fit
+    ax.plot(pos[peak_fit.loc], peak_fit.best_fit, linestyle='--', color='k', lw=.5)
+
+    # plot values
+    ax.plot(pos[peak_fit.loc], values[peak_fit.loc], marker='o', linestyle=' ', color=palette[0],
+            mew=1, mfc='none', markersize=3)
+
+    # tidy up
+    ax.set_xticklabels(['{:.1f}'.format(x/1e6) for x in ax.get_xticks()])
+    ax.set_xlabel('Position (Mbp)')
+    ax.set_ylabel(ylabel)
+    ax.set_ylim(bottom=0)
+    fig.tight_layout()
+
     return fig
