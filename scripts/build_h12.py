@@ -31,7 +31,7 @@ def main(population, chromosome, amplitude, min_amplitude, decay, min_decay, max
     else:
         seqid = chromosome
     starts, ends, gpos, values = rockies.load_values(
-        df_h12, values_col=population, seqid=seqid, recmap=recmap, seqid_col='chrom',
+        df_h12, values_col=population, seqid=seqid, recmap=rr_map, seqid_col='chrom',
         start_col='start', end_col='stop', genome=genome,
     )
 

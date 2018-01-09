@@ -69,7 +69,11 @@ tbl_rr = (
     .addfield('rr', lambda r: .5e-6 if 'H' in r.name else 2e-6)
 )
 # per-base map of recombination rates
-recmap = {chrom: np.full(len(genome[chrom]), fill_value=2e-6)
-          for chrom in seqids}
+rr_map = {seqid: np.full(len(genome[seqid]), fill_value=2e-6)
+          for seqid in seqids}
 for row in tbl_rr.records():
-    recmap[row.chrom][row.start-1:row.end] = row.rr
+    rr_map[row.chrom][row.start - 1:row.end] = row.rr
+# genetic map
+gmap = {seqid: np.cumsum(rr_map[seqid]) for seqid in seqids}
+gmap['2'] = np.concatenate([gmap['2R'], gmap['2L'] + gmap['2R'][-1]])
+gmap['3'] = np.concatenate([gmap['3R'], gmap['3L'] + gmap['3R'][-1]])
