@@ -97,7 +97,7 @@ def extract_windowed_values(df, seqid, genome, spacing=0, values_col='value',
     return starts, ends, values, percentiles
 
 
-def plot_windowed_values(starts, ends, values, figsize=(16, 3), gmap=None, ax=None,
+def plot_windowed_values(starts, ends, values, figsize=(8, 2), gmap=None, ax=None, dpi=None,
                          ylabel='Selection statistic'):
     """Convenience function to plot windowed values."""
 
@@ -108,11 +108,11 @@ def plot_windowed_values(starts, ends, values, figsize=(16, 3), gmap=None, ax=No
 
     fig = None
     if ax is None:
-        # TODO review figsize
-        fig, ax = plt.subplots(figsize=figsize)
+        # noinspection PyTypeChecker
+        fig, ax = plt.subplots(figsize=figsize, dpi=dpi, facecolor='w')
 
-    ax.plot(x, values, linestyle=' ', marker='o', mfc='none', markersize=3,
-            color=palette[0], mew=1)
+    ax.plot(x, values, linestyle=' ', marker='o', mfc='none', markersize=2,
+            color=palette[0], mew=.5)
 
     if gmap is None:
         ax.set_xlabel('Physical distance (Mbp)')
@@ -289,12 +289,14 @@ def find_peak_limits(best_fit, threshold):
 
 class PeakFitter(object):
 
-    def __init__(self, null_model, null_params, peak_model, peak_params, half_peak_model):
+    def __init__(self, null_model, null_params, peak_model, peak_params, half_peak_model,
+                 peak_limit_frc=.1):
         self.null_model = null_model
         self.null_params = null_params
         self.peak_model = peak_model
         self.peak_params = peak_params
         self.half_peak_model = half_peak_model
+        self.peak_limit_frc = peak_limit_frc
 
     def split_peak_params(self, peak_result):
         raise NotImplemented
@@ -338,12 +340,13 @@ class PeakFitter(object):
         best_fit = peak_result.best_fit
         peak = best_fit - baseline
         residual = yy - peak
+        peak_height = np.max(peak)
 
         # figure out the width of the peak
-        # TODO make the threshold more robust to very small baseline stderr
-        rix_peak_start, rix_peak_end = find_peak_limits(
-            best_fit, threshold=(baseline + 3 * baseline_stderr)
-        )
+        threshold = baseline + self.peak_limit_frc * peak_height
+        # this doesn't work sometimes, because baseline stderr can be too small
+        # threshold = baseline + 3 * baseline_stderr
+        rix_peak_start, rix_peak_end = find_peak_limits(best_fit, threshold=threshold)
         if rix_peak_start is None or rix_peak_end is None or rix_peak_start == rix_peak_end:
             return None
         assert rix_peak_start < rix_peak_end
@@ -627,7 +630,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
     delta_aics = np.zeros(n_centers, dtype='f4')
     flank_delta_aics = np.zeros((n_centers, 2), dtype='f4')
     fits = np.empty(n_centers, dtype=object)
-    # TODO use in_peak to prevent accidentally rescanning a peak region
+    in_peak = np.zeros(n_centers, dtype=bool)
 
     # first pass model fits
     scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitter=fitter, delta_aics=delta_aics,
@@ -652,7 +655,6 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
             .format(peak_cix, centers[peak_cix]))
         log('Delta AIC: {:.1f}'.format(peak_delta_aic))
         log('Flank delta AICs: {:.1f}, {:.1f}'.format(*flank_delta_aics[peak_cix]))
-        log('=' * 80)
 
         log('find limits of peak')
         # N.B., physical coords
@@ -660,9 +662,9 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
         peak_end = int(ends[peak_fit.peak_end_ix])
         peak_gstart = float(gstarts[peak_fit.peak_start_ix])
         peak_gend = float(gends[peak_fit.peak_end_ix])
-        peak_start_cix = bisect_left(centers, peak_start)
-        peak_end_cix = bisect_right(centers, peak_end)
-        log('peak limits:', peak_start, peak_end)
+        peak_start_cix = min(peak_cix, bisect_left(centers, peak_start))
+        peak_end_cix = max(peak_cix, bisect_right(centers, peak_end)) + 1
+        log('peak limits:', peak_start, peak_end, peak_start_cix, peak_end_cix)
 
         log('check flank fits')
         peak_delta_aic_left, peak_delta_aic_right = flank_delta_aics[peak_cix]
@@ -671,12 +673,20 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
         if minor_flank_delta_aic < min_flank_delta_aic:
             log('POOR FLANK: SKIPPING PEAK')
 
+            log('plot some diagnostics for the peak fit')
+            plot_peak_fit(peak_fit, ylabel=statistic_label, dpi=dpi)
+            log(peak_fit.peak_result.fit_report())
+            log(peak_fit.null_result.fit_report())
+
             # scrub delta aics in the peak region, so we don't find the same peak twice
-            delta_aics[peak_start_cix:peak_end_cix] = 0
-            flank_delta_aics[peak_start_cix:peak_end_cix, :] = 0
+            in_peak[peak_start_cix:peak_end_cix] = True
+            delta_aics[in_peak] = 0
+            flank_delta_aics[in_peak, :] = 0
 
         else:
             log('FLANK OK: PROCESSING PEAK')
+            log(peak_fit.peak_result.fit_report())
+            log(peak_fit.null_result.fit_report())
 
             log('setup output directory for this peak')
             if output_dir:
@@ -732,7 +742,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
                                  flank_delta_aics=flank_delta_aics, dpi=dpi,
                                  peak_dir=peak_dir)
 
-            # TODO max peak value
+            log('find max peak value')
             peak_start_pix = bisect_left(pos, peak_start)
             peak_end_pix = bisect_right(pos, peak_end)
             peak_values = values[peak_start_pix:peak_end_pix]
@@ -763,13 +773,13 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
                      log=log, gstart=peak_gend, gend=gcenters[peak_cix] + (gflank * 2))
 
             # scrub delta aics in the peak region, to guarantee no signal from residuals
-            # TODO make this optional, in which case need to also rescan within peak
-            delta_aics[peak_start_cix:peak_end_cix] = 0
-            flank_delta_aics[peak_start_cix:peak_end_cix, :] = 0
+            in_peak[peak_start_cix:peak_end_cix] = True
+            delta_aics[in_peak] = 0
+            flank_delta_aics[in_peak, :] = 0
 
-            if show_plots:
-                plt.show()
-            plt.close()
+        if show_plots:
+            plt.show()
+        plt.close()
 
         log('find the next peak')
         # find the next peak
@@ -818,10 +828,10 @@ def scan_fit(gpos, values, gcenters, gflank, fitter, delta_aics, flank_delta_aic
 def plot_peak_fit(fit, figsize=(8, 2.5), dpi=None, xlabel='Genetic distance (cM)',
                   ylabel='Selection statistic', peak_dir=None):
 
-    # TODO generalise xlabel and ylabel params
-
     # noinspection PyTypeChecker
     fig, axs = plt.subplots(nrows=1, ncols=3, figsize=figsize, facecolor='w', dpi=dpi)
+    plot_opts = dict(marker='o', linestyle=' ', markersize=2, mfc='none',
+                     color=palette[0], mew=.5)
 
     ax = axs[0]
     # plot width of the peak
@@ -832,8 +842,7 @@ def plot_peak_fit(fit, figsize=(8, 2.5), dpi=None, xlabel='Genetic distance (cM)
     # if fit.baseline is not None:
     #     ax.axhline(fit.baseline, lw=1, linestyle='--', color='k')
     # plot the data
-    ax.plot(fit.xx, fit.yy, marker='o', linestyle=' ', markersize=3, mfc='none',
-            color=palette[0], mew=.5)
+    ax.plot(fit.xx, fit.yy, **plot_opts)
     ax.text(.02, .98, r'$\Delta_{i}$ : %.1f' % fit.delta_aic_left,
             transform=ax.transAxes, ha='left', va='top')
     ax.text(.98, .98, r'$\Delta_{i}$ : %.1f' % fit.delta_aic_right,
@@ -847,8 +856,7 @@ def plot_peak_fit(fit, figsize=(8, 2.5), dpi=None, xlabel='Genetic distance (cM)
 
     ax = axs[1]
     ax.axhline(fit.baseline, lw=.5, linestyle='--', color='k')
-    ax.plot(fit.xx, fit.residual, marker='o', linestyle=' ', markersize=3,
-            mfc='none', color=palette[0], mew=.5)
+    ax.plot(fit.xx, fit.residual, **plot_opts)
     ax.set_ylim(axs[0].get_ylim())
     ax.set_title('Residual', loc='left')
     ax.set_ylabel(ylabel)
@@ -890,7 +898,7 @@ def plot_peak_finding(pos, values, original_values, centers, delta_aics, peak_ce
     ax = axs[1]
     ax.axvline(centers[peak_center_ix], **vline_opts)
     ax.plot(pos, values, **plot_opts)
-    ax.set_ylim(bottom=0)
+    ax.set_ylim(axs[0].get_ylim())
     ax.set_ylabel(ylabel)
     ax.set_title('Remaining values at iteration {}'.format(iteration))
 
@@ -917,6 +925,7 @@ def plot_peak_focus(pos, values, peak_fit, epicenter, focus_start, focus_end, pe
 
     # noinspection PyTypeChecker
     fig, ax = plt.subplots(figsize=figsize, dpi=dpi, facecolor='w')
+    plot_opts = dict(marker='o', linestyle=' ', color=palette[0], mew=.5, mfc='none', markersize=2)
 
     # plot linked regions
     ax.axvspan(peak_start, focus_start, color=palette[0], alpha=.2)
@@ -932,8 +941,7 @@ def plot_peak_focus(pos, values, peak_fit, epicenter, focus_start, focus_end, pe
     ax.plot(pos[peak_fit.loc], peak_fit.best_fit, linestyle='--', color='k', lw=.5)
 
     # plot values
-    ax.plot(pos[peak_fit.loc], values[peak_fit.loc], marker='o', linestyle=' ', color=palette[0],
-            mew=1, mfc='none', markersize=3)
+    ax.plot(pos[peak_fit.loc], values[peak_fit.loc], **plot_opts)
 
     # tidy up
     ax.set_xticklabels(['{:.1f}'.format(x/1e6) for x in ax.get_xticks()])
@@ -951,7 +959,7 @@ def plot_peak_focus(pos, values, peak_fit, epicenter, focus_start, focus_end, pe
 
 
 def plot_peak_targetting(epicenter, focus_start, focus_end, peak_start, peak_end,
-                         centers, delta_aics, flank_delta_aics, figsize=(8, 3.5), dpi=None,
+                         centers, delta_aics, flank_delta_aics, figsize=(6, 3), dpi=None,
                          peak_dir=None):
 
     # noinspection PyTypeChecker
@@ -967,16 +975,17 @@ def plot_peak_targetting(epicenter, focus_start, focus_end, peak_start, peak_end
     y1 = delta_aics[loc]
     y2 = flank_delta_aics[loc, 0]
     y3 = flank_delta_aics[loc, 1]
-    ax.plot(x, y1, lw=2, label='left flank model fit')
-    ax.plot(x, y2, lw=2, label='right flank model fit')
-    ax.plot(x, y3, lw=2, label='peak model fit')
+    ax.plot(x, y1, lw=2, label='peak')
+    ax.plot(x, y2, lw=2, label='left flank')
+    ax.plot(x, y3, lw=2, label='right flank')
 
     # tidy
-    ax.set_xticklabels(['{:.1f}'.format(x/1e6) for x in ax.get_xticks()])
+    ax.set_xticklabels(['{:.2f}'.format(x/1e6) for x in ax.get_xticks()])
     ax.set_xlabel('Position (Mbp)')
-    ax.set_ylabel(r'$\Delta_{i}$')
+    ax.set_ylabel(r'Model fit ($\Delta_{i}$)')
     ax.set_ylim(bottom=0)
     ax.set_title('Peak targetting')
+    ax.legend(loc='upper right', title='Model')
     fig.tight_layout()
 
     # output
