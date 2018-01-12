@@ -160,7 +160,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         'statistic': df.statistic,
         'chromosome': df.chromosome,
         'rank': df['rank'],
-        'score': df.sum_delta_aic.astype(int),
+        'score': df.delta_aic.astype(int),
         'score_left': df.delta_aic_left.astype(int),
         'score_right': df.delta_aic_right.astype(int),
         'peak_start_coord': df.peak_start_fixed / 1e6,
@@ -183,7 +183,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     #      '@focus_start_seqid:@focus_start{,} - @focus_end_seqid:@focus_end{,}'),
     # ])
     img_src = (
-        '{}_static/data/signal/@statistic/@population/@chromosome/@rank/peak_location.png'
+        '{}_static/data/signal/@statistic/@population/@chromosome/@rank/peak_focus.png'
         .format(root_path)
     )
     hover = bmod.HoverTool(tooltips="""

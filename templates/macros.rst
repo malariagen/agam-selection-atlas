@@ -6,15 +6,15 @@
 {%- endmacro %}
 
 {% macro signal_focus(signal) -%}
-"{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start|int) }}-
+"{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start_coord|int) }}-
 {%- if signal.focus_end_seqid != signal.focus_start_seqid -%}
 {{ signal.focus_end_seqid }}:
 {%- endif -%}
-{{ intcomma(signal.focus_end|int) }}"
+{{ intcomma(signal.focus_end_coord|int) }}"
 {%- endmacro %}
 
 {% macro signal_score(signal) -%}
-{{ signal.sum_delta_aic|int }} ({{ signal.delta_aic_left|int }} | {{ signal.delta_aic_right|int }})
+{{ signal.delta_aic|int }} ({{ signal.delta_aic_left|int }} | {{ signal.delta_aic_right|int }})
 {%- endmacro %}
 
 {% macro signals_table(signals, root_path) -%}

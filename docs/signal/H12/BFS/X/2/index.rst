@@ -9,8 +9,8 @@ H12 / Burkina Faso *An. gambiae* / Chromosome X / #2
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
 :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**X** between positions **9180000** and
-**9240000**.
+**X** between positions **9,180,000** and
+**9,240,000**.
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
@@ -56,7 +56,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/X/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/BFS/X/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 

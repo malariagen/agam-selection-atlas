@@ -119,6 +119,9 @@ rule ir_candidate_pages:
         "templates/ir-candidate.rst",
     output:
         "docs/ir-candidate/metabolic.rst",
+        "docs/ir-candidate/target_site.rst",
+        "docs/ir-candidate/cuticular.rst",
+        "docs/ir-candidate/behavioural.rst",
     shell:
         "python scripts/build_ir_candidate_pages.py"
 
@@ -128,10 +131,10 @@ rule all:
         static_files,
         glob.glob("docs/*.rst"),
         rules.signal_pages.output,
-#        rules.signals_page.output,
-#        rules.population_pages.output,
-#        rules.seqid_pages.output,
-#        rules.ir_candidate_pages.output,
+        rules.signals_page.output,
+        rules.population_pages.output,
+        rules.seqid_pages.output,
+        rules.ir_candidate_pages.output,
         # temporarily disable as building all gene pages takes a while
 #        rules.gene_pages.output,
     shell:

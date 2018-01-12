@@ -11,8 +11,8 @@ This page describes a signal of selection found in the
 :doc:`{{ root_path }}method/{{ statistic.id }}` statistic.
 {%- if focus_start_seqid == focus_end_seqid -%}
 The focus of this signal is on chromosome arm
-**{{ focus_start_seqid }}** between positions **{{ focus_start_coord }}** and
-**{{ focus_end_coord }}**.
+**{{ focus_start_seqid }}** between positions **{{ intcomma(focus_start_coord) }}** and
+**{{ intcomma(focus_end_coord) }}**.
 {%- else -%}
 The focus of this signal is between
 **{{ focus_start_seqid }}:{{ intcomma(focus_start_coord) }}** and
@@ -90,7 +90,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_context.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 

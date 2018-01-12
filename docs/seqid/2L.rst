@@ -1,0 +1,14 @@
+Chromosome arm 2L
+==============================================================
+
+This page provides information about signals of recent selection on
+chromosome arm 2L.
+
+
+
+.. raw:: html
+    :file: 2L.signals.html
+
+
+No signals.
+
