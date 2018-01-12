@@ -974,7 +974,7 @@ def scan_fit(gpos, values, gcenters, gflank, fitters, delta_aics, flank_delta_ai
         end_index = n
     else:
         end_index = bisect_right(gcenters, gend)
-    assert 0 <= start_index < end_index <= n
+    assert 0 <= start_index <= end_index <= n, (start_index, end_index)
 
     # iterate and fit
     for i in range(start_index, end_index):

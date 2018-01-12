@@ -2,17 +2,63 @@
 from setup import *
 
 
-statistic_id = 'H12'
-statistic_label = 'H12'
+statistic_id = 'XPEHH'
+statistic_label = 'XPEHH'
 
 
-def main(population, chromosome, amplitude, min_amplitude, width, min_width, max_width,
-         baseline, min_baseline, max_baseline, min_flank_delta_aic, min_peak_delta_aic,
+def build_dataframe(focal_pop, ref_pop, flipped, seqid, window_size):
+
+    xpehh_raw = phase1_selection.xpehh_raw
+
+    if seqid is None:
+        df = pd.concat([build_dataframe(focal_pop, ref_pop, flipped=flipped, seqid=seqid,
+                                        window_size=window_size)
+                        for seqid in seqids])
+        return df
+
+    # extract raw values
+    pop1, pop2 = focal_pop, ref_pop
+    if flipped:
+        pop1, pop2 = pop2, pop1
+    comparison = '%svs%s' % (pop1, pop2)
+    grp = xpehh_raw[seqid][comparison]
+    pos = grp['POS'][:]
+    values = grp['XPEHH_zscore'][:]
+    if flipped:
+        values = -values
+    nomiss = ~np.isnan(values) & (values > 0)
+    pos_nomiss = pos[nomiss]
+    values_nomiss = values[nomiss]
+
+    # construct moving windows
+    starts_col = allel.moving_statistic(pos_nomiss, statistic=lambda v: v[0], size=window_size)
+    starts_col[0] = 1  # fix to start of sequence
+    ends_col = np.append(starts_col[1:] - 1, [len(genome[seqid])])
+
+    # summarise values in windows
+    values_col = allel.moving_statistic(values_nomiss, statistic=np.max, size=window_size)
+
+    # seqid column
+    seqid_col = np.array([seqid] * len(starts_col))
+
+    # build dataframe
+    df = pd.DataFrame.from_items([
+        ('seqid', seqid_col),
+        ('start', starts_col),
+        ('end', ends_col),
+        ('value', values_col)
+    ])
+    return df
+
+
+def main(focal_pop, ref_pop, flipped, chromosome, amplitude, min_amplitude, width, min_width,
+         max_width, baseline, min_baseline, max_baseline, min_flank_delta_aic, min_peak_delta_aic,
          extend_focus_frc, peak_limit_frc, flank, ceiling, vary_ceiling, floor, vary_floor,
-         max_skew, center_step):
+         max_skew, center_step, values_window_size):
 
     # obtain dataframe with selection stats
-    df_h12 = phase1_selection.hstats_windowed
+    df = build_dataframe(focal_pop=focal_pop, ref_pop=ref_pop, flipped=flipped, seqid=None,
+                         window_size=values_window_size)
 
     # setup parameters
     amplitude_param = lmfit.Parameter(value=amplitude, vary=True, min=min_amplitude)
@@ -63,8 +109,8 @@ def main(population, chromosome, amplitude, min_amplitude, width, min_width, max
 
     # extract data
     starts, ends, values, percentiles = peakfit.extract_windowed_values(
-        df_h12, seqid=seqid, genome=genome, values_col=population, seqid_col='chrom',
-        starts_col='start', ends_col='stop'
+        df, seqid=seqid, genome=genome, values_col='value', seqid_col='seqid',
+        starts_col='start', ends_col='end'
     )
 
     # setup centers
@@ -83,7 +129,7 @@ def main(population, chromosome, amplitude, min_amplitude, width, min_width, max
     # build peak reports
     for i, peak in enumerate(peaks):
         rank = i + 1
-        report = compile_signal_report(rank, peak, chromosome, population)
+        report = compile_signal_report(rank, peak, chromosome, pop_id=focal_pop)
         signal_dir = os.path.join(output_dir, str(rank))
         os.makedirs(signal_dir, exist_ok=True)
         report_path = os.path.join(signal_dir, 'report.yml')
@@ -92,6 +138,8 @@ def main(population, chromosome, amplitude, min_amplitude, width, min_width, max
 
 
 def compile_signal_report(rank, peak, chromosome, pop_id):
+    # TODO refactor this to setup
+    
     assert chromosome in '23X'
 
     epicenter_seqid, epicenter_coord = split_arms(chromosome, peak.epicenter)
@@ -138,30 +186,4 @@ def compile_signal_report(rank, peak, chromosome, pop_id):
     return report
 
 
-if __name__ == '__main__':
 
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--population', required=True)
-    parser.add_argument('--chromosome', required=True)
-    parser.add_argument('--amplitude', type=float, required=True)
-    parser.add_argument('--min-amplitude', type=float, required=True)
-    parser.add_argument('--width', type=float, required=True)
-    parser.add_argument('--min-width', type=float, required=True)
-    parser.add_argument('--max-width', type=float, required=True)
-    parser.add_argument('--baseline', type=float, required=True)
-    parser.add_argument('--min-baseline', type=float, required=True)
-    parser.add_argument('--max-baseline', type=float, required=True)
-    parser.add_argument('--min-flank-delta-aic', type=float, required=True)
-    parser.add_argument('--min-peak-delta-aic', type=float, required=True)
-    parser.add_argument('--extend-focus-frc', type=float, required=True)
-    parser.add_argument('--peak-limit-frc', type=float, required=True)
-    parser.add_argument('--flank', type=float, required=True)
-    parser.add_argument('--ceiling', type=float, required=True)
-    parser.add_argument('--vary-ceiling', action='store_true', default=False)
-    parser.add_argument('--floor', type=float, required=True)
-    parser.add_argument('--vary-floor', action='store_true', default=False)
-    parser.add_argument('--max-skew', type=float, required=True)
-    parser.add_argument('--center-step', type=int, required=True)
-    args = parser.parse_args()
-    main(**vars(args))

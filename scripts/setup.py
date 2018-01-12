@@ -15,6 +15,8 @@ import bokeh.models as bmod
 import bokeh.layouts as blay
 import bokeh.embed as bemb
 import matplotlib as mpl
+import matplotlib.pyplot as plt
+plt.rcParams['figure.dpi'] = 200
 import seaborn as sns
 # print(os.path.abspath(__file__))
 scripts_dir = os.path.dirname(__file__)

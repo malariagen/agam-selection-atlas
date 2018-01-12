@@ -12,29 +12,6 @@ with open('docs/_static/data/populations.yml', mode='r') as f:
 chromosomes = ['2', '3', 'X']
 
 
-# per-population parameter settings for the H12 build
-h12_max_width = {
-    'AOM': 3,
-    'BFM': 2,
-    'GWA': 2,
-    'GNS': 2,
-    'BFS': 2,
-    'CMS': 2,
-    'UGS': 2,
-    'GAS': 2,
-}
-h12_flank = {
-    'AOM': 8,
-    'BFM': 6,
-    'GWA': 6,
-    'GNS': 6,
-    'BFS': 6,
-    'CMS': 6,
-    'UGS': 6,
-    'GAS': 6,
-}
-
-
 rule h12:
     input:
         "scripts/peakfit.py",
@@ -46,15 +23,15 @@ rule h12:
         min_amplitude=0,
         width=0.5,
         min_width=0.15,
-        max_width=lambda wildcards, output: h12_max_width[wildcards.population],
+        max_width=3,
         baseline=0.03,
         min_baseline=0,
-        max_baseline=0.1,
+        max_baseline=1,
         min_peak_delta_aic=90,
         min_flank_delta_aic=30,
         extend_focus_frc=0.05,
         peak_limit_frc=0.2,
-        flank=lambda wildcards, output: h12_flank[wildcards.population],
+        flank=8,
         max_skew=1,
         center_step=20000,
         ceiling=1,
