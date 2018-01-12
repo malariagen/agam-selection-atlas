@@ -1,0 +1,57 @@
+:orphan:
+
+
+
+AGAP012009
+==========
+
+Location: **3L:36,227,980-36,234,710**
+
+
+
+Description: **Chromodomain-helicase-dna-binding protein 4**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012009>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3L:36227980-36234710#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/UGS/3/5/index`, "3L:36,240,001-36,300,000", 100 (79 | 21)
+    
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP012009';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

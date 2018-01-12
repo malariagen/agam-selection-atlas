@@ -1,0 +1,44 @@
+:orphan:
+
+
+
+AGAP002442
+==========
+
+Location: **2R:21,444,856-21,446,093**
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002442>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:21444856-21446093#genomebrowser>`_
+
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP002442';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

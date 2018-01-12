@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Cuticular genes &#8212; Ag1000G Selection Atlas</title>
+    <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css" type="text/css" />
+    <link rel="stylesheet" href="/agam-selection-atlas/dev/_static/css/custom.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     'dev',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Methods" href="../methods.html" />
+    <link rel="prev" title="Behavioural genes" href="behavioural.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html">
+          Ag1000G Selection Atlas</a>
+        <span class="navbar-text navbar-version pull-left"><b>DEV</b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../signals.html">All signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../populations.html">Signals by population</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../population/AOM.html">Angola <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/BFM.html">Burkina Faso <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GWA.html">Guinea Bissau</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GNS.html">Guinea <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/BFS.html">Burkina Faso <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/CMS.html">Cameroon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/UGS.html">Uganda <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GAS.html">Gabon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../seqids.html">Signals by chromosome arm</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/2R.html">Chromosome arm 2R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/2L.html">Chromosome arm 2L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/3R.html">Chromosome arm 3R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/3L.html">Chromosome arm 3L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/X.html">Chromosome  X</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="reference internal" href="../ir-candidates.html">Insecticide resistance candidate genes</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="metabolic.html">Metabolic genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="metabolic.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="target_site.html">Target-site genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="target_site.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="behavioural.html">Behavioural genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="behavioural.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Cuticular genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../methods.html">Methods</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../method/H12.html">H12 (Garud et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../method/peak_modelling.html">Peak modelling</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Cuticular genes</a><ul>
+<li><a class="reference internal" href="#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+  <li>
+    <a href="behavioural.html" title="Previous Chapter: Behavioural genes"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Behavioural genes</span>
+    </a>
+  </li>
+  <li>
+    <a href="../methods.html" title="Next Chapter: Methods"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Methods &raquo;</span>
+    </a>
+  </li>
+              
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="cuticular-genes">
+<h1>Cuticular genes<a class="headerlink" href="#cuticular-genes" title="Permalink to this headline">¶</a></h1>
+<p>Below is a table of insecticide resistance candidate genes with information about any
+overlapping signals of selection.</p>
+<p>Please note that the list of genes has been manually
+curated and is likely to be incomplete. If you would like to suggest an addition, please
+leave a comment at the bottom of the page.</p>
+<p>Please also note that the fact that there are any signals of selection overlapping or
+adjacent to a given gene <strong>does not</strong> imply the gene is under selection. Each signal of
+selection may span a number of genes, and the true target of selection may be a
+different gene nearby. Similarly, if a gene does not have any overlapping or adjacent
+signals of selection, that <strong>does not</strong> imply it is selectively neutral. There are a
+number of technical reasons why a true signal of selection might not be detected.</p>
+<table border="1" class="colwidths-given table-hover docutils">
+<colgroup>
+<col width="10%" />
+<col width="10%" />
+<col width="50%" />
+<col width="20%" />
+<col width="10%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Gene</th>
+<th class="head">Name</th>
+<th class="head">Description</th>
+<th class="head">Location</th>
+<th class="head">No. signals (overlapping | adjacent)</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000820.html"><span class="doc">AGAP000820</span></a></td>
+<td>CPR125</td>
+<td>Cuticular protein rr-2 family 125</td>
+<td>X:15,282,061-15,283,387</td>
+<td>3 (1 | 2)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP011480.html"><span class="doc">AGAP011480</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:25,091,436-25,092,374</td>
+<td>1 (1 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005451.html"><span class="doc">AGAP005451</span></a></td>
+<td>CPR11</td>
+<td>Cuticular protein rr-1 family 11</td>
+<td>2L:15,722,094-15,723,168</td>
+<td>1 (0 | 1)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005453.html"><span class="doc">AGAP005453</span></a></td>
+<td>CPR12</td>
+<td>Cuticular protein rr-1 family 12</td>
+<td>2L:15,724,263-15,724,703</td>
+<td>1 (0 | 1)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005454.html"><span class="doc">AGAP005454</span></a></td>
+<td>CPR13</td>
+<td>Cuticular protein rr-1 family 13</td>
+<td>2L:15,728,012-15,728,452</td>
+<td>1 (0 | 1)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006261.html"><span class="doc">AGAP006261</span></a></td>
+<td>CPR135</td>
+<td>Cuticular protein rr-2 family 135</td>
+<td>2L:28,743,187-28,746,274</td>
+<td>1 (0 | 1)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005455.html"><span class="doc">AGAP005455</span></a></td>
+<td>CPR14</td>
+<td>Cuticular protein rr-1 family 14</td>
+<td>2L:15,740,601-15,741,127</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005456.html"><span class="doc">AGAP005456</span></a></td>
+<td>CPR15</td>
+<td>Cuticular protein rr-1 family 15</td>
+<td>2L:15,758,476-15,760,047</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005459.html"><span class="doc">AGAP005459</span></a></td>
+<td>CPR16</td>
+<td>Cuticular protein rr-1 family 16</td>
+<td>2L:15,797,627-15,801,993</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005966.html"><span class="doc">AGAP005966</span></a></td>
+<td>CPR17</td>
+<td>Cuticular protein rr-1 family 17</td>
+<td>2L:24,301,126-24,301,737</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005967.html"><span class="doc">AGAP005967</span></a></td>
+<td>CPR18</td>
+<td>Cuticular protein rr-1 family 18</td>
+<td>2L:24,302,687-24,303,296</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005968.html"><span class="doc">AGAP005968</span></a></td>
+<td>CPR19</td>
+<td>Cuticular protein rr-1 family 19</td>
+<td>2L:24,304,662-24,305,239</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005969.html"><span class="doc">AGAP005969</span></a></td>
+<td>CPR20</td>
+<td>Cuticular protein rr-1 family 20</td>
+<td>2L:24,305,987-24,306,501</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005993.html"><span class="doc">AGAP005993</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>2L:24,577,687-24,579,472</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005995.html"><span class="doc">AGAP005995</span></a></td>
+<td>CPR138</td>
+<td>Cuticular protein rr-1 family 138</td>
+<td>2L:24,600,858-24,606,154</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005996.html"><span class="doc">AGAP005996</span></a></td>
+<td>CPR21</td>
+<td>Cuticular protein rr-1 family 21</td>
+<td>2L:24,610,050-24,611,529</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005997.html"><span class="doc">AGAP005997</span></a></td>
+<td>CPR22</td>
+<td>Cuticular protein rr-1 family 22</td>
+<td>2L:24,615,846-24,616,260</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005998.html"><span class="doc">AGAP005998</span></a></td>
+<td>CPR23</td>
+<td>Cuticular protein rr-1 family 23</td>
+<td>2L:24,621,232-24,621,964</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005999.html"><span class="doc">AGAP005999</span></a></td>
+<td>CPR24</td>
+<td>Cuticular protein rr-1 family 24</td>
+<td>2L:24,624,141-24,624,663</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006000.html"><span class="doc">AGAP006000</span></a></td>
+<td>CPR25</td>
+<td>Cuticular protein rr-1 family 25</td>
+<td>2L:24,625,390-24,625,704</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006001.html"><span class="doc">AGAP006001</span></a></td>
+<td>CPR26</td>
+<td>Cuticular protein rr-1 family 26</td>
+<td>2L:24,626,033-24,626,971</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006002.html"><span class="doc">AGAP006002</span></a></td>
+<td>CPR137</td>
+<td>Cuticular protein rr-1 family 137</td>
+<td>2L:24,631,000-24,631,454</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006003.html"><span class="doc">AGAP006003</span></a></td>
+<td>CPR27</td>
+<td>Cuticular protein rr-1 family 27</td>
+<td>2L:24,631,888-24,632,684</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006004.html"><span class="doc">AGAP006004</span></a></td>
+<td>CPR102</td>
+<td>Cuticular protein rr-1 family 102</td>
+<td>2L:24,633,634-24,634,151</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006005.html"><span class="doc">AGAP006005</span></a></td>
+<td>CPR103</td>
+<td>Cuticular protein rr-1 family 103</td>
+<td>2L:24,634,712-24,635,272</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006006.html"><span class="doc">AGAP006006</span></a></td>
+<td>CPR104</td>
+<td>Cuticular protein rr-1 family 104</td>
+<td>2L:24,635,609-24,636,143</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006007.html"><span class="doc">AGAP006007</span></a></td>
+<td>CPR28</td>
+<td>Cuticular protein rr-1 family 28</td>
+<td>2L:24,636,593-24,637,032</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006008.html"><span class="doc">AGAP006008</span></a></td>
+<td>CPR29</td>
+<td>Cuticular protein rr-1 family 29</td>
+<td>2L:24,638,172-24,638,599</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006009.html"><span class="doc">AGAP006009</span></a></td>
+<td>CPR30</td>
+<td>Cuticular protein rr-1 family 30</td>
+<td>2L:24,639,829-24,641,461</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006010.html"><span class="doc">AGAP006010</span></a></td>
+<td>CPR105</td>
+<td>Cuticular protein rr-1 family 105</td>
+<td>2L:24,644,599-24,645,574</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006011.html"><span class="doc">AGAP006011</span></a></td>
+<td>CPR31</td>
+<td>Cuticular protein rr-1 family 31</td>
+<td>2L:24,648,379-24,648,829</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006012.html"><span class="doc">AGAP006012</span></a></td>
+<td>CPR32</td>
+<td>Cuticular protein rr-1 family 32</td>
+<td>2L:24,654,152-24,654,694</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006013.html"><span class="doc">AGAP006013</span></a></td>
+<td>CPR33</td>
+<td>Cuticular protein rr-1 family 33</td>
+<td>2L:24,658,517-24,659,081</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006095.html"><span class="doc">AGAP006095</span></a></td>
+<td>CPR106</td>
+<td>Cuticular protein rr-1 family 106</td>
+<td>2L:26,615,393-26,616,178</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP013248.html"><span class="doc">AGAP013248</span></a></td>
+<td>CPR139</td>
+<td>Cuticular protein rr-2 family 139</td>
+<td>2L:29,525,422-29,530,487</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006283.html"><span class="doc">AGAP006283</span></a></td>
+<td>CPR70</td>
+<td>Cuticular protein rr-2 family 70</td>
+<td>2L:29,534,322-29,535,616</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006321.html"><span class="doc">AGAP006321</span></a></td>
+<td>CPR71</td>
+<td>Cuticular protein rr-2 family 71</td>
+<td>2L:29,573,241-29,574,367</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006369.html"><span class="doc">AGAP006369</span></a></td>
+<td>CPR144</td>
+<td>Cuticular protein rr-2 family 144</td>
+<td>2L:30,553,004-30,556,554</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006370.html"><span class="doc">AGAP006370</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>2L:30,558,725-30,561,591</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006497.html"><span class="doc">AGAP006497</span></a></td>
+<td>CPR134</td>
+<td>Cuticular protein rr-2 family 134</td>
+<td>2L:33,052,163-33,062,575</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006597.html"><span class="doc">AGAP006597</span></a></td>
+<td>CPR72</td>
+<td>Cuticular protein rr-2 family 72</td>
+<td>2L:34,600,357-34,600,837</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006828.html"><span class="doc">AGAP006828</span></a></td>
+<td>CPR60</td>
+<td>Cuticular protein rr-1 family 60</td>
+<td>2L:39,050,620-39,053,268</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006829.html"><span class="doc">AGAP006829</span></a></td>
+<td>CPR59</td>
+<td>Cuticular protein rr-1 family 59</td>
+<td>2L:39,074,233-39,077,008</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006830.html"><span class="doc">AGAP006830</span></a></td>
+<td>CPR58</td>
+<td>Cuticular protein rr-1 family 58</td>
+<td>2L:39,087,872-39,093,776</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006831.html"><span class="doc">AGAP006831</span></a></td>
+<td>CPR57</td>
+<td>Cuticular protein rr-1 family 57</td>
+<td>2L:39,110,972-39,111,693</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006833.html"><span class="doc">AGAP006833</span></a></td>
+<td>CPR56</td>
+<td>Cuticular protein rr-1 family 56</td>
+<td>2L:39,116,000-39,116,582</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006834.html"><span class="doc">AGAP006834</span></a></td>
+<td>CPR69</td>
+<td>Cuticular protein rr-1 family 69</td>
+<td>2L:39,116,981-39,117,868</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006836.html"><span class="doc">AGAP006836</span></a></td>
+<td>CPR101</td>
+<td>Cuticular protein rr-1 family 101</td>
+<td>2L:39,138,827-39,139,374</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006837.html"><span class="doc">AGAP006837</span></a></td>
+<td>CPR55</td>
+<td>Cuticular protein rr-1 family 55</td>
+<td>2L:39,151,550-39,152,078</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006838.html"><span class="doc">AGAP006838</span></a></td>
+<td>CPR68</td>
+<td>Cuticular protein rr-1 family 68</td>
+<td>2L:39,153,888-39,162,819</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006839.html"><span class="doc">AGAP006839</span></a></td>
+<td>CPR67</td>
+<td>Cuticular protein rr-1 family 67</td>
+<td>2L:39,170,757-39,171,972</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006840.html"><span class="doc">AGAP006840</span></a></td>
+<td>CPR136</td>
+<td>Cuticular protein rr-1 family 136</td>
+<td>2L:39,174,559-39,175,063</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006841.html"><span class="doc">AGAP006841</span></a></td>
+<td>CPR54</td>
+<td>Cuticular protein rr-1 family 54</td>
+<td>2L:39,176,561-39,177,057</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006842.html"><span class="doc">AGAP006842</span></a></td>
+<td>CPR53</td>
+<td>Cuticular protein rr-1 family 53</td>
+<td>2L:39,178,730-39,179,226</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006843.html"><span class="doc">AGAP006843</span></a></td>
+<td>CPR52</td>
+<td>Cuticular protein rr-1 family 52</td>
+<td>2L:39,181,044-39,181,492</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006844.html"><span class="doc">AGAP006844</span></a></td>
+<td>CPR51</td>
+<td>Cuticular protein rr-1 family 51</td>
+<td>2L:39,183,142-39,183,638</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006845.html"><span class="doc">AGAP006845</span></a></td>
+<td>CPR50</td>
+<td>Cuticular protein rr-1 family 50</td>
+<td>2L:39,185,138-39,185,622</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006846.html"><span class="doc">AGAP006846</span></a></td>
+<td>CPR49</td>
+<td>Cuticular protein rr-1 family 49</td>
+<td>2L:39,186,318-39,186,814</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006847.html"><span class="doc">AGAP006847</span></a></td>
+<td>CPR48</td>
+<td>Cuticular protein rr-1 family 48</td>
+<td>2L:39,187,823-39,188,287</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006848.html"><span class="doc">AGAP006848</span></a></td>
+<td>CPR47</td>
+<td>Cuticular protein rr-1 family 47</td>
+<td>2L:39,189,587-39,190,043</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006849.html"><span class="doc">AGAP006849</span></a></td>
+<td>CPR46</td>
+<td>Cuticular protein rr-1 family 46</td>
+<td>2L:39,192,163-39,192,861</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006850.html"><span class="doc">AGAP006850</span></a></td>
+<td>CPR45</td>
+<td>Cuticular protein rr-1 family 45</td>
+<td>2L:39,194,109-39,194,498</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006851.html"><span class="doc">AGAP006851</span></a></td>
+<td>CPR44</td>
+<td>Cuticular protein rr-1 family 44</td>
+<td>2L:39,195,928-39,196,317</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006852.html"><span class="doc">AGAP006852</span></a></td>
+<td>CPR43</td>
+<td>Cuticular protein rr-1 family 43</td>
+<td>2L:39,198,204-39,198,593</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006853.html"><span class="doc">AGAP006853</span></a></td>
+<td>CPR42</td>
+<td>Cuticular protein rr-1 family 42</td>
+<td>2L:39,200,923-39,201,294</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006854.html"><span class="doc">AGAP006854</span></a></td>
+<td>CPR41</td>
+<td>Cuticular protein rr-1 family 41</td>
+<td>2L:39,202,721-39,203,110</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006855.html"><span class="doc">AGAP006855</span></a></td>
+<td>CPR40</td>
+<td>Cuticular protein rr-1 family 40</td>
+<td>2L:39,204,665-39,205,054</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006856.html"><span class="doc">AGAP006856</span></a></td>
+<td>CPR39</td>
+<td>Cuticular protein rr-1 family 39</td>
+<td>2L:39,207,082-39,207,468</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006857.html"><span class="doc">AGAP006857</span></a></td>
+<td>CPR38</td>
+<td>Cuticular protein rr-1 family 38</td>
+<td>2L:39,209,289-39,209,666</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006858.html"><span class="doc">AGAP006858</span></a></td>
+<td>CPR37</td>
+<td>Cuticular protein rr-1 family 37</td>
+<td>2L:39,211,329-39,211,784</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006859.html"><span class="doc">AGAP006859</span></a></td>
+<td>CPR66</td>
+<td>Cuticular protein rr-1 family 66</td>
+<td>2L:39,212,866-39,213,312</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006860.html"><span class="doc">AGAP006860</span></a></td>
+<td>CPR145</td>
+<td>Cuticular protein rr-1 family 145</td>
+<td>2L:39,214,535-39,214,978</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006861.html"><span class="doc">AGAP006861</span></a></td>
+<td>CPR36</td>
+<td>Cuticular protein rr-1 family 36</td>
+<td>2L:39,215,802-39,216,191</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006862.html"><span class="doc">AGAP006862</span></a></td>
+<td>CPR35</td>
+<td>Cuticular protein rr-1 family 35</td>
+<td>2L:39,217,701-39,218,069</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006863.html"><span class="doc">AGAP006863</span></a></td>
+<td>CPR65</td>
+<td>Cuticular protein rr-1 family 65</td>
+<td>2L:39,219,764-39,220,196</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006864.html"><span class="doc">AGAP006864</span></a></td>
+<td>CPR34</td>
+<td>Cuticular protein rr-1 family 34</td>
+<td>2L:39,221,590-39,222,203</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006865.html"><span class="doc">AGAP006865</span></a></td>
+<td>CPR64</td>
+<td>Cuticular protein rr-1 family 64</td>
+<td>2L:39,222,587-39,223,516</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006866.html"><span class="doc">AGAP006866</span></a></td>
+<td>CPR63</td>
+<td>Cuticular protein rr-1 family 63</td>
+<td>2L:39,226,948-39,227,651</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006867.html"><span class="doc">AGAP006867</span></a></td>
+<td>CPR141</td>
+<td>Cuticular protein rr-1 family 141</td>
+<td>2L:39,230,211-39,239,664</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006868.html"><span class="doc">AGAP006868</span></a></td>
+<td>CPR140</td>
+<td>Cuticular protein rr-1 family 140</td>
+<td>2L:39,269,028-39,275,406</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006931.html"><span class="doc">AGAP006931</span></a></td>
+<td>CPR111</td>
+<td>Cuticular protein rr-2 family 111</td>
+<td>2L:40,110,606-40,111,688</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP007040.html"><span class="doc">AGAP007040</span></a></td>
+<td>CPR61</td>
+<td>Cuticular protein rr-1 family 61</td>
+<td>2L:41,340,737-41,341,351</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP007042.html"><span class="doc">AGAP007042</span></a></td>
+<td>CPR62</td>
+<td>Cuticular protein rr-1 family 62</td>
+<td>2L:41,386,757-41,387,540</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP001664.html"><span class="doc">AGAP001664</span></a></td>
+<td>CPR1</td>
+<td>Cuticular protein rr-2 family 1</td>
+<td>2R:7,639,417-7,640,126</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001665.html"><span class="doc">AGAP001665</span></a></td>
+<td>CPR2</td>
+<td>Cuticular protein rr-2 family 2</td>
+<td>2R:7,642,571-7,643,437</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP001666.html"><span class="doc">AGAP001666</span></a></td>
+<td>CPR3</td>
+<td>Cuticular protein rr-2 family 3</td>
+<td>2R:7,645,435-7,646,297</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001667.html"><span class="doc">AGAP001667</span></a></td>
+<td>CPR4</td>
+<td>Cuticular protein rr-2 family 4</td>
+<td>2R:7,648,891-7,649,756</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP001668.html"><span class="doc">AGAP001668</span></a></td>
+<td>CPR5</td>
+<td>Cuticular protein rr-2 family 5</td>
+<td>2R:7,651,641-7,652,462</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001669.html"><span class="doc">AGAP001669</span></a></td>
+<td>CPR6</td>
+<td>Cuticular protein rr-2 family 6</td>
+<td>2R:7,656,373-7,657,277</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP002612.html"><span class="doc">AGAP002612</span></a></td>
+<td>CPR7</td>
+<td>Cuticular protein rr-1 family 7</td>
+<td>2R:24,141,504-24,141,978</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP002613.html"><span class="doc">AGAP002613</span></a></td>
+<td>CPR8</td>
+<td>Cuticular protein rr-1 family 8</td>
+<td>2R:24,143,091-24,143,991</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP002726.html"><span class="doc">AGAP002726</span></a></td>
+<td>CPR9</td>
+<td>Cuticular protein rr-1 family 9</td>
+<td>2R:26,282,085-26,283,004</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP002994.html"><span class="doc">AGAP002994</span></a></td>
+<td>CPR10</td>
+<td>Cuticular protein rr-2 family 10</td>
+<td>2R:30,716,523-30,717,472</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003037.html"><span class="doc">AGAP003037</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>2R:31,282,989-31,291,664</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003375.html"><span class="doc">AGAP003375</span></a></td>
+<td>CPR114</td>
+<td>Cuticular protein rr-2 family 114</td>
+<td>2R:37,163,718-37,164,578</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003377.html"><span class="doc">AGAP003377</span></a></td>
+<td>CPR115</td>
+<td>Cuticular protein rr-2 family 115</td>
+<td>2R:37,169,887-37,170,669</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003378.html"><span class="doc">AGAP003378</span></a></td>
+<td>CPR116</td>
+<td>Cuticular protein rr-2 family 116</td>
+<td>2R:37,170,950-37,171,841</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003379.html"><span class="doc">AGAP003379</span></a></td>
+<td>CPR117</td>
+<td>Cuticular protein rr-2 family 117</td>
+<td>2R:37,176,050-37,176,719</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003380.html"><span class="doc">AGAP003380</span></a></td>
+<td>CPR118</td>
+<td>Cuticular protein rr-2 family 118</td>
+<td>2R:37,179,808-37,180,612</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003381.html"><span class="doc">AGAP003381</span></a></td>
+<td>CPR119</td>
+<td>Cuticular protein rr-2 family 119</td>
+<td>2R:37,183,145-37,183,908</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003382.html"><span class="doc">AGAP003382</span></a></td>
+<td>CPR120</td>
+<td>Cuticular protein rr-2 family 120</td>
+<td>2R:37,186,542-37,187,284</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003383.html"><span class="doc">AGAP003383</span></a></td>
+<td>CPR121</td>
+<td>Cuticular protein rr-2 family 121</td>
+<td>2R:37,191,409-37,192,172</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003384.html"><span class="doc">AGAP003384</span></a></td>
+<td>CPR122</td>
+<td>Cuticular protein rr-2 family 122</td>
+<td>2R:37,194,861-37,195,642</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP003385.html"><span class="doc">AGAP003385</span></a></td>
+<td>CPR123</td>
+<td>Cuticular protein rr-2 family 123</td>
+<td>2R:37,198,552-37,199,210</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003390.html"><span class="doc">AGAP003390</span></a></td>
+<td>CPR124</td>
+<td>Cuticular protein rr-2 family 124</td>
+<td>2R:37,233,314-37,234,810</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010369.html"><span class="doc">AGAP010369</span></a></td>
+<td>CPR112</td>
+<td>Cuticular protein rr-2 family 112</td>
+<td>3L:2,279,614-2,280,171</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010717.html"><span class="doc">AGAP010717</span></a></td>
+<td>CPR143</td>
+<td>Cuticular protein rr-2 family 143</td>
+<td>3L:8,939,373-8,941,390</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010848.html"><span class="doc">AGAP010848</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:11,964,898-11,967,393</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010887.html"><span class="doc">AGAP010887</span></a></td>
+<td>CPR113</td>
+<td>Cuticular protein rr-2 family 113</td>
+<td>3L:12,573,817-12,576,196</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP028413.html"><span class="doc">AGAP028413</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:24,946,677-24,947,297</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP011505.html"><span class="doc">AGAP011505</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:25,724,163-25,726,719</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP011506.html"><span class="doc">AGAP011506</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:25,745,946-25,746,610</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP007980.html"><span class="doc">AGAP007980</span></a></td>
+<td>CPCFC1</td>
+<td>Cuticular protein cpcfc family (cpcfc1)</td>
+<td>3R:3,648,524-3,649,937</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP008960.html"><span class="doc">AGAP008960</span></a></td>
+<td>CPR110</td>
+<td>Cuticular protein rr-2 family 110</td>
+<td>3R:22,056,035-22,057,957</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009162.html"><span class="doc">AGAP009162</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:27,937,090-27,939,199</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009599.html"><span class="doc">AGAP009599</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:36,904,703-36,905,753</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009868.html"><span class="doc">AGAP009868</span></a></td>
+<td>CPR73</td>
+<td>Cuticular protein rr-1 family 73</td>
+<td>3R:44,595,744-44,596,889</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009869.html"><span class="doc">AGAP009869</span></a></td>
+<td>CPR74</td>
+<td>Cuticular protein rr-1 family 74</td>
+<td>3R:44,599,530-44,600,220</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009870.html"><span class="doc">AGAP009870</span></a></td>
+<td>CPR151</td>
+<td>Cuticular protein rr-2 family 151</td>
+<td>3R:44,603,608-44,604,143</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009871.html"><span class="doc">AGAP009871</span></a></td>
+<td>CPR75</td>
+<td>Cuticular protein rr-1 family 75</td>
+<td>3R:44,606,879-44,609,038</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009872.html"><span class="doc">AGAP009872</span></a></td>
+<td>CPR133</td>
+<td>Cuticular protein rr-1 family 133</td>
+<td>3R:44,621,416-44,622,695</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009873.html"><span class="doc">AGAP009873</span></a></td>
+<td>CPR153</td>
+<td>Cuticular protein rr-2 family 153</td>
+<td>3R:44,630,238-44,631,526</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009874.html"><span class="doc">AGAP009874</span></a></td>
+<td>CPR76</td>
+<td>Cuticular protein rr-1 family 76</td>
+<td>3R:44,647,714-44,648,784</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009875.html"><span class="doc">AGAP009875</span></a></td>
+<td>CPR77</td>
+<td>Cuticular protein rr-1 family 77</td>
+<td>3R:44,651,149-44,651,987</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009876.html"><span class="doc">AGAP009876</span></a></td>
+<td>CPR78</td>
+<td>Cuticular protein rr-1 family 78</td>
+<td>3R:44,655,489-44,658,811</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009877.html"><span class="doc">AGAP009877</span></a></td>
+<td>CPR79</td>
+<td>Cuticular protein rr-1 family 79</td>
+<td>3R:44,663,896-44,669,862</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009878.html"><span class="doc">AGAP009878</span></a></td>
+<td>CPR80</td>
+<td>Cuticular protein rr-1 family 80</td>
+<td>3R:44,683,920-44,685,754</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009879.html"><span class="doc">AGAP009879</span></a></td>
+<td>CPR81</td>
+<td>Cuticular protein rr-1 family 81</td>
+<td>3R:44,722,312-44,724,555</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010095.html"><span class="doc">AGAP010095</span></a></td>
+<td>CPR82</td>
+<td>Cuticular protein rr-2 family 82</td>
+<td>3R:49,072,001-49,072,921</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010097.html"><span class="doc">AGAP010097</span></a></td>
+<td>CPR107</td>
+<td>Cuticular protein rr-2 family 107</td>
+<td>3R:49,126,660-49,127,265</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010098.html"><span class="doc">AGAP010098</span></a></td>
+<td>CPR83</td>
+<td>Cuticular protein rr-2 family 83</td>
+<td>3R:49,131,810-49,132,540</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010099.html"><span class="doc">AGAP010099</span></a></td>
+<td>CPR108</td>
+<td>Cuticular protein rr-2 family 108</td>
+<td>3R:49,136,221-49,136,690</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010100.html"><span class="doc">AGAP010100</span></a></td>
+<td>CPR84</td>
+<td>Cuticular protein rr-2 family 84</td>
+<td>3R:49,137,589-49,138,196</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010101.html"><span class="doc">AGAP010101</span></a></td>
+<td>CPR85</td>
+<td>Cuticular protein rr-2 family 85</td>
+<td>3R:49,142,195-49,142,795</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP013367.html"><span class="doc">AGAP013367</span></a></td>
+<td>CPR155</td>
+<td>Cuticular protein rr-2 family 155</td>
+<td>3R:49,143,471-49,143,926</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010102.html"><span class="doc">AGAP010102</span></a></td>
+<td>CPR148</td>
+<td>Cuticular protein rr-2 family 148</td>
+<td>3R:49,145,852-49,147,426</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010103.html"><span class="doc">AGAP010103</span></a></td>
+<td>CPR86</td>
+<td>Cuticular protein rr-2 family 86</td>
+<td>3R:49,150,129-49,150,590</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010104.html"><span class="doc">AGAP010104</span></a></td>
+<td>CPR87</td>
+<td>Cuticular protein rr-2 family 87</td>
+<td>3R:49,155,284-49,155,745</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010105.html"><span class="doc">AGAP010105</span></a></td>
+<td>CPR88</td>
+<td>Cuticular protein rr-2 family 88</td>
+<td>3R:49,157,894-49,158,335</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010106.html"><span class="doc">AGAP010106</span></a></td>
+<td>CPR89</td>
+<td>Cuticular protein rr-2 family 89</td>
+<td>3R:49,160,573-49,161,034</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010107.html"><span class="doc">AGAP010107</span></a></td>
+<td>CPR90</td>
+<td>Cuticular protein rr-2 family 90</td>
+<td>3R:49,164,519-49,164,980</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010108.html"><span class="doc">AGAP010108</span></a></td>
+<td>CPR91</td>
+<td>Cuticular protein rr-2 family 91</td>
+<td>3R:49,169,540-49,169,977</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010109.html"><span class="doc">AGAP010109</span></a></td>
+<td>CPR150</td>
+<td>Cuticular protein 150</td>
+<td>3R:49,182,656-49,183,063</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010112.html"><span class="doc">AGAP010112</span></a></td>
+<td>CPR92</td>
+<td>Cuticular protein rr-2 family 92</td>
+<td>3R:49,190,235-49,191,000</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010113.html"><span class="doc">AGAP010113</span></a></td>
+<td>CPR93</td>
+<td>Cuticular protein rr-2 family 93</td>
+<td>3R:49,193,017-49,193,877</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010114.html"><span class="doc">AGAP010114</span></a></td>
+<td>CPR94</td>
+<td>Cuticular protein rr-2 family 94</td>
+<td>3R:49,196,276-49,197,137</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010116.html"><span class="doc">AGAP010116</span></a></td>
+<td>CPR109</td>
+<td>Cuticular protein rr-2 family 109</td>
+<td>3R:49,210,876-49,211,678</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010117.html"><span class="doc">AGAP010117</span></a></td>
+<td>CPR95</td>
+<td>Cuticular protein rr-2 family 95</td>
+<td>3R:49,215,715-49,216,528</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP013749.html"><span class="doc">AGAP013749</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:49,219,789-49,220,479</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010119.html"><span class="doc">AGAP010119</span></a></td>
+<td>CPR96</td>
+<td>Cuticular protein rr-2 family 96</td>
+<td>3R:49,220,511-49,221,282</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010120.html"><span class="doc">AGAP010120</span></a></td>
+<td>CPR97</td>
+<td>Cuticular protein rr-2 family 97</td>
+<td>3R:49,227,988-49,228,876</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010121.html"><span class="doc">AGAP010121</span></a></td>
+<td>CPR149</td>
+<td>Cuticular protein 149</td>
+<td>3R:49,230,063-49,230,500</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010122.html"><span class="doc">AGAP010122</span></a></td>
+<td>CPR132</td>
+<td>Cuticular protein rr-2 family 132</td>
+<td>3R:49,237,420-49,238,561</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010123.html"><span class="doc">AGAP010123</span></a></td>
+<td>CPR131</td>
+<td>Cuticular protein rr-2 family 131</td>
+<td>3R:49,239,832-49,240,516</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010124.html"><span class="doc">AGAP010124</span></a></td>
+<td>CPR98</td>
+<td>Cuticular protein rr-2 family 98</td>
+<td>3R:49,242,946-49,243,750</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010126.html"><span class="doc">AGAP010126</span></a></td>
+<td>CPR142</td>
+<td>Cuticular protein rr-2 family 142</td>
+<td>3R:49,251,731-49,252,603</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010127.html"><span class="doc">AGAP010127</span></a></td>
+<td>CPR99</td>
+<td>Cuticular protein rr-2 family 99</td>
+<td>3R:49,254,604-49,255,464</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010128.html"><span class="doc">AGAP010128</span></a></td>
+<td>CPR100</td>
+<td>Cuticular protein rr-2 family 100</td>
+<td>3R:49,260,060-49,260,851</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012462.html"><span class="doc">AGAP012462</span></a></td>
+<td>CPR147</td>
+<td>Cuticular protein rr-2 family 147</td>
+<td>UNKN:4,254,931-4,258,877</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012466.html"><span class="doc">AGAP012466</span></a></td>
+<td>CPR146</td>
+<td>Cuticular protein rr-2 family 146</td>
+<td>UNKN:4,564,723-4,589,021</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012487.html"><span class="doc">AGAP012487</span></a></td>
+<td>CPR152</td>
+<td>Cuticular protein rr-2 family 152</td>
+<td>UNKN:6,967,611-6,970,199</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012728.html"><span class="doc">AGAP012728</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:25,702,977-25,704,500</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012750.html"><span class="doc">AGAP012750</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:27,000,702-27,001,018</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012795.html"><span class="doc">AGAP012795</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:29,527,873-29,528,133</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012866.html"><span class="doc">AGAP012866</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:34,987,366-34,988,032</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000047.html"><span class="doc">AGAP000047</span></a></td>
+<td>CPR130</td>
+<td>Cuticular protein rr-2 family 130</td>
+<td>X:752,557-754,633</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000085.html"><span class="doc">AGAP000085</span></a></td>
+<td>CPR129</td>
+<td>Cuticular protein rr-2 family 129</td>
+<td>X:1,433,119-1,435,719</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000177.html"><span class="doc">AGAP000177</span></a></td>
+<td>CPR128</td>
+<td>Cuticular protein rr-2 family 128</td>
+<td>X:2,980,078-2,981,108</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000344.html"><span class="doc">AGAP000344</span></a></td>
+<td>CPR127</td>
+<td>Cuticular protein rr-1 family 127</td>
+<td>X:5,961,988-5,967,875</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000345.html"><span class="doc">AGAP000345</span></a></td>
+<td>CPR126</td>
+<td>Cuticular protein rr-2 family 126</td>
+<td>X:5,983,741-5,996,498</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000744.html"><span class="doc">AGAP000744</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>X:13,623,925-13,626,564</td>
+<td>0 (0 | 0)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000745.html"><span class="doc">AGAP000745</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>X:13,656,841-13,668,016</td>
+<td>0 (0 | 0)</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="comments">
+<h2>Comments<a class="headerlink" href="#comments" title="Permalink to this headline">¶</a></h2>
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+    this.page.identifier = '/ir-candidate/cuticular';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript></div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017, Anopheles gambiae 1000 Genomes Consortium.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

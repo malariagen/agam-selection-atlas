@@ -1,0 +1,57 @@
+:orphan:
+
+
+
+AGAP008916
+==========
+
+Location: **3R:20,781,441-20,782,813**
+
+Name: **RpL7**
+
+Description: **60s ribosomal protein l7**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP008916>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:20781441-20782813#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/BFS/3/7/index`, "3R:20,800,001-20,860,000", 118 (40 | 78)
+    
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP008916';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

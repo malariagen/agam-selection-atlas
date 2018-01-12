@@ -1,0 +1,59 @@
+:orphan:
+
+
+
+AGAP004707
+==========
+
+Location: **2L:2,358,158-2,431,617**
+
+Name: **para**
+
+Description: **Voltage-gated sodium channel**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004707>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:2358158-2431617#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/BFS/2/1/index`, "2L:2,420,001-2,720,000", 1365 (680 | 685)
+    :doc:`../signal/H12/GNS/2/1/index`, "2L:1,760,001-2,700,000", 1256 (673 | 583)
+    :doc:`../signal/H12/CMS/2/2/index`, "2L:2,420,001-2,920,000", 566 (461 | 104)
+    
+
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004707';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

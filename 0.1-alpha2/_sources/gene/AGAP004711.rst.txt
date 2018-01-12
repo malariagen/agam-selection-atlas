@@ -1,0 +1,73 @@
+:orphan:
+
+
+
+AGAP004711
+==========
+
+Location: **2L:2,487,770-2,489,611**
+
+
+
+Description: **Atp-dependent rna helicase ddx41**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004711>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:2487770-2489611#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/BFS/2/1/index`, "2L:2,420,001-2,720,000", 1365 (680 | 685)
+    :doc:`../signal/H12/GNS/2/1/index`, "2L:1,760,001-2,700,000", 1256 (673 | 583)
+    :doc:`../signal/H12/CMS/2/2/index`, "2L:2,420,001-2,920,000", 566 (461 | 104)
+    
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/BFM/2/1/index`, "2L:2,520,001-2,900,000", 1399 (800 | 599)
+    :doc:`../signal/H12/UGS/2/2/index`, "2L:2,520,001-3,120,000", 982 (573 | 409)
+    
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004711';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

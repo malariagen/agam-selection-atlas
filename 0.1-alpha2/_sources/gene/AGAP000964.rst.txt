@@ -1,0 +1,58 @@
+:orphan:
+
+
+
+AGAP000964
+==========
+
+Location: **X:18,531,766-18,534,558**
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP000964>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:18531766-18534558#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Score (Left | Right)
+
+    :doc:`../signal/H12/AOM/X/3/index`, "X:18,420,001-18,800,000", 115 (20 | 94)
+    :doc:`../signal/H12/GAS/X/2/index`, "X:18,520,001-18,560,000", 85 (31 | 54)
+    
+
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP000964';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+
