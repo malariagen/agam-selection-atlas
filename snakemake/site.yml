@@ -20,6 +20,7 @@ seqids = ['2R', '2L', '3R', '3L', 'X']
 
 rule tabulate_signals:
     input:
+        "scripts/setup.py",
         "scripts/tabulate_signals.py",
         "docs/_static/data/signal/H12/.make",
         # TODO more signals here
@@ -73,7 +74,7 @@ rule population_pages:
         "templates/macros.rst",
         "templates/populations.rst",
         "templates/population.rst",
-        rules.build_signal_summary_plots.output,
+        rules.signal_summary_plots.output,
     output:
         "docs/populations.rst",
         expand("docs/population/{population}.rst", population=pop_ids),
@@ -88,7 +89,7 @@ rule seqid_pages:
         "scripts/build_seqid_pages.py",
         "templates/macros.rst",
         "templates/seqid.rst",
-        rules.build_signal_summary_plots.output,
+        rules.signal_summary_plots.output,
     output:
         expand("docs/seqid/{seqid}.rst", seqid=seqids),
     shell:
@@ -126,12 +127,12 @@ rule all:
     input:
         static_files,
         glob.glob("docs/*.rst"),
-        rules.build_signal_pages.output,
-        rules.build_signals_page.output,
-        rules.build_population_pages.output,
-        rules.build_seqid_pages.output,
-        rules.build_ir_candidate_pages.output,
+        rules.signal_pages.output,
+#        rules.signals_page.output,
+#        rules.population_pages.output,
+#        rules.seqid_pages.output,
+#        rules.ir_candidate_pages.output,
         # temporarily disable as building all gene pages takes a while
-        rules.build_gene_pages.output,
+#        rules.gene_pages.output,
     shell:
         "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../malariagen.github.io/agam-selection-atlas/dev/"

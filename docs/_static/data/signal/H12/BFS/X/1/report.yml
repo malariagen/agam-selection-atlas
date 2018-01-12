@@ -294,9 +294,9 @@ chromosome: X
 delta_aic: 677.8018188476562
 delta_aic_left: 396.1313781738281
 delta_aic_right: 308.28179931640625
-epicenter:
-- X
-- 15200000
+epicenter: 15200000
+epicenter_coord: 15200000
+epicenter_seqid: X
 fit_reports:
   'null': "[[Model]]\n    Model(constant)\n[[Fit Statistics]]\n    # function evals\
     \   = 10\n    # data points      = 290\n    # variables        = 1\n    chi-square\
@@ -314,12 +314,12 @@ fit_reports:
     \    floor:       0 (fixed)\n[[Correlations]] (unreported correlations are < \
     \ 0.100)\n    C(amplitude, decay)          = -0.609 \n    C(decay, baseline) \
     \          = -0.480 \n"
-focus_end:
-- X
-- 15240000
-focus_start:
-- X
-- 15100000
+focus_end: 15240000
+focus_end_coord: 15240000
+focus_end_seqid: X
+focus_start: 15100000
+focus_start_coord: 15100000
+focus_start_seqid: X
 gpos:
 - 24.419999995227105
 - 24.45999999519717
@@ -614,12 +614,12 @@ gpos:
 - 36.379999994056675
 max_percentile: 0.985275745136534
 max_value: 0.4943563558183284
-peak_end:
-- X
-- 15660000
-peak_start:
-- X
-- 14740001
+peak_end: 15660000
+peak_end_coord: 15660000
+peak_end_seqid: X
+peak_start: 14740001
+peak_start_coord: 14740001
+peak_start_seqid: X
 population:
   id: BFS
   label: Burkina Faso *An. gambiae*

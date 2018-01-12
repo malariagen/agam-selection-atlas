@@ -8,21 +8,25 @@ if __name__ == '__main__':
               'statistic',
               'chromosome',
               'rank',
+              'epicenter',
               'epicenter_seqid',
-              'epicenter_start',
-              'epicenter_end',
-              'focus_start_seqid',
-              'focus_end_seqid',
+              'epicenter_coord',
               'focus_start',
+              'focus_start_seqid',
+              'focus_start_coord',
               'focus_end',
-              'peak_start_seqid',
-              'peak_end_seqid',
+              'focus_end_seqid',
+              'focus_end_coord',
               'peak_start',
+              'peak_start_seqid',
+              'peak_start_coord',
               'peak_end',
-              'minor_delta_aic',
-              'sum_delta_aic',
+              'peak_end_seqid',
+              'peak_end_coord',
+              'delta_aic',
               'delta_aic_left',
               'delta_aic_right',
+              'min_flank_delta_aic',
               'overlapping_genes',
               ]]
 
@@ -39,34 +43,35 @@ if __name__ == '__main__':
         with open(path, mode='rb') as f:
             report = yaml.load(f)
 
-        # figure out what chromosome arm
+        # obtain epicenter
+        chromosome = report['chromosome']
         epicenter = report['epicenter']
-        # check epicenter does not span centromere - not sure how to handle that
-        # case
-        assert epicenter['start'][0] == epicenter['end'][0]
-        epicenter_seqid = epicenter['start'][0]
-        epicenter_start = epicenter['start'][1]
-        epicenter_end = epicenter['end'][1]
+        epicenter_seqid, epicenter_coord = split_arms(chromosome, epicenter)
 
         # obtain focus
-        focus = report['focus']
-        focus_start_seqid = focus['start'][0]
-        focus_end_seqid = focus['end'][0]
-        focus_start = focus['start'][1]
-        focus_end = focus['end'][1]
+        focus_start = report['focus_start']
+        focus_start_seqid, focus_start_coord = split_arms(chromosome, focus_start)
+        focus_end = report['focus_end']
+        focus_end_seqid, focus_end_coord = split_arms(chromosome, focus_end)
+
+        # obtain peak
+        peak_start = report['peak_start']
+        peak_start_seqid, peak_start_coord = split_arms(chromosome, peak_start)
+        peak_end = report['peak_end']
+        peak_end_seqid, peak_end_coord = split_arms(chromosome, peak_end)
 
         # crude way to deal with rare case where focus spans centromere
-        # TODO work with whole chromosome
         if focus_start_seqid != epicenter_seqid:
-            focus_start = 1
+            focus_start_coord = 1
         if focus_end_seqid != epicenter_seqid:
-            focus_end = len(genome[epicenter_seqid])
+            focus_end_coord = len(genome[epicenter_seqid])
 
         # augment report with gene information
+        # TODO deal with genes in whole chromosome coords
         overlapping_genes = genes[(
             (genes.seqid == epicenter_seqid) &
-            (genes.start <= focus_end) &
-            (genes.end >= focus_start)
+            (genes.start <= focus_end_coord) &
+            (genes.end >= focus_start_coord)
         )]
         overlapping_genes = ' '.join(
             [g.ID for _, g in overlapping_genes.iterrows()]
@@ -75,28 +80,33 @@ if __name__ == '__main__':
         row = [
             report['population']['id'],
             report['statistic']['id'],
-            report['chromosome'],
+            chromosome,
             report['rank'],
-            report['epicenter']['start'][0],
-            report['epicenter']['start'][1],
-            report['epicenter']['end'][1],
+            epicenter,
+            epicenter_seqid,
+            epicenter_coord,
             # focus may start and end on different arms, preserve this info
-            report['focus']['start'][0],
-            report['focus']['end'][0],
-            report['focus']['start'][1],
-            report['focus']['end'][1],
+            focus_start,
+            focus_start_seqid,
+            focus_start_coord,
+            focus_end,
+            focus_end_seqid,
+            focus_end_coord,
             # peak may start and end on different arms, preserve this info
-            report['peak']['start'][0],
-            report['peak']['end'][0],
-            report['peak']['start'][1],
-            report['peak']['end'][1],
-            report['minor_delta_aic'],
-            report['sum_delta_aic'],
-            report['delta_aic'][0],
-            report['delta_aic'][1],
+            peak_start,
+            peak_start_seqid,
+            peak_start_coord,
+            peak_end,
+            peak_end_seqid,
+            peak_end_coord,
+            # other data
+            report['delta_aic'],
+            report['delta_aic_left'],
+            report['delta_aic_right'],
+            min(report['delta_aic_left'], report['delta_aic_right']),
             overlapping_genes,
         ]
         table += [row]
 
-    table = etl.wrap(table).sort(key='sum_delta_aic', reverse=True)
+    table = etl.wrap(table).sort(key=('delta_aic', 'min_flank_delta_aic'), reverse=True)
     table.tocsv('docs/_static/data/signals.csv')

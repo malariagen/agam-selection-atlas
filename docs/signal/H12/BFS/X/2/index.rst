@@ -9,8 +9,8 @@ H12 / Burkina Faso *An. gambiae* / Chromosome X / #2
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
 :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**X** between positions **9,180,001** and
-**9,260,000**.
+**X** between positions **9180000** and
+**9240000**.
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
@@ -20,13 +20,11 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
@@ -39,27 +37,13 @@ Gene :doc:`../../../../../gene/AGAP000519` (diacylglycerol kinase (ATP dependent
 
 
 
+No genes are within 50 kbp of the focal region.
 
-The following 2 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP000520`,  :doc:`../../../../../gene/AGAP000521`.
+
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
-
-Overlapping signals
--------------------
-
-The following selection signals have a focus which overlaps with the
-focus of this signal.
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
-
-    :doc:`../../../../../signal/H12/BFM/X/2/index`, "X:9,200,001-9,240,000", 165 (44 | 120)
-    
 
 
 
@@ -93,80 +77,46 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_gaussian)
     [[Fit Statistics]]
-        # function evals   = 27
-        # data points      = 151
-        # variables        = 3
-        chi-square         = 0.029
+        # function evals   = 64
+        # data points      = 299
+        # variables        = 4
+        chi-square         = 0.072
         reduced chi-square = 0.000
-        Akaike info crit   = -1286.350
-        Bayesian info crit = -1277.298
+        Akaike info crit   = -2482.241
+        Bayesian info crit = -2467.439
     [[Variables]]
-        amplitude:   0.25437769 +/- 0.011133 (4.38%) (init= 0.5)
-        decay:       0.16006518 +/- 0.011492 (7.18%) (init= 0.5)
-        c:           0.01811152 +/- 0.001204 (6.65%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.22175740 +/- 0.007461 (3.36%) (init= 0.5)
+        sigma:       0.15000000 +/- 9.09e-07 (0.00%) (init= 0.5)
+        skew:        0.00975591 +/- 0.045589 (467.30%) (init= 0)
+        baseline:    0.02186443 +/- 0.000937 (4.28%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.586 
-        C(decay, c)                  = -0.237 
+        C(amplitude, sigma)          = -0.555 
+        C(sigma, baseline)           = -0.153 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 50
-        # data points      = 149
-        # variables        = 3
-        chi-square         = 0.044
-        reduced chi-square = 0.000
-        Akaike info crit   = -1206.220
-        Bayesian info crit = -1197.209
-    [[Variables]]
-        amplitude:   0.33776358 +/- 0.023889 (7.07%) (init= 0.5)
-        decay:       0.15000006 +/- 0.013404 (8.94%) (init= 0.5)
-        c:           0.02444216 +/- 0.001494 (6.11%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.782 
-        C(decay, c)                  = -0.231 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 150
+        # function evals   = 8
+        # data points      = 298
         # variables        = 1
-        chi-square         = 0.115
+        chi-square         = 0.317
         reduced chi-square = 0.001
-        Akaike info crit   = -1073.376
-        Bayesian info crit = -1070.365
+        Akaike info crit   = -2037.924
+        Bayesian info crit = -2034.227
     [[Variables]]
-        c:   0.02398190 +/- 0.002273 (9.48%) (init= 0.03)
+        c:   0.02796658 +/- 0.001893 (6.77%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 148
-        # variables        = 1
-        chi-square         = 0.144
-        reduced chi-square = 0.001
-        Akaike info crit   = -1024.510
-        Bayesian info crit = -1021.513
-    [[Variables]]
-        c:   0.03030281 +/- 0.002571 (8.49%) (init= 0.03)
 
 
 Comments

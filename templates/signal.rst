@@ -9,19 +9,19 @@
 This page describes a signal of selection found in the
 :doc:`{{ root_path }}population/{{ population.id }}` population using the
 :doc:`{{ root_path }}method/{{ statistic.id }}` statistic.
-{%- if focus.start[0] == focus.end[0] -%}
+{%- if focus_start_seqid == focus_end_seqid -%}
 The focus of this signal is on chromosome arm
-**{{ focus.start[0] }}** between positions **{{ intcomma(focus.start[1]) }}** and
-**{{ intcomma(focus.end[1]) }}**.
+**{{ focus_start_seqid }}** between positions **{{ focus_start_coord }}** and
+**{{ focus_end_coord }}**.
 {%- else -%}
 The focus of this signal is between
-**{{ focus.start[0] }}:{{ intcomma(focus.start[1]) }}** and
-**{{ focus.end[0] }}:{{ intcomma(focus.end[1]) }}**.
+**{{ focus_start_seqid }}:{{ intcomma(focus_start_coord) }}** and
+**{{ focus_end_seqid }}:{{ intcomma(focus_end_coord) }}**.
 {%- endif %}
 The evidence supporting this signal is
-{% if minor_delta_aic >= 100 -%}
+{% if min_flank_delta_aic >= 100 -%}
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks)
-{%- elif minor_delta_aic > 50 -%}
+{%- elif min_flank_delta_aic > 50 -%}
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks)
 {%- else -%}
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks)
@@ -33,13 +33,11 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
@@ -113,21 +111,14 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
-    {{ fit_reports.left_peak|indent(4) }}
+    {{ fit_reports.peak|indent(4) }}
 
-Right flank, peak model::
+Null model::
 
-    {{ fit_reports.right_peak|indent(4) }}
+    {{ fit_reports.null|indent(4) }}
 
-Left flank, null model::
-
-    {{ fit_reports.left_null|indent(4) }}
-
-Right flank, null model::
-
-    {{ fit_reports.right_null|indent(4) }}
 
 Comments
 --------

@@ -94,16 +94,32 @@ def main(population, chromosome, amplitude, min_amplitude, width, min_width, max
 def compile_signal_report(rank, peak, chromosome, pop_id):
     assert chromosome in '23X'
 
+    epicenter_seqid, epicenter_coord = split_arms(chromosome, peak.epicenter)
+    focus_start_seqid, focus_start_coord = split_arms(chromosome, peak.focus_start)
+    focus_end_seqid, focus_end_coord = split_arms(chromosome, peak.focus_end)
+    peak_start_seqid, peak_start_coord = split_arms(chromosome, peak.peak_start)
+    peak_end_seqid, peak_end_coord = split_arms(chromosome, peak.peak_end)
+
     report = {
         'chromosome': chromosome,
         'rank': rank,
         'population': {'id': pop_id, 'label': populations[pop_id]},
         'statistic': {'id': statistic_id, 'label': statistic_label},
-        'epicenter': split_arms(chromosome, peak.epicenter),
-        'focus_start': split_arms(chromosome, peak.focus_start),
-        'focus_end': split_arms(chromosome, peak.focus_end),
-        'peak_start': split_arms(chromosome, peak.peak_start),
-        'peak_end': split_arms(chromosome, peak.peak_end),
+        'epicenter': peak.epicenter,
+        'epicenter_seqid': epicenter_seqid,
+        'epicenter_coord': epicenter_coord,
+        'focus_start': peak.focus_start,
+        'focus_start_seqid': focus_start_seqid,
+        'focus_start_coord': focus_start_coord,
+        'focus_end': peak.focus_end,
+        'focus_end_seqid': focus_end_seqid,
+        'focus_end_coord': focus_end_coord,
+        'peak_start': peak.peak_start,
+        'peak_start_seqid': peak_start_seqid,
+        'peak_start_coord': peak_start_coord,
+        'peak_end': peak.peak_end,
+        'peak_end_seqid': peak_end_seqid,
+        'peak_end_coord': peak_end_coord,
         'fit_reports': {
             'peak': peak.peak_fit.peak_result.fit_report(),
             'null': peak.peak_fit.null_result.fit_report(),
