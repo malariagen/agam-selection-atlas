@@ -9,21 +9,6 @@ chromosome arm 3L.
 .. raw:: html
     :file: 3L.signals.html
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/BFM/3/2/index`, "3L:11,200,001-11,240,000", 355 (316 | 39)
-    :doc:`../signal/H12/CMS/3/2/index`, "3L:26,880,001-26,940,000", 294 (265 | 29)
-    :doc:`../signal/H12/BFS/3/2/index`, "3L:26,880,001-26,920,000", 252 (210 | 41)
-    :doc:`../signal/H12/GAS/3/1/index`, "3L:9,760,001-9,960,000", 193 (144 | 48)
-    :doc:`../signal/H12/AOM/3/3/index`, "3L:5,980,001-6,040,000", 182 (139 | 43)
-    :doc:`../signal/H12/GNS/3/3/index`, "3L:26,860,001-26,900,000", 171 (77 | 93)
-    :doc:`../signal/H12/AOM/3/4/index`, "3L:22,440,001-22,540,000", 156 (89 | 66)
-    :doc:`../signal/H12/AOM/3/5/index`, "3L:17,740,001-17,780,000", 127 (51 | 75)
-    :doc:`../signal/H12/UGS/3/5/index`, "3L:36,240,001-36,300,000", 100 (79 | 21)
-    :doc:`../signal/H12/GWA/3/3/index`, "3L:25,080,001-25,120,000", 97 (49 | 48)
-    :doc:`../signal/H12/GAS/3/5/index`, "3L:41,500,001-41,860,000", 84 (62 | 21)
-    
+No signals.
 
