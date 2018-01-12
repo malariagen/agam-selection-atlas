@@ -79,7 +79,7 @@ def extract_windowed_values(df, seqid, genome, spacing=0, values_col='value',
         return starts, ends, values, percentiles
 
     # compute percentiles over whole dataframe, with nans removed
-    df = df.iloc[~np.isnan(df[values_col].values)]
+    df = df.iloc[~np.isnan(df[values_col].values)].copy()
     df['percentile'] = sp.stats.rankdata(df[values_col]) / len(df)
 
     # extract data for single sequence
@@ -207,8 +207,7 @@ def exponential_peak(x, center, amplitude, decay, baseline, floor, ceiling):
     return y
 
 
-def asymmetric_decay_exponential_peak(x, center, amplitude, decay_left, decay_right,
-                                      baseline, floor, ceiling):
+def skewed_exponential_peak(x, center, amplitude, decay, skew, baseline, floor, ceiling):
     """Asymmetric exponential decay peak function.
 
     Parameters
@@ -219,10 +218,10 @@ def asymmetric_decay_exponential_peak(x, center, amplitude, decay_left, decay_ri
         The center of the peak.
     amplitude : float
         Amplitude parameter.
-    decay_left : float
-        Decay parameter (left flank).
-    decay_right : float
-        Decay parameter (right flank).
+    decay : float
+        Decay parameter.
+    skew : float
+        Skew parameter.
     baseline : float
         Baseline parameter.
     floor : float
@@ -236,6 +235,9 @@ def asymmetric_decay_exponential_peak(x, center, amplitude, decay_left, decay_ri
 
     """
 
+    decay_right = 2**(-skew) * decay
+    decay_left = 2**skew * decay
+
     # locate the index at which to split data into left and right flanks
     ix_split = bisect_right(x, center)
 
@@ -246,6 +248,100 @@ def asymmetric_decay_exponential_peak(x, center, amplitude, decay_left, decay_ri
     # compute right flank
     xr = x[ix_split:] - center
     yr = baseline + amplitude * np.exp(-xr / decay_right)
+
+    # prepare output
+    y = np.concatenate([yl, yr])
+
+    # apply limits
+    y = y.clip(floor, ceiling)
+
+    return y
+
+
+def gaussian(x, center, amplitude, sigma, baseline, floor, ceiling):
+    """Gaussian function.
+
+    Parameters
+    ----------
+    x : ndarray
+        Independent variable.
+    center : int or float
+        The center of the peak.
+    amplitude : float
+        Amplitude parameter.
+    sigma : float
+        Width parameter.
+    baseline : float
+        Baseline parameter.
+    floor : float
+        Minimum value that the result can take.
+    ceiling : float
+        Maximum value that the result can take.
+
+    Returns
+    -------
+    y : ndarray
+
+    """
+
+    # y = (baseline +
+    #      (amplitude / (np.sqrt(2 * np.pi) * sigma)) *
+    #      np.exp(-(x - center)**2 / (2 * sigma**2)))
+    y = (baseline +
+         amplitude *
+         np.exp(-(x - center)**2 / (2 * sigma**2)))
+
+    # apply limits
+    y = y.clip(floor, ceiling)
+
+    return y
+
+
+def skewed_gaussian(x, center, amplitude, sigma, skew, baseline, floor, ceiling):
+    """Asymmetric Gaussian function.
+
+    Parameters
+    ----------
+    x : ndarray
+        Independent variable.
+    center : int or float
+        The center of the peak.
+    amplitude : float
+        Amplitude parameter.
+    sigma : float
+        Width parameter.
+    skew : float
+        Skew parameter.
+    baseline : float
+        Baseline parameter.
+    floor : float
+        Minimum value that the result can take.
+    ceiling : float
+        Maximum value that the result can take.
+
+    Returns
+    -------
+    y : ndarray
+
+    """
+
+    sigma_right = 2**(-skew) * sigma
+    sigma_left = 2**skew * sigma
+
+    # locate the index at which to split data into left and right flanks
+    ix_split = bisect_right(x, center)
+
+    # compute left flank
+    xl = center - x[:ix_split]
+    yl = (baseline +
+          amplitude *
+          np.exp(-xl**2 / (2 * sigma_left**2)))
+
+    # compute right flank
+    xr = x[ix_split:] - center
+    yr = (baseline +
+          amplitude *
+          np.exp(-xr**2 / (2 * sigma_right**2)))
 
     # prepare output
     y = np.concatenate([yl, yr])
@@ -290,7 +386,7 @@ def find_peak_limits(best_fit, threshold):
 class PeakFitter(object):
 
     def __init__(self, null_model, null_params, peak_model, peak_params, half_peak_model,
-                 peak_limit_frc=.1):
+                 peak_limit_frc=.2):
         self.null_model = null_model
         self.null_params = null_params
         self.peak_model = peak_model
@@ -324,6 +420,7 @@ class PeakFitter(object):
 
         # check number of data points on each flank
         if xx_left.shape[0] < 3 or xx_right.shape[0] < 3:
+            # print('not enough data points', xx_left.shape, xx_right.shape)
             return None
 
         # fit the null model - exclude one outlier
@@ -348,6 +445,8 @@ class PeakFitter(object):
         # threshold = baseline + 3 * baseline_stderr
         rix_peak_start, rix_peak_end = find_peak_limits(best_fit, threshold=threshold)
         if rix_peak_start is None or rix_peak_end is None or rix_peak_start == rix_peak_end:
+            # print('could not find peak limits', rix_peak_start, rix_peak_end)
+            # print(peak_result.fit_report())
             return None
         assert rix_peak_start < rix_peak_end
         peak_start_ix = ix_left + rix_peak_start
@@ -384,7 +483,7 @@ class PeakFitter(object):
 
 class ExponentialPeakFitter(PeakFitter):
 
-    def __init__(self, amplitude, decay, baseline, floor, ceiling, null):
+    def __init__(self, amplitude, decay, baseline, floor, ceiling, null, peak_limit_frc=.2):
 
         # initialise null model
         null_model = lmfit.models.ConstantModel()
@@ -406,7 +505,7 @@ class ExponentialPeakFitter(PeakFitter):
 
         super(ExponentialPeakFitter, self).__init__(
             null_model=null_model, null_params=null_params, peak_model=peak_model,
-            peak_params=peak_params, half_peak_model=half_peak_model
+            peak_params=peak_params, half_peak_model=half_peak_model, peak_limit_frc=peak_limit_frc
         )
 
     def split_peak_params(self, peak_result):
@@ -424,10 +523,9 @@ class ExponentialPeakFitter(PeakFitter):
         return half_peak_params, half_peak_params
 
 
-class AsymmetricDecayExponentialPeakFitter(PeakFitter):
+class SkewedExponentialPeakFitter(PeakFitter):
 
-    def __init__(self, amplitude, decay_left, decay_right, baseline, floor, ceiling,
-                 null):
+    def __init__(self, amplitude, decay, skew, baseline, floor, ceiling, null, peak_limit_frc=.2):
 
         # initialise null model
         null_model = lmfit.models.ConstantModel()
@@ -435,12 +533,12 @@ class AsymmetricDecayExponentialPeakFitter(PeakFitter):
         null_params['c'] = null
 
         # initialise peak model
-        peak_model = lmfit.Model(asymmetric_decay_exponential_peak)
+        peak_model = lmfit.Model(skewed_exponential_peak)
         peak_params = lmfit.Parameters()
         peak_params['center'] = lmfit.Parameter(value=0, vary=False)
         peak_params['amplitude'] = amplitude
-        peak_params['decay_left'] = decay_left
-        peak_params['decay_right'] = decay_right
+        peak_params['decay'] = decay
+        peak_params['skew'] = skew
         peak_params['baseline'] = baseline
         peak_params['ceiling'] = ceiling
         peak_params['floor'] = floor
@@ -448,16 +546,18 @@ class AsymmetricDecayExponentialPeakFitter(PeakFitter):
         # initialise flank model
         half_peak_model = lmfit.Model(exponential)
 
-        super(AsymmetricDecayExponentialPeakFitter, self).__init__(
+        super(SkewedExponentialPeakFitter, self).__init__(
             null_model=null_model, null_params=null_params, peak_model=peak_model,
-            peak_params=peak_params, half_peak_model=half_peak_model
+            peak_params=peak_params, half_peak_model=half_peak_model, peak_limit_frc=peak_limit_frc
         )
 
     def split_peak_params(self, peak_result):
 
         amplitude = peak_result.params['amplitude'].value
-        decay_left = peak_result.params['decay_left'].value
-        decay_right = peak_result.params['decay_right'].value
+        decay = peak_result.params['decay'].value
+        skew = peak_result.params['skew'].value
+        decay_right = 2**(-skew) * decay
+        decay_left = 2**skew * decay
         baseline = peak_result.params['baseline'].value
         floor = peak_result.params['floor'].value
         ceiling = peak_result.params['ceiling'].value
@@ -481,7 +581,7 @@ class AsymmetricDecayExponentialPeakFitter(PeakFitter):
 
 class GaussianPeakFitter(PeakFitter):
 
-    def __init__(self, amplitude, sigma, baseline, null):
+    def __init__(self, amplitude, sigma, baseline, floor, ceiling, null, peak_limit_frc=.2):
 
         # initialise null model
         null_model = lmfit.models.ConstantModel()
@@ -489,36 +589,100 @@ class GaussianPeakFitter(PeakFitter):
         null_params['c'] = null
 
         # initialise peak model
-        peak_model = lmfit.models.GaussianModel() + lmfit.models.ConstantModel()
+        peak_model = lmfit.models.Model(gaussian)
         peak_params = lmfit.Parameters()
         peak_params['center'] = lmfit.Parameter(value=0, vary=False)
         peak_params['amplitude'] = amplitude
         peak_params['sigma'] = sigma
-        peak_params['c'] = baseline
+        peak_params['baseline'] = baseline
+        peak_params['ceiling'] = ceiling
+        peak_params['floor'] = floor
 
         # initialise flank model
-        half_peak_model = lmfit.models.GaussianModel() + lmfit.models.ConstantModel()
+        half_peak_model = lmfit.models.Model(gaussian)
 
         super(GaussianPeakFitter, self).__init__(
             null_model=null_model, null_params=null_params, peak_model=peak_model,
-            peak_params=peak_params, half_peak_model=half_peak_model
+            peak_params=peak_params, half_peak_model=half_peak_model, peak_limit_frc=peak_limit_frc
         )
 
     def get_baseline(self, peak_result):
-        baseline = peak_result.params['c'].value
-        baseline_stderr = peak_result.params['c'].stderr
+        baseline = peak_result.params['baseline'].value
+        baseline_stderr = peak_result.params['baseline'].stderr
         return baseline, baseline_stderr
 
     def split_peak_params(self, peak_result):
         amplitude = peak_result.params['amplitude'].value
         sigma = peak_result.params['sigma'].value
-        baseline = peak_result.params['c'].value
+        baseline = peak_result.params['baseline'].value
+        floor = peak_result.params['floor'].value
+        ceiling = peak_result.params['ceiling'].value
         half_peak_params = lmfit.Parameters()
         half_peak_params['amplitude'] = lmfit.Parameter(value=amplitude, vary=False)
         half_peak_params['sigma'] = lmfit.Parameter(value=sigma, vary=False)
-        half_peak_params['c'] = lmfit.Parameter(value=baseline, vary=False)
+        half_peak_params['baseline'] = lmfit.Parameter(value=baseline, vary=False)
         half_peak_params['center'] = lmfit.Parameter(value=0, vary=False)
+        half_peak_params['floor'] = lmfit.Parameter(value=floor, vary=False)
+        half_peak_params['ceiling'] = lmfit.Parameter(value=ceiling, vary=False)
         return half_peak_params, half_peak_params
+
+
+class SkewedGaussianPeakFitter(PeakFitter):
+
+    def __init__(self, amplitude, sigma, skew, baseline, floor, ceiling, null, peak_limit_frc=.2):
+
+        # initialise null model
+        null_model = lmfit.models.ConstantModel()
+        null_params = lmfit.Parameters()
+        null_params['c'] = null
+
+        # initialise peak model
+        peak_model = lmfit.Model(skewed_gaussian)
+        peak_params = lmfit.Parameters()
+        peak_params['center'] = lmfit.Parameter(value=0, vary=False)
+        peak_params['amplitude'] = amplitude
+        peak_params['sigma'] = sigma
+        peak_params['skew'] = skew
+        peak_params['baseline'] = baseline
+        peak_params['ceiling'] = ceiling
+        peak_params['floor'] = floor
+
+        # initialise flank model
+        half_peak_model = lmfit.Model(gaussian)
+
+        super(SkewedGaussianPeakFitter, self).__init__(
+            null_model=null_model, null_params=null_params, peak_model=peak_model,
+            peak_params=peak_params, half_peak_model=half_peak_model, peak_limit_frc=peak_limit_frc
+        )
+
+    def split_peak_params(self, peak_result):
+
+        amplitude = peak_result.params['amplitude'].value
+        sigma = peak_result.params['sigma'].value
+        skew = peak_result.params['skew'].value
+        sigma_right = 2**(-skew) * sigma
+        sigma_left = 2**skew * sigma
+        baseline = peak_result.params['baseline'].value
+        floor = peak_result.params['floor'].value
+        ceiling = peak_result.params['ceiling'].value
+
+        peak_params_left = lmfit.Parameters()
+        peak_params_left['center'] = lmfit.Parameter(value=0, vary=False)
+        peak_params_left['amplitude'] = lmfit.Parameter(value=amplitude, vary=False)
+        peak_params_left['sigma'] = lmfit.Parameter(value=sigma_left, vary=False)
+        peak_params_left['baseline'] = lmfit.Parameter(value=baseline, vary=False)
+        peak_params_left['floor'] = lmfit.Parameter(value=floor, vary=False)
+        peak_params_left['ceiling'] = lmfit.Parameter(value=ceiling, vary=False)
+
+        peak_params_right = lmfit.Parameters()
+        peak_params_right['center'] = lmfit.Parameter(value=0, vary=False)
+        peak_params_right['amplitude'] = lmfit.Parameter(value=amplitude, vary=False)
+        peak_params_right['sigma'] = lmfit.Parameter(value=sigma_right, vary=False)
+        peak_params_right['baseline'] = lmfit.Parameter(value=baseline, vary=False)
+        peak_params_right['floor'] = lmfit.Parameter(value=floor, vary=False)
+        peak_params_right['ceiling'] = lmfit.Parameter(value=ceiling, vary=False)
+
+        return peak_params_left, peak_params_right
 
 
 import os
@@ -556,9 +720,9 @@ Peak = collections.namedtuple(
 )
 
 
-def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
+def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitters,
                min_flank_delta_aic=20, min_peak_delta_aic=80, max_iter=100,
-               extend_delta_aic_frc=0.05, verbose=True, output_dir=None, log_file='log.txt',
+               extend_focus_frc=0.05, verbose=True, output_dir=None, log_file='log.txt',
                dpi=None, statistic_label='Selection statistic', show_plots=False):
     """Iterative algorithm to find peaks.
 
@@ -578,15 +742,15 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
         Size of flank to use when fitting (genetic distance).
     gmap : ndarray
         Genetic map.
-    fitter : PeakFitter
-        Peak fitter.
+    fitters : sequence of PeakFitters
+        Peak fitters.
     min_flank_delta_aic : float, optional
         If either flank falls below this value, peak will be skipped.
     min_peak_delta_aic : float, optional
         Do not report peaks below this value.
     max_iter : int, optional
         Limit number of iterations (mostly useful for debugging).
-    extend_delta_aic_frc : float, optional
+    extend_focus_frc : float, optional
         Extend the peak focus as long as the delta AIC difference with the peak value
         remains within this fraction of the peak value.
     verbose : bool, optional
@@ -633,7 +797,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
     in_peak = np.zeros(n_centers, dtype=bool)
 
     # first pass model fits
-    scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitter=fitter, delta_aics=delta_aics,
+    scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitters=fitters, delta_aics=delta_aics,
              flank_delta_aics=flank_delta_aics, fits=fits, log=log, gstart=None,
              gend=None)
 
@@ -682,6 +846,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
             in_peak[peak_start_cix:peak_end_cix] = True
             delta_aics[in_peak] = 0
             flank_delta_aics[in_peak, :] = 0
+            fits[in_peak] = None
 
         else:
             log('FLANK OK: PROCESSING PEAK')
@@ -712,29 +877,33 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
             focus_end = int(centers[peak_cix + 1])
             # search left
             i = peak_cix - 2
-            while 0 <= i < n_centers:
-                if (peak_delta_aic - fits[i].delta_aic) < (extend_delta_aic_frc * peak_delta_aic):
+            while peak_start_cix <= i <= peak_end_cix:
+                if (fits[i] is not None and
+                        (peak_delta_aic - fits[i].delta_aic) <
+                        (extend_focus_frc * peak_delta_aic)):
                     focus_start = int(centers[i])
-                    log('extend signal left', focus_start)
+                    log('extend focus left', focus_start)
                     i -= 1
                 else:
                     break
             # search right
             i = peak_cix + 2
-            while 0 <= i < n_centers:
-                if (peak_delta_aic - fits[i].delta_aic) < (extend_delta_aic_frc * peak_delta_aic):
+            while peak_start_cix <= i <= peak_end_cix:
+                if (fits[i] is not None and
+                        (peak_delta_aic - fits[i].delta_aic) <
+                        (extend_focus_frc * peak_delta_aic)):
                     focus_end = int(centers[i])
-                    log('extend signal right', focus_end)
+                    log('extend focus right', focus_end)
                     i += 1
                 else:
                     break
             log('found focus:', focus_start, focus_end)
 
             # plot peak focus
-            plot_peak_focus(pos, values, peak_fit=peak_fit, epicenter=epicenter,
+            plot_peak_focus(pos, original_values, peak_fit=peak_fit, epicenter=epicenter,
                             focus_start=focus_start, focus_end=focus_end,
                             peak_start=peak_start, peak_end=peak_end, ylabel=statistic_label,
-                            dpi=dpi)
+                            dpi=dpi, peak_dir=peak_dir)
 
             # plot peak targetting diagnostics
             plot_peak_targetting(epicenter, focus_start, focus_end, peak_start, peak_end,
@@ -765,10 +934,10 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
             values[peak_fit.loc] = (values[peak_fit.loc] - peak_fit.peak).clip(0, None)
 
             log('rescan region around the peak')
-            scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitter=fitter,
+            scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitters=fitters,
                      delta_aics=delta_aics, flank_delta_aics=flank_delta_aics, fits=fits,
                      log=log, gstart=gcenters[peak_cix] - (gflank * 2), gend=peak_gstart)
-            scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitter=fitter,
+            scan_fit(gpos, values, gcenters=gcenters, gflank=gflank, fitters=fitters,
                      delta_aics=delta_aics, flank_delta_aics=flank_delta_aics, fits=fits,
                      log=log, gstart=peak_gend, gend=gcenters[peak_cix] + (gflank * 2))
 
@@ -776,6 +945,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
             in_peak[peak_start_cix:peak_end_cix] = True
             delta_aics[in_peak] = 0
             flank_delta_aics[in_peak, :] = 0
+            fits[in_peak] = None
 
         if show_plots:
             plt.show()
@@ -791,7 +961,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitter,
     log('all done')
 
 
-def scan_fit(gpos, values, gcenters, gflank, fitter, delta_aics, flank_delta_aics, fits, log,
+def scan_fit(gpos, values, gcenters, gflank, fitters, delta_aics, flank_delta_aics, fits, log,
              gstart, gend):
 
     # determine region to scan
@@ -815,7 +985,14 @@ def scan_fit(gpos, values, gcenters, gflank, fitter, delta_aics, flank_delta_aic
         gcenter = gcenters[i]
 
         # fit the peak
-        fit = fitter.fit(x=gpos, y=values, center=gcenter, flank=gflank)
+        results = [fitter.fit(x=gpos, y=values, center=gcenter, flank=gflank)
+                   for fitter in fitters]
+        results = [fit for fit in results if fit is not None]
+        fit = None
+        if results:
+            # take the best fit
+            results = sorted(results, key=lambda o: o.delta_aic, reverse=True)
+            fit = results[0]
 
         # store the results
         if fit is not None:
@@ -910,7 +1087,7 @@ def plot_peak_finding(pos, values, original_values, centers, delta_aics, peak_ce
     ax.set_ylabel(r'$\Delta_{i}$')
     ax.set_xticklabels(['{:.1f}'.format(x/1e6) for x in ax.get_xticks()])
     ax.set_xlabel('Position (Mbp)')
-    ax.set_title('Peak model fit at iteration {}'.format(iteration))
+    ax.set_title('Peak model fits at iteration {}'.format(iteration))
 
     fig.tight_layout()
     if peak_dir:

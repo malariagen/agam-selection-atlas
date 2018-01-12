@@ -20,7 +20,7 @@ import seaborn as sns
 scripts_dir = os.path.dirname(__file__)
 repo_dir = os.path.dirname(scripts_dir)
 sys.path.insert(0, os.path.join(repo_dir, 'agam-report-base', 'src', 'python'))
-import rockies
+import peakfit
 from ag1k import phase1_selection, phase1_ar3, phase1_ar31
 
 

@@ -1,93 +1,94 @@
 # This is a Snakemake file.
-
-
 import yaml
+
 
 # load populations definitions
 with open('docs/_static/data/populations.yml', mode='r') as f:
     populations = yaml.load(f)
     pop_ids = list(populations.keys())
 
+
 # analyse whole chromosomes
 chromosomes = ['2', '3', 'X']
 
-# parameter settings for the H12 build
-h12_config = {
-    'amplitude': 0.5,
-    'min_amplitude': 0,
-    'decay': 0.5,
-    'min_decay': 0.15,
-    'max_decay': {
-        'AOM': 3,
-        'BFM': 2,
-        'GWA': 2,
-        'GNS': 2,
-        'BFS': 2,
-        'CMS': 2,
-        'UGS': 2,
-        'GAS': 2,
-    },
-    'baseline': 0.03,
-    'min_baseline': 0,
-    'max_baseline': 0.06,
-    'min_minor_di': 20,
-    'min_total_di': 80,
-    'extend_di_frc': 0.05,
-    'flank': {
-        'AOM': 8,
-        'BFM': 6,
-        'GWA': 6,
-        'GNS': 6,
-        'BFS': 6,
-        'CMS': 6,
-        'UGS': 6,
-        'GAS': 6,
-    },
+
+# per-population parameter settings for the H12 build
+h12_max_width = {
+    'AOM': 3,
+    'BFM': 2,
+    'GWA': 2,
+    'GNS': 2,
+    'BFS': 2,
+    'CMS': 2,
+    'UGS': 2,
+    'GAS': 2,
+}
+h12_flank = {
+    'AOM': 8,
+    'BFM': 6,
+    'GWA': 6,
+    'GNS': 6,
+    'BFS': 6,
+    'CMS': 6,
+    'UGS': 6,
+    'GAS': 6,
 }
 
 
 rule h12:
     input:
-        "agam-report-base/src/python/rockies.py",
+        "scripts/peakfit.py",
+        "scripts/setup.py",
         "scripts/build_h12.py",
         "ngs.sanger.ac.uk/production/ag1000g/phase1/selection.1.RC2/windowed/hstats.txt.gz",
     params:
-        amplitude=h12_config['amplitude'],
-        min_amplitude=h12_config['min_amplitude'],
-        decay=h12_config['decay'],
-        min_decay=h12_config['min_decay'],
-        max_decay=lambda wildcards, output: h12_config['max_decay'][wildcards.population],
-        baseline=h12_config['baseline'],
-        min_baseline=h12_config['min_baseline'],
-        max_baseline=h12_config['max_baseline'],
-        min_minor_di=h12_config['min_minor_di'],
-        min_total_di=h12_config['min_total_di'],
-        extend_di_frc=h12_config['extend_di_frc'],
-        flank=lambda wildcards, output: h12_config['flank'][wildcards.population],
+        amplitude=0.5,
+        min_amplitude=0,
+        width=0.5,
+        min_width=0.15,
+        max_width=lambda wildcards, output: h12_max_width[wildcards.population],
+        baseline=0.03,
+        min_baseline=0,
+        max_baseline=0.1,
+        min_peak_delta_aic=90,
+        min_flank_delta_aic=30,
+        extend_focus_frc=0.05,
+        peak_limit_frc=0.2,
+        flank=lambda wildcards, output: h12_flank[wildcards.population],
+        max_skew=1,
+        center_step=20000,
+        ceiling=1,
+        floor=0,
     output:
         "docs/_static/data/signal/H12/{population}/{chromosome}",
         touch("docs/_static/data/signal/H12/{population}/{chromosome}/.make"),
     shell:
-        "python scripts/build_h12.py "
-        "    --population {wildcards.population}"
-        "    --chromosome {wildcards.chromosome}"
-        "    --amplitude {params.amplitude}"
-        "    --min-amplitude {params.min_amplitude}"
-        "    --decay {params.decay}"
-        "    --min-decay {params.min_decay}"
-        "    --max-decay {params.max_decay}"
-        "    --baseline {params.baseline}"
-        "    --min-baseline {params.min_baseline}"
-        "    --max-baseline {params.max_baseline}"
-        "    --min-minor-di {params.min_minor_di}"
-        "    --min-total-di {params.min_total_di}"
-        "    --extend-di-frc {params.extend_di_frc}"
-        "    --flank {params.flank}"
+        "rm -rfv docs/_static/data/signal/H12/{wildcards.population}/{wildcards.chromosome} && "
+        "python scripts/build_h12.py"
+        " --population {wildcards.population}"
+        " --chromosome {wildcards.chromosome}"
+        " --amplitude {params.amplitude}"
+        " --min-amplitude {params.min_amplitude}"
+        " --width {params.width}"
+        " --min-width {params.min_width}"
+        " --max-width {params.max_width}"
+        " --baseline {params.baseline}"
+        " --min-baseline {params.min_baseline}"
+        " --max-baseline {params.max_baseline}"
+        " --min-flank-delta-aic {params.min_flank_delta_aic}"
+        " --min-peak-delta-aic {params.min_peak_delta_aic}"
+        " --extend-focus-frc {params.extend_focus_frc}"
+        " --peak-limit-frc {params.peak_limit_frc}"
+        " --flank {params.flank}"
+        " --max-skew {params.max_skew}"
+        " --center-step {params.center_step}"
+        " --ceiling {params.ceiling}"
+        " --floor {params.floor}"
 
 
 rule all_h12:
-#        "docs/_static/data/signal/H12/BFS/X/.make",
     input:
-        expand("docs/_static/data/signal/H12/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
+        "docs/_static/data/signal/H12/BFS/X/.make",
+#        expand("docs/_static/data/signal/H12/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
     output:
         touch("docs/_static/data/signal/H12/.make")
