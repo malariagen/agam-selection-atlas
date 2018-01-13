@@ -22,8 +22,7 @@ rule tabulate_signals:
     input:
         "scripts/setup.py",
         "scripts/tabulate_signals.py",
-        "docs/_static/data/signal/H12/.make",
-        # TODO more signals here
+        glob.glob("docs/_static/data/signal/*/*/*/*/report.yml"),
     output:
         "docs/_static/data/signals.csv",
     shell:

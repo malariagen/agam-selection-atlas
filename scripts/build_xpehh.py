@@ -6,21 +6,24 @@ statistic_id = 'XPEHH'
 statistic_label = 'XPEHH'
 
 
-def build_dataframe(focal_pop, ref_pop, flipped, seqid, window_size):
+def build_dataframe(focal_pop, ref_pop, seqid, window_size):
 
     xpehh_raw = phase1_selection.xpehh_raw
 
     if seqid is None:
-        df = pd.concat([build_dataframe(focal_pop, ref_pop, flipped=flipped, seqid=seqid,
-                                        window_size=window_size)
+        df = pd.concat([build_dataframe(focal_pop, ref_pop, seqid=seqid, window_size=window_size)
                         for seqid in seqids])
         return df
 
     # extract raw values
     pop1, pop2 = focal_pop, ref_pop
+    comparison = '%svs%s' % (pop1, pop2)
+    flipped = False
+    if comparison not in xpehh_raw[seqid]:
+        flipped = True
     if flipped:
         pop1, pop2 = pop2, pop1
-    comparison = '%svs%s' % (pop1, pop2)
+        comparison = '%svs%s' % (pop1, pop2)
     grp = xpehh_raw[seqid][comparison]
     pos = grp['POS'][:]
     values = grp['XPEHH_zscore'][:]
@@ -51,13 +54,13 @@ def build_dataframe(focal_pop, ref_pop, flipped, seqid, window_size):
     return df
 
 
-def main(focal_pop, ref_pop, flipped, chromosome, amplitude, min_amplitude, width, min_width,
+def main(focal_pop, ref_pop, chromosome, amplitude, min_amplitude, width, min_width,
          max_width, baseline, min_baseline, max_baseline, min_flank_delta_aic, min_peak_delta_aic,
          extend_focus_frc, peak_limit_frc, flank, ceiling, vary_ceiling, floor, vary_floor,
          max_skew, center_step, values_window_size):
 
     # obtain dataframe with selection stats
-    df = build_dataframe(focal_pop=focal_pop, ref_pop=ref_pop, flipped=flipped, seqid=None,
+    df = build_dataframe(focal_pop=focal_pop, ref_pop=ref_pop, seqid=None,
                          window_size=values_window_size)
 
     # setup parameters
@@ -94,7 +97,8 @@ def main(focal_pop, ref_pop, flipped, chromosome, amplitude, min_amplitude, widt
     peak_fitters = [skewed_exp_fitter, skewed_gauss_fitter]
 
     # setup output directory
-    output_dir = 'docs/_static/data/signal/{}/{}/{}'.format(statistic_id, population, chromosome)
+    output_dir = ('docs/_static/data/signal/{}/{}.{}/{}'
+                  .format(statistic_id, focal_pop, ref_pop, chromosome))
     if os.path.exists(output_dir):
         shutil.rmtree(output_dir)
     os.makedirs(output_dir)
@@ -129,7 +133,7 @@ def main(focal_pop, ref_pop, flipped, chromosome, amplitude, min_amplitude, widt
     # build peak reports
     for i, peak in enumerate(peaks):
         rank = i + 1
-        report = compile_signal_report(rank, peak, chromosome, pop_id=focal_pop)
+        report = compile_signal_report(rank, peak, chromosome, focal_pop=focal_pop, ref_pop=ref_pop)
         signal_dir = os.path.join(output_dir, str(rank))
         os.makedirs(signal_dir, exist_ok=True)
         report_path = os.path.join(signal_dir, 'report.yml')
@@ -137,9 +141,9 @@ def main(focal_pop, ref_pop, flipped, chromosome, amplitude, min_amplitude, widt
             yaml.dump(report, report_file, default_flow_style=False)
 
 
-def compile_signal_report(rank, peak, chromosome, pop_id):
+def compile_signal_report(rank, peak, chromosome, focal_pop, ref_pop):
     # TODO refactor this to setup
-    
+
     assert chromosome in '23X'
 
     epicenter_seqid, epicenter_coord = split_arms(chromosome, peak.epicenter)
@@ -151,8 +155,11 @@ def compile_signal_report(rank, peak, chromosome, pop_id):
     report = {
         'chromosome': chromosome,
         'rank': rank,
-        'population': {'id': pop_id, 'label': populations[pop_id]},
-        'statistic': {'id': statistic_id, 'label': statistic_label},
+        'population': {'id': focal_pop, 'label': populations[focal_pop]},
+        'statistic': {
+            'id': statistic_id,
+            'label': '{} (versus {})'.format(statistic_label, populations[ref_pop]),
+        },
         'epicenter': peak.epicenter,
         'epicenter_seqid': epicenter_seqid,
         'epicenter_coord': epicenter_coord,
@@ -186,4 +193,32 @@ def compile_signal_report(rank, peak, chromosome, pop_id):
     return report
 
 
+if __name__ == '__main__':
 
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--focal-pop', required=True)
+    parser.add_argument('--ref-pop', required=True)
+    parser.add_argument('--chromosome', required=True)
+    parser.add_argument('--amplitude', type=float, required=True)
+    parser.add_argument('--min-amplitude', type=float, required=True)
+    parser.add_argument('--width', type=float, required=True)
+    parser.add_argument('--min-width', type=float, required=True)
+    parser.add_argument('--max-width', type=float, required=True)
+    parser.add_argument('--baseline', type=float, required=True)
+    parser.add_argument('--min-baseline', type=float, required=True)
+    parser.add_argument('--max-baseline', type=float, required=True)
+    parser.add_argument('--min-flank-delta-aic', type=float, required=True)
+    parser.add_argument('--min-peak-delta-aic', type=float, required=True)
+    parser.add_argument('--extend-focus-frc', type=float, required=True)
+    parser.add_argument('--peak-limit-frc', type=float, required=True)
+    parser.add_argument('--flank', type=float, required=True)
+    parser.add_argument('--ceiling', type=float, required=True)
+    parser.add_argument('--vary-ceiling', action='store_true', default=False)
+    parser.add_argument('--floor', type=float, required=True)
+    parser.add_argument('--vary-floor', action='store_true', default=False)
+    parser.add_argument('--max-skew', type=float, required=True)
+    parser.add_argument('--center-step', type=int, required=True)
+    parser.add_argument('--values-window-size', type=int, required=True)
+    args = parser.parse_args()
+    main(**vars(args))

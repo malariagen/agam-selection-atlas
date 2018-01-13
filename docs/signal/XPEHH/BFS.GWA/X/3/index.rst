@@ -3,16 +3,16 @@
 
 
 
-H12 / Burkina Faso *An. gambiae* / Chromosome X / #3
-====================================================
+XPEHH / Burkina Faso *An. gambiae* / Chromosome X / #3
+======================================================
 
 This page describes a signal of selection found in the
 :doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+:doc:`../../../../../method/XPEHH` statistic.The focus of this signal is on chromosome arm
 **X** between positions **9,660,000** and
-**9,760,000**.
+**9,700,000**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
 .. raw:: html
     :file: peak_location.html
@@ -38,8 +38,8 @@ The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP00
 
 
 
-The following 8 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP012976`,  :doc:`../../../../../gene/AGAP013521`,  :doc:`../../../../../gene/AGAP000536` (PGRPS1 - peptidoglycan recognition protein (short)),  :doc:`../../../../../gene/AGAP000537` (TWDL8 - cuticular protein TWDL family (TWDL8)),  :doc:`../../../../../gene/AGAP000538` (TWDL9 - cuticular protein TWDL family (TWDL9)),  :doc:`../../../../../gene/AGAP000539`,  :doc:`../../../../../gene/AGAP000543` (vitamin-K-epoxide reductase (warfarin-sensitive)),  :doc:`../../../../../gene/AGAP000544` (solute carrier family 35, member E1).
+The following 6 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP012976`,  :doc:`../../../../../gene/AGAP013521`,  :doc:`../../../../../gene/AGAP000536` (PGRPS1 - peptidoglycan recognition protein (short)),  :doc:`../../../../../gene/AGAP000537` (TWDL8 - cuticular protein TWDL family (TWDL8)),  :doc:`../../../../../gene/AGAP000538` (TWDL9 - cuticular protein TWDL family (TWDL9)),  :doc:`../../../../../gene/AGAP000539`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
@@ -56,7 +56,7 @@ focus of this signal.
     :widths: auto
     :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
 
-    :doc:`../../../../../signal/XPEHH/BFS/X/3/index`, "X:9,660,000-9,700,000", 97
+    :doc:`../../../../../signal/H12/BFS/X/3/index`, "X:9,660,000-9,760,000", 267
     
 
 
@@ -70,21 +70,21 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/X/3/peak_finding.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/3/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/X/3/peak_targetting.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/3/peak_targetting.png"/>
     <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/X/3/peak_fit.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/3/peak_fit.png"/>
     <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
     </div>
 
@@ -96,24 +96,25 @@ Peak model::
     [[Model]]
         Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 43
-        # data points      = 399
+        # function evals   = 38
+        # data points      = 481
         # variables        = 4
-        chi-square         = 0.037
-        reduced chi-square = 0.000
-        Akaike info crit   = -3695.263
-        Bayesian info crit = -3679.307
+        chi-square         = 67.389
+        reduced chi-square = 0.141
+        Akaike info crit   = -937.349
+        Bayesian info crit = -920.646
     [[Variables]]
         center:      0 (fixed)
-        amplitude:   0.07228987 +/- 0.004800 (6.64%) (init= 0.5)
-        decay:       0.32639795 +/- 0.032255 (9.88%) (init= 0.5)
-        skew:       -0.20958368 +/- 0.096333 (45.96%) (init= 0)
-        baseline:    0.01763318 +/- 0.000532 (3.01%) (init= 0.03)
-        ceiling:     1 (fixed)
+        amplitude:   1.77629074 +/- 0.207730 (11.69%) (init= 3)
+        decay:       0.16691450 +/- 0.032181 (19.28%) (init= 0.5)
+        skew:       -0.29041771 +/- 0.197541 (68.02%) (init= 0)
+        baseline:    1.24866379 +/- 0.018038 (1.44%) (init= 1)
+        ceiling:     100 (fixed)
         floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.674 
-        C(decay, baseline)           = -0.299 
+        C(amplitude, decay)          = -0.673 
+        C(decay, skew)               =  0.319 
+        C(decay, baseline)           = -0.215 
 
 
 Null model::
@@ -121,15 +122,15 @@ Null model::
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 10
-        # data points      = 398
+        # function evals   = 9
+        # data points      = 480
         # variables        = 1
-        chi-square         = 0.072
-        reduced chi-square = 0.000
-        Akaike info crit   = -3427.768
-        Bayesian info crit = -3423.782
+        chi-square         = 83.124
+        reduced chi-square = 0.174
+        Akaike info crit   = -839.657
+        Bayesian info crit = -835.483
     [[Variables]]
-        c:   0.02044933 +/- 0.000675 (3.30%) (init= 0.03)
+        c:   1.29241039 +/- 0.019013 (1.47%) (init= 1)
 
 
 

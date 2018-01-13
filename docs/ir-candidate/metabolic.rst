@@ -22,7 +22,7 @@ number of technical reasons why a true signal of selection might not be detected
     :widths: 10, 10, 50, 20, 10
     :header: Gene, Name, Description, Location, No. signals (overlapping | adjacent)
 
-    :doc:`../gene/AGAP000818`, "CYP9K1", "Cytochrome p450", "X:15,240,572-15,242,864", 1 (0 | 1)
+    :doc:`../gene/AGAP000818`, "CYP9K1", "Cytochrome p450", "X:15,240,572-15,242,864", 2 (0 | 2)
     :doc:`../gene/AGAP004677`, "", "Methylenetetrahydrofolate dehydrogenase(nad ) / 5,10-methenyltetrahydrofolate", "2L:157,348-186,936", 0 (0 | 0)
     :doc:`../gene/AGAP004687`, "", "", "2L:819,113-819,301", 0 (0 | 0)
     :doc:`../gene/AGAP004710`, "", "Ubiquinol-cytochrome c reductase subunit 9", "2L:2,483,226-2,483,631", 0 (0 | 0)

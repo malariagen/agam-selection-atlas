@@ -40,7 +40,6 @@ rule h12:
         "docs/_static/data/signal/H12/{population}/{chromosome}",
         touch("docs/_static/data/signal/H12/{population}/{chromosome}/.make"),
     shell:
-        "rm -rfv docs/_static/data/signal/H12/{wildcards.population}/{wildcards.chromosome} && "
         "python scripts/build_h12.py"
         " --population {wildcards.population}"
         " --chromosome {wildcards.chromosome}"
@@ -69,3 +68,56 @@ rule all_h12:
         expand("docs/_static/data/signal/H12/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
     output:
         touch("docs/_static/data/signal/H12/.make")
+
+
+rule xpehh:
+    input:
+        "scripts/peakfit.py",
+        "scripts/setup.py",
+        "scripts/build_xpehh.py",
+        "ngs.sanger.ac.uk/production/ag1000g/phase1/selection.1.RC2/raw/xpehh",
+    params:
+        amplitude=3,
+        min_amplitude=0,
+        width=0.5,
+        min_width=0.15,
+        max_width=3,
+        baseline=1,
+        min_baseline=0,
+        max_baseline=100,
+        min_peak_delta_aic=90,
+        min_flank_delta_aic=30,
+        extend_focus_frc=0.05,
+        peak_limit_frc=0.2,
+        flank=8,
+        max_skew=1,
+        center_step=20000,
+        ceiling=100,
+        floor=0,
+        values_window_size=800,
+    output:
+        "docs/_static/data/signal/XPEHH/{focal_pop}.{ref_pop}/{chromosome}",
+        touch("docs/_static/data/signal/XPEHH/{focal_pop}.{ref_pop}/{chromosome}/.make"),
+    shell:
+        "python scripts/build_xpehh.py"
+        " --focal-pop {wildcards.focal_pop}"
+        " --ref-pop {wildcards.ref_pop}"
+        " --chromosome {wildcards.chromosome}"
+        " --amplitude {params.amplitude}"
+        " --min-amplitude {params.min_amplitude}"
+        " --width {params.width}"
+        " --min-width {params.min_width}"
+        " --max-width {params.max_width}"
+        " --baseline {params.baseline}"
+        " --min-baseline {params.min_baseline}"
+        " --max-baseline {params.max_baseline}"
+        " --min-flank-delta-aic {params.min_flank_delta_aic}"
+        " --min-peak-delta-aic {params.min_peak_delta_aic}"
+        " --extend-focus-frc {params.extend_focus_frc}"
+        " --peak-limit-frc {params.peak_limit_frc}"
+        " --flank {params.flank}"
+        " --max-skew {params.max_skew}"
+        " --center-step {params.center_step}"
+        " --ceiling {params.ceiling}"
+        " --floor {params.floor}"
+        " --values-window-size {params.values_window_size}"

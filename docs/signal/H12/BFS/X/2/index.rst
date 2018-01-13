@@ -45,6 +45,20 @@ No genes are within 50 kbp of the focal region.
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
+Overlapping signals
+-------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. csv-table::
+    :widths: auto
+    :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
+
+    :doc:`../../../../../signal/XPEHH/BFS/X/2/index`, "X:9,200,000-9,240,000", 744
+    
+
 
 
 Diagnostics
@@ -82,24 +96,24 @@ Peak model::
     [[Model]]
         Model(skewed_gaussian)
     [[Fit Statistics]]
-        # function evals   = 64
-        # data points      = 299
+        # function evals   = 63
+        # data points      = 399
         # variables        = 4
-        chi-square         = 0.072
+        chi-square         = 0.082
         reduced chi-square = 0.000
-        Akaike info crit   = -2482.241
-        Bayesian info crit = -2467.439
+        Akaike info crit   = -3379.810
+        Bayesian info crit = -3363.854
     [[Variables]]
         center:      0 (fixed)
-        amplitude:   0.22175740 +/- 0.007461 (3.36%) (init= 0.5)
-        sigma:       0.15000000 +/- 9.09e-07 (0.00%) (init= 0.5)
-        skew:        0.00975591 +/- 0.045589 (467.30%) (init= 0)
-        baseline:    0.02186443 +/- 0.000937 (4.28%) (init= 0.03)
+        amplitude:   0.22379636 +/- 0.006861 (3.07%) (init= 0.5)
+        sigma:       0.15000000 +/- 0.000954 (0.64%) (init= 0.5)
+        skew:        0.00980240 +/- 0.041584 (424.22%) (init= 0)
+        baseline:    0.02042294 +/- 0.000739 (3.62%) (init= 0.03)
         ceiling:     1 (fixed)
         floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, sigma)          = -0.555 
-        C(sigma, baseline)           = -0.153 
+        C(amplitude, sigma)          =  0.561 
+        C(sigma, baseline)           =  0.131 
 
 
 Null model::
@@ -107,15 +121,15 @@ Null model::
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 8
-        # data points      = 298
+        # function evals   = 9
+        # data points      = 398
         # variables        = 1
-        chi-square         = 0.317
+        chi-square         = 0.335
         reduced chi-square = 0.001
-        Akaike info crit   = -2037.924
-        Bayesian info crit = -2034.227
+        Akaike info crit   = -2816.113
+        Bayesian info crit = -2812.126
     [[Variables]]
-        c:   0.02796658 +/- 0.001893 (6.77%) (init= 0.03)
+        c:   0.02503642 +/- 0.001455 (5.81%) (init= 0.03)
 
 
 

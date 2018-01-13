@@ -1,9 +1,11 @@
 
 {% macro intcomma(v) %}{{ "{:,}".format(v) }}{% endmacro %}
 
+
 {% macro signal_doc(signal, root_path) -%}
 :doc:`{{ root_path }}signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`
 {%- endmacro %}
+
 
 {% macro signal_focus(signal) -%}
 "{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start_coord|int) }}-
@@ -13,16 +15,18 @@
 {{ intcomma(signal.focus_end_coord|int) }}"
 {%- endmacro %}
 
+
 {% macro signal_score(signal) -%}
-{{ signal.delta_aic|int }} ({{ signal.delta_aic_left|int }} | {{ signal.delta_aic_right|int }})
+{{ intcomma(signal.delta_aic|int) }}
 {%- endmacro %}
+
 
 {% macro signals_table(signals, root_path) -%}
 {% if signals|length > 0 -%}
 .. cssclass:: table-hover
 .. csv-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
 
     {% for signal in signals -%}
     {{ signal_doc(signal, root_path) }}, {{ signal_focus(signal) }}, {{ signal_score(signal) }}
@@ -31,6 +35,7 @@
 No signals.
 {% endif %}
 {%- endmacro %}
+
 
 {% macro gene_doc(value, root_path, ir_candidates, describe=True) -%}
 :doc:`{{ root_path }}gene/{{ value.id }}`
@@ -46,6 +51,7 @@ No signals.
 )
 {%- endif %}
 {%- endmacro %}
+
 
 {% macro disqus(identifier='') %}
 .. raw:: html
