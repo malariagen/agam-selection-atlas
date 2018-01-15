@@ -949,7 +949,7 @@ def find_peaks(starts, ends, values, percentiles, centers, gflank, gmap, fitters
 
         if show_plots:
             plt.show()
-        plt.close()
+        plt.close('all')
 
         log('find the next peak')
         # find the next peak

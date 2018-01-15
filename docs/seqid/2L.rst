@@ -9,6 +9,167 @@ chromosome arm 2L.
 .. raw:: html
     :file: 2L.signals.html
 
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
 
-No signals.
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/H12/BFM/2/1/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2L:2,474,895-2,894,895
+      - 1,800
+      - 99.9%
+    * - :doc:`../signal/H12/BFS/2/1/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2L:1,454,895-2,694,895
+      - 1,776
+      - 100.0%
+    * - :doc:`../signal/H12/GNS/2/1/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:1,294,895-2,474,895
+      - 1,685
+      - 100.0%
+    * - :doc:`../signal/H12/UGS/2/2/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2L:1,814,895-3,094,895
+      - 1,377
+      - 100.0%
+    * - :doc:`../signal/H12/UGS/2/3/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2L:34,074,895-34,134,895
+      - 1,193
+      - 98.1%
+    * - :doc:`../signal/H12/BFM/2/2/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,434,895-25,494,895
+      - 1,172
+      - 98.4%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:2,234,895-3,274,895
+      - 938
+      - 99.6%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:28,374,895-28,694,895
+      - 863
+      - 98.0%
+    * - :doc:`../signal/H12/BFS/2/3/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2L:28,494,895-28,634,895
+      - 834
+      - 98.3%
+    * - :doc:`../signal/H12/CMS/2/2/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2L:3,054,895-3,614,895
+      - 725
+      - 99.7%
+    * - :doc:`../signal/H12/GAS/2/1/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 2L:25,454,895-25,514,895
+      - 529
+      - 100.0%
+    * - :doc:`../signal/H12/AOM/2/3/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2L:25,214,895-25,334,895
+      - 398
+      - 95.7%
+    * - :doc:`../signal/H12/GWA/2/1/index`
+      - H12
+      - Guinea Bissau
+      - 2L:31,954,895-31,994,895
+      - 382
+      - 99.2%
+    * - :doc:`../signal/H12/BFS/2/5/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2L:25,454,895-25,534,895
+      - 375
+      - 96.1%
+    * - :doc:`../signal/H12/GNS/2/4/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:25,534,895-25,814,895
+      - 332
+      - 97.8%
+    * - :doc:`../signal/H12/GAS/2/2/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 2L:2,734,895-3,094,895
+      - 325
+      - 99.8%
+    * - :doc:`../signal/H12/GNS/2/3/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:28,434,895-28,834,895
+      - 301
+      - 98.3%
+    * - :doc:`../signal/H12/AOM/2/5/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2L:33,434,895-33,514,895
+      - 290
+      - 96.7%
+    * - :doc:`../signal/H12/GWA/2/3/index`
+      - H12
+      - Guinea Bissau
+      - 2L:11,234,895-11,334,895
+      - 208
+      - 98.1%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:4,914,895-5,234,895
+      - 205
+      - 93.4%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/6/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 138
+      - 95.3%
+    * - :doc:`../signal/H12/GAS/2/3/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 2L:14,694,895-14,814,895
+      - 121
+      - 98.8%
+    * - :doc:`../signal/H12/CMS/2/4/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 112
+      - 98.7%
+    * - :doc:`../signal/H12/GNS/2/5/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:39,254,895-39,294,895
+      - 110
+      - 94.7%
+    * - :doc:`../signal/H12/UGS/2/5/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2L:42,774,895-42,814,895
+      - 98
+      - 94.4%
+    
+
 

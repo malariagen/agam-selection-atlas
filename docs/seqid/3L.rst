@@ -9,6 +9,89 @@ chromosome arm 3L.
 .. raw:: html
     :file: 3L.signals.html
 
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
 
-No signals.
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/H12/CMS/3/2/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 3L:26,879,316-26,919,316
+      - 328
+      - 89.2%
+    * - :doc:`../signal/H12/BFS/3/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 3L:26,879,316-26,979,316
+      - 291
+      - 92.7%
+    * - :doc:`../signal/H12/BFM/3/2/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 3L:11,159,316-11,199,316
+      - 267
+      - 99.7%
+    * - :doc:`../signal/H12/GAS/3/1/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 3L:9,639,316-10,199,316
+      - 244
+      - 92.7%
+    * - :doc:`../signal/H12/GNS/3/3/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 3L:26,939,316-26,979,316
+      - 229
+      - 94.4%
+    * - :doc:`../signal/H12/AOM/3/1/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 3L:5,639,316-5,819,316
+      - 173
+      - 94.3%
+    * - :doc:`../signal/H12/AOM/3/2/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 3L:22,359,316-22,539,316
+      - 169
+      - 87.3%
+    * - :doc:`../signal/H12/AOM/3/3/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 3L:17,719,316-17,759,316
+      - 135
+      - 92.3%
+    * - :doc:`../signal/XPEHH/BFS.GWA/3/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 3L:10,219,316-10,379,316
+      - 103
+      - 99.4%
+    * - :doc:`../signal/H12/GWA/3/2/index`
+      - H12
+      - Guinea Bissau
+      - 3L:25,059,316-25,179,316
+      - 96
+      - 83.2%
+    * - :doc:`../signal/H12/BFM/3/4/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 3L:11,619,316-11,659,316
+      - 95
+      - 99.6%
+    * - :doc:`../signal/H12/GAS/3/3/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 3L:35,059,316-35,139,316
+      - 93
+      - 96.3%
+    
+
 

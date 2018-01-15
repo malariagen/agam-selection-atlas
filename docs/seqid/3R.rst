@@ -9,6 +9,101 @@ chromosome arm 3R.
 .. raw:: html
     :file: 3R.signals.html
 
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
 
-No signals.
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/H12/CMS/3/1/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 3R:28,580,000-28,620,000
+      - 1,410
+      - 100.0%
+    * - :doc:`../signal/XPEHH/BFS.GWA/3/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 3R:28,500,000-28,620,000
+      - 1,181
+      - 100.0%
+    * - :doc:`../signal/H12/BFS/3/1/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 3R:28,520,000-28,580,000
+      - 995
+      - 98.4%
+    * - :doc:`../signal/H12/GNS/3/1/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 3R:28,480,000-28,540,000
+      - 954
+      - 98.2%
+    * - :doc:`../signal/H12/UGS/3/1/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 3R:28,560,000-28,600,000
+      - 876
+      - 97.3%
+    * - :doc:`../signal/H12/BFM/3/1/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 3R:28,560,000-28,620,000
+      - 747
+      - 98.0%
+    * - :doc:`../signal/H12/UGS/3/2/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 3R:49,660,000-49,880,000
+      - 427
+      - 93.3%
+    * - :doc:`../signal/H12/UGS/3/3/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 3R:44,380,000-45,140,000
+      - 292
+      - 95.0%
+    * - :doc:`../signal/H12/GNS/3/2/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 3R:4,600,000-5,060,000
+      - 253
+      - 77.2%
+    * - :doc:`../signal/H12/UGS/3/4/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 3R:18,780,000-19,000,000
+      - 210
+      - 72.4%
+    * - :doc:`../signal/H12/UGS/3/5/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 3R:36,460,000-37,520,000
+      - 206
+      - 94.0%
+    * - :doc:`../signal/H12/GWA/3/1/index`
+      - H12
+      - Guinea Bissau
+      - 3R:49,480,000-49,620,000
+      - 165
+      - 93.8%
+    * - :doc:`../signal/H12/BFM/3/3/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 3R:52,600,000-53,080,000
+      - 153
+      - 97.3%
+    * - :doc:`../signal/H12/GAS/3/2/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 3R:41,680,000-41,980,000
+      - 112
+      - 91.9%
+    
+
 

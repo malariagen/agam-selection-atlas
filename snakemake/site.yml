@@ -31,7 +31,6 @@ rule tabulate_signals:
 
 rule signal_pages:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_signal_pages.py",
         "templates/macros.rst",
@@ -45,7 +44,6 @@ rule signal_pages:
 
 rule signals_page:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_signals_page.py",
         "templates/macros.rst",
@@ -68,13 +66,11 @@ rule signal_summary_plots:
 
 rule population_pages:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_population_pages.py",
         "templates/macros.rst",
         "templates/populations.rst",
         "templates/population.rst",
-        rules.signal_summary_plots.output,
     output:
         "docs/populations.rst",
         expand("docs/population/{population}.rst", population=pop_ids),
@@ -84,21 +80,30 @@ rule population_pages:
 
 rule seqid_pages:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_seqid_pages.py",
         "templates/macros.rst",
         "templates/seqid.rst",
-        rules.signal_summary_plots.output,
     output:
         expand("docs/seqid/{seqid}.rst", seqid=seqids),
     shell:
         "python scripts/build_seqid_pages.py"
 
 
+rule statistic_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_statistic_pages.py",
+        "templates/macros.rst",
+        "templates/statistic.rst",
+    output:
+        expand("docs/statistic/{statistic}.rst", statistic=['H12', 'IHS', 'XPEHH']),
+    shell:
+        "python scripts/build_statistic_pages.py"
+
+
 rule gene_pages:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         "scripts/build_gene_pages.py",
         "templates/macros.rst",
@@ -112,7 +117,6 @@ rule gene_pages:
 
 rule ir_candidate_pages:
     input:
-        "docs/conf.py",
         "docs/_static/data/signals.csv",
         glob.glob("docs/_static/data/ir-candidate-genes/*"),
         "scripts/build_ir_candidate_pages.py",
@@ -130,11 +134,14 @@ rule ir_candidate_pages:
 rule all:
     input:
         static_files,
+        "docs/conf.py",
         glob.glob("docs/*.rst"),
+        rules.signal_summary_plots.output,
         rules.signal_pages.output,
         rules.signals_page.output,
         rules.population_pages.output,
         rules.seqid_pages.output,
+        rules.statistic_pages.output,
         rules.ir_candidate_pages.output,
         # temporarily disable as building all gene pages takes a while
 #        rules.gene_pages.output,

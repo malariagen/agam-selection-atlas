@@ -186,8 +186,12 @@ texinfo_documents = [
 
 def setup(app):
     app.add_stylesheet(
-        '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css')
-    app.add_stylesheet(
         '/agam-selection-atlas/{}/_static/css/custom.css'.format(release))
+    # app.add_stylesheet(
+    #     '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css')
+    # app.add_javascript(
+    #     '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js')
+    app.add_stylesheet(
+        '/agam-selection-atlas/{}/_static/bokeh/bokeh-0.12.13.min.css'.format(release))
     app.add_javascript(
-        '//cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js')
+        '/agam-selection-atlas/{}/_static/bokeh/bokeh-0.12.13.min.js'.format(release))

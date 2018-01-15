@@ -9,6 +9,155 @@ chromosome arm 2R.
 .. raw:: html
     :file: 2R.signals.html
 
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
 
-No signals.
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/H12/UGS/2/1/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2R:28,460,000-28,500,000
+      - 1,567
+      - 99.2%
+    * - :doc:`../signal/H12/CMS/2/1/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2R:28,460,000-28,560,000
+      - 1,124
+      - 100.0%
+    * - :doc:`../signal/H12/GNS/2/2/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2R:28,420,000-28,460,000
+      - 1,073
+      - 98.5%
+    * - :doc:`../signal/H12/BFS/2/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2R:28,440,000-28,480,000
+      - 976
+      - 98.4%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:28,420,000-28,500,000
+      - 697
+      - 99.1%
+    * - :doc:`../signal/H12/BFM/2/3/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2R:40,920,000-40,960,000
+      - 512
+      - 97.6%
+    * - :doc:`../signal/H12/CMS/2/3/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2R:40,300,000-40,740,000
+      - 501
+      - 98.7%
+    * - :doc:`../signal/H12/AOM/2/1/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:8,280,000-8,340,000
+      - 479
+      - 97.0%
+    * - :doc:`../signal/H12/AOM/2/2/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:28,040,000-28,080,000
+      - 478
+      - 100.0%
+    * - :doc:`../signal/H12/AOM/2/4/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:58,660,000-59,200,000
+      - 395
+      - 100.0%
+    * - :doc:`../signal/H12/BFS/2/4/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2R:40,640,000-41,060,000
+      - 384
+      - 95.9%
+    * - :doc:`../signal/H12/GWA/2/2/index`
+      - H12
+      - Guinea Bissau
+      - 2R:47,740,000-47,800,000
+      - 380
+      - 98.9%
+    * - :doc:`../signal/H12/BFM/2/4/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2R:28,420,000-28,520,000
+      - 366
+      - 98.5%
+    * - :doc:`../signal/H12/BFM/2/5/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2R:24,860,000-24,900,000
+      - 267
+      - 98.5%
+    * - :doc:`../signal/H12/AOM/2/6/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:28,440,000-28,480,000
+      - 235
+      - 97.8%
+    * - :doc:`../signal/H12/AOM/2/7/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:34,040,000-34,220,000
+      - 222
+      - 96.1%
+    * - :doc:`../signal/XPEHH/BFS.GWA/2/5/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:40,780,000-40,820,000
+      - 195
+      - 94.0%
+    * - :doc:`../signal/H12/GWA/2/6/index`
+      - H12
+      - Guinea Bissau
+      - 2R:11,120,000-11,240,000
+      - 151
+      - 99.9%
+    * - :doc:`../signal/H12/GWA/2/4/index`
+      - H12
+      - Guinea Bissau
+      - 2R:29,400,000-29,640,000
+      - 124
+      - 99.8%
+    * - :doc:`../signal/H12/AOM/2/8/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:48,120,000-48,160,000
+      - 124
+      - 97.1%
+    * - :doc:`../signal/H12/UGS/2/4/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2R:51,020,000-51,120,000
+      - 117
+      - 94.7%
+    * - :doc:`../signal/H12/BFS/2/6/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2R:34,420,000-34,460,000
+      - 114
+      - 92.9%
+    * - :doc:`../signal/H12/GWA/2/5/index`
+      - H12
+      - Guinea Bissau
+      - 2R:7,900,000-7,940,000
+      - 98
+      - 100.0%
+    
+
 

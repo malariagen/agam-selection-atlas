@@ -62,13 +62,31 @@ focus of this signal.
       - Population
       - Focus
       - Peak Model :math:`\Delta_{i}`
-      - Peak Value Percentile
+      - Max Percentile
+    * - :doc:`../../../../../signal/H12/BFM/X/1/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - X:15,100,000-15,300,000
+      - 1,267
+      - 100.0%
     * - :doc:`../../../../../signal/H12/BFS/X/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:15,100,000-15,240,000
       - 815
       - 98.5%
+    * - :doc:`../../../../../signal/H12/GNS/X/1/index`
+      - H12
+      - Guinea *An. gambiae*
+      - X:14,960,000-15,160,000
+      - 419
+      - 97.8%
+    * - :doc:`../../../../../signal/H12/UGS/X/1/index`
+      - H12
+      - Uganda *An. gambiae*
+      - X:15,160,000-15,480,000
+      - 348
+      - 94.9%
     
 
 

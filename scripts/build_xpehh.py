@@ -9,6 +9,10 @@ statistic_label = 'XPEHH'
 def build_dataframe(focal_pop, ref_pop, seqid, window_size):
 
     xpehh_raw = phase1_selection.xpehh_raw
+    if focal_pop == 'CMS':
+        focal_pop = 'CMS_savanna'
+    if ref_pop == 'CMS':
+        ref_pop = 'CMS_savanna'
 
     if seqid is None:
         df = pd.concat([build_dataframe(focal_pop, ref_pop, seqid=seqid, window_size=window_size)

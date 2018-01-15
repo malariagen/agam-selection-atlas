@@ -33,7 +33,7 @@
       - Population
       - Focus
       - Peak Model :math:`\Delta_{i}`
-      - Peak Value Percentile
+      - Max Percentile
     {% for signal in signals -%}
     * - {{ signal_doc(signal, root_path) }}
       - {{ signal.statistic }}

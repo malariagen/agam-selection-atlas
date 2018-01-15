@@ -126,26 +126,26 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     # fix coordinates where peaks span two arms
     peak_start_seqid = df.peak_start_seqid
     peak_end_seqid = df.peak_end_seqid
-    peak_start = df.peak_start.copy()
-    peak_end = df.peak_end.copy()
+    peak_start_coord = df.peak_start_coord.copy()
+    peak_end_coord = df.peak_end_coord.copy()
     if arm == 'R':
-        peak_end[peak_end_seqid != seqid] = seq_len
+        peak_end_coord[peak_end_seqid != seqid] = seq_len
     elif arm == 'L':
-        peak_start[peak_start_seqid != seqid] = 1
-    df['peak_start_fixed'] = peak_start
-    df['peak_end_fixed'] = peak_end
+        peak_start_coord[peak_start_seqid != seqid] = 1
+    df['peak_start_fixed'] = peak_start_coord
+    df['peak_end_fixed'] = peak_end_coord
     focus_start_seqid = df.focus_start_seqid
     focus_end_seqid = df.focus_end_seqid
-    focus_start = df.focus_start.copy()
-    focus_end = df.focus_end.copy()
+    focus_start_coord = df.focus_start_coord.copy()
+    focus_end_coord = df.focus_end_coord.copy()
     if arm == 'R':
-        focus_start[focus_start_seqid != seqid] = seq_len
-        focus_end[focus_end_seqid != seqid] = seq_len
+        focus_start_coord[focus_start_seqid != seqid] = seq_len
+        focus_end_coord[focus_end_seqid != seqid] = seq_len
     elif arm == 'L':
-        focus_start[focus_start_seqid != seqid] = 1
-        focus_end[focus_end_seqid != seqid] = 1
-    df['focus_start_fixed'] = focus_start
-    df['focus_end_fixed'] = focus_end
+        focus_start_coord[focus_start_seqid != seqid] = 1
+        focus_end_coord[focus_end_seqid != seqid] = 1
+    df['focus_start_fixed'] = focus_start_coord
+    df['focus_end_fixed'] = focus_end_coord
 
     # sort by peak start
     df.sort_values(by='peak_start_fixed', inplace=True)
@@ -165,14 +165,16 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         'score': df.delta_aic.astype(int),
         'score_left': df.delta_aic_left.astype(int),
         'score_right': df.delta_aic_right.astype(int),
-        'peak_start_coord': df.peak_start_fixed / 1e6,
-        'peak_end_coord': df.peak_end_fixed / 1e6,
+        'peak_start_fixed': df.peak_start_fixed / 1e6,
+        'peak_end_fixed': df.peak_end_fixed / 1e6,
         'focus_start_seqid': df.focus_start_seqid,
         'focus_end_seqid': df.focus_end_seqid,
         'focus_start': df.focus_start,
         'focus_end': df.focus_end,
-        'focus_start_coord': df.focus_start_fixed / 1e6,
-        'focus_end_coord': df.focus_end_fixed / 1e6,
+        'focus_start_coord': df.focus_start_coord,
+        'focus_end_coord': df.focus_end_coord,
+        'focus_start_fixed': df.focus_start_fixed / 1e6,
+        'focus_end_fixed': df.focus_end_fixed / 1e6,
         'bottom': df.level,
         'top': df.level + .8,
     })
@@ -182,7 +184,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     #     ('Statistic', '@statistic'),
     #     ('Score', '@score (@score_left | @score_right)'),
     #     ('Focus',
-    #      '@focus_start_seqid:@focus_start{,} - @focus_end_seqid:@focus_end{,}'),
+    #      '@focus_start_seqid:@focus_start_coord{,} - @focus_end_seqid:@focus_end_coord{,}'),
     # ])
     img_src = (
         '{}_static/data/signal/@uid/peak_focus.png'
@@ -194,9 +196,11 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         <table>
             <tr><th>Population: </th><td>@focal_pop_label</td></tr>
             <tr><th>Statistic: </th><td>@statistic</td></tr>
-            <tr><th>Score: </th><td>@score (@score_left | @score_right)</td></tr>
-            <tr><th>Focus: </th><td>@focus_start_seqid:@focus_start{{,}} - 
-            @focus_end_seqid:@focus_end{{,}}</td></tr>
+            <tr>
+                <th>Peak Model Fit (Left, Right): </th>
+                <td>@score (@score_left, @score_right)</td></tr>
+            <tr><th>Focus: </th><td>@focus_start_seqid:@focus_start_coord{{,}} - 
+            @focus_end_seqid:@focus_end_coord{{,}}</td></tr>
         </table>
         </div>
     """.format(img_src))
@@ -206,14 +210,14 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
                       plot_width=900, plot_height=90 + (10 * max(df.level)),
                       tools=tools, toolbar_location='above',
                       active_drag='xpan', active_scroll='xwheel_zoom')
-    fig.quad(bottom='bottom', top='top', left='peak_start_coord',
-             right='focus_start_coord', source=source, color=palette[0],
+    fig.quad(bottom='bottom', top='top', left='peak_start_fixed',
+             right='focus_start_fixed', source=source, color=palette[0],
              alpha=.5, line_width=0)
-    fig.quad(bottom='bottom', top='top', left='focus_start_coord',
-             right='focus_end_coord', source=source, color=palette[3],
+    fig.quad(bottom='bottom', top='top', left='focus_start_fixed',
+             right='focus_end_fixed', source=source, color=palette[3],
              alpha=.7, line_width=0)
-    fig.quad(bottom='bottom', top='top', left='focus_end_coord',
-             right='peak_end_coord', source=source, color=palette[0],
+    fig.quad(bottom='bottom', top='top', left='focus_end_fixed',
+             right='peak_end_fixed', source=source, color=palette[0],
              alpha=.5, line_width=0)
     if x_range is None:
         x_range = bmod.Range1d(0, seq_len / 1e6, bounds=(1, seq_len / 1e6))
