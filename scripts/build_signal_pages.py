@@ -32,7 +32,7 @@ def plot_signal_location(report, plot_width=900, plot_height=200):
     fig.x_range = bmod.Range1d(x[0], x[-1], bounds=(x[0], x[-1]))
     fig.xaxis.axis_label = \
         'Chromosome {} position (Mbp)'.format(report['chromosome'])
-    fig.yaxis.axis_label = 'Selection statistic'
+    fig.yaxis.axis_label = report['statistic']['id']
     return fig
 
 
@@ -188,7 +188,7 @@ def build_signal_outputs(path, template, genes, signals, ir_candidates):
             (signals.focus_start_coord <= focus_end_coord) &
             (signals.focus_end_coord >= focus_start_coord) &
             # don't include self
-            ((signals.population != report['population']['id']) |
+            ((signals.pop_key != report['pop_key']) |
              (signals.statistic != report['statistic']['id']))
     )]
     report['overlapping_signals'] = overlapping_signals.to_dict(orient='records')

@@ -106,7 +106,7 @@ def stack_overlaps(df, start_col, end_col, tolerance=10000):
 
 
 def plot_signals(df_signals, seqid, pop_labels, root_path='../',
-                 title='Selection signals'):
+                 title='Selection signals', x_range=None):
 
     # setup
     if len(seqid) > 1:
@@ -155,8 +155,10 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
 
     # setup plotting data source
     source = bmod.ColumnDataSource(data={
-        'population': df.population,
-        'pop_label': [pop_labels[p].replace('*', '') for p in df.population],
+        'uid': df.uid,
+        'pop_key': df.pop_key,
+        'focal_pop_id': df.focal_population,
+        'focal_pop_label': [pop_labels[p].replace('*', '') for p in df.focal_population],
         'statistic': df.statistic,
         'chromosome': df.chromosome,
         'rank': df['rank'],
@@ -176,21 +178,21 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     })
 
     # hover = bmod.HoverTool(tooltips=[
-    #     ('Population', '@pop_label'),
+    #     ('Population', '@focal_pop_label'),
     #     ('Statistic', '@statistic'),
     #     ('Score', '@score (@score_left | @score_right)'),
     #     ('Focus',
     #      '@focus_start_seqid:@focus_start{,} - @focus_end_seqid:@focus_end{,}'),
     # ])
     img_src = (
-        '{}_static/data/signal/@statistic/@population/@chromosome/@rank/peak_focus.png'
+        '{}_static/data/signal/@uid/peak_focus.png'
         .format(root_path)
     )
     hover = bmod.HoverTool(tooltips="""
         <div class='signal-summary'>
         <img src='{}'/>
         <table>
-            <tr><th>Population: </th><td>@pop_label</td></tr>
+            <tr><th>Population: </th><td>@focal_pop_label</td></tr>
             <tr><th>Statistic: </th><td>@statistic</td></tr>
             <tr><th>Score: </th><td>@score (@score_left | @score_right)</td></tr>
             <tr><th>Focus: </th><td>@focus_start_seqid:@focus_start{{,}} - 
@@ -213,7 +215,9 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     fig.quad(bottom='bottom', top='top', left='focus_end_coord',
              right='peak_end_coord', source=source, color=palette[0],
              alpha=.5, line_width=0)
-    fig.x_range = bmod.Range1d(0, seq_len / 1e6, bounds=(1, seq_len / 1e6))
+    if x_range is None:
+        x_range = bmod.Range1d(0, seq_len / 1e6, bounds=(1, seq_len / 1e6))
+    fig.x_range = x_range
     fig.y_range = bmod.Range1d(-0.5, max(df.level) + 1.3)
     fig.yaxis.visible = False
     fig.ygrid.visible = False
@@ -221,7 +225,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         'Chromosome {}{} position (Mbp)'
         .format('arm ' if arm else '', seqid)
     )
-    url = root_path + 'signal/@statistic/@population/@chromosome/@rank/'
+    url = root_path + 'signal/@uid/'
     taptool = fig.select(type=bmod.TapTool)
     taptool.callback = bmod.OpenURL(url=url)
     return fig
@@ -230,16 +234,18 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
 def fig_signals(df_signals, df_genes, seqid, pop_labels, root_path='../'):
     layout = []
     empty = True
-    for statistic in ['H12']:
+    x_range = None
+    for statistic in ['H12', 'XPEHH']:
         df = df_signals[df_signals.statistic == statistic]
         try:
             fig = plot_signals(df, seqid=seqid, pop_labels=pop_labels,
                                root_path=root_path,
-                               title='Selection signals ({})'.format(statistic))
+                               title='Selection signals ({})'.format(statistic), x_range=x_range)
         except ValueError:
             pass
         else:
-            x_range = fig.x_range
+            if x_range is None:
+                x_range = fig.x_range
             fig.xaxis.visible = False
             layout.append([fig])
             empty = False
@@ -260,7 +266,7 @@ def build_population_plots(df_signals, df_genes):
 
     print('rendering population plots')
     for pop in populations:
-        df_pop = df_signals[df_signals.population == pop]
+        df_pop = df_signals[df_signals.focal_population == pop]
         for seqid in seqids:
             plot_path = 'docs/population/{}.{}.signals.html'.format(pop, seqid)
             try:

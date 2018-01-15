@@ -4,31 +4,39 @@ from setup import *
 
 if __name__ == '__main__':
 
-    table = [['population',
-              'statistic',
-              'chromosome',
-              'rank',
-              'epicenter',
-              'epicenter_seqid',
-              'epicenter_coord',
-              'focus_start',
-              'focus_start_seqid',
-              'focus_start_coord',
-              'focus_end',
-              'focus_end_seqid',
-              'focus_end_coord',
-              'peak_start',
-              'peak_start_seqid',
-              'peak_start_coord',
-              'peak_end',
-              'peak_end_seqid',
-              'peak_end_coord',
-              'delta_aic',
-              'delta_aic_left',
-              'delta_aic_right',
-              'min_flank_delta_aic',
-              'overlapping_genes',
-              ]]
+    table = [[
+        'uid',
+        'pop_key',
+        'focal_population',
+        'focal_population_label',
+        'reference_population',
+        'reference_population_label',
+        'statistic',
+        'chromosome',
+        'rank',
+        'epicenter',
+        'epicenter_seqid',
+        'epicenter_coord',
+        'focus_start',
+        'focus_start_seqid',
+        'focus_start_coord',
+        'focus_end',
+        'focus_end_seqid',
+        'focus_end_coord',
+        'peak_start',
+        'peak_start_seqid',
+        'peak_start_coord',
+        'peak_end',
+        'peak_end_seqid',
+        'peak_end_coord',
+        'delta_aic',
+        'delta_aic_left',
+        'delta_aic_right',
+        'min_flank_delta_aic',
+        'max_value',
+        'max_percentile',
+        'overlapping_genes',
+    ]]
 
     features = allel.gff3_to_dataframe(
         'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
@@ -42,6 +50,12 @@ if __name__ == '__main__':
         # load the basic signal report
         with open(path, mode='rb') as f:
             report = yaml.load(f)
+
+        # obtain populations
+        focal_pop = report['focal_population']['id']
+        ref_pop = None
+        if report['reference_population'] is not None:
+            ref_pop = report['reference_population']['id']
 
         # obtain epicenter
         chromosome = report['chromosome']
@@ -78,7 +92,12 @@ if __name__ == '__main__':
         )
 
         row = [
-            report['population']['id'],
+            report['uid'],
+            report['pop_key'],
+            focal_pop,
+            populations[focal_pop],
+            ref_pop,
+            populations[ref_pop] if ref_pop else None,
             report['statistic']['id'],
             chromosome,
             report['rank'],
@@ -104,6 +123,8 @@ if __name__ == '__main__':
             report['delta_aic_left'],
             report['delta_aic_right'],
             min(report['delta_aic_left'], report['delta_aic_right']),
+            report['max_value'],
+            report['max_percentile'],
             overlapping_genes,
         ]
         table += [row]

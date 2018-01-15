@@ -3,12 +3,13 @@
 
 
 
-XPEHH / Burkina Faso *An. gambiae* / Chromosome X / #2
-======================================================
+XPEHH/BFS.GWA/X/2
+=================
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/XPEHH` statistic.The focus of this signal is on chromosome arm
+:doc:`../../../../../population/BFS` population
+when compared with the :doc:`../../../../../population/GWA` population
+using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal is on chromosome arm
 **X** between positions **9,200,000** and
 **9,240,000**.
 The evidence supporting this signal is
@@ -52,12 +53,24 @@ The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/BFS/X/2/index`, "X:9,180,000-9,240,000", 563
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Peak Value Percentile
+    * - :doc:`../../../../../signal/H12/BFS/X/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - X:9,180,000-9,240,000
+      - 563
+      - 97.8%
     
+
 
 
 
@@ -70,21 +83,21 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/2/peak_finding.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS.GWA/X/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/2/peak_targetting.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS.GWA/X/2/peak_targetting.png"/>
     <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/XPEHH/BFS/X/2/peak_fit.png"/>
+    <img src="../../../../../_static/data/signal/XPEHH/BFS.GWA/X/2/peak_fit.png"/>
     <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
     </div>
 

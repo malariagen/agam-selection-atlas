@@ -152,10 +152,15 @@ def compile_signal_report(rank, peak, chromosome, focal_pop, ref_pop):
     peak_start_seqid, peak_start_coord = split_arms(chromosome, peak.peak_start)
     peak_end_seqid, peak_end_coord = split_arms(chromosome, peak.peak_end)
 
+    pop_key = '{}.{}'.format(focal_pop, ref_pop)
+    signal_uid = '{}/{}/{}/{}'.format(statistic_id, pop_key, chromosome, rank)
     report = {
+        'uid': signal_uid,
         'chromosome': chromosome,
         'rank': rank,
-        'population': {'id': focal_pop, 'label': populations[focal_pop]},
+        'pop_key': pop_key,
+        'focal_population': {'id': focal_pop, 'label': populations[focal_pop]},
+        'reference_population': {'id': ref_pop, 'label': populations[ref_pop]},
         'statistic': {
             'id': statistic_id,
             'label': '{} (versus {})'.format(statistic_label, populations[ref_pop]),

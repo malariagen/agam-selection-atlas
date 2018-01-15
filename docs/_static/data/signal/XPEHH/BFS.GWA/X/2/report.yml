@@ -511,6 +511,9 @@ fit_reports:
     \ (fixed)\n[[Correlations]] (unreported correlations are <  0.100)\n    C(amplitude,\
     \ sigma)          = -0.536 \n    C(sigma, baseline)           = -0.146 \n    C(amplitude,\
     \ baseline)       = -0.111 \n"
+focal_population:
+  id: BFS
+  label: Burkina Faso *An. gambiae*
 focus_end: 9240000
 focus_end_coord: 9240000
 focus_end_seqid: X
@@ -1014,9 +1017,7 @@ peak_end_seqid: X
 peak_start: 9093979
 peak_start_coord: 9093979
 peak_start_seqid: X
-population:
-  id: BFS
-  label: Burkina Faso *An. gambiae*
+pop_key: BFS.GWA
 pos:
 - 5225098
 - 5238385
@@ -1507,9 +1508,13 @@ pos:
 - 13197210
 - 13212670
 rank: 2
+reference_population:
+  id: GWA
+  label: Guinea Bissau
 statistic:
   id: XPEHH
-  label: XPEHH
+  label: XPEHH (versus Guinea Bissau)
+uid: XPEHH/BFS.GWA/X/2
 values:
 - 1.1942953643425296
 - 1.388917578419534

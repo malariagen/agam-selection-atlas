@@ -3,12 +3,11 @@
 
 
 
-H12 / Burkina Faso *An. gambiae* / Chromosome X / #3
-====================================================
+H12/BFS/X/3
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+:doc:`../../../../../population/BFS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
 **X** between positions **9,660,000** and
 **9,760,000**.
 The evidence supporting this signal is
@@ -52,12 +51,24 @@ The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/XPEHH/BFS/X/3/index`, "X:9,660,000-9,700,000", 97
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Peak Value Percentile
+    * - :doc:`../../../../../signal/XPEHH/BFS.GWA/X/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:9,660,000-9,700,000
+      - 97
+      - 91.2%
     
+
 
 
 

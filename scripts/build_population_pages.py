@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
         pop_signals = list(
             tbl_signals
-            .eq('population', pop_id)
+            .eq('focal_population', pop_id)
             .dicts()
         )
         data = dict()

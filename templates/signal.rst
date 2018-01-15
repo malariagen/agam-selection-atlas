@@ -1,14 +1,17 @@
 :orphan:
 {% from 'macros.rst' import signals_table, gene_doc, disqus, intcomma %}
 {% set root_path = '../../../../../' %}
-{% set title = statistic.label + ' / ' + population.label + ' / Chromosome ' + chromosome + ' / #' + rank|string %}
+{% set title = uid %}
 
 {{ title }}
 {% for c in title %}={% endfor %}
 
 This page describes a signal of selection found in the
-:doc:`{{ root_path }}population/{{ population.id }}` population using the
-:doc:`{{ root_path }}method/{{ statistic.id }}` statistic.
+:doc:`{{ root_path }}population/{{ focal_population.id }}` population
+{%- if reference_population is not none %}
+when compared with the :doc:`{{ root_path }}population/{{ reference_population.id }}` population
+{% endif -%}
+using the :doc:`{{ root_path }}method/{{ statistic.id }}` statistic.
 {%- if focus_start_seqid == focus_end_seqid -%}
 The focus of this signal is on chromosome arm
 **{{ focus_start_seqid }}** between positions **{{ intcomma(focus_start_coord) }}** and
@@ -90,21 +93,21 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_finding.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ uid }}/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_targetting.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ uid }}/peak_targetting.png"/>
     <p class="caption"><strong>Peak targetting</strong>. @@TODO</p>
     </div>
 
 .. raw:: html
 
     <div class="figure">
-    <img src="{{ root_path }}_static/data/signal/{{ statistic.id }}/{{ population.id }}/{{ chromosome }}/{{ rank }}/peak_fit.png"/>
+    <img src="{{ root_path }}_static/data/signal/{{ uid }}/peak_fit.png"/>
     <p class="caption"><strong>Peak fitting diagnostics</strong>. @@TODO</p>
     </div>
 

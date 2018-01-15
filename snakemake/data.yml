@@ -64,8 +64,8 @@ rule h12:
 
 rule all_h12:
     input:
-#        "docs/_static/data/signal/H12/BFS/X/.make",
-        expand("docs/_static/data/signal/H12/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
+        "docs/_static/data/signal/H12/BFS/X/.make",
+#        expand("docs/_static/data/signal/H12/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
     output:
         touch("docs/_static/data/signal/H12/.make")
 
@@ -121,3 +121,11 @@ rule xpehh:
         " --ceiling {params.ceiling}"
         " --floor {params.floor}"
         " --values-window-size {params.values_window_size}"
+
+
+rule all_xpehh:
+    input:
+        "docs/_static/data/signal/XPEHH/BFS.GWA/X/.make",
+#        expand("docs/_static/data/signal/XPEHH/BFS.GWA/{chrom}/.make", chrom=chromosomes),
+    output:
+        touch("docs/_static/data/signal/XPEHH/.make")

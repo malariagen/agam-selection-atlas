@@ -413,6 +413,9 @@ fit_reports:
     \    floor:       0 (fixed)\n[[Correlations]] (unreported correlations are < \
     \ 0.100)\n    C(amplitude, decay)          = -0.635 \n    C(decay, baseline) \
     \          = -0.403 \n"
+focal_population:
+  id: BFS
+  label: Burkina Faso *An. gambiae*
 focus_end: 15240000
 focus_end_coord: 15240000
 focus_end_seqid: X
@@ -818,9 +821,7 @@ peak_end_seqid: X
 peak_start: 14760001
 peak_start_coord: 14760001
 peak_start_seqid: X
-population:
-  id: BFS
-  label: Burkina Faso *An. gambiae*
+pop_key: BFS
 pos:
 - 11210000
 - 11230000
@@ -1213,9 +1214,11 @@ pos:
 - 19170000
 - 19190000
 rank: 1
+reference_population: null
 statistic:
   id: H12
   label: H12
+uid: H12/BFS/X/1
 values:
 - 0.014377855415210963
 - 0.01867777479172265

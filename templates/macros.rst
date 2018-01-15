@@ -3,16 +3,16 @@
 
 
 {% macro signal_doc(signal, root_path) -%}
-:doc:`{{ root_path }}signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`
+:doc:`{{ root_path }}signal/{{ signal.uid }}/index`
 {%- endmacro %}
 
 
 {% macro signal_focus(signal) -%}
-"{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start_coord|int) }}-
+{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start_coord|int) }}-
 {%- if signal.focus_end_seqid != signal.focus_start_seqid -%}
 {{ signal.focus_end_seqid }}:
 {%- endif -%}
-{{ intcomma(signal.focus_end_coord|int) }}"
+{{ intcomma(signal.focus_end_coord|int) }}
 {%- endmacro %}
 
 
@@ -24,13 +24,25 @@
 {% macro signals_table(signals, root_path) -%}
 {% if signals|length > 0 -%}
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Peak Model Fit (:math:`\Delta_{i}`)
+    :header-rows: 1
 
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Peak Value Percentile
     {% for signal in signals -%}
-    {{ signal_doc(signal, root_path) }}, {{ signal_focus(signal) }}, {{ signal_score(signal) }}
+    * - {{ signal_doc(signal, root_path) }}
+      - {{ signal.statistic }}
+      - {{ signal.focal_population_label }}
+      - {{ signal_focus(signal) }}
+      - {{ signal_score(signal) }}
+      - {{ "{:.1f}%".format(signal.max_percentile|float * 100) }}
     {% endfor %}
+
 {% else %}
 No signals.
 {% endif %}

@@ -38,8 +38,9 @@ rule signal_pages:
         "templates/signal.rst",
     output:
         touch("docs/signal/.make"),
+        "docs/signal",
     shell:
-        "python scripts/build_signal_pages.py"
+        "rm -rfv docs/signal && python scripts/build_signal_pages.py"
 
 
 rule signals_page:
@@ -104,8 +105,9 @@ rule gene_pages:
         "templates/gene.rst",
     output:
         touch("docs/gene/.make"),
+        "docs/gene",
     shell:
-        "python scripts/build_gene_pages.py"
+        "rm -rfv docs/gene && python scripts/build_gene_pages.py"
 
 
 rule ir_candidate_pages:
