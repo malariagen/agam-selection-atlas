@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP010833` (CLIPB14 - CLIP-domain serine protease) overlaps the focal region.
-
-
 
 
 
@@ -43,6 +44,41 @@ region: :doc:`../../../../../gene/AGAP010830` (TEP9 - thioester-containing prote
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/3/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 3L:11,579,316-11,659,316
+      - 251
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/3/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 3L:11,599,316-11,659,316
+      - 230
+      - 100.0%
+      - nan
+    
+
 
 
 

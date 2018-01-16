@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP007086`:sup:`2` (Sodium channel protein),  :doc:`../../../../../gene/AGAP007087` (RpL41 - 60s ribosomal protein L41),  :doc:`../../../../../gene/AGAP007088` (peptidyl-prolyl cis-trans isomerase B (cyclophilin B)),  :doc:`../../../../../gene/AGAP007089`,  :doc:`../../../../../gene/AGAP007090`.
-
 
 
 
@@ -43,6 +44,41 @@ region: :doc:`../../../../../gene/AGAP007082`:sup:`1` (NADH dehydrogenase (ubiqu
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/GNS/2/5/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2L:42,274,895-42,414,895
+      - 98
+      - 87.9%
+      - nan
+    * - :doc:`../../../../../signal/IHS/CMS/2/6/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:42,394,895-42,434,895
+      - 90
+      - 77.8%
+      - nan
+    
+
 
 
 

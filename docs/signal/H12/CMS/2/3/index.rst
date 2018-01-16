@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 58 genes overlap the focal region: :doc:`../../../../../gene/AGAP003581`:sup:`1` (D-xylulose reductase A),  :doc:`../../../../../gene/AGAP003582`:sup:`1` (D-xylulose reductase A),  :doc:`../../../../../gene/AGAP003583`:sup:`1` (L-iditol 2-dehydrogenase),  :doc:`../../../../../gene/AGAP003584`:sup:`1` (L-iditol 2-dehydrogenase),  :doc:`../../../../../gene/AGAP003585`,  :doc:`../../../../../gene/AGAP003586` (Phosphate carrier, mitochondrial),  :doc:`../../../../../gene/AGAP013333` (Phosphate carrier, mitochondrial),  :doc:`../../../../../gene/AGAP003587` (solute carrier family 26 (sodium-independent sulfate anion transporter)),  :doc:`../../../../../gene/AGAP003588` (VATH - V-type H -transporting ATPase subunit H),  :doc:`../../../../../gene/AGAP003589` (prolyl-tRNA synthetase),  :doc:`../../../../../gene/AGAP003590`,  :doc:`../../../../../gene/AGAP003591` (LRR-repeat protein 1),  :doc:`../../../../../gene/AGAP003592` (RpLP0 - 60S ribosomal protein LP0),  :doc:`../../../../../gene/AGAP003593` (Protein arginine methyltransferase RmtB),  :doc:`../../../../../gene/AGAP003594`,  :doc:`../../../../../gene/AGAP003595` (rRNA biogenesis protein RRP5),  :doc:`../../../../../gene/AGAP003596`,  :doc:`../../../../../gene/AGAP003597` (histone-lysine N-methyltransferase SUV39H),  :doc:`../../../../../gene/AGAP003598` (template-activating factor I),  :doc:`../../../../../gene/AGAP003599` (F-type H -transporting ATPase oligomycin sensitivity conferral protein),  :doc:`../../../../../gene/AGAP003600` (Elongation of very long chain fatty acids protein),  :doc:`../../../../../gene/AGAP003601` (alpha-1,2-mannosyltransferase),  :doc:`../../../../../gene/AGAP003602` (methyltransferase-like protein 9),  :doc:`../../../../../gene/AGAP003603`,  :doc:`../../../../../gene/AGAP003604`,  :doc:`../../../../../gene/AGAP003605` (cullin 2),  :doc:`../../../../../gene/AGAP003606` (Fatty acyl-CoA reductase),  :doc:`../../../../../gene/AGAP003607` (Cad96Cb, isoform B),  :doc:`../../../../../gene/AGAP003608`:sup:`1` (CYP4AA1 - cytochrome P450),  :doc:`../../../../../gene/AGAP003610`,  :doc:`../../../../../gene/AGAP003611` (Fatty acyl-CoA reductase),  :doc:`../../../../../gene/AGAP003612`,  :doc:`../../../../../gene/AGAP003613` (palmitoyltransferase ZDHHC3),  :doc:`../../../../../gene/AGAP003614`,  :doc:`../../../../../gene/AGAP013196`,  :doc:`../../../../../gene/AGAP013432`,  :doc:`../../../../../gene/AGAP029070`,  :doc:`../../../../../gene/AGAP029099`,  :doc:`../../../../../gene/AGAP029064`,  :doc:`../../../../../gene/AGAP029085`,  :doc:`../../../../../gene/AGAP029083`,  :doc:`../../../../../gene/AGAP003615` (toll-interacting protein),  :doc:`../../../../../gene/AGAP003616`,  :doc:`../../../../../gene/AGAP003618` (serine/threonine-protein kinase LATS1/2),  :doc:`../../../../../gene/AGAP003619` (transcription elongation factor SPT6),  :doc:`../../../../../gene/AGAP003620`,  :doc:`../../../../../gene/AGAP003621` (coiled-coil domain-containing protein 25),  :doc:`../../../../../gene/AGAP003622` (Queuine tRNA-ribosyltransferase catalytic subunit 1),  :doc:`../../../../../gene/AGAP003623` (long-chain acyl-CoA synthetase),  :doc:`../../../../../gene/AGAP003624`,  :doc:`../../../../../gene/AGAP029110`,  :doc:`../../../../../gene/AGAP003626`,  :doc:`../../../../../gene/AGAP013221`,  :doc:`../../../../../gene/AGAP012946`,  :doc:`../../../../../gene/AGAP003627`,  :doc:`../../../../../gene/AGAP003629`,  :doc:`../../../../../gene/AGAP003630`,  :doc:`../../../../../gene/AGAP003631` (GPRGRP2 - putative gastrin/bombesin receptor 2).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP003580`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,18 +62,42 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/CMS/2/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:40,060,000-40,780,000
+      - 643
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/IHS/BFS/2/3/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2R:40,320,000-40,560,000
       - 557
       - 99.5%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GNS/2/3/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2R:40,200,000-40,420,000
+      - 450
+      - 99.0%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/2/4/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2R:40,640,000-41,060,000
       - 384
       - 95.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/3/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:40,680,000-40,760,000
+      - 100
+      - 96.5%
+      - nan
     
 
 

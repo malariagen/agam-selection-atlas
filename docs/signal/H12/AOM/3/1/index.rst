@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP010530` (CLIPE4 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP010531` (fibrinogen-related protein 7),  :doc:`../../../../../gene/AGAP010534`,  :doc:`../../../../../gene/AGAP010535` (3-demethylubiquinone-9 3-methyltransferase 2),  :doc:`../../../../../gene/AGAP010536` (nucleolar complex protein 2).
-
 
 
 

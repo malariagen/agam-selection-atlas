@@ -1,0 +1,124 @@
+:orphan:
+
+
+
+AGAP009829
+==========
+
+Location: **3R:43,980,421-43,987,181**
+
+
+
+Description: **Beat protein**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009829>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:43980421-43987181#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/XPEHH/AOM.GAS/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:43,460,000-44,120,000
+      - 605
+      - 99.9%
+    * - :doc:`../signal/XPEHH/CMS.GAS/3/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:43,920,000-44,560,000
+      - 538
+      - 99.5%
+    * - :doc:`../signal/XPEHH/AOM.BFM/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:43,860,000-44,500,000
+      - 314
+      - 99.7%
+    * - :doc:`../signal/IHS/AOM/3/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 3R:43,740,000-44,560,000
+      - 112
+      - 99.2%
+    * - :doc:`../signal/XPEHH/UGS.GWA/3/3/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:43,940,000-44,000,000
+      - 93
+      - 99.7%
+    
+
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/XPEHH/UGS.CMS/3/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:43,940,000-43,980,000
+      - 263
+      - 99.7%
+    * - :doc:`../signal/XPEHH/UGS.BFS/3/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:43,920,000-43,980,000
+      - 214
+      - 99.7%
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009829';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

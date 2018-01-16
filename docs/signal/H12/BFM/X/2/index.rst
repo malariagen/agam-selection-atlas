@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP000519` (diacylglycerol kinase (ATP dependent)) overlaps the focal region.
-
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP000520`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,24 +62,56 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.BFM/X/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:9,200,000-9,240,000
+      - 848
+      - 97.6%
+      - nan
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/X/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - X:9,200,000-9,240,000
       - 744
       - 99.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/X/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:9,220,000-9,260,000
+      - 678
+      - 99.8%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/X/2/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:9,180,000-9,240,000
       - 563
       - 97.8%
+      - nan
     * - :doc:`../../../../../signal/IHS/BFS/X/1/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - X:9,160,000-9,680,000
       - 515
       - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/X/2/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - X:9,040,000-9,300,000
+      - 394
+      - 97.4%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/X/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - X:9,200,000-9,240,000
+      - 186
+      - 71.7%
+      - nan
     
 
 

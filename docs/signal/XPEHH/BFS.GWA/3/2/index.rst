@@ -15,6 +15,10 @@ using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal 
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -32,10 +36,7 @@ Genes
 -----
 
 
-
-
 The following 11 genes overlap the focal region: :doc:`../../../../../gene/AGAP010778`,  :doc:`../../../../../gene/AGAP010779`,  :doc:`../../../../../gene/AGAP010780`,  :doc:`../../../../../gene/AGAP010781`,  :doc:`../../../../../gene/AGAP010782` (Ral guanine nucleotide exchange factor 2),  :doc:`../../../../../gene/AGAP010783`,  :doc:`../../../../../gene/AGAP010784` (dolichyl-phosphate-mannose-protein mannosyltransferase),  :doc:`../../../../../gene/AGAP010785` (fatty acyl CoA reductase 2),  :doc:`../../../../../gene/AGAP010786`,  :doc:`../../../../../gene/AGAP010787` (timeless),  :doc:`../../../../../gene/AGAP010788` (fatty acyl-CoA reductase 1).
-
 
 
 

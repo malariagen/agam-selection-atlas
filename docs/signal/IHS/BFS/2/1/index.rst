@@ -13,6 +13,14 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+This signal overlaps the :doc:`../../../../../known-locus/cyp6p`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +38,7 @@ Genes
 -----
 
 
-
-
 The following 32 genes overlap the focal region: :doc:`../../../../../gene/AGAP002845`,  :doc:`../../../../../gene/AGAP002846` (Trunk),  :doc:`../../../../../gene/AGAP013388` (Niemann-Pick Type C-2),  :doc:`../../../../../gene/AGAP002847` (Niemann-Pick Type C-2),  :doc:`../../../../../gene/AGAP002848` (Niemann-Pick Type C-2),  :doc:`../../../../../gene/AGAP002849` (Niemann-Pick Type C-2),  :doc:`../../../../../gene/AGAP002850` (Niemann-Pick Type C-2),  :doc:`../../../../../gene/AGAP002851` (Niemann-Pick C2 protein),  :doc:`../../../../../gene/AGAP002852`,  :doc:`../../../../../gene/AGAP002853`,  :doc:`../../../../../gene/AGAP002854`,  :doc:`../../../../../gene/AGAP002855`,  :doc:`../../../../../gene/AGAP002856`,  :doc:`../../../../../gene/AGAP013529`,  :doc:`../../../../../gene/AGAP013314`,  :doc:`../../../../../gene/AGAP002857`,  :doc:`../../../../../gene/AGAP002858` (Sodium/potassium-transporting ATPase subunit alpha),  :doc:`../../../../../gene/AGAP002859` (solute carrier family 8 (sodium/calcium exchanger)),  :doc:`../../../../../gene/AGAP002862`:sup:`1` (CYP6AA1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013128`:sup:`1` (CYP6AA2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002863`:sup:`1` (COEAE6O - carboxylesterase alpha esterase),  :doc:`../../../../../gene/AGAP002864`:sup:`1` (CYP6P15P - cytochrome P450),  :doc:`../../../../../gene/AGAP002865`:sup:`1` (CYP6P3 - cytochrome P450),  :doc:`../../../../../gene/AGAP002866`:sup:`1` (CYP6P5 - cytochrome P450),  :doc:`../../../../../gene/AGAP002867`:sup:`1` (CYP6P4 - cytochrome P450),  :doc:`../../../../../gene/AGAP002868`:sup:`1` (CYP6P1 - cytochrome P450),  :doc:`../../../../../gene/AGAP002869`:sup:`1` (CYP6P2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002870`:sup:`1` (CYP6AD1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013202`,  :doc:`../../../../../gene/AGAP000586`,  :doc:`../../../../../gene/AGAP002872` (lipase),  :doc:`../../../../../gene/AGAP002873`.
-
 
 
 
@@ -44,8 +49,8 @@ region: :doc:`../../../../../gene/AGAP013404`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,48 +66,112 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/UGS/2/1/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2R:28,280,000-28,700,000
+      - 1,661
+      - 100.0%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/UGS/2/1/index`
       - H12
       - Uganda *An. gambiae*
       - 2R:28,460,000-28,500,000
       - 1,567
       - 99.2%
+      - Cyp6p
+    * - :doc:`../../../../../signal/IHS/CMS/2/1/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:28,240,000-28,560,000
+      - 1,249
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../../../../../signal/IHS/GNS/2/1/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2R:28,440,000-28,700,000
+      - 1,134
+      - 99.8%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/CMS/2/1/index`
       - H12
       - Cameroon *An. gambiae*
       - 2R:28,460,000-28,560,000
       - 1,124
       - 100.0%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/GNS/2/2/index`
       - H12
       - Guinea *An. gambiae*
       - 2R:28,420,000-28,460,000
       - 1,073
       - 98.5%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/BFS/2/2/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2R:28,440,000-28,480,000
       - 976
       - 98.4%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/UGS.GWA/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:28,460,000-28,600,000
+      - 758
+      - 99.7%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:27,980,000-28,280,000
+      - 753
+      - 99.9%
+      - nan
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/3/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2R:28,420,000-28,500,000
       - 697
       - 99.1%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:28,420,000-28,620,000
+      - 578
+      - 98.7%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2R:28,380,000-28,520,000
+      - 495
+      - 99.2%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/BFM/2/4/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2R:28,420,000-28,520,000
       - 366
       - 98.5%
+      - Cyp6p
     * - :doc:`../../../../../signal/H12/AOM/2/6/index`
       - H12
       - Angola *An. coluzzii*
       - 2R:28,440,000-28,480,000
       - 235
       - 97.8%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/7/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:28,480,000-28,520,000
+      - 92
+      - 84.1%
+      - Cyp6p
     
 
 

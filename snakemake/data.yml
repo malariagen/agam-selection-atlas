@@ -151,6 +151,10 @@ rule all_xpehh:
         expand("docs/_static/data/signal/XPEHH/AOM.GWA/{chrom}/.make", chrom=chromosomes),
         expand("docs/_static/data/signal/XPEHH/AOM.BFM/{chrom}/.make", chrom=chromosomes),
         expand("docs/_static/data/signal/XPEHH/AOM.GAS/{chrom}/.make", chrom=chromosomes),
+        # GWA
+        expand("docs/_static/data/signal/XPEHH/GWA.BFS/{chrom}/.make", chrom=chromosomes),
+        expand("docs/_static/data/signal/XPEHH/GWA.BFM/{chrom}/.make", chrom=chromosomes),
+        expand("docs/_static/data/signal/XPEHH/GWA.UGS/{chrom}/.make", chrom=chromosomes),
     output:
         touch("docs/_static/data/signal/XPEHH/.make")
 

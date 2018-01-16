@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 41 genes overlap the focal region: :doc:`../../../../../gene/AGAP028427`,  :doc:`../../../../../gene/AGAP008033`,  :doc:`../../../../../gene/AGAP013760`,  :doc:`../../../../../gene/AGAP008034` (solute carrier family 39 (zinc transporter), member 7),  :doc:`../../../../../gene/AGAP008035`,  :doc:`../../../../../gene/AGAP008036`,  :doc:`../../../../../gene/AGAP008037` (KDEL (Lys-Asp-Glu-Leu) containing 1, isoform CRA_a),  :doc:`../../../../../gene/AGAP008039` (protein kinase A),  :doc:`../../../../../gene/AGAP008040`,  :doc:`../../../../../gene/AGAP008041` (RING finger protein 121),  :doc:`../../../../../gene/AGAP008042`:sup:`1` (pyridine nucleotide-disulfide oxidoreductase domain 1),  :doc:`../../../../../gene/AGAP008043` (mRpS18B - 28S ribosomal protein S18B, mitochondrial),  :doc:`../../../../../gene/AGAP008044`:sup:`1` (programmed cell death 8 (apoptosis-inducing factor)),  :doc:`../../../../../gene/AGAP008045` (transcription initiation factor TFIID subunit 13),  :doc:`../../../../../gene/AGAP013736`,  :doc:`../../../../../gene/AGAP008046` (protein kinase C and casein kinase substrate in neurons 2 protein),  :doc:`../../../../../gene/AGAP013713`,  :doc:`../../../../../gene/AGAP008047` (integrator complex subunit 1),  :doc:`../../../../../gene/AGAP008048`,  :doc:`../../../../../gene/AGAP008049` (cell division cycle 123 homolog),  :doc:`../../../../../gene/AGAP008050` (phosphorylated adapter RNA export protein),  :doc:`../../../../../gene/AGAP008051` (SAP1 - sensory appendage protein 1),  :doc:`../../../../../gene/AGAP008052` (SAP2 - sensory appendage protein 2),  :doc:`../../../../../gene/AGAP008053` (sphingomyelin phosphodiesterase 2),  :doc:`../../../../../gene/AGAP008054` (SAP3 - sensory appendage protein 3),  :doc:`../../../../../gene/AGAP008055` (CSP3 - chemosensory protein 3),  :doc:`../../../../../gene/AGAP008056`,  :doc:`../../../../../gene/AGAP029127` (CSP5 - chemosensory protein 5),  :doc:`../../../../../gene/AGAP008059` (CSP1 - chemosensory protein 1),  :doc:`../../../../../gene/AGAP008060` (IDGF2 - imaginal disc growth factor 2),  :doc:`../../../../../gene/AGAP008061` (IDGF4 - imaginal disc growth factor 4),  :doc:`../../../../../gene/AGAP008062` (CSP4 - chemosensory protein 4),  :doc:`../../../../../gene/AGAP008063` (exosome complex component CSL4),  :doc:`../../../../../gene/AGAP008064` (uroporphyrinogen-III synthase),  :doc:`../../../../../gene/AGAP008065`,  :doc:`../../../../../gene/AGAP013757`,  :doc:`../../../../../gene/AGAP008067`,  :doc:`../../../../../gene/AGAP028713`,  :doc:`../../../../../gene/AGAP028712`,  :doc:`../../../../../gene/AGAP028714`,  :doc:`../../../../../gene/AGAP028715`.
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP028720`,  :doc:`../../../../../gene/AGAP02
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,12 +62,21 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/GNS/3/2/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 3R:4,400,000-4,960,000
+      - 508
+      - 99.0%
+      - nan
     * - :doc:`../../../../../signal/IHS/BFS/3/2/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 3R:4,340,000-4,740,000
       - 504
       - 95.7%
+      - nan
     
 
 

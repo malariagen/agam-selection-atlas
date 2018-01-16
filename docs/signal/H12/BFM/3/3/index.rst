@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 11 genes overlap the focal region: :doc:`../../../../../gene/AGAP010297`,  :doc:`../../../../../gene/AGAP010298` (V-type H -transporting ATPase subunit D),  :doc:`../../../../../gene/AGAP010299`,  :doc:`../../../../../gene/AGAP010300`,  :doc:`../../../../../gene/AGAP010301`,  :doc:`../../../../../gene/AGAP010302`,  :doc:`../../../../../gene/AGAP010303` (autophagy-related protein 7),  :doc:`../../../../../gene/AGAP010304`,  :doc:`../../../../../gene/AGAP010305` (WD repeat and SOF domain-containing protein 1),  :doc:`../../../../../gene/AGAP010306`,  :doc:`../../../../../gene/AGAP010307` (Pleckstrin homology domain containing, family F (with FYVE domain) member 2).
-
 
 
 

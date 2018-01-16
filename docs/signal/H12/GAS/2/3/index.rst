@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP005369`,  :doc:`../../../../../gene/AGAP005370` (COEBE4C - carboxylesterase beta esterase),  :doc:`../../../../../gene/AGAP005371`:sup:`1` (COEBE2C - carboxylesterase beta esterase),  :doc:`../../../../../gene/AGAP005372`:sup:`1` (COEBE3C - carboxylesterase beta esterase),  :doc:`../../../../../gene/AGAP005373`:sup:`1` (COEBE1C - carboxylesterase beta esterase),  :doc:`../../../../../gene/AGAP005374`,  :doc:`../../../../../gene/AGAP005375` (nonsense-mediated mRNA decay protein),  :doc:`../../../../../gene/AGAP005376`,  :doc:`../../../../../gene/AGAP005377`,  :doc:`../../../../../gene/AGAP005378`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP005360` (PQ loop repeat-containing protein
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GAS.AOM/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:14,654,895-14,834,895
+      - 134
+      - 99.6%
+      - nan
+    
+
 
 
 

@@ -22,12 +22,12 @@ number of technical reasons why a true signal of selection might not be detected
     :widths: 10, 10, 50, 20, 10
     :header: Gene, Name, Description, Location, No. signals (overlapping | adjacent)
 
-    :doc:`../gene/AGAP000820`, "CPR125", "Cuticular protein rr-2 family 125", "X:15,282,061-15,283,387", 3 (2 | 1)
+    :doc:`../gene/AGAP000820`, "CPR125", "Cuticular protein rr-2 family 125", "X:15,282,061-15,283,387", 9 (7 | 2)
+    :doc:`../gene/AGAP009868`, "CPR73", "Cuticular protein rr-1 family 73", "3R:44,595,744-44,596,889", 3 (1 | 2)
+    :doc:`../gene/AGAP009869`, "CPR74", "Cuticular protein rr-1 family 74", "3R:44,599,530-44,600,220", 3 (1 | 2)
+    :doc:`../gene/AGAP009870`, "CPR151", "Cuticular protein rr-2 family 151", "3R:44,603,608-44,604,143", 3 (1 | 2)
+    :doc:`../gene/AGAP009871`, "CPR75", "Cuticular protein rr-1 family 75", "3R:44,606,879-44,609,038", 3 (1 | 2)
     :doc:`../gene/AGAP009599`, "", "", "3R:36,904,703-36,905,753", 1 (1 | 0)
-    :doc:`../gene/AGAP009868`, "CPR73", "Cuticular protein rr-1 family 73", "3R:44,595,744-44,596,889", 1 (1 | 0)
-    :doc:`../gene/AGAP009869`, "CPR74", "Cuticular protein rr-1 family 74", "3R:44,599,530-44,600,220", 1 (1 | 0)
-    :doc:`../gene/AGAP009870`, "CPR151", "Cuticular protein rr-2 family 151", "3R:44,603,608-44,604,143", 1 (1 | 0)
-    :doc:`../gene/AGAP009871`, "CPR75", "Cuticular protein rr-1 family 75", "3R:44,606,879-44,609,038", 1 (1 | 0)
     :doc:`../gene/AGAP009872`, "CPR133", "Cuticular protein rr-1 family 133", "3R:44,621,416-44,622,695", 1 (1 | 0)
     :doc:`../gene/AGAP009873`, "CPR153", "Cuticular protein rr-2 family 153", "3R:44,630,238-44,631,526", 1 (1 | 0)
     :doc:`../gene/AGAP009874`, "CPR76", "Cuticular protein rr-1 family 76", "3R:44,647,714-44,648,784", 1 (1 | 0)

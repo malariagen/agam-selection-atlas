@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP004167`,  :doc:`../../../../../gene/AGAP004169`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP004162` (myosin, light polypeptide 9, regu
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/UGS.GWA/2/3/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:50,960,000-51,100,000
+      - 225
+      - 90.2%
+      - nan
+    
+
 
 
 

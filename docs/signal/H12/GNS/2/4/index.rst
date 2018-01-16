@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 21 genes overlap the focal region: :doc:`../../../../../gene/AGAP006038` (serine/arginine repetitive matrix protein 2),  :doc:`../../../../../gene/AGAP006040` (peroxisomal membrane protein 2),  :doc:`../../../../../gene/AGAP006041` (E3 ubiquitin-protein ligase RNF5),  :doc:`../../../../../gene/AGAP006042`,  :doc:`../../../../../gene/AGAP029130`,  :doc:`../../../../../gene/AGAP029102`,  :doc:`../../../../../gene/AGAP006045` (protein yorkie),  :doc:`../../../../../gene/AGAP006046` (Med23 - mediator of RNA polymerase II transcription subunit 23),  :doc:`../../../../../gene/AGAP006047`:sup:`1` (CYP4J9 - cytochrome P450),  :doc:`../../../../../gene/AGAP006048`:sup:`1` (CYP4J5 - cytochrome P450),  :doc:`../../../../../gene/AGAP006049`:sup:`1` (CYP4J10 - cytochrome P450),  :doc:`../../../../../gene/AGAP006050` (AarF domain containing kinase 5),  :doc:`../../../../../gene/AGAP006051` (pentatricopeptide repeat domain 1),  :doc:`../../../../../gene/AGAP006052` (protein phosphatase 1, regulatory (inhibitor) subunit 3),  :doc:`../../../../../gene/AGAP006053`,  :doc:`../../../../../gene/AGAP006054`,  :doc:`../../../../../gene/AGAP006055` (NF-kappa-B inhibitor-like protein 2),  :doc:`../../../../../gene/AGAP006056`,  :doc:`../../../../../gene/AGAP006057` (multiple coagulation factor deficiency 2),  :doc:`../../../../../gene/AGAP006058` (heparan sulfate 2-o-sulfotransferase),  :doc:`../../../../../gene/AGAP006059`.
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP006035` (Ras-related protein Rab-36),  :do
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,18 +62,42 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,454,895-25,554,895
+      - 468
+      - 99.3%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,474,895-25,634,895
+      - 423
+      - 100.0%
+      - Rdl
     * - :doc:`../../../../../signal/H12/BFS/2/5/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:25,454,895-25,534,895
       - 375
       - 96.1%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/GAS.BFS/2/2/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,614,895-25,894,895
+      - 284
+      - 99.9%
+      - nan
     * - :doc:`../../../../../signal/IHS/BFS/2/5/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:25,434,895-25,614,895
       - 256
       - 99.8%
+      - Rdl
     
 
 

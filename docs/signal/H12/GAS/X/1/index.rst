@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 19 genes overlap the focal region: :doc:`../../../../../gene/AGAP000776` (myosin VI),  :doc:`../../../../../gene/AGAP000777`,  :doc:`../../../../../gene/AGAP000778`,  :doc:`../../../../../gene/AGAP000779` (zinc finger homeobox protein 1/2),  :doc:`../../../../../gene/AGAP000780`:sup:`1` (Yippee-like 5),  :doc:`../../../../../gene/AGAP000781` (mitochondrial import inner membrane translocase subunit Tim9),  :doc:`../../../../../gene/AGAP000782`,  :doc:`../../../../../gene/AGAP000783`,  :doc:`../../../../../gene/AGAP000784` (abhydrolase domain containing 4),  :doc:`../../../../../gene/AGAP000785` (Synaptic vesicle protein),  :doc:`../../../../../gene/AGAP000786`,  :doc:`../../../../../gene/AGAP000787` (E3 ubiquitin-protein ligase NEDD4),  :doc:`../../../../../gene/AGAP000788`,  :doc:`../../../../../gene/AGAP013147`,  :doc:`../../../../../gene/AGAP000789`,  :doc:`../../../../../gene/AGAP000790`,  :doc:`../../../../../gene/AGAP000791` (Tango10),  :doc:`../../../../../gene/AGAP000792` (Adenosylhomocysteinase),  :doc:`../../../../../gene/AGAP000793`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP000772`,  :doc:`../../../../../gene/AGAP00
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GAS.BFS/X/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - X:14,040,000-14,400,000
+      - 250
+      - 99.2%
+      - nan
+    
+
 
 
 

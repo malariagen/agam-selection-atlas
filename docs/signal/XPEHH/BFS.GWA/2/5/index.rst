@@ -15,6 +15,10 @@ using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal 
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -32,10 +36,7 @@ Genes
 -----
 
 
-
-
 The following 4 genes overlap the focal region: :doc:`../../../../../gene/AGAP003632` (U3 small nucleolar RNA-associated protein 14),  :doc:`../../../../../gene/AGAP003633`,  :doc:`../../../../../gene/AGAP003635`,  :doc:`../../../../../gene/AGAP003636`:sup:`1` (inositol oxygenase).
-
 
 
 
@@ -46,8 +47,8 @@ region: :doc:`../../../../../gene/AGAP003631` (GPRGRP2 - putative gastrin/bombes
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -63,12 +64,21 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/CMS/2/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:40,060,000-40,780,000
+      - 643
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/2/4/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2R:40,640,000-41,060,000
       - 384
       - 95.9%
+      - nan
     
 
 

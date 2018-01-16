@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,8 +34,6 @@ Genes
 -----
 
 
-
-
 The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP008824`,  :doc:`../../../../../gene/AGAP008825`,  :doc:`../../../../../gene/AGAP008826`.
 
 
@@ -39,12 +41,11 @@ The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP00
 Gene :doc:`../../../../../gene/AGAP028025` is within 50 kbp of the focal region.
 
 
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -60,12 +61,28 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/UGS/3/2/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 3R:18,760,000-19,000,000
+      - 327
+      - 92.9%
+      - nan
     * - :doc:`../../../../../signal/IHS/BFS/3/5/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 3R:18,760,000-18,920,000
       - 297
       - 90.4%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/3/3/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 3R:18,600,000-19,000,000
+      - 215
+      - 96.1%
+      - nan
     
 
 

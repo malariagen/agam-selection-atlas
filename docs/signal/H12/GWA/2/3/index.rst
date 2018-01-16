@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP005165`,  :doc:`../../../../../gene/AGAP005169`:sup:`1`,  :doc:`../../../../../gene/AGAP005170`:sup:`1`.
-
 
 
 
@@ -43,6 +44,48 @@ region: :doc:`../../../../../gene/AGAP005166`:sup:`1`,  :doc:`../../../../../gen
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFS/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:11,294,895-11,354,895
+      - 309
+      - 98.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFM/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:11,274,895-11,354,895
+      - 304
+      - 99.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:11,114,895-11,534,895
+      - 170
+      - 88.1%
+      - nan
+    
+
 
 
 

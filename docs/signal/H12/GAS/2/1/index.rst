@@ -13,6 +13,14 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/rdl`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +38,7 @@ Genes
 -----
 
 
-
-
 The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP006030` (mfrn - mitoferrin),  :doc:`../../../../../gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`../../../../../gene/AGAP006032`,  :doc:`../../../../../gene/AGAP006033`,  :doc:`../../../../../gene/AGAP006034`,  :doc:`../../../../../gene/AGAP006035` (Ras-related protein Rab-36).
-
 
 
 
@@ -44,8 +49,8 @@ region: :doc:`../../../../../gene/AGAP006028`:sup:`2` (Rdl - GABA-gated chloride
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,30 +66,70 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/BFM/2/2/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:25,434,895-25,494,895
       - 1,172
       - 98.4%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,474,895-25,514,895
+      - 625
+      - 99.4%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,454,895-25,554,895
+      - 468
+      - 99.3%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,474,895-25,634,895
+      - 423
+      - 100.0%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 388
+      - 98.3%
+      - Rdl
     * - :doc:`../../../../../signal/H12/BFS/2/5/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:25,454,895-25,534,895
       - 375
       - 96.1%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:25,414,895-25,454,895
+      - 291
+      - 90.3%
+      - Rdl
     * - :doc:`../../../../../signal/IHS/BFS/2/5/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:25,434,895-25,614,895
       - 256
       - 99.8%
+      - Rdl
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/6/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:25,434,895-25,474,895
       - 138
       - 95.3%
+      - Rdl
     
 
 

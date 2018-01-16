@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP003643` (ubiquitin carboxyl-terminal hydrolase 34),  :doc:`../../../../../gene/AGAP003644` (mRpS11 - 28S ribosomal protein S11, mitochondrial),  :doc:`../../../../../gene/AGAP003645` (kelch-like protein 19),  :doc:`../../../../../gene/AGAP013307`,  :doc:`../../../../../gene/AGAP003646`,  :doc:`../../../../../gene/AGAP003647`,  :doc:`../../../../../gene/AGAP003648` (DNA-directed RNA polymerase II subunit RPB2).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP003638`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,12 +62,28 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:40,880,000-40,940,000
+      - 1,181
+      - 99.6%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/2/4/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2R:40,640,000-41,060,000
       - 384
       - 95.9%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/2/2/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2R:40,880,000-41,160,000
+      - 312
+      - 99.7%
+      - nan
     
 
 

@@ -13,6 +13,14 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+This signal overlaps the :doc:`../../../../../known-locus/ace1`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +38,7 @@ Genes
 -----
 
 
-
-
 The following 27 genes overlap the focal region: :doc:`../../../../../gene/AGAP001346`,  :doc:`../../../../../gene/AGAP001347`,  :doc:`../../../../../gene/AGAP001348`,  :doc:`../../../../../gene/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`../../../../../gene/AGAP001350`,  :doc:`../../../../../gene/AGAP001351`,  :doc:`../../../../../gene/AGAP001352`,  :doc:`../../../../../gene/AGAP001353`:sup:`3`,  :doc:`../../../../../gene/AGAP001354`:sup:`3`,  :doc:`../../../../../gene/AGAP001355`:sup:`3`,  :doc:`../../../../../gene/AGAP001356`:sup:`1` (ACE1 - Acetylcholinesterase),  :doc:`../../../../../gene/AGAP001357` (beta-catenin-like protein 1),  :doc:`../../../../../gene/AGAP001358`,  :doc:`../../../../../gene/AGAP001360`,  :doc:`../../../../../gene/AGAP001361` (WD repeat-containing protein),  :doc:`../../../../../gene/AGAP001362` (polyadenylation factor subunit 2),  :doc:`../../../../../gene/AGAP001363` (cohesin loading complex subunit SCC4 homolog),  :doc:`../../../../../gene/AGAP001364` (Ubiquitin-fold modifier 1),  :doc:`../../../../../gene/AGAP001365`,  :doc:`../../../../../gene/AGAP001366`,  :doc:`../../../../../gene/AGAP001367` (beta-1,3-glucuronyltransferase),  :doc:`../../../../../gene/AGAP001368`,  :doc:`../../../../../gene/AGAP001369`,  :doc:`../../../../../gene/AGAP028468`,  :doc:`../../../../../gene/AGAP001370` (Ras association domain-containing protein 7/8),  :doc:`../../../../../gene/AGAP001371` (D-tyrosyl-tRNA(Tyr) deacylase),  :doc:`../../../../../gene/AGAP001372`.
-
 
 
 
@@ -43,6 +48,34 @@ region: :doc:`../../../../../gene/AGAP001341` (bleomycin hydrolase),  :doc:`../.
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:3,260,000-3,600,000
+      - 432
+      - 90.3%
+      - Ace1
+    
+
 
 
 

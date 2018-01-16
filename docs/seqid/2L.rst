@@ -20,186 +20,567 @@ chromosome arm 2L.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../signal/XPEHH/BFS.UGS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:28,354,895-28,674,895
+      - 1,933
+      - 99.2%
+      - 
     * - :doc:`../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:2,474,895-2,894,895
       - 1,800
       - 99.9%
+      - Vgsc
     * - :doc:`../signal/H12/BFS/2/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:1,454,895-2,694,895
       - 1,776
       - 100.0%
+      - Vgsc
     * - :doc:`../signal/H12/GNS/2/1/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:1,294,895-2,474,895
       - 1,685
       - 100.0%
+      - Vgsc
     * - :doc:`../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:1,814,895-3,094,895
       - 1,377
       - 100.0%
+      - Vgsc
     * - :doc:`../signal/H12/UGS/2/3/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:34,074,895-34,134,895
       - 1,193
       - 98.1%
+      - 
     * - :doc:`../signal/H12/BFM/2/2/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:25,434,895-25,494,895
       - 1,172
       - 98.4%
+      - Rdl
     * - :doc:`../signal/XPEHH/BFS.GWA/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:2,234,895-3,274,895
       - 938
       - 99.6%
+      - Vgsc
+    * - :doc:`../signal/XPEHH/BFM.GWA/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:2,334,895-2,974,895
+      - 917
+      - 99.8%
+      - Vgsc
+    * - :doc:`../signal/XPEHH/BFS.BFM/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:28,454,895-28,654,895
+      - 900
+      - 99.8%
+      - 
     * - :doc:`../signal/XPEHH/BFS.GWA/2/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:28,374,895-28,694,895
       - 863
       - 98.0%
+      - 
+    * - :doc:`../signal/IHS/UGS/2/2/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2L:33,934,895-34,194,895
+      - 860
+      - 100.0%
+      - 
     * - :doc:`../signal/H12/BFS/2/3/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:28,494,895-28,634,895
       - 834
       - 98.3%
+      - 
+    * - :doc:`../signal/XPEHH/CMS.GWA/2/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:3,474,895-3,814,895
+      - 760
+      - 99.6%
+      - 
     * - :doc:`../signal/H12/CMS/2/2/index`
       - H12
       - Cameroon *An. gambiae*
       - 2L:3,054,895-3,614,895
       - 725
       - 99.7%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.GWA/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,474,895-25,514,895
+      - 625
+      - 99.4%
+      - Rdl
+    * - :doc:`../signal/IHS/CMS/2/3/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:34,254,895-34,674,895
+      - 586
+      - 97.7%
+      - 
     * - :doc:`../signal/IHS/BFS/2/4/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:28,614,895-28,814,895
       - 554
       - 100.0%
+      - 
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,054,895-3,394,895
+      - 533
+      - 100.0%
+      - 
     * - :doc:`../signal/H12/GAS/2/1/index`
       - H12
       - Gabon *An. gambiae*
       - 2L:25,454,895-25,514,895
       - 529
       - 100.0%
+      - Rdl
+    * - :doc:`../signal/XPEHH/UGS.BFS/2/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,134,895-34,234,895
+      - 487
+      - 98.3%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.BFS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,454,895-25,554,895
+      - 468
+      - 99.3%
+      - Rdl
+    * - :doc:`../signal/XPEHH/GWA.UGS/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,914,895-32,034,895
+      - 430
+      - 93.3%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.GWA/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,474,895-25,634,895
+      - 423
+      - 100.0%
+      - Rdl
+    * - :doc:`../signal/XPEHH/UGS.GWA/2/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,114,895-34,214,895
+      - 422
+      - 95.2%
+      - 
     * - :doc:`../signal/H12/AOM/2/3/index`
       - H12
       - Angola *An. coluzzii*
       - 2L:25,214,895-25,334,895
       - 398
       - 95.7%
+      - Rdl
+    * - :doc:`../signal/XPEHH/BFS.UGS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 388
+      - 98.3%
+      - Rdl
     * - :doc:`../signal/H12/GWA/2/1/index`
       - H12
       - Guinea Bissau
       - 2L:31,954,895-31,994,895
       - 382
       - 99.2%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.BFS/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:15,294,895-15,694,895
+      - 380
+      - 98.1%
+      - 
     * - :doc:`../signal/H12/BFS/2/5/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:25,454,895-25,534,895
       - 375
       - 96.1%
+      - Rdl
+    * - :doc:`../signal/XPEHH/AOM.BFM/2/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,574,895-3,834,895
+      - 364
+      - 99.9%
+      - 
+    * - :doc:`../signal/XPEHH/UGS.CMS/2/3/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,134,895-34,234,895
+      - 342
+      - 99.2%
+      - 
     * - :doc:`../signal/H12/GNS/2/4/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:25,534,895-25,814,895
       - 332
       - 97.8%
+      - 
     * - :doc:`../signal/H12/GAS/2/2/index`
       - H12
       - Gabon *An. gambiae*
       - 2L:2,734,895-3,094,895
       - 325
       - 99.8%
+      - 
+    * - :doc:`../signal/XPEHH/GWA.BFS/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:11,294,895-11,354,895
+      - 309
+      - 98.0%
+      - 
+    * - :doc:`../signal/IHS/BFM/2/3/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2L:24,754,895-25,434,895
+      - 304
+      - 99.9%
+      - Rdl
+    * - :doc:`../signal/XPEHH/GWA.BFM/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:11,274,895-11,354,895
+      - 304
+      - 99.8%
+      - 
     * - :doc:`../signal/H12/GNS/2/3/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:28,434,895-28,834,895
       - 301
       - 98.3%
+      - 
+    * - :doc:`../signal/XPEHH/CMS.UGS/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:25,414,895-25,454,895
+      - 291
+      - 90.3%
+      - Rdl
     * - :doc:`../signal/H12/AOM/2/5/index`
       - H12
       - Angola *An. coluzzii*
       - 2L:33,434,895-33,514,895
       - 290
       - 96.7%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.BFS/2/2/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,614,895-25,894,895
+      - 284
+      - 99.9%
+      - 
+    * - :doc:`../signal/IHS/UGS/2/3/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2L:14,914,895-15,074,895
+      - 282
+      - 98.9%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.GWA/2/2/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:3,354,895-3,714,895
+      - 274
+      - 99.9%
+      - 
+    * - :doc:`../signal/XPEHH/GWA.BFS/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,874,895-32,014,895
+      - 261
+      - 97.3%
+      - 
     * - :doc:`../signal/IHS/BFS/2/5/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:25,434,895-25,614,895
       - 256
       - 99.8%
+      - Rdl
+    * - :doc:`../signal/XPEHH/CMS.GAS/2/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:45,374,895-45,454,895
+      - 250
+      - 98.6%
+      - 
     * - :doc:`../signal/IHS/BFS/2/7/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:42,314,895-42,454,895
       - 222
       - 95.5%
+      - 
     * - :doc:`../signal/IHS/BFS/2/6/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:46,034,895-46,214,895
       - 221
       - 96.2%
+      - 
     * - :doc:`../signal/H12/GWA/2/3/index`
       - H12
       - Guinea Bissau
       - 2L:11,234,895-11,334,895
       - 208
       - 98.1%
+      - 
     * - :doc:`../signal/XPEHH/BFS.GWA/2/4/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:4,914,895-5,234,895
       - 205
       - 93.4%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.BFS/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:35,054,895-35,174,895
+      - 190
+      - 93.2%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.GWA/2/3/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:15,254,895-15,554,895
+      - 183
+      - 95.6%
+      - 
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:6,254,895-6,434,895
+      - 182
+      - 97.1%
+      - 
+    * - :doc:`../signal/XPEHH/GWA.BFM/2/3/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,934,895-32,014,895
+      - 175
+      - 99.6%
+      - 
+    * - :doc:`../signal/XPEHH/AOM.BFM/2/4/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:33,454,895-33,594,895
+      - 173
+      - 98.8%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.BFS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:11,114,895-11,534,895
+      - 170
+      - 88.1%
+      - 
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/3/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:33,434,895-33,594,895
+      - 161
+      - 92.9%
+      - 
+    * - :doc:`../signal/IHS/AOM/2/4/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2L:33,414,895-33,634,895
+      - 156
+      - 99.9%
+      - 
+    * - :doc:`../signal/IHS/UGS/2/4/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2L:42,794,895-42,834,895
+      - 155
+      - 97.5%
+      - 
+    * - :doc:`../signal/XPEHH/UGS.BFS/2/4/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:14,374,895-14,554,895
+      - 152
+      - 87.9%
+      - 
     * - :doc:`../signal/XPEHH/BFS.GWA/2/6/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:25,434,895-25,474,895
       - 138
       - 95.3%
+      - Rdl
+    * - :doc:`../signal/IHS/CMS/2/5/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 137
+      - 95.6%
+      - 
+    * - :doc:`../signal/XPEHH/GAS.AOM/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:14,654,895-14,834,895
+      - 134
+      - 99.6%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.BFS/2/6/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:43,434,895-43,514,895
+      - 130
+      - 79.2%
+      - 
     * - :doc:`../signal/IHS/BFS/2/8/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - 2L:37,274,895-37,594,895
       - 126
       - 94.5%
+      - 
     * - :doc:`../signal/H12/GAS/2/3/index`
       - H12
       - Gabon *An. gambiae*
       - 2L:14,694,895-14,814,895
       - 121
       - 98.8%
+      - 
+    * - :doc:`../signal/IHS/GNS/2/4/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 119
+      - 96.8%
+      - 
+    * - :doc:`../signal/IHS/UGS/2/6/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2L:43,554,895-43,674,895
+      - 118
+      - 97.5%
+      - 
     * - :doc:`../signal/H12/CMS/2/4/index`
       - H12
       - Cameroon *An. gambiae*
       - 2L:39,274,895-39,314,895
       - 112
       - 98.7%
+      - 
     * - :doc:`../signal/H12/GNS/2/5/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:39,254,895-39,294,895
       - 110
       - 94.7%
+      - 
+    * - :doc:`../signal/XPEHH/GWA.UGS/2/3/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:48,934,895-49,014,895
+      - 98
+      - 84.9%
+      - 
+    * - :doc:`../signal/IHS/GNS/2/5/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2L:42,274,895-42,414,895
+      - 98
+      - 87.9%
+      - 
     * - :doc:`../signal/H12/UGS/2/5/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:42,774,895-42,814,895
       - 98
       - 94.4%
+      - 
+    * - :doc:`../signal/IHS/CMS/2/7/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:46,054,895-46,094,895
+      - 98
+      - 77.4%
+      - 
+    * - :doc:`../signal/XPEHH/BFM.BFS/2/7/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:41,094,895-41,154,895
+      - 98
+      - 93.0%
+      - 
+    * - :doc:`../signal/XPEHH/GWA.UGS/2/4/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:46,594,895-46,654,895
+      - 94
+      - 87.8%
+      - 
+    * - :doc:`../signal/IHS/GWA/2/2/index`
+      - IHS
+      - Guinea Bissau
+      - 2L:31,834,895-31,914,895
+      - 93
+      - 99.8%
+      - 
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/6/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:25,254,895-25,414,895
+      - 92
+      - 83.9%
+      - Rdl
+    * - :doc:`../signal/XPEHH/UGS.CMS/2/4/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:14,374,895-14,554,895
+      - 92
+      - 91.4%
+      - 
+    * - :doc:`../signal/IHS/CMS/2/6/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:42,394,895-42,434,895
+      - 90
+      - 77.8%
+      - 
     
 
 

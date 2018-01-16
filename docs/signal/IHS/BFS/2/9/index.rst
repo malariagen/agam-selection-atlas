@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 14 genes overlap the focal region: :doc:`../../../../../gene/AGAP003512`,  :doc:`../../../../../gene/AGAP003513`,  :doc:`../../../../../gene/AGAP003514`,  :doc:`../../../../../gene/AGAP003515`:sup:`1` (NIT8537),  :doc:`../../../../../gene/AGAP013231` (Nitrilase homolog 2),  :doc:`../../../../../gene/AGAP003516`:sup:`1` (NIT8492),  :doc:`../../../../../gene/AGAP003517` (phenylalanyl-tRNA synthetase beta chain),  :doc:`../../../../../gene/AGAP003519` (ankyrin repeat domain-containing protein 17),  :doc:`../../../../../gene/AGAP003521` (alpha-2-macroglobulin receptor-associated protein),  :doc:`../../../../../gene/AGAP012974`,  :doc:`../../../../../gene/AGAP003522`:sup:`1` (CYP329A1 - cytochrome P450),  :doc:`../../../../../gene/AGAP003523`:sup:`1` (hypoxia-inducible factor prolyl hydroxylase),  :doc:`../../../../../gene/AGAP003524` (transcription initiation factor TFIID subunit 5),  :doc:`../../../../../gene/AGAP003525` (CCR4-NOT transcription complex, subunit 2).
-
 
 
 

@@ -34,6 +34,7 @@
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     {% for signal in signals -%}
     * - {{ signal_doc(signal, root_path) }}
       - {{ signal.statistic }}
@@ -41,6 +42,7 @@
       - {{ signal_focus(signal) }}
       - {{ signal_score(signal) }}
       - {{ "{:.1f}%".format(signal.max_percentile|float * 100) }}
+      - {{ signal.known_loci }}
     {% endfor %}
 
 {% else %}
@@ -49,12 +51,14 @@ No signals.
 {%- endmacro %}
 
 
-{% macro gene_doc(value, root_path, ir_candidates, describe=True) -%}
+{% macro gene_doc(value, root_path, ir_candidates=None, describe=True) -%}
 :doc:`{{ root_path }}gene/{{ value.id }}`
+{%- if ir_candidates -%}
 {%- if value.id in ir_candidates.metabolic %}:sup:`1`
 {%- elif value.id in ir_candidates.target_site %}:sup:`2`
 {%- elif value.id in ir_candidates.behavioural %}:sup:`3`
 {%- elif value.id in ir_candidates.cuticular %}:sup:`4`
+{%- endif -%}
 {%- endif %}
 {%- if value.name or (value.description and describe) %} (
     {%- if value.name %}{{ value.name|trim }}{% endif -%}

@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 14 genes overlap the focal region: :doc:`../../../../../gene/AGAP000801`:sup:`2` (GLURIIb - ionotropic receptor GLURIIb),  :doc:`../../../../../gene/AGAP000803`:sup:`2` (GLURIIa - ionotropic receptor GLURIIa),  :doc:`../../../../../gene/AGAP000804`:sup:`1` (GPXH2 - glutathione peroxidase 2),  :doc:`../../../../../gene/AGAP000805` (BTB/POZ domain-containing protein KCTD16),  :doc:`../../../../../gene/AGAP000806` (Angiopoietin-like 1),  :doc:`../../../../../gene/AGAP000807` (helix-loop-helix transcription factor),  :doc:`../../../../../gene/AGAP000808` (DNA damage-regulated autophagy modulator protein 2),  :doc:`../../../../../gene/AGAP013022`,  :doc:`../../../../../gene/AGAP000809` (Proteasome 26S non-ATPase subunit 10),  :doc:`../../../../../gene/AGAP000810`,  :doc:`../../../../../gene/AGAP000812` (calcium binding protein),  :doc:`../../../../../gene/AGAP000813`:sup:`1` (Frataxin homolog, mitochondrial),  :doc:`../../../../../gene/AGAP000814`,  :doc:`../../../../../gene/AGAP000815` (INTB - integrin beta subunit).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP000798`:sup:`2` (GLURIIc - ionotropic rece
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,12 +62,56 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/X/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:14,960,000-15,140,000
+      - 961
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/IHS/UGS/X/1/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - X:14,640,000-15,360,000
+      - 517
+      - 96.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/X/1/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - X:14,760,000-15,620,000
+      - 501
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*
       - X:14,960,000-15,160,000
       - 419
       - 97.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/X/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - X:14,460,000-14,860,000
+      - 301
+      - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:14,500,000-15,180,000
+      - 228
+      - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/X/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - X:14,960,000-15,320,000
+      - 204
+      - 89.8%
+      - nan
     
 
 

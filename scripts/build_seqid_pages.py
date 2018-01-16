@@ -14,6 +14,8 @@ if __name__ == '__main__':
     # load signals
     tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
 
+    os.makedirs('docs/seqid', exist_ok=True)
+
     for seqid in seqids:
 
         seq_signals = list(

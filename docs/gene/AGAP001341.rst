@@ -1,0 +1,100 @@
+:orphan:
+
+
+
+AGAP001341
+==========
+
+Location: **2R:3,324,751-3,330,289**
+
+
+
+Description: **Bleomycin hydrolase**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001341>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:3324751-3330289#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/XPEHH/BFS.UGS/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:3,260,000-3,600,000
+      - 432
+      - 90.3%
+    
+
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/IHS/BFS/2/2/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2R:3,380,000-3,900,000
+      - 635
+      - 99.2%
+    * - :doc:`../signal/IHS/GNS/2/2/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2R:3,020,000-3,280,000
+      - 461
+      - 98.4%
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP001341';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

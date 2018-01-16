@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,19 +34,57 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP006514` overlaps the focal region.
-
 
 
 
 No genes are within 50 kbp of the focal region.
 
 
-
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/2/4/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:33,454,895-33,594,895
+      - 173
+      - 98.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/3/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:33,434,895-33,594,895
+      - 161
+      - 92.9%
+      - nan
+    * - :doc:`../../../../../signal/IHS/AOM/2/4/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2L:33,414,895-33,634,895
+      - 156
+      - 99.9%
+      - nan
+    
+
 
 
 

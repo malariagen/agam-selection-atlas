@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,8 +34,6 @@ Genes
 -----
 
 
-
-
 The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP009768` (solute carrier family 6 (neurotransmitter transporter, GABA) member 1),  :doc:`../../../../../gene/AGAP009769`,  :doc:`../../../../../gene/AGAP009770` (GPRCAL1 - putative calcitonin receptor 1),  :doc:`../../../../../gene/AGAP009771`,  :doc:`../../../../../gene/AGAP009772` (Protein PTCD3-like protein, mitochondrial),  :doc:`../../../../../gene/AGAP009773`,  :doc:`../../../../../gene/AGAP009774`.
 
 
@@ -39,9 +41,36 @@ The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP00
 Gene :doc:`../../../../../gene/AGAP009775` is within 50 kbp of the focal region.
 
 
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/CMS/3/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 3R:42,500,000-42,660,000
+      - 191
+      - 91.1%
+      - nan
+    
+
 
 
 

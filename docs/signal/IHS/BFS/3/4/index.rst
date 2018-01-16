@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP008918` (STIP1 homology and U-box containing protein 1),  :doc:`../../../../../gene/AGAP028004`,  :doc:`../../../../../gene/AGAP008919`.
-
 
 
 

@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 9 genes overlap the focal region: :doc:`../../../../../gene/AGAP009726`,  :doc:`../../../../../gene/AGAP009727` (RhoGAP92B),  :doc:`../../../../../gene/AGAP009728` (ficolin),  :doc:`../../../../../gene/AGAP009729` (CCAP - cardioacceleratory peptide),  :doc:`../../../../../gene/AGAP009730` (myosin III),  :doc:`../../../../../gene/AGAP009731` (wingless-type MMTV integration site family, member 10A),  :doc:`../../../../../gene/AGAP009732` (Protein Wnt),  :doc:`../../../../../gene/AGAP009733` (wingless-type MMTV integration site family, member 6),  :doc:`../../../../../gene/AGAP009734` (wingless-type MMTV integration site family, member 1).
-
 
 
 

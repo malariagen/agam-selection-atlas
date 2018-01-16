@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP010813` (TEP18 - thioester-containing protein 18),  :doc:`../../../../../gene/AGAP010814` (TEP6 - thioester-containing protein 6).
-
 
 
 

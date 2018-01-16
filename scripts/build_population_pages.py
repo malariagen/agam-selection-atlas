@@ -24,6 +24,8 @@ if __name__ == '__main__':
     # load signals
     tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
 
+    os.makedirs('docs/population', exist_ok=True)
+
     for pop_id, pop_label in populations.items():
 
         pop_signals = list(

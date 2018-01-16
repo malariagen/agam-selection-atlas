@@ -15,6 +15,10 @@ using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal 
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -32,10 +36,7 @@ Genes
 -----
 
 
-
-
 The following 13 genes overlap the focal region: :doc:`../../../../../gene/AGAP004881` (bestrophin 2,3,4),  :doc:`../../../../../gene/AGAP004882` (transmembrane 9 superfamily member 3),  :doc:`../../../../../gene/AGAP004883`,  :doc:`../../../../../gene/AGAP004884` (muskelin),  :doc:`../../../../../gene/AGAP004885` (CDGSH iron sulfur domain-containing protein 3, mitochondrial),  :doc:`../../../../../gene/AGAP004886` (microtubule-associated protein, RP/EB family),  :doc:`../../../../../gene/AGAP004887` (RpS17 - 40S ribosomal protein S17),  :doc:`../../../../../gene/AGAP004888`,  :doc:`../../../../../gene/AGAP004889` (ubiquitin-conjugating enzyme (huntingtin interacting protein 2)),  :doc:`../../../../../gene/AGAP004890` (ribose-phosphate pyrophosphokinase),  :doc:`../../../../../gene/AGAP004891` (metallophosphoesterase domain-containing protein 1),  :doc:`../../../../../gene/AGAP004892`,  :doc:`../../../../../gene/AGAP004893`.
-
 
 
 

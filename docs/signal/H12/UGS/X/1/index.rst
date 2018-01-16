@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,8 +34,6 @@ Genes
 -----
 
 
-
-
 The following 19 genes overlap the focal region: :doc:`../../../../../gene/AGAP012997`,  :doc:`../../../../../gene/AGAP000818`:sup:`1` (CYP9K1 - cytochrome P450),  :doc:`../../../../../gene/AGAP000819` (nuclear receptor subfamily 2 group E member (Tailless)),  :doc:`../../../../../gene/AGAP000820`:sup:`4` (CPR125 - cuticular protein RR-2 family 125),  :doc:`../../../../../gene/AGAP000821`,  :doc:`../../../../../gene/AGAP000822`,  :doc:`../../../../../gene/AGAP000823` (CD81 antigen),  :doc:`../../../../../gene/AGAP000824` (bone morphogenetic protein 5),  :doc:`../../../../../gene/AGAP000825`,  :doc:`../../../../../gene/AGAP000826` (cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1),  :doc:`../../../../../gene/AGAP000829` (calpain-15),  :doc:`../../../../../gene/AGAP000830` (CASPS7 - short caspase 7),  :doc:`../../../../../gene/AGAP000831` (DnaJ homolog subfamily C member 25),  :doc:`../../../../../gene/AGAP000832` (Derlin-2/3),  :doc:`../../../../../gene/AGAP000833` (MIP - myoinhibitory-like peptide),  :doc:`../../../../../gene/AGAP000834`,  :doc:`../../../../../gene/AGAP000835`,  :doc:`../../../../../gene/AGAP028655`,  :doc:`../../../../../gene/AGAP013506`.
 
 
@@ -39,13 +41,11 @@ The following 19 genes overlap the focal region: :doc:`../../../../../gene/AGAP0
 No genes are within 50 kbp of the focal region.
 
 
-
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,30 +61,91 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/BFM/X/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - X:15,100,000-15,300,000
       - 1,267
       - 100.0%
+      - nan
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - X:15,060,000-15,220,000
       - 866
       - 99.6%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/X/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - X:15,060,000-15,260,000
+      - 852
+      - 99.4%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/X/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:15,100,000-15,240,000
       - 815
       - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GNS/X/1/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - X:15,240,000-15,780,000
+      - 553
+      - 99.3%
+      - nan
+    * - :doc:`../../../../../signal/IHS/UGS/X/1/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - X:14,640,000-15,360,000
+      - 517
+      - 96.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFM.AOM/X/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - X:15,040,000-15,180,000
+      - 511
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/X/1/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - X:14,760,000-15,620,000
+      - 501
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*
       - X:14,960,000-15,160,000
       - 419
       - 97.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.CMS/X/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - X:15,240,000-15,460,000
+      - 284
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:14,500,000-15,180,000
+      - 228
+      - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/X/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - X:14,960,000-15,320,000
+      - 204
+      - 89.8%
+      - nan
     
 
 

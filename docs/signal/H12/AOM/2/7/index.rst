@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 9 genes overlap the focal region: :doc:`../../../../../gene/AGAP003226` (dynein heavy chain 2),  :doc:`../../../../../gene/AGAP003227` (nucleoside-diphosphate kinase),  :doc:`../../../../../gene/AGAP003228` (histone acetyltransferase type B subunit 2),  :doc:`../../../../../gene/AGAP003229`,  :doc:`../../../../../gene/AGAP003230` (poly (ADP-ribose) polymerase),  :doc:`../../../../../gene/AGAP003231`:sup:`1` (NADH dehydrogenase (ubiquinone) iron-sulfur protein 7, mitochondrial),  :doc:`../../../../../gene/AGAP003232` (splicing factor 4),  :doc:`../../../../../gene/AGAP013304`:sup:`1`,  :doc:`../../../../../gene/AGAP003233`:sup:`1`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP003212` (Adrenodoxin),  :doc:`../../../../
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/AOM/2/3/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:33,940,000-34,440,000
+      - 213
+      - 99.8%
+      - nan
+    
+
 
 
 

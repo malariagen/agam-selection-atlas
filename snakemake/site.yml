@@ -39,7 +39,7 @@ rule signal_pages:
         touch("docs/signal/.make"),
         "docs/signal",
     shell:
-        "rm -rfv docs/signal && python scripts/build_signal_pages.py"
+        "rm -fv docs/signal/*.rst && python scripts/build_signal_pages.py"
 
 
 rule signals_page:
@@ -75,7 +75,7 @@ rule population_pages:
         "docs/populations.rst",
         expand("docs/population/{population}.rst", population=pop_ids),
     shell:
-        "python scripts/build_population_pages.py"
+        "rm -fv docs/population/*.rst && python scripts/build_population_pages.py"
 
 
 rule seqid_pages:
@@ -87,7 +87,7 @@ rule seqid_pages:
     output:
         expand("docs/seqid/{seqid}.rst", seqid=seqids),
     shell:
-        "python scripts/build_seqid_pages.py"
+        "rm -fv docs/seqid/*.rst && python scripts/build_seqid_pages.py"
 
 
 rule statistic_pages:
@@ -99,7 +99,7 @@ rule statistic_pages:
     output:
         expand("docs/statistic/{statistic}.rst", statistic=['H12', 'IHS', 'XPEHH']),
     shell:
-        "python scripts/build_statistic_pages.py"
+        "rm -fv docs/statistic/*.rst && python scripts/build_statistic_pages.py"
 
 
 rule gene_pages:
@@ -112,7 +112,7 @@ rule gene_pages:
         touch("docs/gene/.make"),
         "docs/gene",
     shell:
-        "rm -rfv docs/gene && python scripts/build_gene_pages.py"
+        "rm -fv docs/gene/*.rst && python scripts/build_gene_pages.py"
 
 
 rule ir_candidate_pages:
@@ -128,7 +128,22 @@ rule ir_candidate_pages:
         "docs/ir-candidate/cuticular.rst",
         "docs/ir-candidate/behavioural.rst",
     shell:
-        "python scripts/build_ir_candidate_pages.py"
+        "rm -fv docs/ir-candidate/*.rst && python scripts/build_ir_candidate_pages.py"
+
+rule known_locus_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "docs/_static/data/known-loci.yml",
+        "scripts/build_known_locus_pages.py",
+        "templates/macros.rst",
+        "templates/known-loci.rst",
+        "templates/known-locus.rst",
+    output:
+        "docs/known-loci.rst",
+        touch("docs/known-locus/.make"),
+        "docs/known-locus",
+    shell:
+        "rm -fv docs/known-locus/*.rst && python scripts/build_known_locus_pages.py"
 
 
 rule all:
@@ -143,6 +158,7 @@ rule all:
         rules.seqid_pages.output,
         rules.statistic_pages.output,
         rules.ir_candidate_pages.output,
+        rules.known_locus_pages.output,
         # temporarily disable as building all gene pages takes a while
 #        rules.gene_pages.output,
     shell:

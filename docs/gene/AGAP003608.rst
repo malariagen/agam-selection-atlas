@@ -1,0 +1,81 @@
+:orphan:
+
+
+
+AGAP003608
+==========
+
+Location: **2R:40,480,397-40,486,507**
+
+Name: **CYP4AA1**
+
+Description: **Cytochrome p450**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP003608>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:40480397-40486507#genomebrowser>`_
+
+Overlapping signals
+-------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/IHS/CMS/2/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:40,060,000-40,780,000
+      - 643
+      - 100.0%
+    * - :doc:`../signal/IHS/BFS/2/3/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2R:40,320,000-40,560,000
+      - 557
+      - 99.5%
+    * - :doc:`../signal/H12/CMS/2/3/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2R:40,300,000-40,740,000
+      - 501
+      - 98.7%
+    
+
+
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP003608';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

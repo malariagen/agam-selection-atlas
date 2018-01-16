@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP008023` (en - segmentation polarity homeobox protein engrailed),  :doc:`../../../../../gene/AGAP008025` (Homeobox protein engrailed-like),  :doc:`../../../../../gene/AGAP013728`,  :doc:`../../../../../gene/AGAP008026` (enhancer of polycomb-like protein),  :doc:`../../../../../gene/AGAP008027` (Slowmo),  :doc:`../../../../../gene/AGAP008028` (voltage-dependent calcium channel beta, invertebrate),  :doc:`../../../../../gene/AGAP028427`.
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP008018`:sup:`1` (CYP12F4 - cytochrome P450
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,12 +62,28 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/GNS/3/2/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 3R:4,400,000-4,960,000
+      - 508
+      - 99.0%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/3/2/index`
       - H12
       - Guinea *An. gambiae*
       - 3R:4,600,000-5,060,000
       - 253
       - 77.2%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.GAS/3/3/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:4,300,000-4,380,000
+      - 127
+      - 93.6%
+      - nan
     
 
 

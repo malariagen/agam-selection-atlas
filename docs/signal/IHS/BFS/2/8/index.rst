@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 16 genes overlap the focal region: :doc:`../../../../../gene/AGAP006723`:sup:`1` (COEAE2G - carboxylesterase),  :doc:`../../../../../gene/AGAP006724` (COEAE3G - carboxylesterase),  :doc:`../../../../../gene/AGAP006725`:sup:`1` (COEAE3H - carboxylesterase alpha esterase),  :doc:`../../../../../gene/AGAP006726` (COEAE5G - carboxylesterase),  :doc:`../../../../../gene/AGAP006727`:sup:`1` (COEAE6G - carboxylesterase),  :doc:`../../../../../gene/AGAP006728` (COEAE7G - carboxylesterase),  :doc:`../../../../../gene/AGAP006729` (Ester hydrolase C11orf54),  :doc:`../../../../../gene/AGAP006730`,  :doc:`../../../../../gene/AGAP006731`,  :doc:`../../../../../gene/AGAP006732`,  :doc:`../../../../../gene/AGAP006733` (Thoc4 - THO complex subunit 4),  :doc:`../../../../../gene/AGAP006734` (DNA-repair protein XRCC2),  :doc:`../../../../../gene/AGAP006735`,  :doc:`../../../../../gene/AGAP006736` (zinc finger protein GLIS2),  :doc:`../../../../../gene/AGAP028461`,  :doc:`../../../../../gene/AGAP006737`.
-
 
 
 

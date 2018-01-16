@@ -35,6 +35,19 @@ genome = phase1_ar3.genome
 seqids = '2R', '2L', '3R', '3L', 'X'
 
 
+# setup genes
+features = allel.gff3_to_dataframe(
+    'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
+    attributes=['ID', 'Name', 'description'], attributes_fill='',
+)
+genes = features[features['type'] == 'gene']
+
+
+# load known loci definitions
+with open('docs/_static/data/known-loci.yml', mode='r') as f:
+    known_loci = yaml.load(f)
+
+
 # setup styles
 sns.set_context('paper', font_scale=0.9)
 sns.set_style('darkgrid')

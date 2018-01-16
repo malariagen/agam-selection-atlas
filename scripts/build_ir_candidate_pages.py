@@ -81,6 +81,8 @@ def main():
 
     df_signals = pd.read_csv('docs/_static/data/signals.csv')
 
+    os.makedirs('docs/ir-candidate', exist_ok=True)
+
     for slug, title in zip(['metabolic', 'target_site', 'behavioural', 'cuticular'],
                            ['Metabolic genes', 'Target-site genes',
                             'Behavioural genes', 'Cuticular genes']):

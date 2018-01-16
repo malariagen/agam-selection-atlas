@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 20 genes overlap the focal region: :doc:`../../../../../gene/AGAP009163`,  :doc:`../../../../../gene/AGAP009164`,  :doc:`../../../../../gene/AGAP028161`,  :doc:`../../../../../gene/AGAP009165`,  :doc:`../../../../../gene/AGAP009166` (IKK1 - IMD pathway signalling IKK-beta). (ird5orthologue immune response deficient 5)),  :doc:`../../../../../gene/AGAP009167`,  :doc:`../../../../../gene/AGAP009168`,  :doc:`../../../../../gene/AGAP009170`,  :doc:`../../../../../gene/AGAP009172` (prolyl oligopeptidase),  :doc:`../../../../../gene/AGAP009171`:sup:`1` (tRNA-dihydrouridine synthase 3),  :doc:`../../../../../gene/AGAP009173` (fbp - fructose-1,6-biphosphatase),  :doc:`../../../../../gene/AGAP009174` (vacuolar protein sorting 41 homolog),  :doc:`../../../../../gene/AGAP009175` (galactosylxylosylprotein 3-beta-galactosyltransferase),  :doc:`../../../../../gene/AGAP009176`:sup:`1` (fatty acid synthase, animal type),  :doc:`../../../../../gene/AGAP009177`:sup:`1`,  :doc:`../../../../../gene/AGAP009178`:sup:`1` (Reticulon 4 interacting protein 1),  :doc:`../../../../../gene/AGAP009179` (nucleolar protein 6),  :doc:`../../../../../gene/AGAP009180` (protein son of sevenless),  :doc:`../../../../../gene/AGAP009181`,  :doc:`../../../../../gene/AGAP009182` (protein transport protein SEC61 subunit alpha).
-
 
 
 
@@ -43,6 +44,55 @@ region: :doc:`../../../../../gene/AGAP009160` (Arf-GAP, GTPase, ANK repeat and P
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/3/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:28,240,000-28,380,000
+      - 1,234
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/3/1/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 3R:28,260,000-28,620,000
+      - 1,058
+      - 100.0%
+      - Gste
+    * - :doc:`../../../../../signal/IHS/GNS/3/1/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 3R:28,240,000-28,420,000
+      - 791
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.GAS/3/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:28,260,000-28,320,000
+      - 232
+      - 100.0%
+      - nan
+    
+
 
 
 

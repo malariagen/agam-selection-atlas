@@ -15,6 +15,14 @@ using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal 
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+This signal overlaps the :doc:`../../../../../known-locus/vgsc`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -32,10 +40,7 @@ Genes
 -----
 
 
-
-
 The following 66 genes overlap the focal region: :doc:`../../../../../gene/AGAP004703` (DNA-directed RNA polymerase III subunit RPC1),  :doc:`../../../../../gene/AGAP004704` (COMPASS component SPP1),  :doc:`../../../../../gene/AGAP028437`,  :doc:`../../../../../gene/AGAP004706`,  :doc:`../../../../../gene/AGAP004707`:sup:`2` (para - voltage-gated sodium channel),  :doc:`../../../../../gene/AGAP004708` (arginyl-tRNA synthetase),  :doc:`../../../../../gene/AGAP004709` (mRpL18 - 39S ribosomal protein L18, mitochondrial),  :doc:`../../../../../gene/AGAP004710`:sup:`1` (ubiquinol-cytochrome c reductase subunit 9),  :doc:`../../../../../gene/AGAP004711` (ATP-dependent RNA helicase DDX41),  :doc:`../../../../../gene/AGAP004712`,  :doc:`../../../../../gene/AGAP004713`,  :doc:`../../../../../gene/AGAP004714`,  :doc:`../../../../../gene/AGAP004715`:sup:`1` (Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial),  :doc:`../../../../../gene/AGAP004716`:sup:`3` (Gr57 - gustatory receptor 57),  :doc:`../../../../../gene/AGAP004717`,  :doc:`../../../../../gene/AGAP004718`,  :doc:`../../../../../gene/AGAP004719` (CLIPC9 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP004720`,  :doc:`../../../../../gene/AGAP004721` (N-acetylglucosamine-6-sulfatase),  :doc:`../../../../../gene/AGAP004722`,  :doc:`../../../../../gene/AGAP004723` (chromobox protein homolog 1),  :doc:`../../../../../gene/AGAP004724` (Intraflagellar transport 74 homolog),  :doc:`../../../../../gene/AGAP004725` (eIF3c - Eukaryotic translation initiation factor 3 subunit C),  :doc:`../../../../../gene/AGAP004726` (Uncharacterized protein CG3556),  :doc:`../../../../../gene/AGAP004727`:sup:`3` (Gr25 - gustatory receptor 25),  :doc:`../../../../../gene/AGAP004728`,  :doc:`../../../../../gene/AGAP004729`,  :doc:`../../../../../gene/AGAP004730` (phospholipase A2, venom),  :doc:`../../../../../gene/AGAP004731` (secretory phospholipase A2),  :doc:`../../../../../gene/AGAP029113`,  :doc:`../../../../../gene/AGAP004733`,  :doc:`../../../../../gene/AGAP004735`,  :doc:`../../../../../gene/AGAP004736` (mitochondrial GTPase 1 homolog),  :doc:`../../../../../gene/AGAP004737` (Rhomboid-4, isoform B),  :doc:`../../../../../gene/AGAP004738` (IK cytokine),  :doc:`../../../../../gene/AGAP004739` (H/ACA ribonucleoprotein complex subunit 4),  :doc:`../../../../../gene/AGAP004740`,  :doc:`../../../../../gene/AGAP004741` (serine proteinase),  :doc:`../../../../../gene/AGAP004742` (Pyruvate carboxylase),  :doc:`../../../../../gene/AGAP004743` (Transmembrane emp24 domain-containing protein),  :doc:`../../../../../gene/AGAP004744` (skap - succinyl-CoA ligase beta subunit),  :doc:`../../../../../gene/AGAP004745` (transcription elongation regulator 1),  :doc:`../../../../../gene/AGAP004746` (Thoc5 - THO complex subunit 5),  :doc:`../../../../../gene/AGAP004747` (Uncharacterized protein C05D11.1),  :doc:`../../../../../gene/AGAP004748`,  :doc:`../../../../../gene/AGAP004749`:sup:`1` (coproporphyrinogen III oxidase),  :doc:`../../../../../gene/AGAP004750` (translation initiation factor 4G),  :doc:`../../../../../gene/AGAP004751` (condensin-2 complex subunit D3),  :doc:`../../../../../gene/AGAP004752` (tRNA (guanine-N(7)-)-methyltransferase),  :doc:`../../../../../gene/AGAP004753`,  :doc:`../../../../../gene/AGAP004754` (CASPL2 - long caspase (CASPL2)),  :doc:`../../../../../gene/AGAP004755`,  :doc:`../../../../../gene/AGAP004756`,  :doc:`../../../../../gene/AGAP013546` (Vacuolar ATPase assembly integral membrane protein VMA21 homolog),  :doc:`../../../../../gene/AGAP004757`,  :doc:`../../../../../gene/AGAP004758`,  :doc:`../../../../../gene/AGAP004759` (oligoribonuclease),  :doc:`../../../../../gene/AGAP004760`,  :doc:`../../../../../gene/AGAP004761`,  :doc:`../../../../../gene/AGAP004762` (alpha-tocopherol transfer protein-like protein),  :doc:`../../../../../gene/AGAP004763`,  :doc:`../../../../../gene/AGAP004764`,  :doc:`../../../../../gene/AGAP004765` (ATP-dependent RNA helicase DDX1),  :doc:`../../../../../gene/AGAP028129`,  :doc:`../../../../../gene/AGAP004766` (endophilin-A),  :doc:`../../../../../gene/AGAP004767`.
-
 
 
 
@@ -46,8 +51,8 @@ region: :doc:`../../../../../gene/AGAP004768` (periodic tryptophan protein 1),  
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -63,42 +68,63 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:2,474,895-2,894,895
       - 1,800
       - 99.9%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/BFS/2/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:1,454,895-2,694,895
       - 1,776
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/GNS/2/1/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:1,294,895-2,474,895
       - 1,685
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:1,814,895-3,094,895
       - 1,377
       - 100.0%
+      - Vgsc
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:2,334,895-2,974,895
+      - 917
+      - 99.8%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/CMS/2/2/index`
       - H12
       - Cameroon *An. gambiae*
       - 2L:3,054,895-3,614,895
       - 725
       - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,054,895-3,394,895
+      - 533
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/H12/GAS/2/2/index`
       - H12
       - Gabon *An. gambiae*
       - 2L:2,734,895-3,094,895
       - 325
       - 99.8%
+      - nan
     
 
 

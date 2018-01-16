@@ -1,0 +1,75 @@
+:orphan:
+
+
+
+AGAP009209
+==========
+
+Location: **3R:28,746,535-28,747,439**
+
+Name: **Rpb11**
+
+Description: **Dna-directed rna polymerase ii subunit rpb11**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP009209>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3R:28746535-28747439#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/XPEHH/CMS.GWA/3/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:28,600,000-28,700,000
+      - 1,275
+      - 100.0%
+    * - :doc:`../signal/IHS/CMS/3/1/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 3R:28,320,000-28,700,000
+      - 1,106
+      - 100.0%
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP009209';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

@@ -1,0 +1,75 @@
+:orphan:
+
+
+
+AGAP001684
+==========
+
+Location: **2R:8,367,926-8,373,549**
+
+
+
+Description: **Alkaline phosphatase**.
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP001684>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:8367926-8373549#genomebrowser>`_
+
+
+
+Adjacent signals
+----------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../signal/H12/AOM/2/1/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:8,280,000-8,340,000
+      - 479
+      - 97.0%
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/4/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:8,120,000-8,320,000
+      - 107
+      - 78.7%
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP001684';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

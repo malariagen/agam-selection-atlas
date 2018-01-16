@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,14 +34,11 @@ Genes
 -----
 
 
-
-
 The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP001011`,  :doc:`../../../../../gene/AGAP001012`:sup:`3` (Or36 - odorant receptor 36),  :doc:`../../../../../gene/AGAP001013`,  :doc:`../../../../../gene/AGAP001014`,  :doc:`../../../../../gene/AGAP001015` (notch gene homolog 1).
 
 
 
 Gene :doc:`../../../../../gene/AGAP001010` (chondroitin sulfate synthase) is within 50 kbp of the focal region.
-
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;

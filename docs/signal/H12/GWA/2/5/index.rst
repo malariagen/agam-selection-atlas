@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,14 +34,11 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP001674` (sidestep) overlaps the focal region.
 
 
 
-
 Gene :doc:`../../../../../gene/AGAP001675` is within 50 kbp of the focal region.
-
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;

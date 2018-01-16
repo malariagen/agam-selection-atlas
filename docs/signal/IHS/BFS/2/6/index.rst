@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 26 genes overlap the focal region: :doc:`../../../../../gene/AGAP007358` (cellular retinaldehyde binding protein),  :doc:`../../../../../gene/AGAP007359`,  :doc:`../../../../../gene/AGAP007361` (translocation protein SEC63),  :doc:`../../../../../gene/AGAP007362` (SH3 domain-binding glutamic acid-rich-like protein 3),  :doc:`../../../../../gene/AGAP007363`,  :doc:`../../../../../gene/AGAP007364`,  :doc:`../../../../../gene/AGAP007365`,  :doc:`../../../../../gene/AGAP007366`,  :doc:`../../../../../gene/AGAP007367` (solute carrier family 6 (neurotransmitter transporter, dopamine) member 3),  :doc:`../../../../../gene/AGAP007368`,  :doc:`../../../../../gene/AGAP007369` (Ras-related protein Rap-1b precursor),  :doc:`../../../../../gene/AGAP007370`,  :doc:`../../../../../gene/AGAP007371`,  :doc:`../../../../../gene/AGAP007372`,  :doc:`../../../../../gene/AGAP007373` (Tetraspanin),  :doc:`../../../../../gene/AGAP007374` (glucuronosyltransferase),  :doc:`../../../../../gene/AGAP007375`,  :doc:`../../../../../gene/AGAP013291` (Trafficking protein particle complex 3),  :doc:`../../../../../gene/AGAP007376` (nuclear transcription factor Y, alpha),  :doc:`../../../../../gene/AGAP007377`,  :doc:`../../../../../gene/AGAP007378` (N-acetyltransferase 9),  :doc:`../../../../../gene/AGAP013544`:sup:`1` (L-gulonate 3-dehydrogenase),  :doc:`../../../../../gene/AGAP007379` (ArfGAP with dual PH domains 2),  :doc:`../../../../../gene/AGAP007380` (NADH dehydrogenase (ubiquinone) 1 beta subcomplex 11),  :doc:`../../../../../gene/AGAP007381`,  :doc:`../../../../../gene/AGAP007382` (Fem-1 homolog b).
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP007348` (coiled-coil domain-containing pro
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/CMS/2/7/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:46,054,895-46,094,895
+      - 98
+      - 77.4%
+      - nan
+    
+
 
 
 

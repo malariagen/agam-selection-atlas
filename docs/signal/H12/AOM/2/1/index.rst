@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,18 +34,50 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP001683` (calcium/calmodulin-dependent serine protein kinase) overlaps the focal region.
-
 
 
 
 Gene :doc:`../../../../../gene/AGAP001684` (Alkaline phosphatase) is within 50 kbp of the focal region.
 
 
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/AOM/2/2/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:8,160,000-8,280,000
+      - 230
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/4/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:8,120,000-8,320,000
+      - 107
+      - 78.7%
+      - nan
+    
+
 
 
 

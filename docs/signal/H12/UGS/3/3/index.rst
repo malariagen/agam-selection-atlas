@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 40 genes overlap the focal region: :doc:`../../../../../gene/AGAP009859`,  :doc:`../../../../../gene/AGAP009860`,  :doc:`../../../../../gene/AGAP009861` (Profilin protein),  :doc:`../../../../../gene/AGAP009862`,  :doc:`../../../../../gene/AGAP009863` (eukaryotic translation initiation factor 4A, isoform 2),  :doc:`../../../../../gene/AGAP009864`,  :doc:`../../../../../gene/AGAP009865`:sup:`1` (NADH dehydrogenase (ubiquinone) 1 beta subcomplex 9),  :doc:`../../../../../gene/AGAP009866` (dolichol-phosphate mannosyltransferase),  :doc:`../../../../../gene/AGAP009867` (AFG1-family ATPase),  :doc:`../../../../../gene/AGAP009868`:sup:`4` (CPR73 - cuticular protein RR-1 family 73),  :doc:`../../../../../gene/AGAP009869`:sup:`4` (CPR74 - cuticular protein RR-1 family 74),  :doc:`../../../../../gene/AGAP009870`:sup:`4` (CPR151 - cuticular protein RR-2 family 151),  :doc:`../../../../../gene/AGAP009871`:sup:`4` (CPR75 - cuticular protein RR-1 family 75),  :doc:`../../../../../gene/AGAP009872`:sup:`4` (CPR133 - cuticular protein RR-1 family 133),  :doc:`../../../../../gene/AGAP009873`:sup:`4` (CPR153 - cuticular protein RR-2 family 153),  :doc:`../../../../../gene/AGAP028422`,  :doc:`../../../../../gene/AGAP009874`:sup:`4` (CPR76 - cuticular protein RR-1 family 76),  :doc:`../../../../../gene/AGAP009875`:sup:`4` (CPR77 - cuticular protein RR-1 family 77),  :doc:`../../../../../gene/AGAP009876`:sup:`4` (CPR78 - cuticular protein RR-1 family 78),  :doc:`../../../../../gene/AGAP009877`:sup:`4` (CPR79 - cuticular protein RR-1 family 79),  :doc:`../../../../../gene/AGAP009878`:sup:`4` (CPR80 - cuticular protein RR-1 family 80),  :doc:`../../../../../gene/AGAP009879`:sup:`4` (CPR81 - cuticular protein RR-1 family 81),  :doc:`../../../../../gene/AGAP009880` (anaphase-promoting complex subunit 8),  :doc:`../../../../../gene/AGAP009881`,  :doc:`../../../../../gene/AGAP009882` (heat shock factor-binding protein 1),  :doc:`../../../../../gene/AGAP009883`,  :doc:`../../../../../gene/AGAP009884`,  :doc:`../../../../../gene/AGAP009885`,  :doc:`../../../../../gene/AGAP009886` (Med15 - Mediator of RNA polymerase II transcription subunit 15),  :doc:`../../../../../gene/AGAP009887`,  :doc:`../../../../../gene/AGAP009888`,  :doc:`../../../../../gene/AGAP009889` (cabut),  :doc:`../../../../../gene/AGAP009890` (nuclear receptor subfamily 2 group E member 3),  :doc:`../../../../../gene/AGAP009891` (juvenile hormone esterase binding protein),  :doc:`../../../../../gene/AGAP009893` (nocturnin),  :doc:`../../../../../gene/AGAP028648`,  :doc:`../../../../../gene/AGAP009896` (proton-coupled amino acid transporter),  :doc:`../../../../../gene/AGAP009897` (proton-coupled amino acid transporter),  :doc:`../../../../../gene/AGAP009898`,  :doc:`../../../../../gene/AGAP009899`.
-
 
 
 
@@ -43,6 +44,62 @@ region: :doc:`../../../../../gene/AGAP009850` (ABCG7 - ATP-binding cassette tran
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/CMS.GAS/3/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:43,920,000-44,560,000
+      - 538
+      - 99.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:43,860,000-44,500,000
+      - 314
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:44,320,000-44,480,000
+      - 253
+      - 99.3%
+      - nan
+    * - :doc:`../../../../../signal/IHS/AOM/3/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 3R:43,740,000-44,560,000
+      - 112
+      - 99.2%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/6/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:44,440,000-44,520,000
+      - 95
+      - 99.7%
+      - nan
+    
+
 
 
 

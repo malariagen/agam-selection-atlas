@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,15 +34,11 @@ Genes
 -----
 
 
-
-
 The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP009416`,  :doc:`../../../../../gene/AGAP009417`,  :doc:`../../../../../gene/AGAP009418`,  :doc:`../../../../../gene/AGAP009419`,  :doc:`../../../../../gene/AGAP009420`,  :doc:`../../../../../gene/AGAP009424`.
 
 
 
 No genes are within 50 kbp of the focal region.
-
-
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;

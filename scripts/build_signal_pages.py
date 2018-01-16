@@ -130,8 +130,8 @@ def fig_signal_location(report, genes):
 def build_signal_outputs(path, template, genes, signals, ir_candidates):
 
     # load the basic signal report
-    with open(path, mode='rb') as plot_file:
-        report = yaml.load(plot_file)
+    with open(path, mode='rb') as report_file:
+        report = yaml.load(report_file)
 
     # figure out what chromosome arm
     chromosome = report['chromosome']
@@ -193,6 +193,19 @@ def build_signal_outputs(path, template, genes, signals, ir_candidates):
     )]
     report['overlapping_signals'] = overlapping_signals.to_dict(orient='records')
 
+    overlapping_loci = [locus for locus in known_loci
+                        if (locus['seqid'] == epicenter_seqid and
+                            locus['start_coord'] <= focus_end_coord and
+                            locus['end_coord'] >= focus_start_coord)]
+    overlapping_loci_names = set([locus['short_name'] for locus in overlapping_loci])
+    adjacent_loci = [locus for locus in known_loci
+                     if (locus['seqid'] == epicenter_seqid and
+                         locus['start_coord'] <= (focus_end_coord + 50000) and
+                         locus['end_coord'] >= (focus_start_coord - 50000) and
+                         locus['short_name'] not in overlapping_loci_names)]
+    report['overlapping_loci'] = overlapping_loci
+    report['adjacent_loci'] = adjacent_loci
+
     report['ir_candidates'] = ir_candidates
 
     # render the report
@@ -224,13 +237,6 @@ def main():
     loader = jinja2.FileSystemLoader('templates')
     env = jinja2.Environment(loader=loader)
     template = env.get_template('signal.rst')
-
-    # setup genes
-    features = allel.gff3_to_dataframe(
-        'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
-        attributes=['ID', 'Name', 'description'], attributes_fill='',
-    )
-    genes = features[features['type'] == 'gene']
 
     # setup signals
     signals = pd.read_csv('docs/_static/data/signals.csv')

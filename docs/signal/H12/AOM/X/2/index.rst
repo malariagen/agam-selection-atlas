@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP000795`,  :doc:`../../../../../gene/AGAP000797` (E3 ubiquitin-protein ligase HECW2).
-
 
 
 
@@ -43,6 +44,41 @@ region: :doc:`../../../../../gene/AGAP013289`,  :doc:`../../../../../gene/AGAP00
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/X/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - X:14,460,000-14,860,000
+      - 301
+      - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:14,500,000-15,180,000
+      - 228
+      - 98.5%
+      - nan
+    
+
 
 
 

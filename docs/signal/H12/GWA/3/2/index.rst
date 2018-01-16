@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP011479` (hyaluronoglucosaminidase),  :doc:`../../../../../gene/AGAP011480`:sup:`4`,  :doc:`../../../../../gene/AGAP011481` (GPR5HT1B - putative serotonin 5HT-1b receptor).
-
 
 
 

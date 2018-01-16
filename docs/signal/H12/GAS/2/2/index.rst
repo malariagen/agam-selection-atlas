@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 41 genes overlap the focal region: :doc:`../../../../../gene/AGAP004720`,  :doc:`../../../../../gene/AGAP004721` (N-acetylglucosamine-6-sulfatase),  :doc:`../../../../../gene/AGAP004722`,  :doc:`../../../../../gene/AGAP004723` (chromobox protein homolog 1),  :doc:`../../../../../gene/AGAP004724` (Intraflagellar transport 74 homolog),  :doc:`../../../../../gene/AGAP004725` (eIF3c - Eukaryotic translation initiation factor 3 subunit C),  :doc:`../../../../../gene/AGAP004726` (Uncharacterized protein CG3556),  :doc:`../../../../../gene/AGAP004727`:sup:`3` (Gr25 - gustatory receptor 25),  :doc:`../../../../../gene/AGAP004728`,  :doc:`../../../../../gene/AGAP004729`,  :doc:`../../../../../gene/AGAP004730` (phospholipase A2, venom),  :doc:`../../../../../gene/AGAP004731` (secretory phospholipase A2),  :doc:`../../../../../gene/AGAP029113`,  :doc:`../../../../../gene/AGAP004733`,  :doc:`../../../../../gene/AGAP004735`,  :doc:`../../../../../gene/AGAP004736` (mitochondrial GTPase 1 homolog),  :doc:`../../../../../gene/AGAP004737` (Rhomboid-4, isoform B),  :doc:`../../../../../gene/AGAP004738` (IK cytokine),  :doc:`../../../../../gene/AGAP004739` (H/ACA ribonucleoprotein complex subunit 4),  :doc:`../../../../../gene/AGAP004740`,  :doc:`../../../../../gene/AGAP004741` (serine proteinase),  :doc:`../../../../../gene/AGAP004742` (Pyruvate carboxylase),  :doc:`../../../../../gene/AGAP004743` (Transmembrane emp24 domain-containing protein),  :doc:`../../../../../gene/AGAP004744` (skap - succinyl-CoA ligase beta subunit),  :doc:`../../../../../gene/AGAP004745` (transcription elongation regulator 1),  :doc:`../../../../../gene/AGAP004746` (Thoc5 - THO complex subunit 5),  :doc:`../../../../../gene/AGAP004747` (Uncharacterized protein C05D11.1),  :doc:`../../../../../gene/AGAP004748`,  :doc:`../../../../../gene/AGAP004749`:sup:`1` (coproporphyrinogen III oxidase),  :doc:`../../../../../gene/AGAP004750` (translation initiation factor 4G),  :doc:`../../../../../gene/AGAP004751` (condensin-2 complex subunit D3),  :doc:`../../../../../gene/AGAP004752` (tRNA (guanine-N(7)-)-methyltransferase),  :doc:`../../../../../gene/AGAP004753`,  :doc:`../../../../../gene/AGAP004754` (CASPL2 - long caspase (CASPL2)),  :doc:`../../../../../gene/AGAP004755`,  :doc:`../../../../../gene/AGAP004756`,  :doc:`../../../../../gene/AGAP013546` (Vacuolar ATPase assembly integral membrane protein VMA21 homolog),  :doc:`../../../../../gene/AGAP004757`,  :doc:`../../../../../gene/AGAP004758`,  :doc:`../../../../../gene/AGAP004759` (oligoribonuclease),  :doc:`../../../../../gene/AGAP004760`.
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP004718`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,30 +62,49 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:2,474,895-2,894,895
       - 1,800
       - 99.9%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:1,814,895-3,094,895
       - 1,377
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:2,234,895-3,274,895
       - 938
       - 99.6%
+      - Vgsc
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:2,334,895-2,974,895
+      - 917
+      - 99.8%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/CMS/2/2/index`
       - H12
       - Cameroon *An. gambiae*
       - 2L:3,054,895-3,614,895
       - 725
       - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,054,895-3,394,895
+      - 533
+      - 100.0%
+      - nan
     
 
 

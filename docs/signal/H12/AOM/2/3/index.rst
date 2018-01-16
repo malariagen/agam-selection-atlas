@@ -13,6 +13,14 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/rdl`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +38,7 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP006027`:sup:`2` (glutamate receptor, ionotropic , AMPA) overlaps the focal region.
-
-
 
 
 
@@ -43,6 +48,41 @@ region: :doc:`../../../../../gene/AGAP006025` (Ras-like protein family member), 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/BFM/2/3/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2L:24,754,895-25,434,895
+      - 304
+      - 99.9%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/6/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:25,254,895-25,414,895
+      - 92
+      - 83.9%
+      - Rdl
+    
+
 
 
 

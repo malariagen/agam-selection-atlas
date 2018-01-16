@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 12 genes overlap the focal region: :doc:`../../../../../gene/AGAP010147` (myosin heavy chain),  :doc:`../../../../../gene/AGAP010148`,  :doc:`../../../../../gene/AGAP010149` (cytochrome b5-related),  :doc:`../../../../../gene/AGAP010150`:sup:`1` (cytochrome b5-related),  :doc:`../../../../../gene/AGAP010151`,  :doc:`../../../../../gene/AGAP010152` (gem associated protein 5),  :doc:`../../../../../gene/AGAP010155`,  :doc:`../../../../../gene/AGAP013739`,  :doc:`../../../../../gene/AGAP010156` (ATP citrate lyase),  :doc:`../../../../../gene/AGAP013762`,  :doc:`../../../../../gene/AGAP010157` (Ast2 - allatostatin 2),  :doc:`../../../../../gene/AGAP010158`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP010145` (yellow),  :doc:`../../../../../ge
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/5/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:49,540,000-49,660,000
+      - 93
+      - 98.9%
+      - nan
+    
+
 
 
 

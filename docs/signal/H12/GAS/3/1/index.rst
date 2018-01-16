@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 32 genes overlap the focal region: :doc:`../../../../../gene/AGAP010744`,  :doc:`../../../../../gene/AGAP010745`,  :doc:`../../../../../gene/AGAP010746`,  :doc:`../../../../../gene/AGAP010748`,  :doc:`../../../../../gene/AGAP010750` (ryanodine receptor 2),  :doc:`../../../../../gene/AGAP010751`,  :doc:`../../../../../gene/AGAP010752`,  :doc:`../../../../../gene/AGAP010753`,  :doc:`../../../../../gene/AGAP010754`,  :doc:`../../../../../gene/AGAP010755` (protein mago nashi),  :doc:`../../../../../gene/AGAP010756`,  :doc:`../../../../../gene/AGAP010757`,  :doc:`../../../../../gene/AGAP010758` (Metalloendopeptidase (Fragment)),  :doc:`../../../../../gene/AGAP010759`,  :doc:`../../../../../gene/AGAP010760`,  :doc:`../../../../../gene/AGAP010761`,  :doc:`../../../../../gene/AGAP010762`,  :doc:`../../../../../gene/AGAP010763`,  :doc:`../../../../../gene/AGAP010764` (Metalloendopeptidase),  :doc:`../../../../../gene/AGAP010765`,  :doc:`../../../../../gene/AGAP010766`,  :doc:`../../../../../gene/AGAP010767`,  :doc:`../../../../../gene/AGAP010768` (NEFA-interacting nuclear protein NIP30),  :doc:`../../../../../gene/AGAP010769` (glucosamine-phosphate N-acetyltransferase),  :doc:`../../../../../gene/AGAP010770`,  :doc:`../../../../../gene/AGAP010771`,  :doc:`../../../../../gene/AGAP010772`,  :doc:`../../../../../gene/AGAP010773`,  :doc:`../../../../../gene/AGAP010774`,  :doc:`../../../../../gene/AGAP010775`,  :doc:`../../../../../gene/AGAP010776`,  :doc:`../../../../../gene/AGAP010777` (hunchback).
-
 
 
 

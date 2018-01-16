@@ -13,6 +13,14 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+This signal overlaps the :doc:`../../../../../known-locus/vgsc`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +38,7 @@ Genes
 -----
 
 
-
-
 The following 21 genes overlap the focal region: :doc:`../../../../../gene/AGAP004691` (LIM domain-binding protein 1),  :doc:`../../../../../gene/AGAP028433`,  :doc:`../../../../../gene/AGAP004692`,  :doc:`../../../../../gene/AGAP004693` (nuclear receptor subfamily 6 group A),  :doc:`../../../../../gene/AGAP004694`,  :doc:`../../../../../gene/AGAP028434`,  :doc:`../../../../../gene/AGAP028435`,  :doc:`../../../../../gene/AGAP004695` (ESCRT-I complex subunit MVB12),  :doc:`../../../../../gene/AGAP004696` (exd - Homeobox protein extradenticle),  :doc:`../../../../../gene/AGAP004698` (pre-mRNA-splicing factor 38B),  :doc:`../../../../../gene/AGAP004699` (RAF proto-oncogene serine/threonine-protein kinase),  :doc:`../../../../../gene/AGAP004700`,  :doc:`../../../../../gene/AGAP004701`,  :doc:`../../../../../gene/AGAP028436`,  :doc:`../../../../../gene/AGAP004702`,  :doc:`../../../../../gene/AGAP004703` (DNA-directed RNA polymerase III subunit RPC1),  :doc:`../../../../../gene/AGAP004704` (COMPASS component SPP1),  :doc:`../../../../../gene/AGAP028437`,  :doc:`../../../../../gene/AGAP004706`,  :doc:`../../../../../gene/AGAP004707`:sup:`2` (para - voltage-gated sodium channel),  :doc:`../../../../../gene/AGAP004708` (arginyl-tRNA synthetase).
-
 
 
 
@@ -44,8 +49,8 @@ region: :doc:`../../../../../gene/AGAP004709` (mRpL18 - 39S ribosomal protein L1
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,30 +66,42 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2L:2,474,895-2,894,895
       - 1,800
       - 99.9%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/BFS/2/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:1,454,895-2,694,895
       - 1,776
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:1,814,895-3,094,895
       - 1,377
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:2,234,895-3,274,895
       - 938
       - 99.6%
+      - Vgsc
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:2,334,895-2,974,895
+      - 917
+      - 99.8%
+      - Vgsc
     
 
 

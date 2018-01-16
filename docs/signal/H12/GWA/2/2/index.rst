@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
 Gene :doc:`../../../../../gene/AGAP004000` (myosin IX) overlaps the focal region.
-
-
 
 
 
@@ -43,6 +44,55 @@ region: :doc:`../../../../../gene/AGAP003997` (casein kinase 1, gamma),  :doc:`.
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFM/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,760,000-47,800,000
+      - 303
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFS/2/3/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,760,000-47,800,000
+      - 167
+      - 98.6%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GWA/2/1/index`
+      - IHS
+      - Guinea Bissau
+      - 2R:47,780,000-47,940,000
+      - 117
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.UGS/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,740,000-47,800,000
+      - 113
+      - 95.0%
+      - nan
+    
+
 
 
 

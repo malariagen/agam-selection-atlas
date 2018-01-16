@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,8 +34,6 @@ Genes
 -----
 
 
-
-
 The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP006439` (fringe),  :doc:`../../../../../gene/AGAP006440` (IR136 - ionotropic receptor IR136).
 
 
@@ -39,9 +41,50 @@ The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP00
 Gene :doc:`../../../../../gene/AGAP006441` (GTP cyclohydrolase I) is within 50 kbp of the focal region.
 
 
-
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/GWA.UGS/2/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,914,895-32,034,895
+      - 430
+      - 93.3%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFS/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,874,895-32,014,895
+      - 261
+      - 97.3%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFM/2/3/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2L:31,934,895-32,014,895
+      - 175
+      - 99.6%
+      - nan
+    
+
 
 
 

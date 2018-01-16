@@ -15,6 +15,10 @@ using the :doc:`../../../../../method/XPEHH` statistic.The focus of this signal 
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -32,10 +36,7 @@ Genes
 -----
 
 
-
-
 The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP000540` (proton-coupled amino acid transporter),  :doc:`../../../../../gene/AGAP000541` (RpS15a-1 - 40S ribosomal protein S15a),  :doc:`../../../../../gene/AGAP013055`.
-
 
 
 
@@ -46,8 +47,8 @@ region: :doc:`../../../../../gene/AGAP012976`,  :doc:`../../../../../gene/AGAP01
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -63,18 +64,35 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/IHS/BFS/X/1/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - X:9,160,000-9,680,000
       - 515
       - 99.7%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/X/3/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:9,660,000-9,760,000
       - 267
       - 91.6%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.BFM/X/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:9,660,000-9,700,000
+      - 214
+      - 88.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/X/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - X:9,660,000-9,700,000
+      - 183
+      - 97.8%
+      - nan
     
 
 

@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 18 genes overlap the focal region: :doc:`../../../../../gene/AGAP006540` (LIM homeobox protein),  :doc:`../../../../../gene/AGAP006541` (Transcriptional regulators containing a dna-binding hth domain and an aminotransferase domain transcription regulator protein),  :doc:`../../../../../gene/AGAP006542` (cactin),  :doc:`../../../../../gene/AGAP006543`,  :doc:`../../../../../gene/AGAP028608`,  :doc:`../../../../../gene/AGAP006546`,  :doc:`../../../../../gene/AGAP006547`,  :doc:`../../../../../gene/AGAP006548` (glycine cleavage system H protein),  :doc:`../../../../../gene/AGAP006549`,  :doc:`../../../../../gene/AGAP006550`,  :doc:`../../../../../gene/AGAP006551`,  :doc:`../../../../../gene/AGAP006552`,  :doc:`../../../../../gene/AGAP006553`,  :doc:`../../../../../gene/AGAP006554`,  :doc:`../../../../../gene/AGAP006555`,  :doc:`../../../../../gene/AGAP006556`,  :doc:`../../../../../gene/AGAP006557`,  :doc:`../../../../../gene/AGAP006558`.
-
 
 
 
@@ -43,6 +44,55 @@ region: :doc:`../../../../../gene/AGAP006539` (eupolytin),  :doc:`../../../../..
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/UGS/2/2/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2L:33,934,895-34,194,895
+      - 860
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/2/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,134,895-34,234,895
+      - 487
+      - 98.3%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.GWA/2/2/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,114,895-34,214,895
+      - 422
+      - 95.2%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.CMS/2/3/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2L:34,134,895-34,234,895
+      - 342
+      - 99.2%
+      - nan
+    
+
 
 
 

@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,14 +34,11 @@ Genes
 -----
 
 
-
-
 The following 4 genes overlap the focal region: :doc:`../../../../../gene/AGAP011374` (AP-1 complex subunit mu),  :doc:`../../../../../gene/AGAP011375` (Selenophosphate synthetase 2),  :doc:`../../../../../gene/AGAP011376`,  :doc:`../../../../../gene/AGAP011377`.
 
 
 
 Gene :doc:`../../../../../gene/AGAP011373` is within 50 kbp of the focal region.
-
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;

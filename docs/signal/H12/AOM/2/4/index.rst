@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 20 genes overlap the focal region: :doc:`../../../../../gene/AGAP004630` (Erg28-domain containing protein),  :doc:`../../../../../gene/AGAP004631`,  :doc:`../../../../../gene/AGAP004632` (DEF2 - defensin anti-microbial peptide),  :doc:`../../../../../gene/AGAP004633` (sodium-independent sulfate anion transporter),  :doc:`../../../../../gene/AGAP004634`,  :doc:`../../../../../gene/AGAP004635` (sodium-independent sulfate anion transporter),  :doc:`../../../../../gene/AGAP013218` (sodium-independent sulfate anion transporter),  :doc:`../../../../../gene/AGAP004636` (sodium-independent sulfate anion transporter),  :doc:`../../../../../gene/AGAP004637` (transcriptional activator cubitus interruptus),  :doc:`../../../../../gene/AGAP013117`,  :doc:`../../../../../gene/AGAP004638`,  :doc:`../../../../../gene/AGAP004639`,  :doc:`../../../../../gene/AGAP004640`,  :doc:`../../../../../gene/AGAP013302`,  :doc:`../../../../../gene/AGAP004641` (ATP synthase mitochondrial F1 complex assembly factor 1),  :doc:`../../../../../gene/AGAP004642` (NPF - Neuropeptide F),  :doc:`../../../../../gene/AGAP013063` (Synaptic vesicle protein),  :doc:`../../../../../gene/AGAP004643` (SCRB6 - Class B Scavenger Receptor (CD36 domain).),  :doc:`../../../../../gene/AGAP004644`,  :doc:`../../../../../gene/AGAP004645` (juvenile hormone diol kinase).
-
 
 
 

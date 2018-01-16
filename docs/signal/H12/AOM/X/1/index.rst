@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP000232` (regulator of G-protein signaling),  :doc:`../../../../../gene/AGAP000233`.
-
 
 
 
@@ -43,6 +44,55 @@ region: :doc:`../../../../../gene/AGAP000228` (netrin 1),  :doc:`../../../../../
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/X/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:4,320,000-4,360,000
+      - 292
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:4,340,000-4,380,000
+      - 242
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/IHS/AOM/X/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - X:4,280,000-4,360,000
+      - 178
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GAS/X/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:4,340,000-4,420,000
+      - 137
+      - 100.0%
+      - nan
+    
+
 
 
 

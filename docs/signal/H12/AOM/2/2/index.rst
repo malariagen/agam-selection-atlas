@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 4 genes overlap the focal region: :doc:`../../../../../gene/AGAP002826`,  :doc:`../../../../../gene/AGAP002828`,  :doc:`../../../../../gene/AGAP002829` (SPN-E - ATP-dependent RNA helicase spindle-E),  :doc:`../../../../../gene/AGAP002830`:sup:`1` (C-1-tetrahydrofolate synthase, mitochondrial precursor).
-
 
 
 
@@ -43,6 +44,55 @@ region: :doc:`../../../../../gene/AGAP002824` (GPRTAK1 - putative tachykinin rec
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:27,980,000-28,280,000
+      - 753
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/IHS/AOM/2/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:27,980,000-28,040,000
+      - 324
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/2/3/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:28,000,000-28,060,000
+      - 295
+      - 99.4%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/5/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:27,980,000-28,040,000
+      - 96
+      - 95.2%
+      - nan
+    
+
 
 
 

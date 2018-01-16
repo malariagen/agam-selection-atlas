@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP011917` (serine-type enodpeptidase),  :doc:`../../../../../gene/AGAP011918` (Serine-type enodpeptidase),  :doc:`../../../../../gene/AGAP011919` (eupolytin),  :doc:`../../../../../gene/AGAP011920` (eupolytin),  :doc:`../../../../../gene/AGAP011921`.
-
 
 
 

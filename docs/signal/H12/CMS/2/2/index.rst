@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 46 genes overlap the focal region: :doc:`../../../../../gene/AGAP004751` (condensin-2 complex subunit D3),  :doc:`../../../../../gene/AGAP004752` (tRNA (guanine-N(7)-)-methyltransferase),  :doc:`../../../../../gene/AGAP004753`,  :doc:`../../../../../gene/AGAP004754` (CASPL2 - long caspase (CASPL2)),  :doc:`../../../../../gene/AGAP004755`,  :doc:`../../../../../gene/AGAP004756`,  :doc:`../../../../../gene/AGAP013546` (Vacuolar ATPase assembly integral membrane protein VMA21 homolog),  :doc:`../../../../../gene/AGAP004757`,  :doc:`../../../../../gene/AGAP004758`,  :doc:`../../../../../gene/AGAP004759` (oligoribonuclease),  :doc:`../../../../../gene/AGAP004760`,  :doc:`../../../../../gene/AGAP004761`,  :doc:`../../../../../gene/AGAP004762` (alpha-tocopherol transfer protein-like protein),  :doc:`../../../../../gene/AGAP004763`,  :doc:`../../../../../gene/AGAP004764`,  :doc:`../../../../../gene/AGAP004765` (ATP-dependent RNA helicase DDX1),  :doc:`../../../../../gene/AGAP028129`,  :doc:`../../../../../gene/AGAP004766` (endophilin-A),  :doc:`../../../../../gene/AGAP004767`,  :doc:`../../../../../gene/AGAP004768` (periodic tryptophan protein 1),  :doc:`../../../../../gene/AGAP004769` (Ras-related protein Rap-1b precursor),  :doc:`../../../../../gene/AGAP004770` (female reproductive tract protease GLEANR_896),  :doc:`../../../../../gene/AGAP004771`,  :doc:`../../../../../gene/AGAP004772` (SLIT-ROBO Rho GTPase activating protein),  :doc:`../../../../../gene/AGAP004773` (pyruvate dehydrogenase E1 component subunit alpha, mitochondrial),  :doc:`../../../../../gene/AGAP004774` (host cell factor),  :doc:`../../../../../gene/AGAP004775` (Xaa-Pro dipeptidase),  :doc:`../../../../../gene/AGAP004776` (pre-mRNA-processing factor SLU7),  :doc:`../../../../../gene/AGAP004777`,  :doc:`../../../../../gene/AGAP004778`,  :doc:`../../../../../gene/AGAP004780` (cyclin-dependent kinase 12/13),  :doc:`../../../../../gene/AGAP004781` (beta-1,4-galactosyltransferase I),  :doc:`../../../../../gene/AGAP004782` (tubulin-specific chaperone D),  :doc:`../../../../../gene/AGAP004783` (predicted G-protein coupled receptor GPCR),  :doc:`../../../../../gene/AGAP004784` (fatty acyl-CoA reductase 2),  :doc:`../../../../../gene/AGAP004785` (alpha-tocopherol transfer protein-like),  :doc:`../../../../../gene/AGAP004786` (Pyruvate dehydrogenase E1 component subunit alpha),  :doc:`../../../../../gene/AGAP004787` (Fatty acyl-CoA reductase),  :doc:`../../../../../gene/AGAP004788` (Up-regulated during skeletal muscle growth 5 homolog),  :doc:`../../../../../gene/AGAP004789` (high mobility group 20A),  :doc:`../../../../../gene/AGAP004790` (Up-regulated during skeletal muscle growth 5 homolog),  :doc:`../../../../../gene/AGAP004791` (high mobility group 20A),  :doc:`../../../../../gene/AGAP004792` (StAR-related lipid transfer protein 7),  :doc:`../../../../../gene/AGAP004793` (ornithine--oxo-acid transaminase),  :doc:`../../../../../gene/AGAP004794` (pancreatic triacylglycerol lipase),  :doc:`../../../../../gene/AGAP004795` (RNA polymerase II elongation factor ELL).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP004742` (Pyruvate carboxylase),  :doc:`../
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,24 +62,56 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
       - 2L:1,814,895-3,094,895
       - 1,377
       - 100.0%
+      - Vgsc
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:2,234,895-3,274,895
       - 938
       - 99.6%
+      - Vgsc
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:3,474,895-3,814,895
+      - 760
+      - 99.6%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,054,895-3,394,895
+      - 533
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/2/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2L:3,574,895-3,834,895
+      - 364
+      - 99.9%
+      - nan
     * - :doc:`../../../../../signal/H12/GAS/2/2/index`
       - H12
       - Gabon *An. gambiae*
       - 2L:2,734,895-3,094,895
       - 325
       - 99.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/2/2/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:3,354,895-3,714,895
+      - 274
+      - 99.9%
+      - nan
     
 
 

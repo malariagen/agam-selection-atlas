@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP011537` (Argonaute 3),  :doc:`../../../../../gene/AGAP028430`,  :doc:`../../../../../gene/AGAP011538`,  :doc:`../../../../../gene/AGAP011539` (dynein intermediate chain 2, axonemal),  :doc:`../../../../../gene/AGAP011540` (dynein intermediate chain 2, axonemal),  :doc:`../../../../../gene/AGAP011541` (Ecto-NOX disulfide-thiol exchanger 1).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP011531` (Selenium-binding protein 2),  :do
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,24 +62,49 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
     * - :doc:`../../../../../signal/H12/CMS/3/2/index`
       - H12
       - Cameroon *An. gambiae*
       - 3L:26,879,316-26,919,316
       - 328
       - 89.2%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/3/2/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 3L:26,879,316-26,979,316
       - 291
       - 92.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/3/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3L:26,939,316-26,979,316
+      - 252
+      - 99.8%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/3/3/index`
       - H12
       - Guinea *An. gambiae*
       - 3L:26,939,316-26,979,316
       - 229
       - 94.4%
+      - nan
+    * - :doc:`../../../../../signal/IHS/CMS/3/3/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 186
+      - 93.0%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GNS/3/3/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 115
+      - 96.8%
+      - nan
     
 
 

@@ -17,6 +17,7 @@ if __name__ == '__main__':
     genes = features[features['type'] == 'gene']
 
     signals = pd.read_csv('docs/_static/data/signals.csv')
+    os.makedirs(os.path.join('docs', 'gene'), exist_ok=True)
 
     for _, gene in genes.iterrows():
 
@@ -38,6 +39,17 @@ if __name__ == '__main__':
             ((signals.focus_end + 50000) >= gene.start)
         ]
 
+        overlapping_loci = [locus for locus in known_loci
+                            if (locus['seqid'] == gene.seqid and
+                                locus['start_coord'] <= gene.end and
+                                locus['end_coord'] >= gene.start)]
+        overlapping_loci_names = set([locus['short_name'] for locus in overlapping_loci])
+        adjacent_loci = [locus for locus in known_loci
+                         if (locus['seqid'] == gene.seqid and
+                             locus['start_coord'] <= (gene.end + 50000) and
+                             locus['end_coord'] >= (gene.start - 50000) and
+                             locus['short_name'] not in overlapping_loci_names)]
+
         gene_report = {
             'gene': {
                 'id': gene.ID,
@@ -51,6 +63,8 @@ if __name__ == '__main__':
                 overlapping_signals.to_dict(orient='records'),
             'adjacent_signals':
                 adjacent_signals.to_dict(orient='records'),
+            'overlapping_loci': overlapping_loci,
+            'adjacent_loci': adjacent_loci,
         }
 
         out_path = os.path.join('docs', 'gene', gene.ID + '.rst')

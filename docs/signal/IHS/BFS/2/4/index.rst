@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 20 genes overlap the focal region: :doc:`../../../../../gene/AGAP006250` (eukaryotic elongation factor, selenocysteine-tRNA-specific),  :doc:`../../../../../gene/AGAP006251` (syntaxin 6),  :doc:`../../../../../gene/AGAP006252` (Cysteine-rich venom protein),  :doc:`../../../../../gene/AGAP006253` (Cysteine-rich venom protein),  :doc:`../../../../../gene/AGAP006254` (polypeptide N-acetylglucosaminyltransferase),  :doc:`../../../../../gene/AGAP006255`,  :doc:`../../../../../gene/AGAP006256` (Cad74A),  :doc:`../../../../../gene/AGAP028399`,  :doc:`../../../../../gene/AGAP028454`,  :doc:`../../../../../gene/AGAP006257`,  :doc:`../../../../../gene/AGAP006258`:sup:`1` (PPO2 - prophenoloxidase 2),  :doc:`../../../../../gene/AGAP006259`,  :doc:`../../../../../gene/AGAP006260` (Z band alternatively spliced PDZ-motif protein 66),  :doc:`../../../../../gene/AGAP006261`:sup:`4` (CPR135 - cuticular protein RR-2 family 135),  :doc:`../../../../../gene/AGAP006262`,  :doc:`../../../../../gene/AGAP006263` (ARR2 - arrestin Arr2-like),  :doc:`../../../../../gene/AGAP006264` (Peroxisomal targeting signal 2 receptor),  :doc:`../../../../../gene/AGAP006265`,  :doc:`../../../../../gene/AGAP006266` (HIV Tat-specific factor 1),  :doc:`../../../../../gene/AGAP006267` (CTL6 - C-type lectin (CTL)).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP006232` (peroxin-14),  :doc:`../../../../.
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,24 +62,42 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:28,354,895-28,674,895
+      - 1,933
+      - 99.2%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.BFM/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:28,454,895-28,654,895
+      - 900
+      - 99.8%
+      - nan
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2L:28,374,895-28,694,895
       - 863
       - 98.0%
+      - nan
     * - :doc:`../../../../../signal/H12/BFS/2/3/index`
       - H12
       - Burkina Faso *An. gambiae*
       - 2L:28,494,895-28,634,895
       - 834
       - 98.3%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/2/3/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:28,434,895-28,834,895
       - 301
       - 98.3%
+      - nan
     
 
 

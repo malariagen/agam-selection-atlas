@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP006868`:sup:`4` (CPR140 - cuticular protein RR-1 family 140),  :doc:`../../../../../gene/AGAP006869` (eupolytin),  :doc:`../../../../../gene/AGAP006870`:sup:`3`,  :doc:`../../../../../gene/AGAP006871` (RpS4 - 40S ribosomal protein S4),  :doc:`../../../../../gene/AGAP006872` (NIMA (never in mitosis gene a)-related kinase),  :doc:`../../../../../gene/AGAP006873` (Ras-related protein Rab-8A),  :doc:`../../../../../gene/AGAP006874`:sup:`3` (Gr29 - gustatory receptor 29),  :doc:`../../../../../gene/AGAP006875`:sup:`3` (Gr30 - gustatory receptor 30),  :doc:`../../../../../gene/AGAP006876`:sup:`3` (Gr31 - gustatory receptor 31),  :doc:`../../../../../gene/AGAP006877`:sup:`3` (Gr32 - gustatory receptor 32).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP006866`:sup:`4` (CPR63 - cuticular protein
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,12 +62,28 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/CMS/2/5/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 137
+      - 95.6%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GNS/2/4/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 119
+      - 96.8%
+      - nan
     * - :doc:`../../../../../signal/H12/GNS/2/5/index`
       - H12
       - Guinea *An. gambiae*
       - 2L:39,254,895-39,294,895
       - 110
       - 94.7%
+      - nan
     
 
 

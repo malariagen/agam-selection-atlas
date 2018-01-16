@@ -36,13 +36,8 @@ if __name__ == '__main__':
         'max_value',
         'max_percentile',
         'overlapping_genes',
+        'known_loci'
     ]]
-
-    features = allel.gff3_to_dataframe(
-        'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
-        attributes=['ID', 'Name', 'description'], attributes_fill='',
-    )
-    genes = features[features['type'] == 'gene']
 
     for path in sorted(glob('docs/_static/data/signal/*/*/*/*/report.yml')):
         print('reading', path)
@@ -91,6 +86,15 @@ if __name__ == '__main__':
             [g.ID for _, g in overlapping_genes.iterrows()]
         )
 
+        # find known loci
+        known_loci_value = ', '.join([
+            locus['short_name'] for locus in known_loci
+            if (locus['seqid'] == epicenter_seqid and
+                locus['start_coord'] <= (focus_end_coord + 50000) and
+                locus['end_coord'] >= (focus_start_coord - 50000))
+        ])
+        print(report['uid'], 'known loci', known_loci_value)
+
         row = [
             report['uid'],
             report['pop_key'],
@@ -126,6 +130,7 @@ if __name__ == '__main__':
             report['max_value'],
             report['max_percentile'],
             overlapping_genes,
+            known_loci_value,
         ]
         table += [row]
 

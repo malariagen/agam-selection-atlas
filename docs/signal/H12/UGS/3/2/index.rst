@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 12 genes overlap the focal region: :doc:`../../../../../gene/AGAP010159` (dUTP pyrophosphatase),  :doc:`../../../../../gene/AGAP010160` (myosin I),  :doc:`../../../../../gene/AGAP010161`,  :doc:`../../../../../gene/AGAP010162`,  :doc:`../../../../../gene/AGAP010163` (RpL38 - 60S ribosomal protein L38),  :doc:`../../../../../gene/AGAP010164` (whd - protein withered, carnitine O-palmitoyltransferase),  :doc:`../../../../../gene/AGAP010165` (dynein light intermediate chain 2, cytosolic),  :doc:`../../../../../gene/AGAP010166`,  :doc:`../../../../../gene/AGAP010167` (numb),  :doc:`../../../../../gene/AGAP010168`,  :doc:`../../../../../gene/AGAP010169`:sup:`2`,  :doc:`../../../../../gene/AGAP028032`:sup:`2`.
-
 
 
 
@@ -43,6 +44,34 @@ region: :doc:`../../../../../gene/AGAP010158`,  :doc:`../../../../../gene/AGAP01
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/5/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:49,540,000-49,660,000
+      - 93
+      - 98.9%
+      - nan
+    
+
 
 
 

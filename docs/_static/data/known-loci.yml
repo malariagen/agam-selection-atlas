@@ -1,0 +1,55 @@
+- short_name: "Vgsc"
+  long_name: "Voltage-gated sodium channel gene"
+  seqid: "2L"
+  start_coord: 2358158
+  end_coord: 2431617
+  evidence:
+  - statement: "TODO"
+    author: "TODO"
+    year: "TODO"
+    title: "TODO"
+    url: "TODO"
+- short_name: "Gste"
+  long_name: "Glutathione S-transferase epsilon gene cluster"
+  seqid: "3R"
+  start_coord: 28591663
+  end_coord: 28602280
+  evidence:
+  - statement: TODO
+    author: TODO
+    year: TODO
+    title: TODO
+    url: TODO
+- short_name: "Cyp6p"
+  long_name: "Cyp6aa, Cyp6p and Cyp6ad cytochrome P450 gene cluster"
+  seqid: "2R"
+  start_coord: 28480576
+  end_coord: 28505816
+  evidence:
+  - statement: TODO
+    author: TODO
+    year: TODO
+    title: TODO
+    url: TODO
+- short_name: "Ace1"
+  long_name: "Acetylcholinesterase gene"
+  seqid: "2R"
+  start_coord: 3484107
+  end_coord: 3495790
+  evidence:
+  - statement: TODO
+    author: TODO
+    year: TODO
+    title: TODO
+    url: TODO
+- short_name: "Rdl"
+  long_name: "GABA-gated chloride channel subunit gene"
+  seqid: "2L"
+  start_coord: 25363652
+  end_coord: 25434556
+  evidence:
+  - statement: TODO
+    author: TODO
+    year: TODO
+    title: TODO
+    url: TODO

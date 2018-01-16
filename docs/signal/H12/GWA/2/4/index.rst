@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 9 genes overlap the focal region: :doc:`../../../../../gene/AGAP002916`,  :doc:`../../../../../gene/AGAP002917` (mRpL34 - 39S ribosomal protein L34, mitochondrial),  :doc:`../../../../../gene/AGAP002918`,  :doc:`../../../../../gene/AGAP002919` (RpS6 - 40S ribosomal protein S6),  :doc:`../../../../../gene/AGAP002920`,  :doc:`../../../../../gene/AGAP002921` (RpL36 - 60S ribosomal protein L36),  :doc:`../../../../../gene/AGAP002922` (Secretory carrier-associated membrane protein),  :doc:`../../../../../gene/AGAP002923` (bystin),  :doc:`../../../../../gene/AGAP002924` (Protein tweety homolog).
-
 
 
 

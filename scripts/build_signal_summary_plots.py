@@ -124,6 +124,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         raise ValueError('no signals')
 
     # fix coordinates where peaks span two arms
+    # N.B., 'R' arm is on the left, and 'L' arm is on the right!
     peak_start_seqid = df.peak_start_seqid
     peak_end_seqid = df.peak_end_seqid
     peak_start_coord = df.peak_start_coord.copy()
@@ -156,8 +157,10 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     # construct a hover label for the statistic
     statistic_label = df.statistic.copy()
     has_ref_pop = df.reference_population_label.notnull()
+    ref_pop_label = df.reference_population_label.copy()
+    ref_pop_label = ref_pop_label.str.replace('*', '')
     statistic_label[has_ref_pop] = (
-        statistic_label[has_ref_pop] + ' versus ' + df.reference_population_label[has_ref_pop]
+        statistic_label[has_ref_pop] + ' versus ' + ref_pop_label[has_ref_pop]
     )
 
     # setup plotting data source
@@ -272,11 +275,12 @@ def fig_signals(df_signals, df_genes, seqid, pop_labels, root_path='../'):
 
 def build_population_plots(df_signals, df_genes):
 
-    # load populations definitions
-    with open('docs/_static/data/populations.yml', mode='r') as f:
-        populations = yaml.load(f)
+    # # load populations definitions
+    # with open('docs/_static/data/populations.yml', mode='r') as f:
+    #     populations = yaml.load(f)
 
     print('rendering population plots')
+    os.makedirs('docs/population', exist_ok=True)
     for pop in populations:
         df_pop = df_signals[df_signals.focal_population == pop]
         for seqid in seqids:
@@ -296,6 +300,7 @@ def build_population_plots(df_signals, df_genes):
                     print('</div>', file=f)
 
     print('rendering seqid plots')
+    os.makedirs('docs/seqid', exist_ok=True)
     for seqid in seqids:
         plot_path = 'docs/seqid/{}.signals.html'.format(seqid)
         try:

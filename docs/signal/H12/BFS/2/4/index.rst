@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 31 genes overlap the focal region: :doc:`../../../../../gene/AGAP003624`,  :doc:`../../../../../gene/AGAP029110`,  :doc:`../../../../../gene/AGAP003626`,  :doc:`../../../../../gene/AGAP013221`,  :doc:`../../../../../gene/AGAP012946`,  :doc:`../../../../../gene/AGAP003627`,  :doc:`../../../../../gene/AGAP003629`,  :doc:`../../../../../gene/AGAP003630`,  :doc:`../../../../../gene/AGAP003631` (GPRGRP2 - putative gastrin/bombesin receptor 2),  :doc:`../../../../../gene/AGAP003632` (U3 small nucleolar RNA-associated protein 14),  :doc:`../../../../../gene/AGAP003633`,  :doc:`../../../../../gene/AGAP003635`,  :doc:`../../../../../gene/AGAP003636`:sup:`1` (inositol oxygenase),  :doc:`../../../../../gene/AGAP003638`,  :doc:`../../../../../gene/AGAP003639` (Prolylcarboxypeptidase),  :doc:`../../../../../gene/AGAP003640`:sup:`1` (SP8905),  :doc:`../../../../../gene/AGAP003641`:sup:`1` (SP8907),  :doc:`../../../../../gene/AGAP003642`:sup:`1` (SP8898),  :doc:`../../../../../gene/AGAP003643` (ubiquitin carboxyl-terminal hydrolase 34),  :doc:`../../../../../gene/AGAP003644` (mRpS11 - 28S ribosomal protein S11, mitochondrial),  :doc:`../../../../../gene/AGAP003645` (kelch-like protein 19),  :doc:`../../../../../gene/AGAP013307`,  :doc:`../../../../../gene/AGAP003646`,  :doc:`../../../../../gene/AGAP003647`,  :doc:`../../../../../gene/AGAP003648` (DNA-directed RNA polymerase II subunit RPB2),  :doc:`../../../../../gene/AGAP003649`,  :doc:`../../../../../gene/AGAP003650` (translation initiation factor eIF-2B subunit alpha),  :doc:`../../../../../gene/AGAP003651` (Tyrosine-protein kinase Fes/Fps),  :doc:`../../../../../gene/AGAP012992`,  :doc:`../../../../../gene/AGAP013502`,  :doc:`../../../../../gene/AGAP003652`:sup:`1` (aldehyde dehydrogenase (NAD )).
-
 
 
 
@@ -44,8 +45,8 @@ region: :doc:`../../../../../gene/AGAP003620`,  :doc:`../../../../../gene/AGAP00
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
@@ -61,24 +62,63 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:40,880,000-40,940,000
+      - 1,181
+      - 99.6%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/2/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:41,020,000-41,400,000
+      - 943
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/CMS/2/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:40,060,000-40,780,000
+      - 643
+      - 100.0%
+      - nan
     * - :doc:`../../../../../signal/H12/BFM/2/3/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 2R:40,920,000-40,960,000
       - 512
       - 97.6%
+      - nan
     * - :doc:`../../../../../signal/H12/CMS/2/3/index`
       - H12
       - Cameroon *An. gambiae*
       - 2R:40,300,000-40,740,000
       - 501
       - 98.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/2/2/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2R:40,880,000-41,160,000
+      - 312
+      - 99.7%
+      - nan
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/5/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - 2R:40,780,000-40,820,000
       - 195
       - 94.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/3/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:40,680,000-40,760,000
+      - 100
+      - 96.5%
+      - nan
     
 
 

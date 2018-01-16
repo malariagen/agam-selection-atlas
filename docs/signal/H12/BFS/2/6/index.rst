@@ -13,6 +13,10 @@ This page describes a signal of selection found in the
 The evidence supporting this signal is
 **moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
 
+
+
+
+
 .. raw:: html
     :file: peak_location.html
 
@@ -30,10 +34,7 @@ Genes
 -----
 
 
-
-
 The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP003244` (GPRGHP2 - putative growth hormone releasing hormone receptor 2),  :doc:`../../../../../gene/AGAP003245` (CLIPA19 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003246` (CLIPB2 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003247` (CLIPB19 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003248`.
-
 
 
 
@@ -43,6 +44,48 @@ region: :doc:`../../../../../gene/AGAP003239` (meiotic chromosome segregation pr
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+      - Known Loci
+    * - :doc:`../../../../../signal/IHS/AOM/2/3/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:33,940,000-34,440,000
+      - 213
+      - 99.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/2/7/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:34,320,000-34,440,000
+      - 108
+      - 86.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/5/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:34,420,000-34,480,000
+      - 95
+      - 96.7%
+      - nan
+    
+
 
 
 
