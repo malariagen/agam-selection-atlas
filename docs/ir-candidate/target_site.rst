@@ -24,6 +24,7 @@ number of technical reasons why a true signal of selection might not be detected
 
     :doc:`../gene/AGAP000801`, "GLURIIb", "Ionotropic receptor gluriib", "X:14,618,213-14,733,582", 2 (1 | 1)
     :doc:`../gene/AGAP000798`, "GLURIIc", "Ionotropic receptor gluriic", "X:14,600,998-14,612,133", 2 (0 | 2)
+    :doc:`../gene/AGAP001356`, "ACE1", "Acetylcholinesterase", "2R:3,484,107-3,495,790", 1 (1 | 0)
     :doc:`../gene/AGAP010169`, "", "", "3R:49,859,628-49,870,902", 1 (1 | 0)
     :doc:`../gene/AGAP028032`, "", "", "3R:49,878,991-49,880,259", 1 (1 | 0)
     :doc:`../gene/AGAP000803`, "GLURIIa", "Ionotropic receptor gluriia", "X:14,738,910-14,744,472", 1 (1 | 0)
@@ -41,7 +42,6 @@ number of technical reasons why a true signal of selection might not be detected
     :doc:`../gene/AGAP007086`, "", "Sodium channel protein", "2L:42,327,400-42,406,342", 0 (0 | 0)
     :doc:`../gene/AGAP007498`, "IR75k", "Ionotropic receptor ir75k", "2L:46,923,249-46,925,420", 0 (0 | 0)
     :doc:`../gene/AGAP007707`, "", "", "2L:49,147,256-49,148,967", 0 (0 | 0)
-    :doc:`../gene/AGAP001356`, "ACE1", "Acetylcholinesterase", "2R:3,484,107-3,495,790", 0 (0 | 0)
     :doc:`../gene/AGAP001434`, "", "Glutamate receptor, anionic", "2R:4,848,635-4,895,916", 0 (0 | 0)
     :doc:`../gene/AGAP001478`, "NMDAR1", "Ionotropic receptor nmdar1", "2R:5,390,305-5,394,755", 0 (0 | 0)
     :doc:`../gene/AGAP001811`, "IR75h.1", "Ionotropic receptor ir75h.1", "2R:10,851,535-10,853,577", 0 (0 | 0)

@@ -209,7 +209,8 @@ rule ihs:
 
 rule all_ihs:
     input:
-        "docs/_static/data/signal/IHS/BFS/X/.make",
-#        expand("docs/_static/data/signal/IHS/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
+#        "docs/_static/data/signal/IHS/BFS/X/.make",
+#        expand("docs/_static/data/signal/IHS/BFS/{chrom}/.make", chrom=chromosomes),
+        expand("docs/_static/data/signal/IHS/{pop}/{chrom}/.make", pop=pop_ids, chrom=chromosomes),
     output:
         touch("docs/_static/data/signal/IHS/.make")

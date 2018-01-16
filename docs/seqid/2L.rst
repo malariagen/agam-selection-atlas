@@ -80,6 +80,12 @@ chromosome arm 2L.
       - 2L:3,054,895-3,614,895
       - 725
       - 99.7%
+    * - :doc:`../signal/IHS/BFS/2/4/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:28,614,895-28,814,895
+      - 554
+      - 100.0%
     * - :doc:`../signal/H12/GAS/2/1/index`
       - H12
       - Gabon *An. gambiae*
@@ -128,6 +134,24 @@ chromosome arm 2L.
       - 2L:33,434,895-33,514,895
       - 290
       - 96.7%
+    * - :doc:`../signal/IHS/BFS/2/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,614,895
+      - 256
+      - 99.8%
+    * - :doc:`../signal/IHS/BFS/2/7/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:42,314,895-42,454,895
+      - 222
+      - 95.5%
+    * - :doc:`../signal/IHS/BFS/2/6/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:46,034,895-46,214,895
+      - 221
+      - 96.2%
     * - :doc:`../signal/H12/GWA/2/3/index`
       - H12
       - Guinea Bissau
@@ -146,6 +170,12 @@ chromosome arm 2L.
       - 2L:25,434,895-25,474,895
       - 138
       - 95.3%
+    * - :doc:`../signal/IHS/BFS/2/8/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:37,274,895-37,594,895
+      - 126
+      - 94.5%
     * - :doc:`../signal/H12/GAS/2/3/index`
       - H12
       - Gabon *An. gambiae*

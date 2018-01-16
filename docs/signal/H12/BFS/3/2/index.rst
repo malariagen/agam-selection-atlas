@@ -73,6 +73,12 @@ focus of this signal.
       - 3L:26,939,316-26,979,316
       - 229
       - 94.4%
+    * - :doc:`../../../../../signal/IHS/BFS/3/6/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 187
+      - 96.6%
     
 
 

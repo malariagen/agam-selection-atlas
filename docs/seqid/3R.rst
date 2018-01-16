@@ -50,18 +50,36 @@ chromosome arm 3R.
       - 3R:28,560,000-28,600,000
       - 876
       - 97.3%
+    * - :doc:`../signal/IHS/BFS/3/1/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:27,940,000-28,260,000
+      - 749
+      - 100.0%
     * - :doc:`../signal/H12/BFM/3/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 3R:28,560,000-28,620,000
       - 747
       - 98.0%
+    * - :doc:`../signal/IHS/BFS/3/2/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:4,340,000-4,740,000
+      - 504
+      - 95.7%
     * - :doc:`../signal/H12/UGS/3/2/index`
       - H12
       - Uganda *An. gambiae*
       - 3R:49,660,000-49,880,000
       - 427
       - 93.3%
+    * - :doc:`../signal/IHS/BFS/3/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:18,760,000-18,920,000
+      - 297
+      - 90.4%
     * - :doc:`../signal/H12/UGS/3/3/index`
       - H12
       - Uganda *An. gambiae*
@@ -74,6 +92,12 @@ chromosome arm 3R.
       - 3R:4,600,000-5,060,000
       - 253
       - 77.2%
+    * - :doc:`../signal/IHS/BFS/3/3/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:32,440,000-32,880,000
+      - 235
+      - 96.9%
     * - :doc:`../signal/H12/UGS/3/4/index`
       - H12
       - Uganda *An. gambiae*
@@ -86,6 +110,12 @@ chromosome arm 3R.
       - 3R:36,460,000-37,520,000
       - 206
       - 94.0%
+    * - :doc:`../signal/IHS/BFS/3/4/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:20,800,000-20,920,000
+      - 199
+      - 92.8%
     * - :doc:`../signal/H12/GWA/3/1/index`
       - H12
       - Guinea Bissau
@@ -98,6 +128,12 @@ chromosome arm 3R.
       - 3R:52,600,000-53,080,000
       - 153
       - 97.3%
+    * - :doc:`../signal/IHS/BFS/3/7/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:42,540,000-42,980,000
+      - 141
+      - 96.4%
     * - :doc:`../signal/H12/GAS/3/2/index`
       - H12
       - Gabon *An. gambiae*

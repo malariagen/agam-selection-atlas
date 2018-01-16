@@ -22,6 +22,9 @@ number of technical reasons why a true signal of selection might not be detected
     :widths: 10, 10, 50, 20, 10
     :header: Gene, Name, Description, Location, No. signals (overlapping | adjacent)
 
+    :doc:`../gene/AGAP001353`, "", "", "2R:3,432,984-3,433,877", 1 (1 | 0)
+    :doc:`../gene/AGAP001354`, "", "", "2R:3,434,159-3,435,100", 1 (1 | 0)
+    :doc:`../gene/AGAP001355`, "", "", "2R:3,435,807-3,436,692", 1 (1 | 0)
     :doc:`../gene/AGAP009640`, "Or1", "Odorant receptor 1", "3R:37,461,872-37,463,578", 1 (1 | 0)
     :doc:`../gene/AGAP001012`, "Or36", "Odorant receptor 36", "X:19,361,656-19,362,964", 1 (1 | 0)
     :doc:`../gene/AGAP002635`, "Gr13", "Gustatory receptor 13", "2R:24,811,173-24,812,613", 1 (0 | 1)
@@ -77,9 +80,6 @@ number of technical reasons why a true signal of selection might not be detected
     :doc:`../gene/AGAP001171`, "Gr50", "Gustatory receptor 50", "2R:690,556-691,912", 0 (0 | 0)
     :doc:`../gene/AGAP001172`, "Gr51", "Gustatory receptor 51", "2R:691,958-693,422", 0 (0 | 0)
     :doc:`../gene/AGAP001173`, "Gr52", "Gustatory receptor 52", "2R:693,555-694,975", 0 (0 | 0)
-    :doc:`../gene/AGAP001353`, "", "", "2R:3,432,984-3,433,877", 0 (0 | 0)
-    :doc:`../gene/AGAP001354`, "", "", "2R:3,434,159-3,435,100", 0 (0 | 0)
-    :doc:`../gene/AGAP001355`, "", "", "2R:3,435,807-3,436,692", 0 (0 | 0)
     :doc:`../gene/AGAP001912`, "Or8", "Odorant receptor 8", "2R:12,012,990-12,014,364", 0 (0 | 0)
     :doc:`../gene/AGAP001915`, "Gr24", "Gustatory receptor 24", "2R:12,028,579-12,030,120", 0 (0 | 0)
     :doc:`../gene/AGAP001958`, "CRY1", "Cryptochrome 1", "2R:12,836,580-12,840,281", 0 (0 | 0)

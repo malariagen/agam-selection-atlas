@@ -79,6 +79,12 @@ focus of this signal.
       - 2L:25,534,895-25,814,895
       - 332
       - 97.8%
+    * - :doc:`../../../../../signal/IHS/BFS/2/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,614,895
+      - 256
+      - 99.8%
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/6/index`
       - XPEHH
       - Burkina Faso *An. gambiae*

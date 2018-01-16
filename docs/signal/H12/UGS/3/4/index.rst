@@ -43,6 +43,32 @@ Gene :doc:`../../../../../gene/AGAP028025` is within 50 kbp of the focal region.
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
+Overlapping signals
+-------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak Model :math:`\Delta_{i}`
+      - Max Percentile
+    * - :doc:`../../../../../signal/IHS/BFS/3/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:18,760,000-18,920,000
+      - 297
+      - 90.4%
+    
+
+
 
 
 Diagnostics

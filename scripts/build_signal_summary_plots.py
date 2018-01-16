@@ -153,6 +153,13 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
     # stack up signals to avoid overlaps
     df['level'] = stack_overlaps(df, 'peak_start_fixed', 'peak_end_fixed')
 
+    # construct a hover label for the statistic
+    statistic_label = df.statistic.copy()
+    has_ref_pop = df.reference_population_label.notnull()
+    statistic_label[has_ref_pop] = (
+        statistic_label[has_ref_pop] + ' versus ' + df.reference_population_label[has_ref_pop]
+    )
+
     # setup plotting data source
     source = bmod.ColumnDataSource(data={
         'uid': df.uid,
@@ -160,6 +167,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         'focal_pop_id': df.focal_population,
         'focal_pop_label': [pop_labels[p].replace('*', '') for p in df.focal_population],
         'statistic': df.statistic,
+        'statistic_label': statistic_label,
         'chromosome': df.chromosome,
         'rank': df['rank'],
         'score': df.delta_aic.astype(int),
@@ -195,7 +203,7 @@ def plot_signals(df_signals, seqid, pop_labels, root_path='../',
         <img src='{}'/>
         <table>
             <tr><th>Population: </th><td>@focal_pop_label</td></tr>
-            <tr><th>Statistic: </th><td>@statistic</td></tr>
+            <tr><th>Statistic: </th><td>@statistic_label</td></tr>
             <tr>
                 <th>Peak Model Fit (Left, Right): </th>
                 <td>@score (@score_left, @score_right)</td></tr>
@@ -239,7 +247,7 @@ def fig_signals(df_signals, df_genes, seqid, pop_labels, root_path='../'):
     layout = []
     empty = True
     x_range = None
-    for statistic in ['H12', 'XPEHH']:
+    for statistic in ['H12', 'XPEHH', 'IHS']:
         df = df_signals[df_signals.statistic == statistic]
         try:
             fig = plot_signals(df, seqid=seqid, pop_labels=pop_labels,

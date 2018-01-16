@@ -61,6 +61,12 @@ focus of this signal.
       - Focus
       - Peak Model :math:`\Delta_{i}`
       - Max Percentile
+    * - :doc:`../../../../../signal/IHS/BFS/2/1/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2R:28,260,000-28,540,000
+      - 1,164
+      - 99.1%
     * - :doc:`../../../../../signal/H12/CMS/2/1/index`
       - H12
       - Cameroon *An. gambiae*
