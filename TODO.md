@@ -15,8 +15,9 @@ TODO
 
 * [ ] Try polarising IHS by major allele
 
-
 * [ ] Scatter plots of max percentile versus peak model fit for all signals page, population pages, seqid pages, statistic pages
+
+* [ ] Pages and plots to browse the windowed statistics over the genome
 
 * [x] Check gene pages, e.g., Vgsc, why no signals?
 * [x] Fix asterisc in hover label for population comparison
