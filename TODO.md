@@ -8,7 +8,7 @@ TODO
 * [x] Add column for known loci to signals tables everywhere.
 * [x] Add section for known loci to gene pages.
 * [x] Add more known locus pages (Cyp9k1, Tep1, ...)
-* [ ] Add evidence for known locus pages.
+* [x] Add evidence for known locus pages.
 
 
 * [ ] Change percentile to be computed as percentile over all raw values not windowed values.
