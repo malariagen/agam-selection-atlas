@@ -15,8 +15,12 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013424>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:15086694-15087659#genomebrowser>`_
 
-Overlapping signals
--------------------
+
+
+
+
+Overlapping selection signals
+-----------------------------
 
 The following signals have a focus which overlaps this gene.
 
@@ -29,69 +33,79 @@ The following signals have a focus which overlaps this gene.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - X:14,960,000-15,140,000
       - 961
       - 99.9%
+      - nan
     * - :doc:`../signal/XPEHH/BFS.GWA/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
       - X:15,060,000-15,220,000
       - 866
       - 99.6%
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFM.GWA/X/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
       - X:15,060,000-15,260,000
       - 852
       - 99.4%
+      - Cyp9k1
     * - :doc:`../signal/IHS/UGS/X/1/index`
       - IHS
       - Uganda *An. gambiae*
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFM.AOM/X/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
       - X:15,040,000-15,180,000
       - 511
       - 100.0%
+      - nan
     * - :doc:`../signal/IHS/BFM/X/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
+      - Cyp9k1
     * - :doc:`../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*
       - X:14,960,000-15,160,000
       - 419
       - 97.8%
+      - nan
     * - :doc:`../signal/XPEHH/AOM.GWA/X/2/index`
       - XPEHH
       - Angola *An. coluzzii*
       - X:14,500,000-15,180,000
       - 228
       - 98.5%
+      - nan
     * - :doc:`../signal/XPEHH/UGS.BFS/X/1/index`
       - XPEHH
       - Uganda *An. gambiae*
       - X:14,960,000-15,320,000
       - 204
       - 89.8%
+      - Cyp9k1
     
 
 
 
 
-Adjacent signals
-----------------
+Adjacent selection signals
+--------------------------
 
 The following signals have a focus which occurs within 50 kbp of this gene.
 
@@ -104,20 +118,23 @@ The following signals have a focus which occurs within 50 kbp of this gene.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/X/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - X:15,100,000-15,300,000
       - 1,267
       - 100.0%
+      - Cyp9k1
     * - :doc:`../signal/H12/BFS/X/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:15,100,000-15,240,000
       - 815
       - 98.5%
+      - Cyp9k1
     
 
 

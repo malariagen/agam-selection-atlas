@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GWA/2/2/index`
       - H12
       - Guinea Bissau
@@ -107,9 +107,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/GWA.UGS/2/1/index`
       - XPEHH
       - Guinea Bissau
@@ -203,9 +203,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/GWA/3/1/index`
       - IHS
       - Guinea Bissau
@@ -278,9 +278,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/GWA.BFS/3/3/index`
       - XPEHH
       - Guinea Bissau
@@ -318,9 +318,9 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/GWA.BFM/X/1/index`
       - XPEHH
       - Guinea Bissau

@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/AOM/2/1/index`
       - H12
       - Angola *An. coluzzii*
@@ -177,9 +177,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/AOM.GWA/2/1/index`
       - XPEHH
       - Angola *An. coluzzii*
@@ -266,9 +266,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/AOM.GAS/3/1/index`
       - XPEHH
       - Angola *An. coluzzii*
@@ -320,9 +320,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/AOM/3/1/index`
       - H12
       - Angola *An. coluzzii*
@@ -367,9 +367,9 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/AOM/X/1/index`
       - H12
       - Angola *An. coluzzii*

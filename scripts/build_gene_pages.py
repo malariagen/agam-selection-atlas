@@ -4,39 +4,37 @@ from setup import *
 
 if __name__ == '__main__':
 
+    # setup jinja templates
     loader = jinja2.FileSystemLoader('templates')
-
     env = jinja2.Environment(loader=loader)
-
     template = env.get_template('gene.rst')
 
-    features = allel.gff3_to_dataframe(
-        'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
-        attributes=['ID', 'Name', 'description'], attributes_fill='',
-    )
-    genes = features[features['type'] == 'gene']
-
+    # input data sources
     signals = pd.read_csv('docs/_static/data/signals.csv')
+
+    # ensure output directory exists
     os.makedirs(os.path.join('docs', 'gene'), exist_ok=True)
 
     for _, gene in genes.iterrows():
 
-        # TODO this doesn't properly handle overlapping signals spanning a
-        # centromere
+        # # DEVELOPMENT shortcut
+        # if gene.ID != 'AGAP004707':
+        #     continue
+
+        # TODO this doesn't properly handle overlapping signals spanning a centromere
         overlapping_signals = signals[
             (signals.epicenter_seqid == gene.seqid) &
-            (signals.focus_start <= gene.end) &
-            (signals.focus_end >= gene.start)
+            (signals.focus_start_coord <= gene.end) &
+            (signals.focus_end_coord >= gene.start)
         ]
 
-        # TODO this doesn't properly handle overlapping signals spanning a
-        # centromere
+        # TODO this doesn't properly handle overlapping signals spanning a centromere
         adjacent_signals = signals[
             (signals.epicenter_seqid == gene.seqid) &
-            ((gene.end < signals.focus_start) |
-             (gene.start > signals.focus_end)) &
-            ((signals.focus_start - 50000) <= gene.end) &
-            ((signals.focus_end + 50000) >= gene.start)
+            ((gene.end < signals.focus_start_coord) |
+             (gene.start > signals.focus_end_coord)) &
+            ((signals.focus_start_coord - 50000) <= gene.end) &
+            ((signals.focus_end_coord + 50000) >= gene.start)
         ]
 
         overlapping_loci = [locus for locus in known_loci
@@ -59,10 +57,8 @@ if __name__ == '__main__':
                 'start': int(gene.start),
                 'end': int(gene.end),
             },
-            'overlapping_signals':
-                overlapping_signals.to_dict(orient='records'),
-            'adjacent_signals':
-                adjacent_signals.to_dict(orient='records'),
+            'overlapping_signals': overlapping_signals.to_dict(orient='records'),
+            'adjacent_signals': adjacent_signals.to_dict(orient='records'),
             'overlapping_loci': overlapping_loci,
             'adjacent_loci': adjacent_loci,
         }

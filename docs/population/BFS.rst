@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/2/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -135,9 +135,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -266,9 +266,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/3/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -362,9 +362,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFS/3/2/index`
       - H12
       - Burkina Faso *An. gambiae*
@@ -409,9 +409,9 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -425,7 +425,7 @@ Chromosome X
       - X:15,060,000-15,220,000
       - 866
       - 99.6%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFS.BFM/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -439,7 +439,7 @@ Chromosome X
       - X:15,100,000-15,240,000
       - 815
       - 98.5%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFS.GWA/X/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*

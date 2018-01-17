@@ -16,6 +16,10 @@ The evidence supporting this signal is
 
 
 
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/tep1`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
 
 .. raw:: html
     :file: peak_location.html

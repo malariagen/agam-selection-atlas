@@ -15,9 +15,9 @@ found using the :doc:`../method/XPEHH` statistic.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/BFS.UGS/2/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -101,7 +101,7 @@ found using the :doc:`../method/XPEHH` statistic.
       - X:15,060,000-15,220,000
       - 866
       - 99.6%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFS.GWA/2/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -115,7 +115,7 @@ found using the :doc:`../method/XPEHH` statistic.
       - X:15,060,000-15,260,000
       - 852
       - 99.4%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFS.BFM/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -437,7 +437,7 @@ found using the :doc:`../method/XPEHH` statistic.
       - X:15,240,000-15,460,000
       - 284
       - 99.9%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/GAS.BFS/2/2/index`
       - XPEHH
       - Gabon *An. gambiae*
@@ -598,7 +598,7 @@ found using the :doc:`../method/XPEHH` statistic.
       - X:14,960,000-15,320,000
       - 204
       - 89.8%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/UGS.CMS/3/3/index`
       - XPEHH
       - Uganda *An. gambiae*

@@ -61,9 +61,9 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/XPEHH/BFS.GWA/X/2/index`
       - XPEHH
       - Burkina Faso *An. gambiae*

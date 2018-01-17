@@ -40,7 +40,7 @@ Genes
 -----
 
 
-The following 33 genes overlap the focal region: :doc:`../../../../../gene/AGAP001334`,  :doc:`../../../../../gene/AGAP001335` (dynein light chain LC8-type),  :doc:`../../../../../gene/AGAP001336`,  :doc:`../../../../../gene/AGAP001337`,  :doc:`../../../../../gene/AGAP001338` (DEAH (Asp-Glu-Ala-His) box polypeptide 34),  :doc:`../../../../../gene/AGAP001339` (phosphatidylinositol glycan, class V),  :doc:`../../../../../gene/AGAP001340`,  :doc:`../../../../../gene/AGAP001341` (bleomycin hydrolase),  :doc:`../../../../../gene/AGAP001342`,  :doc:`../../../../../gene/AGAP001343` (fatty acyl-CoA reductase 2),  :doc:`../../../../../gene/AGAP001344`,  :doc:`../../../../../gene/AGAP001345` (hexamerin),  :doc:`../../../../../gene/AGAP001346`,  :doc:`../../../../../gene/AGAP001347`,  :doc:`../../../../../gene/AGAP001348`,  :doc:`../../../../../gene/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`../../../../../gene/AGAP001350`,  :doc:`../../../../../gene/AGAP001351`,  :doc:`../../../../../gene/AGAP001352`,  :doc:`../../../../../gene/AGAP001353`:sup:`3`,  :doc:`../../../../../gene/AGAP001354`:sup:`3`,  :doc:`../../../../../gene/AGAP001355`:sup:`3`,  :doc:`../../../../../gene/AGAP001356`:sup:`1` (ACE1 - Acetylcholinesterase),  :doc:`../../../../../gene/AGAP001357` (beta-catenin-like protein 1),  :doc:`../../../../../gene/AGAP001358`,  :doc:`../../../../../gene/AGAP001360`,  :doc:`../../../../../gene/AGAP001361` (WD repeat-containing protein),  :doc:`../../../../../gene/AGAP001362` (polyadenylation factor subunit 2),  :doc:`../../../../../gene/AGAP001363` (cohesin loading complex subunit SCC4 homolog),  :doc:`../../../../../gene/AGAP001364` (Ubiquitin-fold modifier 1),  :doc:`../../../../../gene/AGAP001365`,  :doc:`../../../../../gene/AGAP001366`,  :doc:`../../../../../gene/AGAP001367` (beta-1,3-glucuronyltransferase).
+The following 33 genes overlap the focal region: :doc:`../../../../../gene/AGAP001334`,  :doc:`../../../../../gene/AGAP001335` (dynein light chain LC8-type),  :doc:`../../../../../gene/AGAP001336`,  :doc:`../../../../../gene/AGAP001337`,  :doc:`../../../../../gene/AGAP001338` (DEAH (Asp-Glu-Ala-His) box polypeptide 34),  :doc:`../../../../../gene/AGAP001339` (phosphatidylinositol glycan, class V),  :doc:`../../../../../gene/AGAP001340`,  :doc:`../../../../../gene/AGAP001341` (bleomycin hydrolase),  :doc:`../../../../../gene/AGAP001342`,  :doc:`../../../../../gene/AGAP001343` (fatty acyl-CoA reductase 2),  :doc:`../../../../../gene/AGAP001344`,  :doc:`../../../../../gene/AGAP001345` (hexamerin),  :doc:`../../../../../gene/AGAP001346`,  :doc:`../../../../../gene/AGAP001347`,  :doc:`../../../../../gene/AGAP001348`,  :doc:`../../../../../gene/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`../../../../../gene/AGAP001350`,  :doc:`../../../../../gene/AGAP001351`,  :doc:`../../../../../gene/AGAP001352`,  :doc:`../../../../../gene/AGAP001353`:sup:`3`,  :doc:`../../../../../gene/AGAP001354`:sup:`3`,  :doc:`../../../../../gene/AGAP001355`:sup:`3`,  :doc:`../../../../../gene/AGAP001356`:sup:`2` (ACE1 - Acetylcholinesterase),  :doc:`../../../../../gene/AGAP001357` (beta-catenin-like protein 1),  :doc:`../../../../../gene/AGAP001358`,  :doc:`../../../../../gene/AGAP001360`,  :doc:`../../../../../gene/AGAP001361` (WD repeat-containing protein),  :doc:`../../../../../gene/AGAP001362` (polyadenylation factor subunit 2),  :doc:`../../../../../gene/AGAP001363` (cohesin loading complex subunit SCC4 homolog),  :doc:`../../../../../gene/AGAP001364` (Ubiquitin-fold modifier 1),  :doc:`../../../../../gene/AGAP001365`,  :doc:`../../../../../gene/AGAP001366`,  :doc:`../../../../../gene/AGAP001367` (beta-1,3-glucuronyltransferase).
 
 
 
@@ -66,9 +66,9 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/IHS/BFS/2/2/index`
       - IHS
       - Burkina Faso *An. gambiae*

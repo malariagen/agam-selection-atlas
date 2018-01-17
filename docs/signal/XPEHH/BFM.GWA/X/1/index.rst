@@ -16,6 +16,10 @@ The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
 
 
+This signal overlaps the :doc:`../../../../../known-locus/cyp9k1`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+
 
 
 
@@ -62,16 +66,16 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/H12/BFM/X/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - X:15,100,000-15,300,000
       - 1,267
       - 100.0%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/XPEHH/BFS.UGS/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -85,28 +89,28 @@ focus of this signal.
       - X:15,060,000-15,220,000
       - 866
       - 99.6%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/H12/BFS/X/1/index`
       - H12
       - Burkina Faso *An. gambiae*
       - X:15,100,000-15,240,000
       - 815
       - 98.5%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/GNS/X/1/index`
       - IHS
       - Guinea *An. gambiae*
       - X:15,240,000-15,780,000
       - 553
       - 99.3%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/UGS/X/1/index`
       - IHS
       - Uganda *An. gambiae*
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/XPEHH/BFM.AOM/X/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
@@ -120,7 +124,7 @@ focus of this signal.
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*
@@ -134,14 +138,14 @@ focus of this signal.
       - X:15,160,000-15,480,000
       - 348
       - 94.9%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/XPEHH/UGS.CMS/X/1/index`
       - XPEHH
       - Uganda *An. gambiae*
       - X:15,240,000-15,460,000
       - 284
       - 99.9%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/2/index`
       - XPEHH
       - Angola *An. coluzzii*
@@ -155,7 +159,7 @@ focus of this signal.
       - X:14,960,000-15,320,000
       - 204
       - 89.8%
-      - nan
+      - Cyp9k1
     
 
 

@@ -62,23 +62,23 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/IHS/UGS/X/1/index`
       - IHS
       - Uganda *An. gambiae*
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/BFM/X/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/BFS/X/2/index`
       - IHS
       - Burkina Faso *An. gambiae*

@@ -3,53 +3,94 @@
   seqid: "2L"
   start_coord: 2358158
   end_coord: 2431617
-  evidence:
-  - statement: "TODO"
-    author: "TODO"
-    year: "TODO"
-    title: "TODO"
-    url: "TODO"
+  references:
+  - author: "Martinez-Torres et al."
+    year: "1998"
+    title: "Molecular characterization of pyrethroid knockdown resistance (kdr) in the major
+      malaria vector Anopheles gambiae s.s."
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/9535162"
+  - author: "Ranson et al."
+    year: "2000"
+    title: "Identification of a point mutation in the voltage-gated sodium channel gene of Kenyan
+      *Anopheles gambiae* associated with resistance to DDT and pyrethroids"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/11029667"
+  - author: "Davies et al."
+    year: "2007"
+    title: "A comparative study of voltage-gated sodium channels in the Insecta: implications for
+      pyrethroid resistance in Anopheline and other Neopteran species"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/17433068"
+  - author: "Lynd et al."
+    year: "2010"
+    title: "Field, genetic, and modeling approaches show strong positive selection acting upon an
+      insecticide resistance mutation in Anopheles gambiae s.s."
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/20056691"
+  - author: "Jones et al."
+    year: "2015"
+    title: "Footprints of positive selection associated with a mutation (N1575Y) in the
+      voltage-gated sodium channel of Anopheles gambiae"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/22493253"
 - short_name: "Gste"
   long_name: "Glutathione S-transferase epsilon gene cluster"
   seqid: "3R"
   start_coord: 28591663
   end_coord: 28602280
-  evidence:
-  - statement: TODO
-    author: TODO
-    year: TODO
-    title: TODO
-    url: TODO
+  references:
+  - author: Mitchell et al.
+    year: "2014"
+    title: "Metabolic and Target-Site Mechanisms Combine to Confer Strong DDT Resistance
+      in Anopheles gambiae"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/24675797"
 - short_name: "Cyp6p"
   long_name: "Cyp6aa, Cyp6p and Cyp6ad cytochrome P450 gene cluster"
   seqid: "2R"
   start_coord: 28480576
   end_coord: 28505816
-  evidence:
-  - statement: TODO
-    author: TODO
-    year: TODO
-    title: TODO
-    url: TODO
+  references:
+  - author: "Müller et al."
+    year: "2008"
+    title: "Field-Caught Permethrin-Resistant Anopheles gambiae Overexpress CYP6P3, a P450 That
+    Metabolises Pyrethroids"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583951/"
 - short_name: "Ace1"
   long_name: "Acetylcholinesterase gene"
   seqid: "2R"
   start_coord: 3484107
   end_coord: 3495790
-  evidence:
-  - statement: TODO
-    author: TODO
-    year: TODO
-    title: TODO
-    url: TODO
+  references:
+  - author: Weill et al.
+    year: "2003"
+    title: "Comparative genomics: Insecticide resistance in mosquito vectors"
+    url: "https://www.nature.com/articles/423136b"
 - short_name: "Rdl"
   long_name: "GABA-gated chloride channel subunit gene"
   seqid: "2L"
   start_coord: 25363652
   end_coord: 25434556
-  evidence:
-  - statement: TODO
-    author: TODO
-    year: TODO
-    title: TODO
-    url: TODO
+  references:
+  - author: Du et al.
+    year: "2005"
+    title: "Independent mutations in the Rdl locus confer dieldrin resistance to Anopheles gambiae
+      and An. arabiensis"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/15796751"
+- short_name: "Cyp9k1"
+  long_name: "Cyp9k1 cytochrome P450 gene"
+  seqid: "X"
+  start_coord: 15240572
+  end_coord: 15242864
+  references:
+  - author: Main et al.
+    year: 2015
+    title: "Complex genome evolution in Anopheles coluzzii associated with increased insecticide
+      usage in Mali"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615556/"
+- short_name: "Tep1"
+  long_name: "Tep1 thioester-containing protein gene"
+  seqid: "3L"
+  start_coord: 11202091
+  end_coord: 11206882
+  references:
+  - author: White et al.
+    year: "2011"
+    title: "Adaptive divergence between incipient species of Anopheles gambiae increases resistance
+      to Plasmodium"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/21173248"

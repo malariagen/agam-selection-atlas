@@ -13,4 +13,6 @@ resistance and/or of recent selection in *Anopheles* populations.
     known-locus/cyp6p
     known-locus/ace1
     known-locus/rdl
+    known-locus/cyp9k1
+    known-locus/tep1
     

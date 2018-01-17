@@ -63,9 +63,9 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/H12/UGS/2/1/index`
       - H12
       - Uganda *An. gambiae*

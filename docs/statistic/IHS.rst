@@ -15,9 +15,9 @@ found using the :doc:`../method/IHS` statistic.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/UGS/2/1/index`
       - IHS
       - Uganda *An. gambiae*
@@ -122,14 +122,14 @@ found using the :doc:`../method/IHS` statistic.
       - X:15,240,000-15,780,000
       - 553
       - 99.3%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/IHS/UGS/X/1/index`
       - IHS
       - Uganda *An. gambiae*
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/IHS/BFS/X/1/index`
       - IHS
       - Burkina Faso *An. gambiae*
@@ -157,7 +157,7 @@ found using the :doc:`../method/IHS` statistic.
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/IHS/UGS/3/1/index`
       - IHS
       - Uganda *An. gambiae*

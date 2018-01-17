@@ -19,8 +19,7 @@ References
 ----------
 
 
-- | TODO
-  | TODO (TODO) `TODO <TODO>`_
+- `Du et al. (2005) <https://www.ncbi.nlm.nih.gov/pubmed/15796751>`_ Independent mutations in the Rdl locus confer dieldrin resistance to Anopheles gambiae and An. arabiensis
 
 
 Selection signals
@@ -39,9 +38,9 @@ within 50 kbp of this locus.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/2/2/index`
       - H12
       - Burkina Faso *An. coluzzii*

@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/GAS/2/1/index`
       - IHS
       - Gabon *An. gambiae*
@@ -58,9 +58,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GAS/2/1/index`
       - H12
       - Gabon *An. gambiae*
@@ -147,9 +147,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/GAS.BFS/3/1/index`
       - XPEHH
       - Gabon *An. gambiae*
@@ -243,9 +243,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GAS/3/1/index`
       - H12
       - Gabon *An. gambiae*
@@ -297,9 +297,9 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/GAS.GWA/X/1/index`
       - XPEHH
       - Gabon *An. gambiae*

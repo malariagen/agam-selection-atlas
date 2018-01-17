@@ -19,8 +19,7 @@ References
 ----------
 
 
-- | TODO
-  | TODO (TODO) `TODO <TODO>`_
+- `Mitchell et al. (2014) <https://www.ncbi.nlm.nih.gov/pubmed/24675797>`_ Metabolic and Target-Site Mechanisms Combine to Confer Strong DDT Resistance in Anopheles gambiae
 
 
 Selection signals
@@ -39,9 +38,9 @@ within 50 kbp of this locus.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/CMS/3/1/index`
       - H12
       - Cameroon *An. gambiae*

@@ -36,15 +36,17 @@ seqids = '2R', '2L', '3R', '3L', 'X'
 
 
 # setup genes
+gff_fn = os.path.join(repo_dir, 'vectorbase.org',
+                      'Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz')
 features = allel.gff3_to_dataframe(
-    'vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz',
-    attributes=['ID', 'Name', 'description'], attributes_fill='',
+    gff_fn, attributes=['ID', 'Name', 'description'], attributes_fill='',
 )
 genes = features[features['type'] == 'gene']
 
 
 # load known loci definitions
-with open('docs/_static/data/known-loci.yml', mode='r') as f:
+known_loci_fn = os.path.join(repo_dir, 'docs', '_static', 'data', 'known-loci.yml')
+with open(known_loci_fn, mode='r') as f:
     known_loci = yaml.load(f)
 
 

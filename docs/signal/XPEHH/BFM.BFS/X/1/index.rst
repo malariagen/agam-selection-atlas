@@ -62,23 +62,23 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/IHS/GNS/X/1/index`
       - IHS
       - Guinea *An. gambiae*
       - X:15,240,000-15,780,000
       - 553
       - 99.3%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/BFM/X/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - nan
+      - Cyp9k1
     
 
 

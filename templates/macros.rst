@@ -32,9 +32,9 @@
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     {% for signal in signals -%}
     * - {{ signal_doc(signal, root_path) }}
       - {{ signal.statistic }}

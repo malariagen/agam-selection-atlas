@@ -19,8 +19,7 @@ References
 ----------
 
 
-- | TODO
-  | TODO (TODO) `TODO <TODO>`_
+- `Müller et al. (2008) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583951/>`_ Field-Caught Permethrin-Resistant Anopheles gambiae Overexpress CYP6P3, a P450 That Metabolises Pyrethroids
 
 
 Selection signals
@@ -39,9 +38,9 @@ within 50 kbp of this locus.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/UGS/2/1/index`
       - IHS
       - Uganda *An. gambiae*

@@ -19,8 +19,7 @@ References
 ----------
 
 
-- | TODO
-  | TODO (TODO) `TODO <TODO>`_
+- `Weill et al. (2003) <https://www.nature.com/articles/423136b>`_ Comparative genomics: Insecticide resistance in mosquito vectors
 
 
 Selection signals
@@ -39,9 +38,9 @@ within 50 kbp of this locus.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/BFS/2/2/index`
       - IHS
       - Burkina Faso *An. gambiae*

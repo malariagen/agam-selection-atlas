@@ -60,9 +60,9 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/5/index`
       - XPEHH
       - Uganda *An. gambiae*

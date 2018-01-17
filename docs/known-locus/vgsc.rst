@@ -19,8 +19,15 @@ References
 ----------
 
 
-- | TODO
-  | TODO (TODO) `TODO <TODO>`_
+- `Martinez-Torres et al. (1998) <https://www.ncbi.nlm.nih.gov/pubmed/9535162>`_ Molecular characterization of pyrethroid knockdown resistance (kdr) in the major malaria vector Anopheles gambiae s.s.
+
+- `Ranson et al. (2000) <https://www.ncbi.nlm.nih.gov/pubmed/11029667>`_ Identification of a point mutation in the voltage-gated sodium channel gene of Kenyan *Anopheles gambiae* associated with resistance to DDT and pyrethroids
+
+- `Davies et al. (2007) <https://www.ncbi.nlm.nih.gov/pubmed/17433068>`_ A comparative study of voltage-gated sodium channels in the Insecta: implications for pyrethroid resistance in Anopheline and other Neopteran species
+
+- `Lynd et al. (2010) <https://www.ncbi.nlm.nih.gov/pubmed/20056691>`_ Field, genetic, and modeling approaches show strong positive selection acting upon an insecticide resistance mutation in Anopheles gambiae s.s.
+
+- `Jones et al. (2015) <https://www.ncbi.nlm.nih.gov/pubmed/22493253>`_ Footprints of positive selection associated with a mutation (N1575Y) in the voltage-gated sodium channel of Anopheles gambiae
 
 
 Selection signals
@@ -39,9 +46,9 @@ within 50 kbp of this locus.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*

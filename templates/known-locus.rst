@@ -24,9 +24,8 @@ The locus contains the following {{ genes|length }} genes:
 References
 ----------
 
-{% for ref in locus.evidence %}
-- | {{ ref.statement }}
-  | {{ ref.author }} ({{ ref.year }}) `{{ ref.title }} <{{ ref.url }}>`_
+{% for ref in locus.references %}
+- `{{ ref.author }} ({{ ref.year }}) <{{ ref.url }}>`_ {{ ref.title }}
 {% endfor %}
 
 Selection signals

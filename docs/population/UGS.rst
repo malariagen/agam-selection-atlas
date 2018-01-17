@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/UGS/2/1/index`
       - IHS
       - Uganda *An. gambiae*
@@ -121,9 +121,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/UGS/2/2/index`
       - H12
       - Uganda *An. gambiae*
@@ -231,9 +231,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/UGS/3/1/index`
       - H12
       - Uganda *An. gambiae*
@@ -390,9 +390,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/XPEHH/UGS.CMS/3/4/index`
       - XPEHH
       - Uganda *An. gambiae*
@@ -430,37 +430,37 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/UGS/X/1/index`
       - IHS
       - Uganda *An. gambiae*
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/H12/UGS/X/1/index`
       - H12
       - Uganda *An. gambiae*
       - X:15,160,000-15,480,000
       - 348
       - 94.9%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/UGS.CMS/X/1/index`
       - XPEHH
       - Uganda *An. gambiae*
       - X:15,240,000-15,460,000
       - 284
       - 99.9%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/UGS.BFS/X/1/index`
       - XPEHH
       - Uganda *An. gambiae*
       - X:14,960,000-15,320,000
       - 204
       - 89.8%
-      - 
+      - Cyp9k1
     
 
 

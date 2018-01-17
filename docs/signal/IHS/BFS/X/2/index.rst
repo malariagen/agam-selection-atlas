@@ -60,9 +60,9 @@ focus of this signal.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../../../../../signal/XPEHH/BFS.UGS/X/1/index`
       - XPEHH
       - Burkina Faso *An. gambiae*
@@ -76,14 +76,14 @@ focus of this signal.
       - X:14,640,000-15,360,000
       - 517
       - 96.7%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/IHS/BFM/X/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - nan
+      - Cyp9k1
     * - :doc:`../../../../../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*
@@ -111,7 +111,7 @@ focus of this signal.
       - X:14,960,000-15,320,000
       - 204
       - 89.8%
-      - nan
+      - Cyp9k1
     
 
 

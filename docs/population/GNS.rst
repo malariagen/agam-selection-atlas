@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/GNS/2/1/index`
       - IHS
       - Guinea *An. gambiae*
@@ -79,9 +79,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GNS/2/1/index`
       - H12
       - Guinea *An. gambiae*
@@ -147,9 +147,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GNS/3/1/index`
       - H12
       - Guinea *An. gambiae*
@@ -201,9 +201,9 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/GNS/3/3/index`
       - H12
       - Guinea *An. gambiae*
@@ -241,16 +241,16 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/GNS/X/1/index`
       - IHS
       - Guinea *An. gambiae*
       - X:15,240,000-15,780,000
       - 553
       - 99.3%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/H12/GNS/X/1/index`
       - H12
       - Guinea *An. gambiae*

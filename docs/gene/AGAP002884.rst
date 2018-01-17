@@ -15,8 +15,12 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002884>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:28670721-28674244#genomebrowser>`_
 
-Overlapping signals
--------------------
+
+
+
+
+Overlapping selection signals
+-----------------------------
 
 The following signals have a focus which overlaps this gene.
 
@@ -29,33 +33,37 @@ The following signals have a focus which overlaps this gene.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/UGS/2/1/index`
       - IHS
       - Uganda *An. gambiae*
       - 2R:28,280,000-28,700,000
       - 1,661
       - 100.0%
+      - Cyp6p
     * - :doc:`../signal/IHS/GNS/2/1/index`
       - IHS
       - Guinea *An. gambiae*
       - 2R:28,440,000-28,700,000
       - 1,134
       - 99.8%
+      - Cyp6p
     * - :doc:`../signal/XPEHH/CMS.GAS/2/3/index`
       - XPEHH
       - Cameroon *An. gambiae*
       - 2R:28,560,000-28,800,000
       - 191
       - 100.0%
+      - nan
     
 
 
 
 
-Adjacent signals
-----------------
+Adjacent selection signals
+--------------------------
 
 The following signals have a focus which occurs within 50 kbp of this gene.
 
@@ -68,14 +76,16 @@ The following signals have a focus which occurs within 50 kbp of this gene.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/BFM/2/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
       - 2R:28,700,000-29,020,000
       - 468
       - 99.8%
+      - nan
     
 
 

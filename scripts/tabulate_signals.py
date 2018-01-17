@@ -93,7 +93,6 @@ if __name__ == '__main__':
                 locus['start_coord'] <= (focus_end_coord + 50000) and
                 locus['end_coord'] >= (focus_start_coord - 50000))
         ])
-        print(report['uid'], 'known loci', known_loci_value)
 
         row = [
             report['uid'],

@@ -15,8 +15,12 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP013287>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=X:9580397-9585551#genomebrowser>`_
 
-Overlapping signals
--------------------
+
+
+
+
+Overlapping selection signals
+-----------------------------
 
 The following signals have a focus which overlaps this gene.
 
@@ -29,14 +33,30 @@ The following signals have a focus which overlaps this gene.
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/BFS/X/1/index`
       - IHS
       - Burkina Faso *An. gambiae*
       - X:9,160,000-9,680,000
       - 515
       - 99.7%
+      - nan
+    * - :doc:`../signal/XPEHH/GWA.BFM/X/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - X:9,560,000-9,600,000
+      - 115
+      - 84.9%
+      - nan
+    * - :doc:`../signal/XPEHH/GWA.UGS/X/1/index`
+      - XPEHH
+      - Guinea Bissau
+      - X:9,560,000-9,600,000
+      - 105
+      - 99.9%
+      - nan
     
 
 

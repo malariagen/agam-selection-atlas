@@ -159,7 +159,6 @@ rule all:
         rules.statistic_pages.output,
         rules.ir_candidate_pages.output,
         rules.known_locus_pages.output,
-        # temporarily disable as building all gene pages takes a while
-#        rules.gene_pages.output,
+        rules.gene_pages.output,
     shell:
         "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../malariagen.github.io/agam-selection-atlas/dev/"

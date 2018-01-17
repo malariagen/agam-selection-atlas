@@ -25,9 +25,9 @@ Chromosome arm 2R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/2/3/index`
       - H12
       - Burkina Faso *An. coluzzii*
@@ -114,9 +114,9 @@ Chromosome arm 2L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/2/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
@@ -210,9 +210,9 @@ Chromosome arm 3R
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/IHS/BFM/3/1/index`
       - IHS
       - Burkina Faso *An. coluzzii*
@@ -285,16 +285,16 @@ Chromosome arm 3L
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/3/2/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - 3L:11,159,316-11,199,316
       - 267
       - 99.7%
-      - 
+      - Tep1
     * - :doc:`../signal/XPEHH/BFM.BFS/3/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
@@ -360,23 +360,23 @@ Chromosome X
       - Statistic
       - Population
       - Focus
-      - Peak Model :math:`\Delta_{i}`
-      - Max Percentile
-      - Known Loci
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     * - :doc:`../signal/H12/BFM/X/1/index`
       - H12
       - Burkina Faso *An. coluzzii*
       - X:15,100,000-15,300,000
       - 1,267
       - 100.0%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFM.GWA/X/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
       - X:15,060,000-15,260,000
       - 852
       - 99.4%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/XPEHH/BFM.BFS/X/1/index`
       - XPEHH
       - Burkina Faso *An. coluzzii*
@@ -397,7 +397,7 @@ Chromosome X
       - X:14,760,000-15,620,000
       - 501
       - 100.0%
-      - 
+      - Cyp9k1
     * - :doc:`../signal/IHS/BFM/X/2/index`
       - IHS
       - Burkina Faso *An. coluzzii*
