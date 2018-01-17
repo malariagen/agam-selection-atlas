@@ -1,0 +1,2633 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>All selection signals &#8212; Ag1000G Selection Atlas</title>
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="/agam-selection-atlas/dev/_static/css/custom.css" type="text/css" />
+    <link rel="stylesheet" href="/agam-selection-atlas/dev/_static/bokeh/bokeh-0.12.13.min.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     'dev',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="/agam-selection-atlas/dev/_static/bokeh/bokeh-0.12.13.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Signals by population" href="populations.html" />
+    <link rel="prev" title="Ag1000G Selection Atlas" href="index.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          Ag1000G Selection Atlas</a>
+        <span class="navbar-text navbar-version pull-left"><b>0.1-alpha3</b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">All selection signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="populations.html">Signals by population</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="population/AOM.html">Angola <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/AOM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/BFM.html">Burkina Faso <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/GWA.html">Guinea Bissau</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GWA.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/GNS.html">Guinea <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GNS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/BFS.html">Burkina Faso <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/BFS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/CMS.html">Cameroon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/CMS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/UGS.html">Uganda <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/UGS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="population/GAS.html">Gabon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="population/GAS.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="seqids.html">Signals by chromosome arm</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="seqid/2R.html">Chromosome arm 2R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="seqid/2L.html">Chromosome arm 2L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="seqid/3R.html">Chromosome arm 3R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="seqid/3L.html">Chromosome arm 3L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="seqid/X.html">Chromosome  X</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="statistics.html">Signals by scanning statistic</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="statistic/H12.html">H12</a></li>
+<li class="toctree-l2"><a class="reference internal" href="statistic/IHS.html">IHS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="statistic/XPEHH.html">XPEHH</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="known-loci.html">Known loci</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/vgsc.html">Vgsc locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/vgsc.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/vgsc.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/vgsc.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/gste.html">Gste locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/gste.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/gste.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/gste.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/cyp6p.html">Cyp6p locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp6p.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp6p.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp6p.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/ace1.html">Ace1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/ace1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/ace1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/ace1.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/rdl.html">Rdl locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/rdl.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/rdl.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/rdl.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/cyp9k1.html">Cyp9k1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp9k1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp9k1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/cyp9k1.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="known-locus/tep1.html">Tep1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/tep1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/tep1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="known-locus/tep1.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="ir-candidates.html">Insecticide resistance candidate genes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ir-candidate/metabolic.html">Metabolic genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ir-candidate/metabolic.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ir-candidate/target_site.html">Target-site genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ir-candidate/target_site.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ir-candidate/behavioural.html">Behavioural genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ir-candidate/behavioural.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ir-candidate/cuticular.html">Cuticular genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ir-candidate/cuticular.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="methods.html">Methods</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="method/H12.html">H12 (Garud et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method/IHS.html">IHS (Cite et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method/XPEHH.html">XPEHH (Cite et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="method/peak_modelling.html">Peak modelling</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">All selection signals</a></li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+  <li>
+    <a href="index.html" title="Previous Chapter: Ag1000G Selection Atlas"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Ag1000G Selec...</span>
+    </a>
+  </li>
+  <li>
+    <a href="populations.html" title="Next Chapter: Signals by population"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Signals by population &raquo;</span>
+    </a>
+  </li>
+              
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="all-selection-signals">
+<h1>All selection signals<a class="headerlink" href="#all-selection-signals" title="Permalink to this headline">¶</a></h1>
+<p>The table below lists all signals of recent selection.</p>
+<table border="1" class="colwidths-auto table-hover docutils">
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Signal</th>
+<th class="head">Statistic</th>
+<th class="head">Population</th>
+<th class="head">Focus</th>
+<th class="head">Peak model <img class="math" src="_images/math/def0b4bd6a0167dd23e206225cdf84431b44549d.png" alt="\Delta_{i}"/></th>
+<th class="head">Max. percentile</th>
+<th class="head">Known locus</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/2/1/index.html"><span class="doc">XPEHH/BFS.UGS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:28,354,895-28,674,895</td>
+<td>1,933</td>
+<td>99.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/2/1/index.html"><span class="doc">H12/BFM/2/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:2,474,895-2,894,895</td>
+<td>1,800</td>
+<td>99.9%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/2/1/index.html"><span class="doc">H12/BFS/2/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:1,454,895-2,694,895</td>
+<td>1,776</td>
+<td>100.0%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/2/1/index.html"><span class="doc">H12/GNS/2/1</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:1,294,895-2,474,895</td>
+<td>1,685</td>
+<td>100.0%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/2/1/index.html"><span class="doc">IHS/UGS/2/1</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:28,280,000-28,700,000</td>
+<td>1,661</td>
+<td>100.0%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/2/1/index.html"><span class="doc">H12/UGS/2/1</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:28,460,000-28,500,000</td>
+<td>1,567</td>
+<td>99.2%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/CMS/3/1/index.html"><span class="doc">H12/CMS/3/1</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:28,580,000-28,620,000</td>
+<td>1,410</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/2/2/index.html"><span class="doc">H12/UGS/2/2</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:1,814,895-3,094,895</td>
+<td>1,377</td>
+<td>100.0%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GWA/3/1/index.html"><span class="doc">XPEHH/CMS.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:28,600,000-28,700,000</td>
+<td>1,275</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/X/1/index.html"><span class="doc">H12/BFM/X/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:15,100,000-15,300,000</td>
+<td>1,267</td>
+<td>100.0%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/CMS/2/1/index.html"><span class="doc">IHS/CMS/2/1</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:28,240,000-28,560,000</td>
+<td>1,249</td>
+<td>100.0%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.UGS/3/1/index.html"><span class="doc">XPEHH/CMS.UGS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:28,240,000-28,380,000</td>
+<td>1,234</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/3/1/index.html"><span class="doc">XPEHH/BFS.UGS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:28,320,000-28,360,000</td>
+<td>1,209</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/2/3/index.html"><span class="doc">H12/UGS/2/3</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:34,074,895-34,134,895</td>
+<td>1,193</td>
+<td>98.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/3/1/index.html"><span class="doc">XPEHH/BFS.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:28,500,000-28,620,000</td>
+<td>1,181</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/2/2/index.html"><span class="doc">XPEHH/BFS.UGS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:40,880,000-40,940,000</td>
+<td>1,181</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFM/2/2/index.html"><span class="doc">H12/BFM/2/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:25,434,895-25,494,895</td>
+<td>1,172</td>
+<td>98.4%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/2/1/index.html"><span class="doc">IHS/BFS/2/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:28,260,000-28,540,000</td>
+<td>1,164</td>
+<td>99.1%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GNS/2/1/index.html"><span class="doc">IHS/GNS/2/1</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2R:28,440,000-28,700,000</td>
+<td>1,134</td>
+<td>99.8%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/CMS/2/1/index.html"><span class="doc">H12/CMS/2/1</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:28,460,000-28,560,000</td>
+<td>1,124</td>
+<td>100.0%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/CMS/3/1/index.html"><span class="doc">IHS/CMS/3/1</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:28,320,000-28,700,000</td>
+<td>1,106</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/2/2/index.html"><span class="doc">H12/GNS/2/2</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2R:28,420,000-28,460,000</td>
+<td>1,073</td>
+<td>98.5%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFM/3/1/index.html"><span class="doc">IHS/BFM/3/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:28,260,000-28,620,000</td>
+<td>1,058</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFS/3/1/index.html"><span class="doc">H12/BFS/3/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:28,520,000-28,580,000</td>
+<td>995</td>
+<td>98.4%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/2/2/index.html"><span class="doc">H12/BFS/2/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:28,440,000-28,480,000</td>
+<td>976</td>
+<td>98.4%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/X/1/index.html"><span class="doc">XPEHH/BFS.UGS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:14,960,000-15,140,000</td>
+<td>961</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GNS/3/1/index.html"><span class="doc">H12/GNS/3/1</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3R:28,480,000-28,540,000</td>
+<td>954</td>
+<td>98.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.UGS/2/1/index.html"><span class="doc">XPEHH/CMS.UGS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:41,020,000-41,400,000</td>
+<td>943</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/1/index.html"><span class="doc">XPEHH/BFS.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:2,234,895-3,274,895</td>
+<td>938</td>
+<td>99.6%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/2/1/index.html"><span class="doc">XPEHH/BFM.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:2,334,895-2,974,895</td>
+<td>917</td>
+<td>99.8%</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.BFM/2/1/index.html"><span class="doc">XPEHH/BFS.BFM/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:28,454,895-28,654,895</td>
+<td>900</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/3/1/index.html"><span class="doc">H12/UGS/3/1</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:28,560,000-28,600,000</td>
+<td>876</td>
+<td>97.3%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/X/1/index.html"><span class="doc">XPEHH/BFS.GWA/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:15,060,000-15,220,000</td>
+<td>866</td>
+<td>99.6%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/2/index.html"><span class="doc">XPEHH/BFS.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:28,374,895-28,694,895</td>
+<td>863</td>
+<td>98.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/2/2/index.html"><span class="doc">IHS/UGS/2/2</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:33,934,895-34,194,895</td>
+<td>860</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/X/1/index.html"><span class="doc">XPEHH/BFM.GWA/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:15,060,000-15,260,000</td>
+<td>852</td>
+<td>99.4%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.BFM/X/1/index.html"><span class="doc">XPEHH/BFS.BFM/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,200,000-9,240,000</td>
+<td>848</td>
+<td>97.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFS/2/3/index.html"><span class="doc">H12/BFS/2/3</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:28,494,895-28,634,895</td>
+<td>834</td>
+<td>98.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/X/1/index.html"><span class="doc">H12/BFS/X/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:15,100,000-15,240,000</td>
+<td>815</td>
+<td>98.5%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GNS/3/1/index.html"><span class="doc">IHS/GNS/3/1</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3R:28,240,000-28,420,000</td>
+<td>791</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/3/1/index.html"><span class="doc">XPEHH/BFM.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:28,600,000-28,660,000</td>
+<td>767</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.GWA/2/1/index.html"><span class="doc">XPEHH/CMS.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:3,474,895-3,814,895</td>
+<td>760</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/2/1/index.html"><span class="doc">XPEHH/UGS.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:28,460,000-28,600,000</td>
+<td>758</td>
+<td>99.7%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/2/1/index.html"><span class="doc">XPEHH/UGS.BFS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:27,980,000-28,280,000</td>
+<td>753</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFS/3/1/index.html"><span class="doc">IHS/BFS/3/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:27,940,000-28,260,000</td>
+<td>749</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/3/1/index.html"><span class="doc">H12/BFM/3/1</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:28,560,000-28,620,000</td>
+<td>747</td>
+<td>98.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/X/2/index.html"><span class="doc">XPEHH/BFS.GWA/X/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,200,000-9,240,000</td>
+<td>744</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/CMS/2/2/index.html"><span class="doc">H12/CMS/2/2</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:3,054,895-3,614,895</td>
+<td>725</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/X/1/index.html"><span class="doc">XPEHH/BFM.BFS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:15,580,000-15,800,000</td>
+<td>718</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/3/index.html"><span class="doc">XPEHH/BFS.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:28,420,000-28,500,000</td>
+<td>697</td>
+<td>99.1%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/X/2/index.html"><span class="doc">XPEHH/BFS.UGS/X/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,220,000-9,260,000</td>
+<td>678</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/3/1/index.html"><span class="doc">XPEHH/UGS.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:28,540,000-28,600,000</td>
+<td>662</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/2/1/index.html"><span class="doc">XPEHH/UGS.CMS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:28,860,000-28,980,000</td>
+<td>645</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/2/2/index.html"><span class="doc">IHS/CMS/2/2</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:40,060,000-40,780,000</td>
+<td>643</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFS/2/2/index.html"><span class="doc">IHS/BFS/2/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:3,380,000-3,900,000</td>
+<td>635</td>
+<td>99.2%</td>
+<td>Ace1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/2/2/index.html"><span class="doc">XPEHH/BFM.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:25,474,895-25,514,895</td>
+<td>625</td>
+<td>99.4%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GAS/3/1/index.html"><span class="doc">XPEHH/AOM.GAS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3R:43,460,000-44,120,000</td>
+<td>605</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/2/3/index.html"><span class="doc">IHS/CMS/2/3</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:34,254,895-34,674,895</td>
+<td>586</td>
+<td>97.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GWA/2/2/index.html"><span class="doc">XPEHH/CMS.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:28,420,000-28,620,000</td>
+<td>578</td>
+<td>98.7%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.AOM/3/1/index.html"><span class="doc">XPEHH/BFM.AOM/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:28,600,000-28,640,000</td>
+<td>569</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/X/2/index.html"><span class="doc">H12/BFS/X/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,180,000-9,240,000</td>
+<td>563</td>
+<td>97.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/2/3/index.html"><span class="doc">IHS/BFS/2/3</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:40,320,000-40,560,000</td>
+<td>557</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFS/2/4/index.html"><span class="doc">IHS/BFS/2/4</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:28,614,895-28,814,895</td>
+<td>554</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GNS/X/1/index.html"><span class="doc">IHS/GNS/X/1</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>X:15,240,000-15,780,000</td>
+<td>553</td>
+<td>99.3%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/3/1/index.html"><span class="doc">XPEHH/CMS.GAS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:43,920,000-44,560,000</td>
+<td>538</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/1/index.html"><span class="doc">XPEHH/AOM.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:3,054,895-3,394,895</td>
+<td>533</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GAS/2/1/index.html"><span class="doc">H12/GAS/2/1</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:25,454,895-25,514,895</td>
+<td>529</td>
+<td>100.0%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/AOM/X/1/index.html"><span class="doc">H12/AOM/X/1</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:4,340,000-4,380,000</td>
+<td>519</td>
+<td>97.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/X/1/index.html"><span class="doc">IHS/UGS/X/1</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>X:14,640,000-15,360,000</td>
+<td>517</td>
+<td>96.7%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/X/1/index.html"><span class="doc">IHS/BFS/X/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,160,000-9,680,000</td>
+<td>515</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFM/2/3/index.html"><span class="doc">H12/BFM/2/3</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:40,920,000-40,960,000</td>
+<td>512</td>
+<td>97.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.AOM/X/1/index.html"><span class="doc">XPEHH/BFM.AOM/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:15,040,000-15,180,000</td>
+<td>511</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GNS/3/2/index.html"><span class="doc">IHS/GNS/3/2</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3R:4,400,000-4,960,000</td>
+<td>508</td>
+<td>99.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/2/index.html"><span class="doc">IHS/BFS/3/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:4,340,000-4,740,000</td>
+<td>504</td>
+<td>95.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/CMS/2/3/index.html"><span class="doc">H12/CMS/2/3</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:40,300,000-40,740,000</td>
+<td>501</td>
+<td>98.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFM/X/1/index.html"><span class="doc">IHS/BFM/X/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:14,760,000-15,620,000</td>
+<td>501</td>
+<td>100.0%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/2/3/index.html"><span class="doc">XPEHH/BFM.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:28,380,000-28,520,000</td>
+<td>495</td>
+<td>99.2%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/UGS/3/1/index.html"><span class="doc">IHS/UGS/3/1</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:28,440,000-28,640,000</td>
+<td>493</td>
+<td>99.7%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/2/2/index.html"><span class="doc">XPEHH/UGS.BFS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:34,134,895-34,234,895</td>
+<td>487</td>
+<td>98.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/AOM/2/1/index.html"><span class="doc">H12/AOM/2/1</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:8,280,000-8,340,000</td>
+<td>479</td>
+<td>97.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/2/index.html"><span class="doc">H12/AOM/2/2</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:28,040,000-28,080,000</td>
+<td>478</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/X/2/index.html"><span class="doc">IHS/BFS/X/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:14,660,000-14,980,000</td>
+<td>477</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/1/index.html"><span class="doc">XPEHH/BFM.BFS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:25,454,895-25,554,895</td>
+<td>468</td>
+<td>99.3%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFM/2/1/index.html"><span class="doc">IHS/BFM/2/1</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:28,700,000-29,020,000</td>
+<td>468</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GNS/2/2/index.html"><span class="doc">IHS/GNS/2/2</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2R:3,020,000-3,280,000</td>
+<td>461</td>
+<td>98.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GNS/2/3/index.html"><span class="doc">IHS/GNS/2/3</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2R:40,200,000-40,420,000</td>
+<td>450</td>
+<td>99.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/2/3/index.html"><span class="doc">XPEHH/BFS.UGS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:3,260,000-3,600,000</td>
+<td>432</td>
+<td>90.3%</td>
+<td>Ace1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/2/1/index.html"><span class="doc">XPEHH/GWA.UGS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:31,914,895-32,034,895</td>
+<td>430</td>
+<td>93.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/UGS/3/2/index.html"><span class="doc">H12/UGS/3/2</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:49,660,000-49,880,000</td>
+<td>427</td>
+<td>93.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/2/1/index.html"><span class="doc">XPEHH/GAS.GWA/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:25,474,895-25,634,895</td>
+<td>423</td>
+<td>100.0%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/2/2/index.html"><span class="doc">XPEHH/UGS.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:34,114,895-34,214,895</td>
+<td>422</td>
+<td>95.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/X/1/index.html"><span class="doc">H12/GNS/X/1</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>X:14,960,000-15,160,000</td>
+<td>419</td>
+<td>97.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/3/index.html"><span class="doc">H12/AOM/2/3</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:25,214,895-25,334,895</td>
+<td>398</td>
+<td>95.7%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/AOM/2/4/index.html"><span class="doc">H12/AOM/2/4</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:58,660,000-59,200,000</td>
+<td>395</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFM/X/2/index.html"><span class="doc">IHS/BFM/X/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:9,040,000-9,300,000</td>
+<td>394</td>
+<td>97.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/2/4/index.html"><span class="doc">XPEHH/BFS.UGS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:25,434,895-25,474,895</td>
+<td>388</td>
+<td>98.3%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/2/4/index.html"><span class="doc">H12/BFS/2/4</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:40,640,000-41,060,000</td>
+<td>384</td>
+<td>95.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GWA/2/1/index.html"><span class="doc">H12/GWA/2/1</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2L:31,954,895-31,994,895</td>
+<td>382</td>
+<td>99.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/2/1/index.html"><span class="doc">XPEHH/GAS.BFS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:15,294,895-15,694,895</td>
+<td>380</td>
+<td>98.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GWA/2/2/index.html"><span class="doc">H12/GWA/2/2</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2R:47,740,000-47,800,000</td>
+<td>380</td>
+<td>98.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/2/3/index.html"><span class="doc">XPEHH/UGS.BFS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:57,280,000-57,620,000</td>
+<td>376</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFS/2/5/index.html"><span class="doc">H12/BFS/2/5</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:25,454,895-25,534,895</td>
+<td>375</td>
+<td>96.1%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFM/2/4/index.html"><span class="doc">H12/BFM/2/4</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:28,420,000-28,520,000</td>
+<td>366</td>
+<td>98.5%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/2/index.html"><span class="doc">XPEHH/AOM.BFM/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:3,574,895-3,834,895</td>
+<td>364</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GWA/3/1/index.html"><span class="doc">IHS/GWA/3/1</span></a></td>
+<td>IHS</td>
+<td>Guinea Bissau</td>
+<td>3R:660,000-700,000</td>
+<td>363</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/2/index.html"><span class="doc">XPEHH/BFM.BFS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:24,820,000-24,900,000</td>
+<td>360</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/1/index.html"><span class="doc">XPEHH/AOM.BFM/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:56,520,000-56,920,000</td>
+<td>354</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/2/2/index.html"><span class="doc">XPEHH/UGS.CMS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:58,120,000-58,520,000</td>
+<td>348</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/UGS/X/1/index.html"><span class="doc">H12/UGS/X/1</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>X:15,160,000-15,480,000</td>
+<td>348</td>
+<td>94.9%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/3/1/index.html"><span class="doc">XPEHH/GWA.UGS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3R:660,000-700,000</td>
+<td>346</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/2/3/index.html"><span class="doc">XPEHH/UGS.CMS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:34,134,895-34,234,895</td>
+<td>342</td>
+<td>99.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/2/4/index.html"><span class="doc">IHS/CMS/2/4</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:19,100,000-19,180,000</td>
+<td>339</td>
+<td>84.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GNS/2/4/index.html"><span class="doc">H12/GNS/2/4</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:25,534,895-25,814,895</td>
+<td>332</td>
+<td>97.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/CMS/3/2/index.html"><span class="doc">H12/CMS/3/2</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3L:26,879,316-26,919,316</td>
+<td>328</td>
+<td>89.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/3/2/index.html"><span class="doc">IHS/UGS/3/2</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:18,760,000-19,000,000</td>
+<td>327</td>
+<td>92.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GAS/2/2/index.html"><span class="doc">H12/GAS/2/2</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:2,734,895-3,094,895</td>
+<td>325</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/AOM/2/1/index.html"><span class="doc">IHS/AOM/2/1</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:27,980,000-28,040,000</td>
+<td>324</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/3/1/index.html"><span class="doc">XPEHH/AOM.BFM/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3R:43,860,000-44,500,000</td>
+<td>314</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/3/1/index.html"><span class="doc">XPEHH/GWA.BFS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3R:660,000-700,000</td>
+<td>313</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFM/2/2/index.html"><span class="doc">IHS/BFM/2/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:40,880,000-41,160,000</td>
+<td>312</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/2/1/index.html"><span class="doc">XPEHH/GWA.BFS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:11,294,895-11,354,895</td>
+<td>309</td>
+<td>98.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFM/2/3/index.html"><span class="doc">IHS/BFM/2/3</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:24,754,895-25,434,895</td>
+<td>304</td>
+<td>99.9%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.BFM/2/1/index.html"><span class="doc">XPEHH/GWA.BFM/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:11,274,895-11,354,895</td>
+<td>304</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFM/2/2/index.html"><span class="doc">XPEHH/GWA.BFM/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2R:47,760,000-47,800,000</td>
+<td>303</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/X/1/index.html"><span class="doc">XPEHH/GAS.GWA/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>X:14,460,000-14,860,000</td>
+<td>301</td>
+<td>98.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/2/3/index.html"><span class="doc">H12/GNS/2/3</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:28,434,895-28,834,895</td>
+<td>301</td>
+<td>98.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/3/1/index.html"><span class="doc">XPEHH/UGS.CMS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:37,120,000-37,200,000</td>
+<td>300</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/5/index.html"><span class="doc">IHS/BFS/3/5</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:18,760,000-18,920,000</td>
+<td>297</td>
+<td>90.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/3/index.html"><span class="doc">XPEHH/AOM.BFM/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:28,000,000-28,060,000</td>
+<td>295</td>
+<td>99.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/3/2/index.html"><span class="doc">XPEHH/GWA.BFS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3R:6,320,000-6,360,000</td>
+<td>295</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/UGS/3/3/index.html"><span class="doc">H12/UGS/3/3</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:44,380,000-45,140,000</td>
+<td>292</td>
+<td>95.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/X/1/index.html"><span class="doc">XPEHH/AOM.BFM/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:4,320,000-4,360,000</td>
+<td>292</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/3/2/index.html"><span class="doc">H12/BFS/3/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3L:26,879,316-26,979,316</td>
+<td>291</td>
+<td>92.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.UGS/2/2/index.html"><span class="doc">XPEHH/CMS.UGS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:25,414,895-25,454,895</td>
+<td>291</td>
+<td>90.3%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/5/index.html"><span class="doc">H12/AOM/2/5</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:33,434,895-33,514,895</td>
+<td>290</td>
+<td>96.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/X/1/index.html"><span class="doc">XPEHH/UGS.CMS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>X:15,240,000-15,460,000</td>
+<td>284</td>
+<td>99.9%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/2/2/index.html"><span class="doc">XPEHH/GAS.BFS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:25,614,895-25,894,895</td>
+<td>284</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/UGS/2/3/index.html"><span class="doc">IHS/UGS/2/3</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:14,914,895-15,074,895</td>
+<td>282</td>
+<td>98.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/2/2/index.html"><span class="doc">XPEHH/GAS.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:3,354,895-3,714,895</td>
+<td>274</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/2/5/index.html"><span class="doc">H12/BFM/2/5</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:24,860,000-24,900,000</td>
+<td>267</td>
+<td>98.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFM/3/2/index.html"><span class="doc">H12/BFM/3/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:11,159,316-11,199,316</td>
+<td>267</td>
+<td>99.7%</td>
+<td>Tep1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFS/X/3/index.html"><span class="doc">H12/BFS/X/3</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,660,000-9,760,000</td>
+<td>267</td>
+<td>91.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/3/2/index.html"><span class="doc">XPEHH/UGS.CMS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:43,940,000-43,980,000</td>
+<td>263</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/2/2/index.html"><span class="doc">XPEHH/GWA.BFS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:31,874,895-32,014,895</td>
+<td>261</td>
+<td>97.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.BFM/3/1/index.html"><span class="doc">XPEHH/BFS.BFM/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:28,360,000-28,460,000</td>
+<td>257</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/2/5/index.html"><span class="doc">IHS/BFS/2/5</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:25,434,895-25,614,895</td>
+<td>256</td>
+<td>99.8%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/3/1/index.html"><span class="doc">XPEHH/AOM.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3R:44,320,000-44,480,000</td>
+<td>253</td>
+<td>99.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/3/2/index.html"><span class="doc">H12/GNS/3/2</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3R:4,600,000-5,060,000</td>
+<td>253</td>
+<td>77.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.UGS/3/2/index.html"><span class="doc">XPEHH/CMS.UGS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3L:26,939,316-26,979,316</td>
+<td>252</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/3/1/index.html"><span class="doc">XPEHH/BFM.BFS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:11,579,316-11,659,316</td>
+<td>251</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/2/1/index.html"><span class="doc">XPEHH/CMS.GAS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:45,374,895-45,454,895</td>
+<td>250</td>
+<td>98.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/X/1/index.html"><span class="doc">XPEHH/GAS.BFS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>X:14,040,000-14,400,000</td>
+<td>250</td>
+<td>99.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/1/index.html"><span class="doc">XPEHH/UGS.BFS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:37,140,000-37,220,000</td>
+<td>247</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GAS/3/1/index.html"><span class="doc">H12/GAS/3/1</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3L:9,639,316-10,199,316</td>
+<td>244</td>
+<td>92.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/X/2/index.html"><span class="doc">H12/AOM/X/2</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:14,500,000-14,600,000</td>
+<td>243</td>
+<td>96.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GAS/X/1/index.html"><span class="doc">H12/GAS/X/1</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>X:13,920,000-14,440,000</td>
+<td>243</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/X/1/index.html"><span class="doc">XPEHH/AOM.GWA/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:4,340,000-4,380,000</td>
+<td>242</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/2/2/index.html"><span class="doc">XPEHH/CMS.GAS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:41,220,000-41,320,000</td>
+<td>236</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/6/index.html"><span class="doc">H12/AOM/2/6</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:28,440,000-28,480,000</td>
+<td>235</td>
+<td>97.8%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/3/index.html"><span class="doc">IHS/BFS/3/3</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:32,440,000-32,880,000</td>
+<td>235</td>
+<td>96.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/3/2/index.html"><span class="doc">XPEHH/CMS.GAS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:28,260,000-28,320,000</td>
+<td>232</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/3/2/index.html"><span class="doc">XPEHH/BFM.GWA/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:11,599,316-11,659,316</td>
+<td>230</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/AOM/2/2/index.html"><span class="doc">IHS/AOM/2/2</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:8,160,000-8,280,000</td>
+<td>230</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GNS/3/3/index.html"><span class="doc">H12/GNS/3/3</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3L:26,939,316-26,979,316</td>
+<td>229</td>
+<td>94.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/X/2/index.html"><span class="doc">XPEHH/AOM.GWA/X/2</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:14,500,000-15,180,000</td>
+<td>228</td>
+<td>98.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/2/3/index.html"><span class="doc">XPEHH/UGS.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:50,960,000-51,100,000</td>
+<td>225</td>
+<td>90.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/7/index.html"><span class="doc">H12/AOM/2/7</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:34,040,000-34,220,000</td>
+<td>222</td>
+<td>96.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/2/7/index.html"><span class="doc">IHS/BFS/2/7</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:42,314,895-42,454,895</td>
+<td>222</td>
+<td>95.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFS/2/6/index.html"><span class="doc">IHS/BFS/2/6</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:46,034,895-46,214,895</td>
+<td>221</td>
+<td>96.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/X/2/index.html"><span class="doc">H12/BFM/X/2</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:9,220,000-9,260,000</td>
+<td>221</td>
+<td>96.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/1/index.html"><span class="doc">XPEHH/GAS.BFS/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:26,640,000-26,800,000</td>
+<td>220</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFM/3/2/index.html"><span class="doc">IHS/BFM/3/2</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:10,040,000-10,100,000</td>
+<td>220</td>
+<td>94.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFM/3/3/index.html"><span class="doc">IHS/BFM/3/3</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:18,600,000-19,000,000</td>
+<td>215</td>
+<td>96.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/2/index.html"><span class="doc">XPEHH/UGS.BFS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:43,920,000-43,980,000</td>
+<td>214</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.BFM/X/2/index.html"><span class="doc">XPEHH/BFS.BFM/X/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,660,000-9,700,000</td>
+<td>214</td>
+<td>88.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/AOM/2/3/index.html"><span class="doc">IHS/AOM/2/3</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:33,940,000-34,440,000</td>
+<td>213</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/UGS/3/4/index.html"><span class="doc">H12/UGS/3/4</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:18,780,000-19,000,000</td>
+<td>210</td>
+<td>72.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GWA/2/3/index.html"><span class="doc">H12/GWA/2/3</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2L:11,234,895-11,334,895</td>
+<td>208</td>
+<td>98.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/3/2/index.html"><span class="doc">XPEHH/GWA.UGS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3R:6,280,000-6,340,000</td>
+<td>206</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/3/5/index.html"><span class="doc">H12/UGS/3/5</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:36,460,000-37,520,000</td>
+<td>206</td>
+<td>94.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/4/index.html"><span class="doc">XPEHH/BFS.GWA/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:4,914,895-5,234,895</td>
+<td>205</td>
+<td>93.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/X/1/index.html"><span class="doc">XPEHH/UGS.BFS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>X:14,960,000-15,320,000</td>
+<td>204</td>
+<td>89.8%</td>
+<td>Cyp9k1</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/3/3/index.html"><span class="doc">XPEHH/UGS.CMS/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:6,360,000-6,400,000</td>
+<td>201</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/4/index.html"><span class="doc">IHS/BFS/3/4</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:20,800,000-20,920,000</td>
+<td>199</td>
+<td>92.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/5/index.html"><span class="doc">XPEHH/BFS.GWA/2/5</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:40,780,000-40,820,000</td>
+<td>195</td>
+<td>94.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/2/3/index.html"><span class="doc">XPEHH/CMS.GAS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:28,560,000-28,800,000</td>
+<td>191</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/CMS/3/2/index.html"><span class="doc">IHS/CMS/3/2</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:42,500,000-42,660,000</td>
+<td>191</td>
+<td>91.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/3/index.html"><span class="doc">XPEHH/BFM.BFS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:35,054,895-35,174,895</td>
+<td>190</td>
+<td>93.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFM/3/4/index.html"><span class="doc">IHS/BFM/3/4</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:19,819,316-19,899,316</td>
+<td>188</td>
+<td>96.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/6/index.html"><span class="doc">IHS/BFS/3/6</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3L:26,919,316-26,959,316</td>
+<td>187</td>
+<td>96.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.GWA/X/2/index.html"><span class="doc">XPEHH/BFM.GWA/X/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>X:9,200,000-9,240,000</td>
+<td>186</td>
+<td>71.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/3/3/index.html"><span class="doc">IHS/CMS/3/3</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3L:26,919,316-26,959,316</td>
+<td>186</td>
+<td>93.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/X/3/index.html"><span class="doc">H12/AOM/X/3</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:19,300,000-19,520,000</td>
+<td>183</td>
+<td>96.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/2/3/index.html"><span class="doc">XPEHH/GAS.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:15,254,895-15,554,895</td>
+<td>183</td>
+<td>95.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/X/3/index.html"><span class="doc">XPEHH/BFS.UGS/X/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,660,000-9,700,000</td>
+<td>183</td>
+<td>97.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/2/index.html"><span class="doc">XPEHH/AOM.GWA/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:6,254,895-6,434,895</td>
+<td>182</td>
+<td>97.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFM/3/5/index.html"><span class="doc">IHS/BFM/3/5</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:23,159,316-23,219,316</td>
+<td>178</td>
+<td>89.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/AOM/X/1/index.html"><span class="doc">IHS/AOM/X/1</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:4,280,000-4,360,000</td>
+<td>178</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/2/index.html"><span class="doc">XPEHH/GAS.BFS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:520,000-680,000</td>
+<td>178</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFM/2/3/index.html"><span class="doc">XPEHH/GWA.BFM/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:31,934,895-32,014,895</td>
+<td>175</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/4/index.html"><span class="doc">XPEHH/AOM.BFM/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:33,454,895-33,594,895</td>
+<td>173</td>
+<td>98.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/AOM/3/1/index.html"><span class="doc">H12/AOM/3/1</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3L:5,639,316-5,819,316</td>
+<td>173</td>
+<td>94.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/4/index.html"><span class="doc">XPEHH/BFM.BFS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:11,114,895-11,534,895</td>
+<td>170</td>
+<td>88.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/AOM/3/2/index.html"><span class="doc">H12/AOM/3/2</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3L:22,359,316-22,539,316</td>
+<td>169</td>
+<td>87.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/5/index.html"><span class="doc">XPEHH/AOM.BFM/2/5</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:8,140,000-8,240,000</td>
+<td>168</td>
+<td>89.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/2/3/index.html"><span class="doc">XPEHH/GWA.BFS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2R:47,760,000-47,800,000</td>
+<td>167</td>
+<td>98.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GWA/3/1/index.html"><span class="doc">H12/GWA/3/1</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>3R:49,480,000-49,620,000</td>
+<td>165</td>
+<td>93.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/X/1/index.html"><span class="doc">IHS/CMS/X/1</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>X:15,520,000-15,560,000</td>
+<td>162</td>
+<td>96.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/3/index.html"><span class="doc">XPEHH/AOM.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:33,434,895-33,594,895</td>
+<td>161</td>
+<td>92.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.BFM/3/1/index.html"><span class="doc">XPEHH/GWA.BFM/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3R:6,100,000-6,140,000</td>
+<td>161</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/3/3/index.html"><span class="doc">IHS/UGS/3/3</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:43,800,000-43,920,000</td>
+<td>160</td>
+<td>97.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/AOM/2/4/index.html"><span class="doc">IHS/AOM/2/4</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:33,414,895-33,634,895</td>
+<td>156</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/UGS/2/4/index.html"><span class="doc">IHS/UGS/2/4</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:42,794,895-42,834,895</td>
+<td>155</td>
+<td>97.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/3/3/index.html"><span class="doc">H12/BFM/3/3</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3R:52,600,000-53,080,000</td>
+<td>153</td>
+<td>97.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/2/4/index.html"><span class="doc">XPEHH/UGS.BFS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:14,374,895-14,554,895</td>
+<td>152</td>
+<td>87.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GWA/2/6/index.html"><span class="doc">H12/GWA/2/6</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2R:11,120,000-11,240,000</td>
+<td>151</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/3/4/index.html"><span class="doc">XPEHH/UGS.CMS/3/4</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3L:16,319,316-16,359,316</td>
+<td>149</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/6/index.html"><span class="doc">XPEHH/AOM.BFM/2/6</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:48,280,000-48,360,000</td>
+<td>146</td>
+<td>94.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.BFS/3/3/index.html"><span class="doc">XPEHH/GWA.BFS/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>3L:37,959,316-37,999,316</td>
+<td>142</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/3/7/index.html"><span class="doc">IHS/BFS/3/7</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3R:42,540,000-42,980,000</td>
+<td>141</td>
+<td>96.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/3/2/index.html"><span class="doc">XPEHH/GAS.GWA/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:26,640,000-26,740,000</td>
+<td>141</td>
+<td>99.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/5/index.html"><span class="doc">XPEHH/BFM.BFS/2/5</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:28,200,000-28,240,000</td>
+<td>139</td>
+<td>98.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/3/index.html"><span class="doc">XPEHH/UGS.BFS/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3L:16,319,316-16,359,316</td>
+<td>138</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/3/2/index.html"><span class="doc">XPEHH/BFM.BFS/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:33,259,316-33,299,316</td>
+<td>138</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/2/6/index.html"><span class="doc">XPEHH/BFS.GWA/2/6</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:25,434,895-25,474,895</td>
+<td>138</td>
+<td>95.3%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/2/5/index.html"><span class="doc">IHS/CMS/2/5</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:39,274,895-39,314,895</td>
+<td>137</td>
+<td>95.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GAS/X/1/index.html"><span class="doc">XPEHH/AOM.GAS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>X:4,340,000-4,420,000</td>
+<td>137</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/4/index.html"><span class="doc">XPEHH/UGS.BFS/3/4</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:6,360,000-6,400,000</td>
+<td>137</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/3/3/index.html"><span class="doc">H12/AOM/3/3</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3L:17,719,316-17,759,316</td>
+<td>135</td>
+<td>92.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.AOM/2/1/index.html"><span class="doc">XPEHH/GAS.AOM/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:14,654,895-14,834,895</td>
+<td>134</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GAS/3/1/index.html"><span class="doc">IHS/GAS/3/1</span></a></td>
+<td>IHS</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:44,140,000-44,300,000</td>
+<td>133</td>
+<td>95.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/UGS/2/5/index.html"><span class="doc">IHS/UGS/2/5</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:40,160,000-40,200,000</td>
+<td>132</td>
+<td>98.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/6/index.html"><span class="doc">XPEHH/BFM.BFS/2/6</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:43,434,895-43,514,895</td>
+<td>130</td>
+<td>79.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/3/1/index.html"><span class="doc">XPEHH/GAS.GWA/3/1</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:28,540,000-28,620,000</td>
+<td>129</td>
+<td>100.0%</td>
+<td>Gste</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/3/3/index.html"><span class="doc">XPEHH/CMS.GAS/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>3R:4,300,000-4,380,000</td>
+<td>127</td>
+<td>93.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/BFS/2/8/index.html"><span class="doc">IHS/BFS/2/8</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2L:37,274,895-37,594,895</td>
+<td>126</td>
+<td>94.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/3/index.html"><span class="doc">XPEHH/GAS.BFS/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:17,960,000-18,080,000</td>
+<td>125</td>
+<td>99.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GWA/2/4/index.html"><span class="doc">H12/GWA/2/4</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2R:29,400,000-29,640,000</td>
+<td>124</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/AOM/2/8/index.html"><span class="doc">H12/AOM/2/8</span></a></td>
+<td>H12</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:48,120,000-48,160,000</td>
+<td>124</td>
+<td>97.1%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/GAS/2/3/index.html"><span class="doc">H12/GAS/2/3</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2L:14,694,895-14,814,895</td>
+<td>121</td>
+<td>98.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/3/2/index.html"><span class="doc">XPEHH/UGS.GWA/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:6,360,000-6,400,000</td>
+<td>120</td>
+<td>99.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GNS/2/4/index.html"><span class="doc">IHS/GNS/2/4</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:39,274,895-39,314,895</td>
+<td>119</td>
+<td>96.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GAS/2/4/index.html"><span class="doc">XPEHH/CMS.GAS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:15,980,000-16,140,000</td>
+<td>119</td>
+<td>99.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/UGS/2/6/index.html"><span class="doc">IHS/UGS/2/6</span></a></td>
+<td>IHS</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:43,554,895-43,674,895</td>
+<td>118</td>
+<td>97.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/4/index.html"><span class="doc">XPEHH/GAS.BFS/3/4</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:27,180,000-27,280,000</td>
+<td>118</td>
+<td>97.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/5/index.html"><span class="doc">XPEHH/GAS.BFS/3/5</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:22,560,000-22,600,000</td>
+<td>117</td>
+<td>99.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GWA/2/1/index.html"><span class="doc">IHS/GWA/2/1</span></a></td>
+<td>IHS</td>
+<td>Guinea Bissau</td>
+<td>2R:47,780,000-47,940,000</td>
+<td>117</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/2/4/index.html"><span class="doc">H12/UGS/2/4</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2R:51,020,000-51,120,000</td>
+<td>117</td>
+<td>94.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/GWA.BFM/X/1/index.html"><span class="doc">XPEHH/GWA.BFM/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>X:9,560,000-9,600,000</td>
+<td>115</td>
+<td>84.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GNS/3/3/index.html"><span class="doc">IHS/GNS/3/3</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>3L:26,919,316-26,959,316</td>
+<td>115</td>
+<td>96.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/BFS/2/6/index.html"><span class="doc">H12/BFS/2/6</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:34,420,000-34,460,000</td>
+<td>114</td>
+<td>92.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/2/2/index.html"><span class="doc">XPEHH/GWA.UGS/2/2</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2R:47,740,000-47,800,000</td>
+<td>113</td>
+<td>95.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GAS/3/2/index.html"><span class="doc">H12/GAS/3/2</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:41,680,000-41,980,000</td>
+<td>112</td>
+<td>91.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/CMS/2/4/index.html"><span class="doc">H12/CMS/2/4</span></a></td>
+<td>H12</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:39,274,895-39,314,895</td>
+<td>112</td>
+<td>98.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/AOM/3/1/index.html"><span class="doc">IHS/AOM/3/1</span></a></td>
+<td>IHS</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>3R:43,740,000-44,560,000</td>
+<td>112</td>
+<td>99.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.GWA/3/3/index.html"><span class="doc">XPEHH/GAS.GWA/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3R:22,540,000-22,600,000</td>
+<td>110</td>
+<td>99.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GNS/2/5/index.html"><span class="doc">H12/GNS/2/5</span></a></td>
+<td>H12</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:39,254,895-39,294,895</td>
+<td>110</td>
+<td>94.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFM.AOM/2/1/index.html"><span class="doc">XPEHH/BFM.AOM/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2R:24,840,000-24,880,000</td>
+<td>109</td>
+<td>99.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.BFM/2/7/index.html"><span class="doc">XPEHH/AOM.BFM/2/7</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:34,320,000-34,440,000</td>
+<td>108</td>
+<td>86.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/4/index.html"><span class="doc">XPEHH/AOM.GWA/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:8,120,000-8,320,000</td>
+<td>107</td>
+<td>78.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GAS/2/1/index.html"><span class="doc">IHS/GAS/2/1</span></a></td>
+<td>IHS</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>2R:13,880,000-14,040,000</td>
+<td>105</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/X/1/index.html"><span class="doc">XPEHH/GWA.UGS/X/1</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>X:9,560,000-9,600,000</td>
+<td>105</td>
+<td>99.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/BFS/2/9/index.html"><span class="doc">IHS/BFS/2/9</span></a></td>
+<td>IHS</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:39,020,000-39,140,000</td>
+<td>104</td>
+<td>96.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/3/2/index.html"><span class="doc">XPEHH/BFS.GWA/3/2</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>3L:10,219,316-10,379,316</td>
+<td>103</td>
+<td>99.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/CMS.GWA/2/3/index.html"><span class="doc">XPEHH/CMS.GWA/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2R:40,680,000-40,760,000</td>
+<td>100</td>
+<td>96.5%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/2/3/index.html"><span class="doc">XPEHH/GWA.UGS/2/3</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:48,934,895-49,014,895</td>
+<td>98</td>
+<td>84.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GNS/2/5/index.html"><span class="doc">IHS/GNS/2/5</span></a></td>
+<td>IHS</td>
+<td>Guinea <em>An. gambiae</em></td>
+<td>2L:42,274,895-42,414,895</td>
+<td>98</td>
+<td>87.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/UGS/2/5/index.html"><span class="doc">H12/UGS/2/5</span></a></td>
+<td>H12</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:42,774,895-42,814,895</td>
+<td>98</td>
+<td>94.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GWA/2/5/index.html"><span class="doc">H12/GWA/2/5</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>2R:7,900,000-7,940,000</td>
+<td>98</td>
+<td>100.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/CMS/2/7/index.html"><span class="doc">IHS/CMS/2/7</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:46,054,895-46,094,895</td>
+<td>98</td>
+<td>77.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFM.BFS/2/7/index.html"><span class="doc">XPEHH/BFM.BFS/2/7</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>2L:41,094,895-41,154,895</td>
+<td>98</td>
+<td>93.0%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/BFS.GWA/X/3/index.html"><span class="doc">XPEHH/BFS.GWA/X/3</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>X:9,660,000-9,700,000</td>
+<td>97</td>
+<td>91.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GWA/3/2/index.html"><span class="doc">H12/GWA/3/2</span></a></td>
+<td>H12</td>
+<td>Guinea Bissau</td>
+<td>3L:25,059,316-25,179,316</td>
+<td>96</td>
+<td>83.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/5/index.html"><span class="doc">XPEHH/AOM.GWA/2/5</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:27,980,000-28,040,000</td>
+<td>96</td>
+<td>95.2%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/6/index.html"><span class="doc">XPEHH/UGS.BFS/3/6</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:44,440,000-44,520,000</td>
+<td>95</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/H12/BFM/3/4/index.html"><span class="doc">H12/BFM/3/4</span></a></td>
+<td>H12</td>
+<td>Burkina Faso <em>An. coluzzii</em></td>
+<td>3L:11,619,316-11,659,316</td>
+<td>95</td>
+<td>99.6%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/BFS.UGS/2/5/index.html"><span class="doc">XPEHH/BFS.UGS/2/5</span></a></td>
+<td>XPEHH</td>
+<td>Burkina Faso <em>An. gambiae</em></td>
+<td>2R:34,420,000-34,480,000</td>
+<td>95</td>
+<td>96.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GAS.BFS/3/6/index.html"><span class="doc">XPEHH/GAS.BFS/3/6</span></a></td>
+<td>XPEHH</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3L:15,059,316-15,199,316</td>
+<td>94</td>
+<td>98.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GAS/2/1/index.html"><span class="doc">XPEHH/AOM.GAS/2/1</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:34,680,000-34,820,000</td>
+<td>94</td>
+<td>99.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/GWA.UGS/2/4/index.html"><span class="doc">XPEHH/GWA.UGS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Guinea Bissau</td>
+<td>2L:46,594,895-46,654,895</td>
+<td>94</td>
+<td>87.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/H12/GAS/3/3/index.html"><span class="doc">H12/GAS/3/3</span></a></td>
+<td>H12</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3L:35,059,316-35,139,316</td>
+<td>93</td>
+<td>96.3%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.GWA/3/3/index.html"><span class="doc">XPEHH/UGS.GWA/3/3</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:43,940,000-44,000,000</td>
+<td>93</td>
+<td>99.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/GWA/2/2/index.html"><span class="doc">IHS/GWA/2/2</span></a></td>
+<td>IHS</td>
+<td>Guinea Bissau</td>
+<td>2L:31,834,895-31,914,895</td>
+<td>93</td>
+<td>99.8%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/UGS.BFS/3/5/index.html"><span class="doc">XPEHH/UGS.BFS/3/5</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>3R:49,540,000-49,660,000</td>
+<td>93</td>
+<td>98.9%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/6/index.html"><span class="doc">XPEHH/AOM.GWA/2/6</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2L:25,254,895-25,414,895</td>
+<td>92</td>
+<td>83.9%</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/IHS/GAS/3/2/index.html"><span class="doc">IHS/GAS/3/2</span></a></td>
+<td>IHS</td>
+<td>Gabon <em>An. gambiae</em></td>
+<td>3L:10,399,316-10,559,316</td>
+<td>92</td>
+<td>96.7%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/XPEHH/UGS.CMS/2/4/index.html"><span class="doc">XPEHH/UGS.CMS/2/4</span></a></td>
+<td>XPEHH</td>
+<td>Uganda <em>An. gambiae</em></td>
+<td>2L:14,374,895-14,554,895</td>
+<td>92</td>
+<td>91.4%</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="signal/XPEHH/AOM.GWA/2/7/index.html"><span class="doc">XPEHH/AOM.GWA/2/7</span></a></td>
+<td>XPEHH</td>
+<td>Angola <em>An. coluzzii</em></td>
+<td>2R:28,480,000-28,520,000</td>
+<td>92</td>
+<td>84.1%</td>
+<td>Cyp6p</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="signal/IHS/CMS/2/6/index.html"><span class="doc">IHS/CMS/2/6</span></a></td>
+<td>IHS</td>
+<td>Cameroon <em>An. gambiae</em></td>
+<td>2L:42,394,895-42,434,895</td>
+<td>90</td>
+<td>77.8%</td>
+<td>&#160;</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017, Anopheles gambiae 1000 Genomes Consortium.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

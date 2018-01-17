@@ -1,0 +1,137 @@
+:orphan:
+
+
+
+AGAP028430
+==========
+
+Location: **3L:26,923,428-26,924,043**
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP028430>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3L:26923428-26924043#genomebrowser>`_
+
+
+
+
+
+Overlapping selection signals
+-----------------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/H12/BFS/3/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 3L:26,879,316-26,979,316
+      - 291
+      - 92.7%
+      - nan
+    * - :doc:`../signal/IHS/BFS/3/6/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 187
+      - 96.6%
+      - nan
+    * - :doc:`../signal/IHS/CMS/3/3/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 186
+      - 93.0%
+      - nan
+    * - :doc:`../signal/IHS/GNS/3/3/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 3L:26,919,316-26,959,316
+      - 115
+      - 96.8%
+      - nan
+    
+
+
+
+
+Adjacent selection signals
+--------------------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/H12/CMS/3/2/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 3L:26,879,316-26,919,316
+      - 328
+      - 89.2%
+      - nan
+    * - :doc:`../signal/XPEHH/CMS.UGS/3/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3L:26,939,316-26,979,316
+      - 252
+      - 99.8%
+      - nan
+    * - :doc:`../signal/H12/GNS/3/3/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 3L:26,939,316-26,979,316
+      - 229
+      - 94.4%
+      - nan
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP028430';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

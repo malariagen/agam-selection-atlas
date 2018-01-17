@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Target-site genes &#8212; Ag1000G Selection Atlas</title>
+    <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="/agam-selection-atlas/dev/_static/css/custom.css" type="text/css" />
+    <link rel="stylesheet" href="/agam-selection-atlas/dev/_static/bokeh/bokeh-0.12.13.min.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     'dev',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="/agam-selection-atlas/dev/_static/bokeh/bokeh-0.12.13.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Behavioural genes" href="behavioural.html" />
+    <link rel="prev" title="Metabolic genes" href="metabolic.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html">
+          Ag1000G Selection Atlas</a>
+        <span class="navbar-text navbar-version pull-left"><b>0.1-alpha3</b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../signals.html">All selection signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../populations.html">Signals by population</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../population/AOM.html">Angola <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/AOM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/BFM.html">Burkina Faso <em>An. coluzzii</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFM.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GWA.html">Guinea Bissau</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GWA.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GNS.html">Guinea <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GNS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/BFS.html">Burkina Faso <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/BFS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/CMS.html">Cameroon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/CMS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/UGS.html">Uganda <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/UGS.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../population/GAS.html">Gabon <em>An. gambiae</em></a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-2r">Chromosome arm 2R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-2l">Chromosome arm 2L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-3r">Chromosome arm 3R</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-arm-3l">Chromosome arm 3L</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#chromosome-x">Chromosome X</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../population/GAS.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../seqids.html">Signals by chromosome arm</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/2R.html">Chromosome arm 2R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/2L.html">Chromosome arm 2L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/3R.html">Chromosome arm 3R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/3L.html">Chromosome arm 3L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../seqid/X.html">Chromosome  X</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../statistics.html">Signals by scanning statistic</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../statistic/H12.html">H12</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../statistic/IHS.html">IHS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../statistic/XPEHH.html">XPEHH</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../known-loci.html">Known loci</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/vgsc.html">Vgsc locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/vgsc.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/vgsc.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/vgsc.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/gste.html">Gste locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/gste.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/gste.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/gste.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/cyp6p.html">Cyp6p locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp6p.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp6p.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp6p.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/ace1.html">Ace1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/ace1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/ace1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/ace1.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/rdl.html">Rdl locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/rdl.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/rdl.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/rdl.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/cyp9k1.html">Cyp9k1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp9k1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp9k1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/cyp9k1.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../known-locus/tep1.html">Tep1 locus</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/tep1.html#references">References</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/tep1.html#selection-signals">Selection signals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../known-locus/tep1.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="reference internal" href="../ir-candidates.html">Insecticide resistance candidate genes</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="metabolic.html">Metabolic genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="metabolic.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Target-site genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="behavioural.html">Behavioural genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="behavioural.html#comments">Comments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="cuticular.html">Cuticular genes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="cuticular.html#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../methods.html">Methods</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../method/H12.html">H12 (Garud et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../method/IHS.html">IHS (Cite et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../method/XPEHH.html">XPEHH (Cite et al. 20XX)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../method/peak_modelling.html">Peak modelling</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Target-site genes</a><ul>
+<li><a class="reference internal" href="#comments">Comments</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+  <li>
+    <a href="metabolic.html" title="Previous Chapter: Metabolic genes"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Metabolic genes</span>
+    </a>
+  </li>
+  <li>
+    <a href="behavioural.html" title="Next Chapter: Behavioural genes"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Behavioural genes &raquo;</span>
+    </a>
+  </li>
+              
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="target-site-genes">
+<h1>Target-site genes<a class="headerlink" href="#target-site-genes" title="Permalink to this headline">¶</a></h1>
+<p>Below is a table of insecticide resistance candidate genes with information about any
+overlapping signals of selection.</p>
+<p>Please note that the list of genes has been manually
+curated and is likely to be incomplete. If you would like to suggest an addition, please
+leave a comment at the bottom of the page.</p>
+<p>Please also note that the fact that there are any signals of selection overlapping or
+adjacent to a given gene <strong>does not</strong> prove that the gene is under selection. Each signal of
+selection may span a number of genes, and the true target of selection may be a
+different gene nearby. Similarly, if a gene does not have any overlapping or adjacent
+signals of selection, that <strong>does not</strong> prove it is selectively neutral. There are a
+number of technical reasons why a true signal of selection might not be detected.</p>
+<table border="1" class="colwidths-given table-hover docutils">
+<colgroup>
+<col width="10%" />
+<col width="10%" />
+<col width="40%" />
+<col width="20%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Gene</th>
+<th class="head">Name</th>
+<th class="head">Description</th>
+<th class="head">Location</th>
+<th class="head">No. signals (overlapping, adjacent)</th>
+<th class="head">Known locus</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006028.html"><span class="doc">AGAP006028</span></a></td>
+<td>Rdl</td>
+<td>Gaba-gated chloride channel subunit</td>
+<td>2L:25,363,652-25,434,556</td>
+<td>13 (3, 10)</td>
+<td>Rdl</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP004707.html"><span class="doc">AGAP004707</span></a></td>
+<td>para</td>
+<td>Voltage-gated sodium channel</td>
+<td>2L:2,358,158-2,431,617</td>
+<td>6 (5, 1)</td>
+<td>Vgsc</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000801.html"><span class="doc">AGAP000801</span></a></td>
+<td>GLURIIb</td>
+<td>Ionotropic receptor gluriib</td>
+<td>X:14,618,213-14,733,582</td>
+<td>6 (4, 2)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000803.html"><span class="doc">AGAP000803</span></a></td>
+<td>GLURIIa</td>
+<td>Ionotropic receptor gluriia</td>
+<td>X:14,738,910-14,744,472</td>
+<td>5 (4, 1)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012975.html"><span class="doc">AGAP012975</span></a></td>
+<td>&#160;</td>
+<td>Histamine-gated chloride channel subunit</td>
+<td>X:4,334,265-4,335,087</td>
+<td>5 (2, 3)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000798.html"><span class="doc">AGAP000798</span></a></td>
+<td>GLURIIc</td>
+<td>Ionotropic receptor gluriic</td>
+<td>X:14,600,998-14,612,133</td>
+<td>5 (2, 3)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP006027.html"><span class="doc">AGAP006027</span></a></td>
+<td>&#160;</td>
+<td>Glutamate receptor, ionotropic , ampa</td>
+<td>2L:25,272,296-25,314,781</td>
+<td>3 (3, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP007086.html"><span class="doc">AGAP007086</span></a></td>
+<td>&#160;</td>
+<td>Sodium channel protein</td>
+<td>2L:42,327,400-42,406,342</td>
+<td>3 (3, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001356.html"><span class="doc">AGAP001356</span></a></td>
+<td>ACE1</td>
+<td>Acetylcholinesterase</td>
+<td>2R:3,484,107-3,495,790</td>
+<td>2 (2, 0)</td>
+<td>Ace1</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006026.html"><span class="doc">AGAP006026</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>2L:25,174,728-25,195,703</td>
+<td>2 (1, 1)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP004021.html"><span class="doc">AGAP004021</span></a></td>
+<td>IR40a</td>
+<td>Ionotropic receptor ir40a</td>
+<td>2R:47,922,057-47,924,574</td>
+<td>1 (1, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP004595.html"><span class="doc">AGAP004595</span></a></td>
+<td>GPRGBB2</td>
+<td>Putative gaba-b receptor 2</td>
+<td>2R:58,230,212-58,238,127</td>
+<td>1 (1, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010169.html"><span class="doc">AGAP010169</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:49,859,628-49,870,902</td>
+<td>1 (1, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP028032.html"><span class="doc">AGAP028032</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:49,878,991-49,880,259</td>
+<td>1 (1, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP004923.html"><span class="doc">AGAP004923</span></a></td>
+<td>IR64a</td>
+<td>Ionotropic receptor ir64a</td>
+<td>2L:6,087,277-6,104,141</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP004969.html"><span class="doc">AGAP004969</span></a></td>
+<td>IR75d</td>
+<td>Ionotropic receptor ir75d</td>
+<td>2L:7,301,876-7,303,528</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005466.html"><span class="doc">AGAP005466</span></a></td>
+<td>IR75l</td>
+<td>Ionotropic receptor ir75l</td>
+<td>2L:15,949,821-15,952,169</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP005527.html"><span class="doc">AGAP005527</span></a></td>
+<td>NMDAR3</td>
+<td>Ionotropic receptor nmdar3</td>
+<td>2L:16,639,642-16,647,151</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP005599.html"><span class="doc">AGAP005599</span></a></td>
+<td>&#160;</td>
+<td>Ph-sensitive chloride channel</td>
+<td>2L:17,708,774-17,740,450</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP006156.html"><span class="doc">AGAP006156</span></a></td>
+<td>GPRMGL1</td>
+<td>Putative metabotropic glutamate receptor 1</td>
+<td>2L:27,308,590-27,323,533</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP007498.html"><span class="doc">AGAP007498</span></a></td>
+<td>IR75k</td>
+<td>Ionotropic receptor ir75k</td>
+<td>2L:46,923,249-46,925,420</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP007707.html"><span class="doc">AGAP007707</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>2L:49,147,256-49,148,967</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001434.html"><span class="doc">AGAP001434</span></a></td>
+<td>&#160;</td>
+<td>Glutamate receptor, anionic</td>
+<td>2R:4,848,635-4,895,916</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP001478.html"><span class="doc">AGAP001478</span></a></td>
+<td>NMDAR1</td>
+<td>Ionotropic receptor nmdar1</td>
+<td>2R:5,390,305-5,394,755</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001811.html"><span class="doc">AGAP001811</span></a></td>
+<td>IR75h.1</td>
+<td>Ionotropic receptor ir75h.1</td>
+<td>2R:10,851,535-10,853,577</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP001913.html"><span class="doc">AGAP001913</span></a></td>
+<td>&#160;</td>
+<td>Histamine-gated chloride channel</td>
+<td>2R:12,021,329-12,023,879</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP001990.html"><span class="doc">AGAP001990</span></a></td>
+<td>&#160;</td>
+<td>Histamine-gated chloride channel subunit</td>
+<td>2R:13,215,618-13,216,977</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP002152.html"><span class="doc">AGAP002152</span></a></td>
+<td>alpha6</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 6</td>
+<td>2R:16,511,319-16,522,978</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP013363.html"><span class="doc">AGAP013363</span></a></td>
+<td>IR7i</td>
+<td>Ionotropic receptor ir7i</td>
+<td>2R:26,793,376-26,795,314</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP013285.html"><span class="doc">AGAP013285</span></a></td>
+<td>IR7u</td>
+<td>Ionotropic receptor ir7u</td>
+<td>2R:26,795,525-26,797,440</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP002797.html"><span class="doc">AGAP002797</span></a></td>
+<td>GLURIId</td>
+<td>Ionotropic receptor gluriid</td>
+<td>2R:27,638,116-27,644,376</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP002904.html"><span class="doc">AGAP002904</span></a></td>
+<td>IR41a</td>
+<td>Ionotropic receptor ir41a</td>
+<td>2R:29,130,386-29,133,257</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP002971.html"><span class="doc">AGAP002971</span></a></td>
+<td>alpha8</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 8</td>
+<td>2R:30,267,141-30,294,999</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP002972.html"><span class="doc">AGAP002972</span></a></td>
+<td>alpha2</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 2</td>
+<td>2R:30,325,462-30,371,076</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP002974.html"><span class="doc">AGAP002974</span></a></td>
+<td>alpha1</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 1</td>
+<td>2R:30,465,345-30,478,828</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012951.html"><span class="doc">AGAP012951</span></a></td>
+<td>IR41c</td>
+<td>Ionotropic receptor ir41c</td>
+<td>2R:39,202,960-39,205,176</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP003531.html"><span class="doc">AGAP003531</span></a></td>
+<td>IR41n</td>
+<td>Ionotropic receptor ir41n</td>
+<td>2R:39,207,749-39,210,030</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP004432.html"><span class="doc">AGAP004432</span></a></td>
+<td>IR41t.1</td>
+<td>Ionotropic receptor ir41t.1</td>
+<td>2R:55,959,989-55,962,321</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012969.html"><span class="doc">AGAP012969</span></a></td>
+<td>IR41t.2</td>
+<td>Ionotropic receptor ir41t.2</td>
+<td>2R:55,988,209-55,990,472</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010411.html"><span class="doc">AGAP010411</span></a></td>
+<td>IR8a</td>
+<td>Ionotropic receptor ir8a</td>
+<td>3L:2,867,458-2,870,025</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010580.html"><span class="doc">AGAP010580</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3L:6,474,643-6,477,162</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010694.html"><span class="doc">AGAP010694</span></a></td>
+<td>&#160;</td>
+<td>Glycine receptor alpha 1 subunit</td>
+<td>3L:8,638,234-8,655,749</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP011349.html"><span class="doc">AGAP011349</span></a></td>
+<td>&#160;</td>
+<td>Gaba-gated chloride channel</td>
+<td>3L:21,584,469-21,612,837</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP011968.html"><span class="doc">AGAP011968</span></a></td>
+<td>IR76b</td>
+<td>Ionotropic receptor ir76b</td>
+<td>3L:35,687,053-35,690,662</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP007951.html"><span class="doc">AGAP007951</span></a></td>
+<td>IR68a</td>
+<td>Ionotropic receptor ir68a</td>
+<td>3R:3,275,939-3,278,326</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP008511.html"><span class="doc">AGAP008511</span></a></td>
+<td>IR21a</td>
+<td>Ionotropic receptor ir21a</td>
+<td>3R:11,468,382-11,471,590</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP008588.html"><span class="doc">AGAP008588</span></a></td>
+<td>alpha5</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 5</td>
+<td>3R:13,330,840-13,390,145</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP008759.html"><span class="doc">AGAP008759</span></a></td>
+<td>IR41b</td>
+<td>Ionotropic receptor ir41b</td>
+<td>3R:17,137,047-17,139,240</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009014.html"><span class="doc">AGAP009014</span></a></td>
+<td>IR31a</td>
+<td>Ionotropic receptor ir31a</td>
+<td>3R:23,550,517-23,553,011</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009158.html"><span class="doc">AGAP009158</span></a></td>
+<td>&#160;</td>
+<td>Guanylate cyclase</td>
+<td>3R:27,712,554-27,726,798</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP009493.html"><span class="doc">AGAP009493</span></a></td>
+<td>alpha9</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 9</td>
+<td>3R:34,721,510-34,725,375</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP009514.html"><span class="doc">AGAP009514</span></a></td>
+<td>GPRGBB3</td>
+<td>Putative gaba-b receptor 3</td>
+<td>3R:35,049,851-35,054,224</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010057.html"><span class="doc">AGAP010057</span></a></td>
+<td>&#160;</td>
+<td>Nicotinic acetylcholine receptor, beta-2 subunit</td>
+<td>3R:48,486,273-48,488,026</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010059.html"><span class="doc">AGAP010059</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:48,494,678-48,498,880</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010205.html"><span class="doc">AGAP010205</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>3R:50,696,700-50,698,440</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP010272.html"><span class="doc">AGAP010272</span></a></td>
+<td>IR25a</td>
+<td>Ionotropic receptor ir25a</td>
+<td>3R:51,917,004-51,920,501</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP010281.html"><span class="doc">AGAP010281</span></a></td>
+<td>GPRGBB1</td>
+<td>Putative gaba-b receptor 1</td>
+<td>3R:51,987,227-52,014,754</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012429.html"><span class="doc">AGAP012429</span></a></td>
+<td>NMDAR2</td>
+<td>Ionotropic receptor nmdar2</td>
+<td>UNKN:284,129-301,557</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012447.html"><span class="doc">AGAP012447</span></a></td>
+<td>GLURIIe</td>
+<td>Ionotropic receptor gluriie</td>
+<td>UNKN:1,553,917-1,557,262</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP012581.html"><span class="doc">AGAP012581</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:17,437,539-17,438,715</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP012872.html"><span class="doc">AGAP012872</span></a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>UNKN:35,447,753-35,448,867</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000038.html"><span class="doc">AGAP000038</span></a></td>
+<td>&#160;</td>
+<td>Gamma-aminobutyric acid receptor subunit beta</td>
+<td>X:481,140-483,518</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000039.html"><span class="doc">AGAP000039</span></a></td>
+<td>&#160;</td>
+<td>Gamma-aminobutyric acid receptor subunit alpha</td>
+<td>X:494,371-496,532</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000138.html"><span class="doc">AGAP000138</span></a></td>
+<td>alpha4</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 4</td>
+<td>X:2,120,272-2,139,554</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000256.html"><span class="doc">AGAP000256</span></a></td>
+<td>IR93a</td>
+<td>Ionotropic receptor ir93a</td>
+<td>X:4,900,441-4,905,540</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000329.html"><span class="doc">AGAP000329</span></a></td>
+<td>alpha3</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 3</td>
+<td>X:5,774,401-5,780,662</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000466.html"><span class="doc">AGAP000466</span></a></td>
+<td>ACE2</td>
+<td>Acetylcholinesterase</td>
+<td>X:8,049,063-8,054,326</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="../gene/AGAP000962.html"><span class="doc">AGAP000962</span></a></td>
+<td>alpha7</td>
+<td>Nicotinic acetylcholine receptor subunit alpha 7</td>
+<td>X:18,426,678-18,467,864</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="../gene/AGAP000966.html"><span class="doc">AGAP000966</span></a></td>
+<td>beta1</td>
+<td>Nicotinic acetylcholine receptor beta 1</td>
+<td>X:18,557,873-18,559,842</td>
+<td>0 (0, 0)</td>
+<td>&#160;</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="comments">
+<h2>Comments<a class="headerlink" href="#comments" title="Permalink to this headline">¶</a></h2>
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+    this.page.identifier = '/ir-candidate/target_site';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript></div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2017, Anopheles gambiae 1000 Genomes Consortium.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

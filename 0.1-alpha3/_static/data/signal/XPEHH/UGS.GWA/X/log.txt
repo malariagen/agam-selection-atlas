@@ -1,0 +1,63 @@
+scan progress 0 0.04
+scan progress 100 4.03999999986
+scan progress 200 8.04000000042
+scan progress 300 12.040000001
+scan progress 400 16.0400000015
+scan progress 500 20.0399999985
+scan progress 600 24.0399999955
+scan progress 700 28.0399999925
+scan progress 800 32.0399999896
+scan progress 900 36.0399999937
+scan progress 1000 40.0246444978
+scan progress 1100 41.0246444953
+scan progress 1200 42.0246444927
+first peak: 737 91.5502
+================================================================================
+Iteration 1
+Peak center (index, location): 737, 14760000.0
+Delta AIC: 91.6
+Flank delta AICs: 27.3, 34.5
+find limits of peak
+peak limits: 14121362 17393510 706 870
+check flank fits
+POOR FLANK: SKIPPING PEAK
+plot some diagnostics for the peak fit
+[[Model]]
+    Model(skewed_gaussian)
+[[Fit Statistics]]
+    # function evals   = 61
+    # data points      = 456
+    # variables        = 4
+    chi-square         = 158.932
+    reduced chi-square = 0.352
+    Akaike info crit   = -472.632
+    Bayesian info crit = -456.142
+[[Variables]]
+    center:      0 (fixed)
+    amplitude:   0.94725496 +/- 0.086817 (9.17%) (init= 3)
+    sigma:       1.42860440 +/- 0.171480 (12.00%) (init= 0.5)
+    skew:       -0.99999999 +/- 0.045578 (4.56%) (init= 0)
+    baseline:    2.08119578 +/- 0.037079 (1.78%) (init= 1)
+    ceiling:     100 (fixed)
+    floor:       0 (fixed)
+[[Correlations]] (unreported correlations are <  0.100)
+    C(sigma, baseline)           = -0.421 
+    C(amplitude, sigma)          = -0.347 
+    C(amplitude, baseline)       = -0.332 
+
+[[Model]]
+    Model(constant)
+[[Fit Statistics]]
+    # function evals   = 11
+    # data points      = 455
+    # variables        = 1
+    chi-square         = 196.048
+    reduced chi-square = 0.432
+    Akaike info crit   = -381.082
+    Bayesian info crit = -376.961
+[[Variables]]
+    c:   2.29561765 +/- 0.030806 (1.34%) (init= 1)
+
+find the next peak
+next peak: 360 40.2661
+all done

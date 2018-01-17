@@ -1,0 +1,116 @@
+:orphan:
+
+
+
+AGAP002855
+==========
+
+Location: **2R:28,313,122-28,314,070**
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002855>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:28313122-28314070#genomebrowser>`_
+
+
+
+
+
+Overlapping selection signals
+-----------------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/IHS/UGS/2/1/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2R:28,280,000-28,700,000
+      - 1,661
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../signal/IHS/CMS/2/1/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:28,240,000-28,560,000
+      - 1,249
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../signal/IHS/BFS/2/1/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2R:28,260,000-28,540,000
+      - 1,164
+      - 99.1%
+      - Cyp6p
+    
+
+
+
+
+Adjacent selection signals
+--------------------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/XPEHH/UGS.BFS/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:27,980,000-28,280,000
+      - 753
+      - 99.9%
+      - nan
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP002855';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

@@ -1,0 +1,102 @@
+:orphan:
+
+
+
+AGAP004692
+==========
+
+Location: **2L:1,411,011-1,441,380**
+
+
+
+
+
+External links:
+`VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP004692>`_ |
+`Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2L:1411011-1441380#genomebrowser>`_
+
+
+
+
+
+Overlapping selection signals
+-----------------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/H12/GNS/2/1/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:1,294,895-2,474,895
+      - 1,685
+      - 100.0%
+      - Vgsc
+    
+
+
+
+
+Adjacent selection signals
+--------------------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/H12/BFS/2/1/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2L:1,454,895-2,694,895
+      - 1,776
+      - 100.0%
+      - Vgsc
+    
+
+
+
+
+Comments
+--------
+
+
+.. raw:: html
+
+    <div id="disqus_thread"></div>
+    <script>
+    
+    var disqus_config = function () {
+        this.page.identifier = '/gene/AGAP004692';
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agam-selection-atlas.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments.</a></noscript>
+
+

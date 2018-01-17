@@ -1,0 +1,148 @@
+scan progress 0 0.04
+scan progress 100 4.03999999986
+scan progress 200 8.04000000042
+scan progress 300 12.040000001
+scan progress 400 16.0400000015
+scan progress 500 20.0399999985
+scan progress 600 24.0399999955
+scan progress 700 28.0399999925
+scan progress 800 32.0399999896
+scan progress 900 36.0399999937
+scan progress 1000 40.0246444978
+scan progress 1100 41.0246444953
+scan progress 1200 42.0246444927
+first peak: 711 250.387
+================================================================================
+Iteration 1
+Peak center (index, location): 711, 14240000.0
+Delta AIC: 250.4
+Flank delta AICs: 109.1, 97.2
+find limits of peak
+peak limits: 10234975 15537905 511 777
+check flank fits
+FLANK OK: PROCESSING PEAK
+[[Model]]
+    Model(skewed_exponential_peak)
+[[Fit Statistics]]
+    # function evals   = 67
+    # data points      = 477
+    # variables        = 4
+    chi-square         = 139.154
+    reduced chi-square = 0.294
+    Akaike info crit   = -579.632
+    Bayesian info crit = -562.962
+[[Variables]]
+    center:      0 (fixed)
+    amplitude:   1.59608159 +/- 0.095935 (6.01%) (init= 3)
+    decay:       2.99999930 +/- 0.908656 (30.29%) (init= 0.5)
+    skew:        0.91481929 +/- 0.118422 (12.94%) (init= 0)
+    baseline:    1.45568187 +/- 0.093149 (6.40%) (init= 1)
+    ceiling:     100 (fixed)
+    floor:       0 (fixed)
+[[Correlations]] (unreported correlations are <  0.100)
+    C(decay, baseline)           =  0.860 
+    C(amplitude, baseline)       = -0.711 
+    C(decay, skew)               =  0.597 
+    C(skew, baseline)            =  0.496 
+    C(amplitude, skew)           = -0.412 
+    C(amplitude, decay)          = -0.380 
+
+[[Model]]
+    Model(constant)
+[[Fit Statistics]]
+    # function evals   = 11
+    # data points      = 476
+    # variables        = 1
+    chi-square         = 237.347
+    reduced chi-square = 0.500
+    Akaike info crit   = -329.246
+    Bayesian info crit = -325.080
+[[Variables]]
+    c:   2.20281308 +/- 0.032399 (1.47%) (init= 1)
+
+setup output directory for this peak
+plot some diagnostics about the peak finding algorithm
+plot some diagnostics for the peak fit
+find focus of selection
+epicenter: 14240000
+extend focus left 14200000
+extend focus left 14180000
+extend focus left 14160000
+extend focus left 14140000
+extend focus left 14120000
+extend focus left 14100000
+extend focus left 14080000
+extend focus left 14060000
+extend focus left 14040000
+extend focus right 14280000
+extend focus right 14300000
+extend focus right 14320000
+extend focus right 14340000
+extend focus right 14360000
+extend focus right 14380000
+extend focus right 14400000
+found focus: 14040000 14400000
+find max peak value
+yield peak
+subtract peak from values
+rescan region around the peak
+scan progress 400 16.0400000015
+scan progress 500 20.0399999985
+scan progress 800 32.0399999896
+scan progress 900 36.0399999937
+scan progress 1000 40.0246444978
+scan progress 1100 41.0246444953
+scan progress 1200 42.0246444927
+find the next peak
+next peak: 15 96.5266
+================================================================================
+Iteration 2
+Peak center (index, location): 15, 320000.0
+Delta AIC: 96.5
+Flank delta AICs: 13.2, 43.1
+find limits of peak
+peak limits: 1 461571 0 24
+check flank fits
+POOR FLANK: SKIPPING PEAK
+plot some diagnostics for the peak fit
+[[Model]]
+    Model(skewed_exponential_peak)
+[[Fit Statistics]]
+    # function evals   = 28
+    # data points      = 81
+    # variables        = 4
+    chi-square         = 7.346
+    reduced chi-square = 0.095
+    Akaike info crit   = -186.426
+    Bayesian info crit = -176.849
+[[Variables]]
+    center:      0 (fixed)
+    amplitude:   1.62313421 +/- 0.144299 (8.89%) (init= 3)
+    decay:       0.32276178 +/- 0.065794 (20.38%) (init= 0.5)
+    skew:        0.92339260 +/- 0.201729 (21.85%) (init= 0)
+    baseline:    1.51381310 +/- 0.044032 (2.91%) (init= 1)
+    ceiling:     100 (fixed)
+    floor:       0 (fixed)
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amplitude, decay)          = -0.614 
+    C(amplitude, skew)           = -0.380 
+    C(decay, baseline)           = -0.313 
+    C(decay, skew)               =  0.310 
+    C(amplitude, baseline)       = -0.234 
+
+[[Model]]
+    Model(constant)
+[[Fit Statistics]]
+    # function evals   = 11
+    # data points      = 80
+    # variables        = 1
+    chi-square         = 25.363
+    reduced chi-square = 0.321
+    Akaike info crit   = -89.900
+    Bayesian info crit = -87.518
+[[Variables]]
+    c:   1.82183566 +/- 0.063348 (3.48%) (init= 1)
+
+find the next peak
+next peak: 415 86.7206
+all done
