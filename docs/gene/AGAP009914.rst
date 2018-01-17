@@ -17,18 +17,9 @@ External links:
 
 
 
-Adjacent signals
-----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene.
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GWA/3/2/index`, "3R:45,080,001-45,160,000", 125 (59 | 66)
-    
 
 
 

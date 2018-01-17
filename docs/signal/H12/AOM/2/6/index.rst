@@ -3,16 +3,23 @@
 
 
 
-H12 / Angola *An. coluzzii* / Chromosome 2 / #6
-===============================================
+H12/AOM/2/6
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/AOM` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2R** between positions **34,480,001** and
-**34,540,000**.
+:doc:`../../../../../population/AOM` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2R** between positions **28,440,000** and
+**28,480,000**.
 The evidence supporting this signal is
-**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
+**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+
+
+
+
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/cyp6p`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,32 +27,146 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP003252` (CLIPB6 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP013184` (CLIPB36 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003253` (Gr15 - gustatory receptor 15),  :doc:`../../../../../gene/AGAP003254` (Gr16 - gustatory receptor 16),  :doc:`../../../../../gene/AGAP003255` (Gr17 - gustatory receptor 17),  :doc:`../../../../../gene/AGAP003256` (Gr18 - gustatory receptor 18),  :doc:`../../../../../gene/AGAP003257`:sup:`1` (GSTU2 - glutathione S-transferase unclassified 2),  :doc:`../../../../../gene/AGAP003258` (Gustatory receptor),  :doc:`../../../../../gene/AGAP003259` (Gr20 - gustatory receptor 20),  :doc:`../../../../../gene/AGAP003260` (Gr21 - gustatory receptor 21).
-
+Gene :doc:`../../../../../gene/AGAP002859` (solute carrier family 8 (sodium/calcium exchanger)) overlaps the focal region.
 
 
 
-The following 11 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP003245` (CLIPA19 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003246` (CLIPB2 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003247` (CLIPB19 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003248`,  :doc:`../../../../../gene/AGAP013487`,  :doc:`../../../../../gene/AGAP003249` (CLIPB3 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003250` (CLIPB4 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003251` (CLIPB1 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP003261`,  :doc:`../../../../../gene/AGAP003262` (integrator complex subunit 10),  :doc:`../../../../../gene/AGAP003263` (CDC42 small effector protein-like protein).
+The following 12 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP002862`:sup:`1` (CYP6AA1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013128`:sup:`1` (CYP6AA2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002863`:sup:`1` (COEAE6O - carboxylesterase alpha esterase),  :doc:`../../../../../gene/AGAP002864`:sup:`1` (CYP6P15P - cytochrome P450),  :doc:`../../../../../gene/AGAP002865`:sup:`1` (CYP6P3 - cytochrome P450),  :doc:`../../../../../gene/AGAP002866`:sup:`1` (CYP6P5 - cytochrome P450),  :doc:`../../../../../gene/AGAP002867`:sup:`1` (CYP6P4 - cytochrome P450),  :doc:`../../../../../gene/AGAP002868`:sup:`1` (CYP6P1 - cytochrome P450),  :doc:`../../../../../gene/AGAP002869`:sup:`1` (CYP6P2 - cytochrome P450),  :doc:`../../../../../gene/AGAP002870`:sup:`1` (CYP6AD1 - cytochrome P450),  :doc:`../../../../../gene/AGAP013202`,  :doc:`../../../../../gene/AGAP000586`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/IHS/UGS/2/1/index`
+      - IHS
+      - Uganda *An. gambiae*
+      - 2R:28,280,000-28,700,000
+      - 1,661
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../../../../../signal/H12/UGS/2/1/index`
+      - H12
+      - Uganda *An. gambiae*
+      - 2R:28,460,000-28,500,000
+      - 1,567
+      - 99.2%
+      - Cyp6p
+    * - :doc:`../../../../../signal/IHS/CMS/2/1/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:28,240,000-28,560,000
+      - 1,249
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../../../../../signal/IHS/BFS/2/1/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2R:28,260,000-28,540,000
+      - 1,164
+      - 99.1%
+      - Cyp6p
+    * - :doc:`../../../../../signal/IHS/GNS/2/1/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2R:28,440,000-28,700,000
+      - 1,134
+      - 99.8%
+      - Cyp6p
+    * - :doc:`../../../../../signal/H12/CMS/2/1/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2R:28,460,000-28,560,000
+      - 1,124
+      - 100.0%
+      - Cyp6p
+    * - :doc:`../../../../../signal/H12/GNS/2/2/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2R:28,420,000-28,460,000
+      - 1,073
+      - 98.5%
+      - Cyp6p
+    * - :doc:`../../../../../signal/H12/BFS/2/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2R:28,440,000-28,480,000
+      - 976
+      - 98.4%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/UGS.GWA/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:28,460,000-28,600,000
+      - 758
+      - 99.7%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:28,420,000-28,500,000
+      - 697
+      - 99.1%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:28,420,000-28,620,000
+      - 578
+      - 98.7%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/3/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2R:28,380,000-28,520,000
+      - 495
+      - 99.2%
+      - Cyp6p
+    * - :doc:`../../../../../signal/H12/BFM/2/4/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2R:28,420,000-28,520,000
+      - 366
+      - 98.5%
+      - Cyp6p
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/2/7/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:28,480,000-28,520,000
+      - 92
+      - 84.1%
+      - Cyp6p
+    
+
 
 
 
@@ -58,7 +179,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/AOM/2/6/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/AOM/2/6/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,81 +200,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 27
-        # data points      = 199
-        # variables        = 3
-        chi-square         = 0.025
+        # function evals   = 85
+        # data points      = 399
+        # variables        = 4
+        chi-square         = 0.120
         reduced chi-square = 0.000
-        Akaike info crit   = -1777.553
-        Bayesian info crit = -1767.673
+        Akaike info crit   = -3227.177
+        Bayesian info crit = -3211.221
     [[Variables]]
-        amplitude:   0.07763714 +/- 0.004808 (6.19%) (init= 0.5)
-        decay:       0.81772820 +/- 0.085183 (10.42%) (init= 0.5)
-        c:           0.02084834 +/- 0.001052 (5.05%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.18325769 +/- 0.012340 (6.73%) (init= 0.5)
+        decay:       0.15000000 +/- 0.008390 (5.59%) (init= 0.5)
+        skew:       -0.68804298 +/- 0.105903 (15.39%) (init= 0)
+        baseline:    0.02667966 +/- 0.000912 (3.42%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.583 
-        C(decay, c)                  = -0.508 
+        C(amplitude, decay)          =  0.669 
+        C(decay, skew)               = -0.325 
+        C(decay, baseline)           =  0.199 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 47
-        # data points      = 197
-        # variables        = 3
-        chi-square         = 0.035
-        reduced chi-square = 0.000
-        Akaike info crit   = -1697.217
-        Bayesian info crit = -1687.367
-    [[Variables]]
-        amplitude:   0.02350933 +/- 0.003920 (16.68%) (init= 0.5)
-        decay:       2.95317617 +/- 1.575570 (53.35%) (init= 0.5)
-        c:           0.02501477 +/- 0.004211 (16.84%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.924 
-        C(amplitude, c)              = -0.561 
-        C(amplitude, decay)          =  0.289 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 198
+        # function evals   = 7
+        # data points      = 398
         # variables        = 1
-        chi-square         = 0.066
-        reduced chi-square = 0.000
-        Akaike info crit   = -1584.311
-        Bayesian info crit = -1581.023
+        chi-square         = 0.216
+        reduced chi-square = 0.001
+        Akaike info crit   = -2991.343
+        Bayesian info crit = -2987.356
     [[Variables]]
-        c:   0.02848625 +/- 0.001297 (4.55%) (init= 0.03)
+        c:   0.03002568 +/- 0.001168 (3.89%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 196
-        # variables        = 1
-        chi-square         = 0.039
-        reduced chi-square = 0.000
-        Akaike info crit   = -1669.465
-        Bayesian info crit = -1666.186
-    [[Variables]]
-        c:   0.03286989 +/- 0.001007 (3.06%) (init= 0.03)
 
 
 Comments

@@ -3,16 +3,23 @@
 
 
 
-H12 / Burkina Faso *An. gambiae* / Chromosome 2 / #5
-====================================================
+H12/BFS/2/5
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2L** between positions **25,380,001** and
-**25,420,000**.
+:doc:`../../../../../population/BFS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2L** between positions **25,454,895** and
+**25,534,895**.
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/rdl`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,47 +27,118 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-Gene :doc:`../../../../../gene/AGAP006028`:sup:`2` (Rdl - GABA-gated chloride channel subunit) overlaps the focal region.
-
+The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP006030` (mfrn - mitoferrin),  :doc:`../../../../../gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`../../../../../gene/AGAP006032`,  :doc:`../../../../../gene/AGAP006033`,  :doc:`../../../../../gene/AGAP006034`,  :doc:`../../../../../gene/AGAP006035` (Ras-related protein Rab-36),  :doc:`../../../../../gene/AGAP006036` (axonemal dynein intermediate chain inner arm i1),  :doc:`../../../../../gene/AGAP006037` (RpL24 - 60S ribosomal protein L24),  :doc:`../../../../../gene/AGAP006038` (serine/arginine repetitive matrix protein 2),  :doc:`../../../../../gene/AGAP006039`.
 
 
 
-
-The following 6 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP006029`,  :doc:`../../../../../gene/AGAP006030` (mfrn - mitoferrin),  :doc:`../../../../../gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`../../../../../gene/AGAP006032`,  :doc:`../../../../../gene/AGAP006033`,  :doc:`../../../../../gene/AGAP006034`.
+The following 7 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP006028`:sup:`2` (Rdl - GABA-gated chloride channel subunit),  :doc:`../../../../../gene/AGAP006029`,  :doc:`../../../../../gene/AGAP006040` (peroxisomal membrane protein 2),  :doc:`../../../../../gene/AGAP006041` (E3 ubiquitin-protein ligase RNF5),  :doc:`../../../../../gene/AGAP006042`,  :doc:`../../../../../gene/AGAP029130`,  :doc:`../../../../../gene/AGAP029102`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/BFM/2/2/index`, "2L:25,400,001-25,520,000", 919 (426 | 492)
-    :doc:`../../../../../signal/H12/AOM/2/3/index`, "2L:25,380,001-25,460,000", 392 (242 | 150)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/H12/BFM/2/2/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,434,895-25,494,895
+      - 1,172
+      - 98.4%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,474,895-25,514,895
+      - 625
+      - 99.4%
+      - Rdl
+    * - :doc:`../../../../../signal/H12/GAS/2/1/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 2L:25,454,895-25,514,895
+      - 529
+      - 100.0%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,454,895-25,554,895
+      - 468
+      - 99.3%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,474,895-25,634,895
+      - 423
+      - 100.0%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 388
+      - 98.3%
+      - Rdl
+    * - :doc:`../../../../../signal/H12/GNS/2/4/index`
+      - H12
+      - Guinea *An. gambiae*
+      - 2L:25,534,895-25,814,895
+      - 332
+      - 97.8%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:25,414,895-25,454,895
+      - 291
+      - 90.3%
+      - Rdl
+    * - :doc:`../../../../../signal/IHS/BFS/2/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,614,895
+      - 256
+      - 99.8%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/6/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 138
+      - 95.3%
+      - Rdl
     
+
 
 
 
@@ -73,7 +151,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/2/5/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/BFS/2/5/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -94,81 +172,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
         # function evals   = 43
-        # data points      = 151
-        # variables        = 3
-        chi-square         = 0.013
+        # data points      = 400
+        # variables        = 4
+        chi-square         = 0.080
         reduced chi-square = 0.000
-        Akaike info crit   = -1408.830
-        Bayesian info crit = -1399.778
+        Akaike info crit   = -3398.830
+        Bayesian info crit = -3382.864
     [[Variables]]
-        amplitude:   0.06098421 +/- 0.003047 (5.00%) (init= 0.5)
-        decay:       1.47367940 +/- 0.185031 (12.56%) (init= 0.5)
-        c:           0.01074672 +/- 0.001847 (17.19%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.11275310 +/- 0.005608 (4.97%) (init= 0.5)
+        decay:       0.50705590 +/- 0.038859 (7.66%) (init= 0.5)
+        skew:        0.24344101 +/- 0.072751 (29.88%) (init= 0)
+        baseline:    0.01938939 +/- 0.000825 (4.25%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.825 
-        C(amplitude, decay)          = -0.249 
-        C(amplitude, c)              = -0.171 
+        C(amplitude, decay)          = -0.649 
+        C(decay, baseline)           = -0.382 
+        C(decay, skew)               = -0.110 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 23
-        # data points      = 150
-        # variables        = 3
-        chi-square         = 0.028
-        reduced chi-square = 0.000
-        Akaike info crit   = -1281.413
-        Bayesian info crit = -1272.381
-    [[Variables]]
-        amplitude:   0.16178903 +/- 0.009682 (5.98%) (init= 0.5)
-        decay:       0.40116322 +/- 0.035087 (8.75%) (init= 0.5)
-        c:           0.02498262 +/- 0.001319 (5.28%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.693 
-        C(decay, c)                  = -0.393 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 150
+        # function evals   = 9
+        # data points      = 399
         # variables        = 1
-        chi-square         = 0.045
-        reduced chi-square = 0.000
-        Akaike info crit   = -1213.263
-        Bayesian info crit = -1210.252
-    [[Variables]]
-        c:   0.02512929 +/- 0.001426 (5.67%) (init= 0.03)
-
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 149
-        # variables        = 1
-        chi-square         = 0.114
+        chi-square         = 0.203
         reduced chi-square = 0.001
-        Akaike info crit   = -1067.374
-        Bayesian info crit = -1064.370
+        Akaike info crit   = -3022.891
+        Bayesian info crit = -3018.902
     [[Variables]]
-        c:   0.03439744 +/- 0.002271 (6.61%) (init= 0.03)
+        c:   0.02629295 +/- 0.001131 (4.31%) (init= 0.03)
+
 
 
 Comments

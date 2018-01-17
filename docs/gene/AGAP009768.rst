@@ -19,6 +19,44 @@ External links:
 
 
 
+Overlapping selection signals
+-----------------------------
+
+The following signals have a focus which overlaps this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/IHS/CMS/3/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 3R:42,500,000-42,660,000
+      - 191
+      - 91.1%
+      - nan
+    * - :doc:`../signal/IHS/BFS/3/7/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 3R:42,540,000-42,980,000
+      - 141
+      - 96.4%
+      - nan
+    
+
+
+
+
+
+
 Comments
 --------
 

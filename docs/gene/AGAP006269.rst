@@ -17,18 +17,9 @@ External links:
 
 
 
-Adjacent signals
-----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene.
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GNS/2/3/index`, "2L:28,760,001-28,920,000", 384 (99 | 284)
-    
 
 
 

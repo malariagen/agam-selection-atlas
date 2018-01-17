@@ -3,16 +3,19 @@
 
 
 
-H12 / Uganda *An. gambiae* / Chromosome 3 / #3
-==============================================
+H12/UGS/3/3
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/UGS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**3R** between positions **44,000,001** and
-**44,060,000**.
+:doc:`../../../../../population/UGS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**3R** between positions **44,380,000** and
+**45,140,000**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,32 +23,83 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 7 genes overlap the focal region: :doc:`../../../../../gene/AGAP009830`,  :doc:`../../../../../gene/AGAP009831`,  :doc:`../../../../../gene/AGAP009832` (CASPS8 - short caspase 8),  :doc:`../../../../../gene/AGAP028572` (Gustatory receptor),  :doc:`../../../../../gene/AGAP009833` (voltage-dependent anion-selective channel protein 2),  :doc:`../../../../../gene/AGAP009834` (COP9 signalosome subunit 4),  :doc:`../../../../../gene/AGAP009835` (ABCC14 - ATP-binding cassette transporter (ABC transporter) family C member 14).
-
+The following 40 genes overlap the focal region: :doc:`../../../../../gene/AGAP009859`,  :doc:`../../../../../gene/AGAP009860`,  :doc:`../../../../../gene/AGAP009861` (Profilin protein),  :doc:`../../../../../gene/AGAP009862`,  :doc:`../../../../../gene/AGAP009863` (eukaryotic translation initiation factor 4A, isoform 2),  :doc:`../../../../../gene/AGAP009864`,  :doc:`../../../../../gene/AGAP009865`:sup:`1` (NADH dehydrogenase (ubiquinone) 1 beta subcomplex 9),  :doc:`../../../../../gene/AGAP009866` (dolichol-phosphate mannosyltransferase),  :doc:`../../../../../gene/AGAP009867` (AFG1-family ATPase),  :doc:`../../../../../gene/AGAP009868`:sup:`4` (CPR73 - cuticular protein RR-1 family 73),  :doc:`../../../../../gene/AGAP009869`:sup:`4` (CPR74 - cuticular protein RR-1 family 74),  :doc:`../../../../../gene/AGAP009870`:sup:`4` (CPR151 - cuticular protein RR-2 family 151),  :doc:`../../../../../gene/AGAP009871`:sup:`4` (CPR75 - cuticular protein RR-1 family 75),  :doc:`../../../../../gene/AGAP009872`:sup:`4` (CPR133 - cuticular protein RR-1 family 133),  :doc:`../../../../../gene/AGAP009873`:sup:`4` (CPR153 - cuticular protein RR-2 family 153),  :doc:`../../../../../gene/AGAP028422`,  :doc:`../../../../../gene/AGAP009874`:sup:`4` (CPR76 - cuticular protein RR-1 family 76),  :doc:`../../../../../gene/AGAP009875`:sup:`4` (CPR77 - cuticular protein RR-1 family 77),  :doc:`../../../../../gene/AGAP009876`:sup:`4` (CPR78 - cuticular protein RR-1 family 78),  :doc:`../../../../../gene/AGAP009877`:sup:`4` (CPR79 - cuticular protein RR-1 family 79),  :doc:`../../../../../gene/AGAP009878`:sup:`4` (CPR80 - cuticular protein RR-1 family 80),  :doc:`../../../../../gene/AGAP009879`:sup:`4` (CPR81 - cuticular protein RR-1 family 81),  :doc:`../../../../../gene/AGAP009880` (anaphase-promoting complex subunit 8),  :doc:`../../../../../gene/AGAP009881`,  :doc:`../../../../../gene/AGAP009882` (heat shock factor-binding protein 1),  :doc:`../../../../../gene/AGAP009883`,  :doc:`../../../../../gene/AGAP009884`,  :doc:`../../../../../gene/AGAP009885`,  :doc:`../../../../../gene/AGAP009886` (Med15 - Mediator of RNA polymerase II transcription subunit 15),  :doc:`../../../../../gene/AGAP009887`,  :doc:`../../../../../gene/AGAP009888`,  :doc:`../../../../../gene/AGAP009889` (cabut),  :doc:`../../../../../gene/AGAP009890` (nuclear receptor subfamily 2 group E member 3),  :doc:`../../../../../gene/AGAP009891` (juvenile hormone esterase binding protein),  :doc:`../../../../../gene/AGAP009893` (nocturnin),  :doc:`../../../../../gene/AGAP028648`,  :doc:`../../../../../gene/AGAP009896` (proton-coupled amino acid transporter),  :doc:`../../../../../gene/AGAP009897` (proton-coupled amino acid transporter),  :doc:`../../../../../gene/AGAP009898`,  :doc:`../../../../../gene/AGAP009899`.
 
 
 
-The following 12 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP009829` (beat protein),  :doc:`../../../../../gene/AGAP009836`,  :doc:`../../../../../gene/AGAP009837`,  :doc:`../../../../../gene/AGAP009838` (Non-imprinted in Prader-Willi/Angelman syndrome region protein 2-like protein),  :doc:`../../../../../gene/AGAP009839` (Phosphatase 1 regulatory subunit 7),  :doc:`../../../../../gene/AGAP009840` (USO1 vesicle docking protein homolog),  :doc:`../../../../../gene/AGAP009841`,  :doc:`../../../../../gene/AGAP009842` (ribonuclease T2),  :doc:`../../../../../gene/AGAP009843`,  :doc:`../../../../../gene/AGAP009844` (CLIPB15 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP009845`,  :doc:`../../../../../gene/AGAP009846` (Ras-related protein Rab-9A).
+The following 17 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP009850` (ABCG7 - ATP-binding cassette transporter (ABC transporter) family G member 7),  :doc:`../../../../../gene/AGAP009851`,  :doc:`../../../../../gene/AGAP009852` (mitochondrial fission 1 protein),  :doc:`../../../../../gene/AGAP009853`:sup:`3` (Gr5 - gustatory receptor 5),  :doc:`../../../../../gene/AGAP009854`:sup:`3` (Gr6 - gustatory receptor 6),  :doc:`../../../../../gene/AGAP009855`:sup:`3` (Gr7 - gustatory receptor 7),  :doc:`../../../../../gene/AGAP009856`:sup:`3` (Gr8 - gustatory receptor 8),  :doc:`../../../../../gene/AGAP009857`:sup:`3` (Gr4 - gustatory receptor 4),  :doc:`../../../../../gene/AGAP009858`:sup:`3` (Gr3 - gustatory receptor 3),  :doc:`../../../../../gene/AGAP009901` (diphosphoinositol-polyphosphate diphosphatase),  :doc:`../../../../../gene/AGAP009902` (E3 ubiquitin-protein ligase RNF146),  :doc:`../../../../../gene/AGAP009903` (tRNA pseudouridine synthase (Fragment)),  :doc:`../../../../../gene/AGAP009904` (tRNA (adenine-N(1)-)-methyltransferase non-catalytic subunit),  :doc:`../../../../../gene/AGAP009905` (PHD finger-like domain-containing protein 5A),  :doc:`../../../../../gene/AGAP009906`,  :doc:`../../../../../gene/AGAP009907` (leukotriene-A4 hydrolase),  :doc:`../../../../../gene/AGAP009908` (mRpL13 - 39S ribosomal protein L13, mitochondrial).
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/CMS.GAS/3/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 3R:43,920,000-44,560,000
+      - 538
+      - 99.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.BFM/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:43,860,000-44,500,000
+      - 314
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/3/1/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 3R:44,320,000-44,480,000
+      - 253
+      - 99.3%
+      - nan
+    * - :doc:`../../../../../signal/IHS/AOM/3/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 3R:43,740,000-44,560,000
+      - 112
+      - 99.2%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/6/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:44,440,000-44,520,000
+      - 95
+      - 99.7%
+      - nan
+    
+
 
 
 
@@ -58,7 +112,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/UGS/3/3/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/UGS/3/3/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,81 +133,49 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 23
-        # data points      = 239
-        # variables        = 3
-        chi-square         = 0.057
+        # function evals   = 38
+        # data points      = 486
+        # variables        = 4
+        chi-square         = 0.142
         reduced chi-square = 0.000
-        Akaike info crit   = -1988.800
-        Bayesian info crit = -1978.370
+        Akaike info crit   = -3948.051
+        Bayesian info crit = -3931.306
     [[Variables]]
-        amplitude:   0.12376021 +/- 0.009017 (7.29%) (init= 0.5)
-        decay:       0.38884782 +/- 0.044076 (11.34%) (init= 0.5)
-        c:           0.04270052 +/- 0.001091 (2.56%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.06476358 +/- 0.003149 (4.86%) (init= 0.5)
+        decay:       2.72448767 +/- 0.334528 (12.28%) (init= 0.5)
+        skew:        0.71374081 +/- 0.072551 (10.16%) (init= 0)
+        baseline:    0.02600071 +/- 0.002358 (9.07%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.634 
-        C(decay, c)                  = -0.286 
+        C(decay, baseline)           = -0.843 
+        C(decay, skew)               = -0.428 
+        C(amplitude, baseline)       = -0.420 
+        C(skew, baseline)            =  0.299 
+        C(amplitude, skew)           = -0.143 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 44
-        # data points      = 148
-        # variables        = 3
-        chi-square         = 0.033
-        reduced chi-square = 0.000
-        Akaike info crit   = -1240.366
-        Bayesian info crit = -1231.375
-    [[Variables]]
-        amplitude:   0.04846694 +/- 0.004866 (10.04%) (init= 0.5)
-        decay:       1.99999914 +/- 0.623787 (31.19%) (init= 0.5)
-        c:           0.04366467 +/- 0.004652 (10.65%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.906 
-        C(amplitude, c)              = -0.423 
-        C(amplitude, decay)          =  0.105 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 237
+        # function evals   = 11
+        # data points      = 485
         # variables        = 1
-        chi-square         = 0.110
-        reduced chi-square = 0.000
-        Akaike info crit   = -1817.527
-        Bayesian info crit = -1814.059
+        chi-square         = 0.257
+        reduced chi-square = 0.001
+        Akaike info crit   = -3655.511
+        Bayesian info crit = -3651.327
     [[Variables]]
-        c:   0.04707550 +/- 0.001400 (2.98%) (init= 0.03)
+        c:   0.04636686 +/- 0.001047 (2.26%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 147
-        # variables        = 1
-        chi-square         = 0.051
-        reduced chi-square = 0.000
-        Akaike info crit   = -1169.749
-        Bayesian info crit = -1166.759
-    [[Variables]]
-        c:   0.05855992 +/- 0.001537 (2.63%) (init= 0.03)
 
 
 Comments

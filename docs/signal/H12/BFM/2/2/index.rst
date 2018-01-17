@@ -3,16 +3,23 @@
 
 
 
-H12 / Burkina Faso *An. coluzzii* / Chromosome 2 / #2
-=====================================================
+H12/BFM/2/2
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/BFM` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2L** between positions **25,400,001** and
-**25,520,000**.
+:doc:`../../../../../population/BFM` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2L** between positions **25,434,895** and
+**25,494,895**.
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
+This signal occurs within 50 kbp of the :doc:`../../../../../known-locus/rdl`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,48 +27,118 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 9 genes overlap the focal region: :doc:`../../../../../gene/AGAP006028`:sup:`2` (Rdl - GABA-gated chloride channel subunit),  :doc:`../../../../../gene/AGAP006029`,  :doc:`../../../../../gene/AGAP006030` (mfrn - mitoferrin),  :doc:`../../../../../gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`../../../../../gene/AGAP006032`,  :doc:`../../../../../gene/AGAP006033`,  :doc:`../../../../../gene/AGAP006034`,  :doc:`../../../../../gene/AGAP006035` (Ras-related protein Rab-36),  :doc:`../../../../../gene/AGAP006036` (axonemal dynein intermediate chain inner arm i1).
-
+The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP006029`,  :doc:`../../../../../gene/AGAP006030` (mfrn - mitoferrin),  :doc:`../../../../../gene/AGAP006031` (nuclear pore complex protein Nup54),  :doc:`../../../../../gene/AGAP006032`,  :doc:`../../../../../gene/AGAP006033`,  :doc:`../../../../../gene/AGAP006034`.
 
 
 
-The following 7 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP006037` (RpL24 - 60S ribosomal protein L24),  :doc:`../../../../../gene/AGAP006038` (serine/arginine repetitive matrix protein 2),  :doc:`../../../../../gene/AGAP006039`,  :doc:`../../../../../gene/AGAP006040` (peroxisomal membrane protein 2),  :doc:`../../../../../gene/AGAP006041` (E3 ubiquitin-protein ligase RNF5),  :doc:`../../../../../gene/AGAP006042`,  :doc:`../../../../../gene/AGAP029130`.
+The following 6 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP006028`:sup:`2` (Rdl - GABA-gated chloride channel subunit),  :doc:`../../../../../gene/AGAP006035` (Ras-related protein Rab-36),  :doc:`../../../../../gene/AGAP006036` (axonemal dynein intermediate chain inner arm i1),  :doc:`../../../../../gene/AGAP006037` (RpL24 - 60S ribosomal protein L24),  :doc:`../../../../../gene/AGAP006038` (serine/arginine repetitive matrix protein 2),  :doc:`../../../../../gene/AGAP006039`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/GAS/2/1/index`, "2L:25,460,001-25,520,000", 496 (193 | 303)
-    :doc:`../../../../../signal/H12/BFS/2/5/index`, "2L:25,380,001-25,420,000", 409 (195 | 214)
-    :doc:`../../../../../signal/H12/AOM/2/3/index`, "2L:25,380,001-25,460,000", 392 (242 | 150)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/BFM.GWA/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,474,895-25,514,895
+      - 625
+      - 99.4%
+      - Rdl
+    * - :doc:`../../../../../signal/H12/GAS/2/1/index`
+      - H12
+      - Gabon *An. gambiae*
+      - 2L:25,454,895-25,514,895
+      - 529
+      - 100.0%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFM.BFS/2/1/index`
+      - XPEHH
+      - Burkina Faso *An. coluzzii*
+      - 2L:25,454,895-25,554,895
+      - 468
+      - 99.3%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/2/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - 2L:25,474,895-25,634,895
+      - 423
+      - 100.0%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/4/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 388
+      - 98.3%
+      - Rdl
+    * - :doc:`../../../../../signal/H12/BFS/2/5/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 2L:25,454,895-25,534,895
+      - 375
+      - 96.1%
+      - Rdl
+    * - :doc:`../../../../../signal/IHS/BFM/2/3/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2L:24,754,895-25,434,895
+      - 304
+      - 99.9%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/2/2/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2L:25,414,895-25,454,895
+      - 291
+      - 90.3%
+      - Rdl
+    * - :doc:`../../../../../signal/IHS/BFS/2/5/index`
+      - IHS
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,614,895
+      - 256
+      - 99.8%
+      - Rdl
+    * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/6/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2L:25,434,895-25,474,895
+      - 138
+      - 95.3%
+      - Rdl
     
+
 
 
 
@@ -74,7 +151,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFM/2/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/BFM/2/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -95,80 +172,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 19
-        # data points      = 151
-        # variables        = 3
-        chi-square         = 0.041
+        # function evals   = 28
+        # data points      = 400
+        # variables        = 4
+        chi-square         = 0.062
         reduced chi-square = 0.000
-        Akaike info crit   = -1235.742
-        Bayesian info crit = -1226.690
+        Akaike info crit   = -3499.194
+        Bayesian info crit = -3483.228
     [[Variables]]
-        amplitude:   0.32833369 +/- 0.007646 (2.33%) (init= 0.5)
-        decay:       0.66634870 +/- 0.026671 (4.00%) (init= 0.5)
-        c:           0.01406966 +/- 0.001799 (12.79%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.34330416 +/- 0.005166 (1.51%) (init= 0.5)
+        decay:       0.42716612 +/- 0.010217 (2.39%) (init= 0.5)
+        skew:        0.65191309 +/- 0.023955 (3.67%) (init= 0)
+        baseline:    0.01601915 +/- 0.000717 (4.48%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.566 
-        C(decay, c)                  = -0.531 
+        C(amplitude, decay)          = -0.629 
+        C(decay, baseline)           = -0.349 
+        C(decay, skew)               = -0.294 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 23
-        # data points      = 150
-        # variables        = 3
-        chi-square         = 0.013
-        reduced chi-square = 0.000
-        Akaike info crit   = -1396.621
-        Bayesian info crit = -1387.589
-    [[Variables]]
-        amplitude:   0.38089750 +/- 0.008128 (2.13%) (init= 0.5)
-        decay:       0.28760767 +/- 0.008545 (2.97%) (init= 0.5)
-        c:           0.01709534 +/- 0.000855 (5.00%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.724 
-        C(decay, c)                  = -0.326 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 150
+        # function evals   = 9
+        # data points      = 399
         # variables        = 1
-        chi-square         = 0.672
-        reduced chi-square = 0.005
-        Akaike info crit   = -809.246
-        Bayesian info crit = -806.235
+        chi-square         = 1.166
+        reduced chi-square = 0.003
+        Akaike info crit   = -2326.207
+        Bayesian info crit = -2322.218
     [[Variables]]
-        c:   0.04916964 +/- 0.005482 (11.15%) (init= 0.03)
+        c:   0.03538093 +/- 0.002710 (7.66%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 149
-        # variables        = 1
-        chi-square         = 0.341
-        reduced chi-square = 0.002
-        Akaike info crit   = -903.795
-        Bayesian info crit = -900.791
-    [[Variables]]
-        c:   0.03221222 +/- 0.003933 (12.21%) (init= 0.03)
 
 
 Comments

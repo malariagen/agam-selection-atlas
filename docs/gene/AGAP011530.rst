@@ -15,34 +15,45 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP011530>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3L:26862873-26865558#genomebrowser>`_
 
-Overlapping signals
--------------------
-
-The following signals have a focus which overlaps this gene.
-
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
-
-    :doc:`../signal/H12/GNS/3/3/index`, "3L:26,860,001-26,900,000", 171 (77 | 93)
-    
 
 
 
-Adjacent signals
-----------------
+
+
+
+Adjacent selection signals
+--------------------------
 
 The following signals have a focus which occurs within 50 kbp of this gene.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../signal/H12/CMS/3/2/index`, "3L:26,880,001-26,940,000", 294 (265 | 29)
-    :doc:`../signal/H12/BFS/3/2/index`, "3L:26,880,001-26,920,000", 252 (210 | 41)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/H12/CMS/3/2/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 3L:26,879,316-26,919,316
+      - 328
+      - 89.2%
+      - nan
+    * - :doc:`../signal/H12/BFS/3/2/index`
+      - H12
+      - Burkina Faso *An. gambiae*
+      - 3L:26,879,316-26,979,316
+      - 291
+      - 92.7%
+      - nan
     
+
 
 
 

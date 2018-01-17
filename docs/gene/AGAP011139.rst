@@ -17,18 +17,9 @@ External links:
 
 
 
-Adjacent signals
-----------------
 
-The following signals have a focus which occurs within 50 kbp of this gene.
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/AOM/3/5/index`, "3L:17,740,001-17,780,000", 127 (51 | 75)
-    
 
 
 

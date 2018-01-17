@@ -15,19 +15,85 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP002830>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=2R:28074852-28081996#genomebrowser>`_
 
-Overlapping signals
--------------------
+
+
+
+
+Overlapping selection signals
+-----------------------------
 
 The following signals have a focus which overlaps this gene.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../signal/H12/AOM/2/1/index`, "2R:28,060,001-28,100,000", 526 (403 | 123)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/XPEHH/UGS.BFS/2/1/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 2R:27,980,000-28,280,000
+      - 753
+      - 99.9%
+      - nan
+    * - :doc:`../signal/H12/AOM/2/2/index`
+      - H12
+      - Angola *An. coluzzii*
+      - 2R:28,040,000-28,080,000
+      - 478
+      - 100.0%
+      - nan
     
 
+
+
+
+Adjacent selection signals
+--------------------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/IHS/AOM/2/1/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:27,980,000-28,040,000
+      - 324
+      - 100.0%
+      - nan
+    * - :doc:`../signal/XPEHH/AOM.BFM/2/3/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:28,000,000-28,060,000
+      - 295
+      - 99.4%
+      - nan
+    * - :doc:`../signal/XPEHH/AOM.GWA/2/5/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - 2R:27,980,000-28,040,000
+      - 96
+      - 95.2%
+      - nan
+    
 
 
 

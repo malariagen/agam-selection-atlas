@@ -1,0 +1,164 @@
+# This is a Snakemake file.
+
+import yaml
+import os
+import glob
+
+static_files = [os.path.join(dirpath, name)
+                for (dirpath, _, filenames) in os.walk('docs/_static')
+                for name in filenames]
+
+# load populations definitions
+with open('docs/_static/data/populations.yml', mode='r') as f:
+    populations = yaml.load(f)
+    pop_ids = list(populations.keys())
+
+# convenience
+chromosomes = ['2', '3', 'X']
+seqids = ['2R', '2L', '3R', '3L', 'X']
+
+
+rule tabulate_signals:
+    input:
+        "scripts/setup.py",
+        "scripts/tabulate_signals.py",
+        glob.glob("docs/_static/data/signal/*/*/*/*/report.yml"),
+    output:
+        "docs/_static/data/signals.csv",
+    shell:
+        "python scripts/tabulate_signals.py"
+
+
+rule signal_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_signal_pages.py",
+        "templates/macros.rst",
+        "templates/signal.rst",
+    output:
+        touch("docs/signal/.make"),
+        "docs/signal",
+    shell:
+        "rm -fv docs/signal/*.rst && python scripts/build_signal_pages.py"
+
+
+rule signals_page:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_signals_page.py",
+        "templates/macros.rst",
+        "templates/signals.rst",
+    output:
+        "docs/signals.rst",
+    shell:
+        "python scripts/build_signals_page.py"
+
+
+rule signal_summary_plots:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_signal_summary_plots.py",
+    output:
+        touch("docs/population/.plots.make"),
+    shell:
+        "python scripts/build_signal_summary_plots.py"
+
+
+rule population_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_population_pages.py",
+        "templates/macros.rst",
+        "templates/populations.rst",
+        "templates/population.rst",
+    output:
+        "docs/populations.rst",
+        expand("docs/population/{population}.rst", population=pop_ids),
+    shell:
+        "rm -fv docs/population/*.rst && python scripts/build_population_pages.py"
+
+
+rule seqid_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_seqid_pages.py",
+        "templates/macros.rst",
+        "templates/seqid.rst",
+    output:
+        expand("docs/seqid/{seqid}.rst", seqid=seqids),
+    shell:
+        "rm -fv docs/seqid/*.rst && python scripts/build_seqid_pages.py"
+
+
+rule statistic_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_statistic_pages.py",
+        "templates/macros.rst",
+        "templates/statistic.rst",
+    output:
+        expand("docs/statistic/{statistic}.rst", statistic=['H12', 'IHS', 'XPEHH']),
+    shell:
+        "rm -fv docs/statistic/*.rst && python scripts/build_statistic_pages.py"
+
+
+rule gene_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "scripts/build_gene_pages.py",
+        "templates/macros.rst",
+        "templates/gene.rst",
+    output:
+        touch("docs/gene/.make"),
+        "docs/gene",
+    shell:
+        "rm -fv docs/gene/*.rst && python scripts/build_gene_pages.py"
+
+
+rule ir_candidate_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        glob.glob("docs/_static/data/ir-candidate-genes/*"),
+        "scripts/build_ir_candidate_pages.py",
+        "templates/macros.rst",
+        "templates/ir-candidate.rst",
+    output:
+        "docs/ir-candidate/metabolic.rst",
+        "docs/ir-candidate/target_site.rst",
+        "docs/ir-candidate/cuticular.rst",
+        "docs/ir-candidate/behavioural.rst",
+    shell:
+        "rm -fv docs/ir-candidate/*.rst && python scripts/build_ir_candidate_pages.py"
+
+rule known_locus_pages:
+    input:
+        "docs/_static/data/signals.csv",
+        "docs/_static/data/known-loci.yml",
+        "scripts/build_known_locus_pages.py",
+        "templates/macros.rst",
+        "templates/known-loci.rst",
+        "templates/known-locus.rst",
+    output:
+        "docs/known-loci.rst",
+        touch("docs/known-locus/.make"),
+        "docs/known-locus",
+    shell:
+        "rm -fv docs/known-locus/*.rst && python scripts/build_known_locus_pages.py"
+
+
+rule all:
+    input:
+        static_files,
+        "docs/conf.py",
+        glob.glob("docs/*.rst"),
+        rules.signal_summary_plots.output,
+        rules.signal_pages.output,
+        rules.signals_page.output,
+        rules.population_pages.output,
+        rules.seqid_pages.output,
+        rules.statistic_pages.output,
+        rules.ir_candidate_pages.output,
+        rules.known_locus_pages.output,
+        rules.gene_pages.output,
+    shell:
+        "cd docs && make html && rsync -rvult --progress --delete _build/html/ ../../malariagen.github.io/agam-selection-atlas/dev/"

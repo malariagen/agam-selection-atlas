@@ -3,16 +3,19 @@
 
 
 
-H12 / Guinea *An. gambiae* / Chromosome 2 / #5
-==============================================
+H12/GNS/2/5
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/GNS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2R** between positions **3,400,001** and
-**3,460,000**.
+:doc:`../../../../../population/GNS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2L** between positions **39,254,895** and
+**39,294,895**.
 The evidence supporting this signal is
-**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
+**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,46 +23,69 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP001350`,  :doc:`../../../../../gene/AGAP001351`,  :doc:`../../../../../gene/AGAP001352`,  :doc:`../../../../../gene/AGAP001353`:sup:`3`,  :doc:`../../../../../gene/AGAP001354`:sup:`3`,  :doc:`../../../../../gene/AGAP001355`:sup:`3`.
-
+The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP006868`:sup:`4` (CPR140 - cuticular protein RR-1 family 140),  :doc:`../../../../../gene/AGAP006869` (eupolytin),  :doc:`../../../../../gene/AGAP006870`:sup:`3`,  :doc:`../../../../../gene/AGAP006871` (RpS4 - 40S ribosomal protein S4),  :doc:`../../../../../gene/AGAP006872` (NIMA (never in mitosis gene a)-related kinase).
 
 
 
-The following 8 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP001344`,  :doc:`../../../../../gene/AGAP001345` (hexamerin),  :doc:`../../../../../gene/AGAP001346`,  :doc:`../../../../../gene/AGAP001347`,  :doc:`../../../../../gene/AGAP001348`,  :doc:`../../../../../gene/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`../../../../../gene/AGAP001356`:sup:`1` (ACE1 - Acetylcholinesterase),  :doc:`../../../../../gene/AGAP001357` (beta-catenin-like protein 1).
+The following 24 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP006855`:sup:`4` (CPR40 - cuticular protein RR-1 family 40),  :doc:`../../../../../gene/AGAP006856`:sup:`4` (CPR39 - cuticular protein RR-1 family 39),  :doc:`../../../../../gene/AGAP006857`:sup:`4` (CPR38 - cuticular protein RR-1 family 38),  :doc:`../../../../../gene/AGAP006858`:sup:`4` (CPR37 - cuticular protein RR-1 family 37),  :doc:`../../../../../gene/AGAP006859`:sup:`4` (CPR66 - cuticular protein RR-1 family 66),  :doc:`../../../../../gene/AGAP006860`:sup:`4` (CPR145 - cuticular protein RR-1 family 145),  :doc:`../../../../../gene/AGAP006861`:sup:`4` (CPR36 - cuticular protein RR-1 family 36),  :doc:`../../../../../gene/AGAP006862`:sup:`4` (CPR35 - cuticular protein RR-1 family 35),  :doc:`../../../../../gene/AGAP006863`:sup:`4` (CPR65 - cuticular protein RR-1 family 65),  :doc:`../../../../../gene/AGAP006864`:sup:`4` (CPR34 - cuticular protein RR-1 family 34),  :doc:`../../../../../gene/AGAP006865`:sup:`4` (CPR64 - cuticular protein RR-1 family 64),  :doc:`../../../../../gene/AGAP006866`:sup:`4` (CPR63 - cuticular protein RR-1 family 63),  :doc:`../../../../../gene/AGAP006867`:sup:`4` (CPR141 - cuticular protein RR-1 family 141),  :doc:`../../../../../gene/AGAP006873` (Ras-related protein Rab-8A),  :doc:`../../../../../gene/AGAP006874`:sup:`3` (Gr29 - gustatory receptor 29),  :doc:`../../../../../gene/AGAP006875`:sup:`3` (Gr30 - gustatory receptor 30),  :doc:`../../../../../gene/AGAP006876`:sup:`3` (Gr31 - gustatory receptor 31),  :doc:`../../../../../gene/AGAP006877`:sup:`3` (Gr32 - gustatory receptor 32),  :doc:`../../../../../gene/AGAP006878` (mitochondrial complex I protein Fmp36),  :doc:`../../../../../gene/AGAP006879` (F-type H -transporting ATPase subunit e),  :doc:`../../../../../gene/AGAP006880` (Protein LMBR1L),  :doc:`../../../../../gene/AGAP006881` (Polypeptide N-acetylgalactosaminyltransferase (Fragment)),  :doc:`../../../../../gene/AGAP006882`,  :doc:`../../../../../gene/AGAP006883`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/BFS/2/4/index`, "2R:3,400,001-3,480,000", 413 (244 | 168)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/IHS/CMS/2/5/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 137
+      - 95.6%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GNS/2/4/index`
+      - IHS
+      - Guinea *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 119
+      - 96.8%
+      - nan
+    * - :doc:`../../../../../signal/H12/CMS/2/4/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2L:39,274,895-39,314,895
+      - 112
+      - 98.7%
+      - nan
     
+
 
 
 
@@ -72,7 +98,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/GNS/2/5/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/GNS/2/5/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -93,80 +119,46 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 39
-        # data points      = 148
-        # variables        = 3
-        chi-square         = 0.007
+        # function evals   = 47
+        # data points      = 396
+        # variables        = 4
+        chi-square         = 0.071
         reduced chi-square = 0.000
-        Akaike info crit   = -1469.294
-        Bayesian info crit = -1460.303
+        Akaike info crit   = -3410.701
+        Bayesian info crit = -3394.776
     [[Variables]]
-        amplitude:   0.04488942 +/- 0.003221 (7.18%) (init= 0.5)
-        decay:       0.67661741 +/- 0.082846 (12.24%) (init= 0.5)
-        c:           0.02319049 +/- 0.000762 (3.29%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.10263598 +/- 0.009846 (9.59%) (init= 0.5)
+        decay:       0.15000002 +/- 0.020738 (13.83%) (init= 0.5)
+        skew:        0.01240441 +/- 0.137696 (1110.06%) (init= 0)
+        baseline:    0.03205756 +/- 0.000701 (2.19%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.542 
-        C(decay, c)                  = -0.540 
+        C(amplitude, decay)          = -0.696 
+        C(decay, baseline)           = -0.199 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 49
-        # data points      = 150
-        # variables        = 3
-        chi-square         = 0.009
-        reduced chi-square = 0.000
-        Akaike info crit   = -1453.117
-        Bayesian info crit = -1444.085
-    [[Variables]]
-        amplitude:   0.02029685 +/- 0.003112 (15.34%) (init= 0.5)
-        decay:       1.08425632 +/- 0.330364 (30.47%) (init= 0.5)
-        c:           0.02374280 +/- 0.001138 (4.79%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.716 
-        C(amplitude, decay)          = -0.500 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 147
+        # function evals   = 9
+        # data points      = 395
         # variables        = 1
-        chi-square         = 0.017
+        chi-square         = 0.092
         reduced chi-square = 0.000
-        Akaike info crit   = -1326.525
-        Bayesian info crit = -1323.535
+        Akaike info crit   = -3300.699
+        Bayesian info crit = -3296.720
     [[Variables]]
-        c:   0.02778072 +/- 0.000902 (3.25%) (init= 0.03)
+        c:   0.03367931 +/- 0.000770 (2.29%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 149
-        # variables        = 1
-        chi-square         = 0.011
-        reduced chi-square = 0.000
-        Akaike info crit   = -1416.061
-        Bayesian info crit = -1413.057
-    [[Variables]]
-        c:   0.02707610 +/- 0.000705 (2.60%) (init= 0.03)
 
 
 Comments

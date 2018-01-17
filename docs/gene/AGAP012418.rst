@@ -15,18 +15,9 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g=AGAP012418>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region=3L:41834603-41835368#genomebrowser>`_
 
-Overlapping signals
--------------------
 
-The following signals have a focus which overlaps this gene.
 
-.. cssclass:: table-hover
-.. csv-table::
-    :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
 
-    :doc:`../signal/H12/GAS/3/5/index`, "3L:41,500,001-41,860,000", 84 (62 | 21)
-    
 
 
 

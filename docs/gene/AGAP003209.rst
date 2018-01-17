@@ -19,6 +19,37 @@ External links:
 
 
 
+
+
+Adjacent selection signals
+--------------------------
+
+The following signals have a focus which occurs within 50 kbp of this gene.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../signal/IHS/AOM/2/3/index`
+      - IHS
+      - Angola *An. coluzzii*
+      - 2R:33,940,000-34,440,000
+      - 213
+      - 99.8%
+      - nan
+    
+
+
+
+
 Comments
 --------
 

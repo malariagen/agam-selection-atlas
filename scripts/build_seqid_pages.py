@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import jinja2
-import petl as etl
-seqids = '2R', '2L', '3R', '3L', 'X'
+from setup import *
 
 
 if __name__ == '__main__':
@@ -16,6 +13,8 @@ if __name__ == '__main__':
 
     # load signals
     tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
+
+    os.makedirs('docs/seqid', exist_ok=True)
 
     for seqid in seqids:
 

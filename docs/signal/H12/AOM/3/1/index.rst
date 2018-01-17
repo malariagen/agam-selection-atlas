@@ -3,16 +3,19 @@
 
 
 
-H12 / Angola *An. coluzzii* / Chromosome 3 / #1
-===============================================
+H12/AOM/3/1
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/AOM` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**3R** between positions **44,420,001** and
-**44,460,000**.
+:doc:`../../../../../population/AOM` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**3L** between positions **5,639,316** and
+**5,819,316**.
 The evidence supporting this signal is
 **weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,28 +23,23 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-No genes overlap the focal region.
+The following 5 genes overlap the focal region: :doc:`../../../../../gene/AGAP010530` (CLIPE4 - CLIP-domain serine protease),  :doc:`../../../../../gene/AGAP010531` (fibrinogen-related protein 7),  :doc:`../../../../../gene/AGAP010534`,  :doc:`../../../../../gene/AGAP010535` (3-demethylubiquinone-9 3-methyltransferase 2),  :doc:`../../../../../gene/AGAP010536` (nucleolar complex protein 2).
 
 
 
-
-
-
-The following 2 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP009859`,  :doc:`../../../../../gene/AGAP009860`.
+The following 6 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP010519` (kinesin-like protein unc-104),  :doc:`../../../../../gene/AGAP010520` (krueppel-like factor, other),  :doc:`../../../../../gene/AGAP010537` (hexaprenyldihydroxybenzoate methyltransferase),  :doc:`../../../../../gene/AGAP010538` (M-phase phosphoprotein),  :doc:`../../../../../gene/AGAP010539` (coiled-coil and C2 domain-containing protein 1-like),  :doc:`../../../../../gene/AGAP010540`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
@@ -58,7 +56,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/AOM/3/1/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/AOM/3/1/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,81 +77,48 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 52
-        # data points      = 289
-        # variables        = 3
-        chi-square         = 0.133
+        # function evals   = 65
+        # data points      = 485
+        # variables        = 4
+        chi-square         = 0.073
         reduced chi-square = 0.000
-        Akaike info crit   = -2213.912
-        Bayesian info crit = -2202.913
+        Akaike info crit   = -4258.198
+        Bayesian info crit = -4241.461
     [[Variables]]
-        amplitude:   0.08016603 +/- 0.005724 (7.14%) (init= 0.5)
-        decay:       2.99999993 +/- 0.746899 (24.90%) (init= 0.5)
-        c:           0.02538219 +/- 0.006361 (25.06%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.03522293 +/- 0.002730 (7.75%) (init= 0.5)
+        decay:       1.35056217 +/- 0.188681 (13.97%) (init= 0.5)
+        skew:       -0.99999999 +/- 0.011694 (1.17%) (init= 0)
+        baseline:    0.02942177 +/- 0.000846 (2.88%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.950 
-        C(amplitude, c)              = -0.530 
-        C(amplitude, decay)          =  0.317 
+        C(decay, baseline)           = -0.580 
+        C(amplitude, decay)          = -0.463 
+        C(decay, skew)               = -0.287 
+        C(amplitude, baseline)       = -0.112 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 47
-        # data points      = 196
-        # variables        = 3
-        chi-square         = 0.056
-        reduced chi-square = 0.000
-        Akaike info crit   = -1594.477
-        Bayesian info crit = -1584.642
-    [[Variables]]
-        amplitude:   0.10623956 +/- 0.023471 (22.09%) (init= 0.5)
-        decay:       0.15000001 +/- 0.041611 (27.74%) (init= 0.5)
-        c:           0.05658731 +/- 0.001263 (2.23%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.785 
-        C(decay, c)                  = -0.200 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 288
+        # function evals   = 9
+        # data points      = 484
         # variables        = 1
-        chi-square         = 0.226
-        reduced chi-square = 0.001
-        Akaike info crit   = -2057.542
-        Bayesian info crit = -2053.879
-    [[Variables]]
-        c:   0.04772280 +/- 0.001652 (3.46%) (init= 0.03)
-
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 195
-        # variables        = 1
-        chi-square         = 0.063
+        chi-square         = 0.104
         reduced chi-square = 0.000
-        Akaike info crit   = -1566.036
-        Bayesian info crit = -1562.763
+        Akaike info crit   = -4085.105
+        Bayesian info crit = -4080.923
     [[Variables]]
-        c:   0.05789387 +/- 0.001288 (2.23%) (init= 0.03)
+        c:   0.03526716 +/- 0.000667 (1.89%) (init= 0.03)
+
 
 
 Comments

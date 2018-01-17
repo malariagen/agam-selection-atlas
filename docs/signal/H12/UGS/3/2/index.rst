@@ -3,16 +3,19 @@
 
 
 
-H12 / Uganda *An. gambiae* / Chromosome 3 / #2
-==============================================
+H12/UGS/3/2
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/UGS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**3R** between positions **49,600,001** and
-**49,820,000**.
+:doc:`../../../../../population/UGS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**3R** between positions **49,660,000** and
+**49,880,000**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,32 +23,55 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 10 genes overlap the focal region: :doc:`../../../../../gene/AGAP010158`,  :doc:`../../../../../gene/AGAP010159` (dUTP pyrophosphatase),  :doc:`../../../../../gene/AGAP010160` (myosin I),  :doc:`../../../../../gene/AGAP010161`,  :doc:`../../../../../gene/AGAP010162`,  :doc:`../../../../../gene/AGAP010163` (RpL38 - 60S ribosomal protein L38),  :doc:`../../../../../gene/AGAP010164` (whd - protein withered, carnitine O-palmitoyltransferase),  :doc:`../../../../../gene/AGAP010165` (dynein light intermediate chain 2, cytosolic),  :doc:`../../../../../gene/AGAP010166`,  :doc:`../../../../../gene/AGAP010167` (numb).
-
+The following 12 genes overlap the focal region: :doc:`../../../../../gene/AGAP010159` (dUTP pyrophosphatase),  :doc:`../../../../../gene/AGAP010160` (myosin I),  :doc:`../../../../../gene/AGAP010161`,  :doc:`../../../../../gene/AGAP010162`,  :doc:`../../../../../gene/AGAP010163` (RpL38 - 60S ribosomal protein L38),  :doc:`../../../../../gene/AGAP010164` (whd - protein withered, carnitine O-palmitoyltransferase),  :doc:`../../../../../gene/AGAP010165` (dynein light intermediate chain 2, cytosolic),  :doc:`../../../../../gene/AGAP010166`,  :doc:`../../../../../gene/AGAP010167` (numb),  :doc:`../../../../../gene/AGAP010168`,  :doc:`../../../../../gene/AGAP010169`:sup:`2`,  :doc:`../../../../../gene/AGAP028032`:sup:`2`.
 
 
 
-The following 5 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP010156` (ATP citrate lyase),  :doc:`../../../../../gene/AGAP013762`,  :doc:`../../../../../gene/AGAP010157` (Ast2 - allatostatin 2),  :doc:`../../../../../gene/AGAP010168`,  :doc:`../../../../../gene/AGAP010169`:sup:`2`.
+The following 9 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP010158`,  :doc:`../../../../../gene/AGAP010170`,  :doc:`../../../../../gene/AGAP010171` (papi - TUDOR-domain protein),  :doc:`../../../../../gene/AGAP013768`,  :doc:`../../../../../gene/AGAP010172` (protein phosphatase 2 (formerly 2A), catalytic subunit),  :doc:`../../../../../gene/AGAP010173` (Rack1 - guanine nucleotide-binding protein subunit beta-like protein),  :doc:`../../../../../gene/AGAP010174` (oligosaccharyltransferase complex subunit alpha (ribophorin I)),  :doc:`../../../../../gene/AGAP010175` (adenylyl cyclase-associated protein 1),  :doc:`../../../../../gene/AGAP010176`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/UGS.BFS/3/5/index`
+      - XPEHH
+      - Uganda *An. gambiae*
+      - 3R:49,540,000-49,660,000
+      - 93
+      - 98.9%
+      - nan
+    
+
 
 
 
@@ -58,7 +84,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/UGS/3/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/UGS/3/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,82 +105,49 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 56
-        # data points      = 145
-        # variables        = 3
-        chi-square         = 0.028
+        # function evals   = 43
+        # data points      = 473
+        # variables        = 4
+        chi-square         = 0.078
         reduced chi-square = 0.000
-        Akaike info crit   = -1233.493
-        Bayesian info crit = -1224.563
+        Akaike info crit   = -4109.529
+        Bayesian info crit = -4092.893
     [[Variables]]
-        amplitude:   0.05062563 +/- 0.004524 (8.94%) (init= 0.5)
-        decay:       2          +/- 5.17e-06 (0.00%) (init= 0.5)
-        c:           0.04225618 +/- 0.004353 (10.30%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.05891882 +/- 0.002324 (3.94%) (init= 0.5)
+        decay:       2.83391207 +/- 0.293192 (10.35%) (init= 0.5)
+        skew:        0.63596717 +/- 0.062567 (9.84%) (init= 0)
+        baseline:    0.02968130 +/- 0.001665 (5.61%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  =  0.906 
-        C(amplitude, c)              = -0.475 
-        C(amplitude, decay)          = -0.167 
+        C(decay, baseline)           = -0.842 
+        C(skew, baseline)            =  0.395 
+        C(amplitude, baseline)       = -0.346 
+        C(decay, skew)               = -0.337 
+        C(amplitude, skew)           = -0.270 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 51
-        # data points      = 207
-        # variables        = 3
-        chi-square         = 0.035
-        reduced chi-square = 0.000
-        Akaike info crit   = -1791.838
-        Bayesian info crit = -1781.840
-    [[Variables]]
-        amplitude:   0.07322357 +/- 0.003790 (5.18%) (init= 0.5)
-        decay:       1.99999998 +/- 0.310843 (15.54%) (init= 0.5)
-        c:           0.02537728 +/- 0.002924 (11.53%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.897 
-        C(amplitude, c)              = -0.173 
-        C(amplitude, decay)          = -0.153 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 144
+        # function evals   = 11
+        # data points      = 472
         # variables        = 1
-        chi-square         = 0.051
+        chi-square         = 0.192
         reduced chi-square = 0.000
-        Akaike info crit   = -1142.902
-        Bayesian info crit = -1139.933
+        Akaike info crit   = -3682.247
+        Bayesian info crit = -3678.090
     [[Variables]]
-        c:   0.05807536 +/- 0.001569 (2.70%) (init= 0.03)
+        c:   0.04678610 +/- 0.000930 (1.99%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 206
-        # variables        = 1
-        chi-square         = 0.094
-        reduced chi-square = 0.000
-        Akaike info crit   = -1581.789
-        Bayesian info crit = -1578.461
-    [[Variables]]
-        c:   0.04296521 +/- 0.001494 (3.48%) (init= 0.03)
 
 
 Comments

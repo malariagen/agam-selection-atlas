@@ -3,16 +3,19 @@
 
 
 
-H12 / Angola *An. coluzzii* / Chromosome X / #2
-===============================================
+H12/AOM/X/2
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/AOM` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**X** between positions **14,660,001** and
-**14,720,000**.
+:doc:`../../../../../population/AOM` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**X** between positions **14,500,000** and
+**14,600,000**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,46 +23,62 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-Gene :doc:`../../../../../gene/AGAP000801`:sup:`2` (GLURIIb - ionotropic receptor GLURIIb) overlaps the focal region.
-
+The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP000795`,  :doc:`../../../../../gene/AGAP000797` (E3 ubiquitin-protein ligase HECW2).
 
 
 
-
-The following 4 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP000798`:sup:`2` (GLURIIc - ionotropic receptor GLURIIc),  :doc:`../../../../../gene/AGAP000803`:sup:`2` (GLURIIa - ionotropic receptor GLURIIa),  :doc:`../../../../../gene/AGAP000804`:sup:`1` (GPXH2 - glutathione peroxidase 2),  :doc:`../../../../../gene/AGAP000805` (BTB/POZ domain-containing protein KCTD16).
+The following 3 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP013289`,  :doc:`../../../../../gene/AGAP000798`:sup:`2` (GLURIIc - ionotropic receptor GLURIIc),  :doc:`../../../../../gene/AGAP000801`:sup:`2` (GLURIIb - ionotropic receptor GLURIIb).
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/GAS/X/1/index`, "X:14,480,001-14,720,000", 94 (20 | 73)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/GAS.GWA/X/1/index`
+      - XPEHH
+      - Gabon *An. gambiae*
+      - X:14,460,000-14,860,000
+      - 301
+      - 98.5%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/AOM.GWA/X/2/index`
+      - XPEHH
+      - Angola *An. coluzzii*
+      - X:14,500,000-15,180,000
+      - 228
+      - 98.5%
+      - nan
     
+
 
 
 
@@ -72,7 +91,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/AOM/X/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/AOM/X/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -93,80 +112,50 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 27
-        # data points      = 200
-        # variables        = 3
-        chi-square         = 0.017
+        # function evals   = 210
+        # data points      = 390
+        # variables        = 4
+        chi-square         = 0.104
         reduced chi-square = 0.000
-        Akaike info crit   = -1866.759
-        Bayesian info crit = -1856.864
+        Akaike info crit   = -3203.146
+        Bayesian info crit = -3187.282
     [[Variables]]
-        amplitude:   0.05884861 +/- 0.003577 (6.08%) (init= 0.5)
-        decay:       1.00738723 +/- 0.108062 (10.73%) (init= 0.5)
-        c:           0.02546942 +/- 0.000934 (3.67%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.05782970 +/- 0.003249 (5.62%) (init= 0.5)
+        decay:       2.15349257 +/- 0.258947 (12.02%) (init= 0.5)
+        skew:       -0.99999999 +/- 0.205505 (20.55%) (init= 0)
+        baseline:    0.02691357 +/- 0.001654 (6.15%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.576 
-        C(amplitude, decay)          = -0.553 
+        C(decay, baseline)           = -0.690 
+        C(decay, skew)               = -0.354 
+        C(amplitude, baseline)       = -0.289 
+        C(amplitude, decay)          = -0.274 
+        C(skew, baseline)            =  0.224 
+        C(amplitude, skew)           = -0.147 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 27
-        # data points      = 191
-        # variables        = 3
-        chi-square         = 0.084
-        reduced chi-square = 0.000
-        Akaike info crit   = -1469.975
-        Bayesian info crit = -1460.218
-    [[Variables]]
-        amplitude:   0.07606479 +/- 0.010894 (14.32%) (init= 0.5)
-        decay:       0.68355152 +/- 0.159877 (23.39%) (init= 0.5)
-        c:           0.05089292 +/- 0.001875 (3.68%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.627 
-        C(decay, c)                  = -0.464 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 199
+        # function evals   = 10
+        # data points      = 389
         # variables        = 1
-        chi-square         = 0.046
+        chi-square         = 0.192
         reduced chi-square = 0.000
-        Akaike info crit   = -1661.964
-        Bayesian info crit = -1658.671
+        Akaike info crit   = -2959.783
+        Bayesian info crit = -2955.819
     [[Variables]]
-        c:   0.03268495 +/- 0.001086 (3.32%) (init= 0.03)
+        c:   0.04327335 +/- 0.001127 (2.61%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 190
-        # variables        = 1
-        chi-square         = 0.111
-        reduced chi-square = 0.001
-        Akaike info crit   = -1411.949
-        Bayesian info crit = -1408.702
-    [[Variables]]
-        c:   0.05619005 +/- 0.001761 (3.13%) (init= 0.03)
 
 
 Comments

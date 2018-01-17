@@ -3,16 +3,19 @@
 
 
 
-H12 / Guinea Bissau / Chromosome 3 / #2
-=======================================
+H12/GWA/3/2
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/GWA` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**3R** between positions **45,080,001** and
-**45,160,000**.
+:doc:`../../../../../population/GWA` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**3L** between positions **25,059,316** and
+**25,179,316**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**weak** (:math:`\Delta_{i}` < 50 on one or both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,28 +23,23 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-Gene :doc:`../../../../../gene/AGAP009899` overlaps the focal region.
-
+The following 3 genes overlap the focal region: :doc:`../../../../../gene/AGAP011479` (hyaluronoglucosaminidase),  :doc:`../../../../../gene/AGAP011480`:sup:`4`,  :doc:`../../../../../gene/AGAP011481` (GPR5HT1B - putative serotonin 5HT-1b receptor).
 
 
 
-
-The following 14 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP009901` (diphosphoinositol-polyphosphate diphosphatase),  :doc:`../../../../../gene/AGAP009902` (E3 ubiquitin-protein ligase RNF146),  :doc:`../../../../../gene/AGAP009903` (tRNA pseudouridine synthase (Fragment)),  :doc:`../../../../../gene/AGAP009904` (tRNA (adenine-N(1)-)-methyltransferase non-catalytic subunit),  :doc:`../../../../../gene/AGAP009905` (PHD finger-like domain-containing protein 5A),  :doc:`../../../../../gene/AGAP009906`,  :doc:`../../../../../gene/AGAP009907` (leukotriene-A4 hydrolase),  :doc:`../../../../../gene/AGAP009908` (mRpL13 - 39S ribosomal protein L13, mitochondrial),  :doc:`../../../../../gene/AGAP009909`,  :doc:`../../../../../gene/AGAP009910` (ATP-dependent DNA helicase 2 subunit 2),  :doc:`../../../../../gene/AGAP009911`,  :doc:`../../../../../gene/AGAP009912`,  :doc:`../../../../../gene/AGAP009913` (actin-binding protein IPP),  :doc:`../../../../../gene/AGAP009914` (nuclear distribution protein NudE).
+The following 5 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP028522`,  :doc:`../../../../../gene/AGAP011475` (Envelysin),  :doc:`../../../../../gene/AGAP011476`,  :doc:`../../../../../gene/AGAP011477` (eupolytin),  :doc:`../../../../../gene/AGAP011478`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
@@ -58,7 +56,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/GWA/3/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/GWA/3/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,81 +77,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 71
-        # data points      = 145
-        # variables        = 3
-        chi-square         = 0.025
+        # function evals   = 33
+        # data points      = 391
+        # variables        = 4
+        chi-square         = 0.030
         reduced chi-square = 0.000
-        Akaike info crit   = -1252.378
-        Bayesian info crit = -1243.448
+        Akaike info crit   = -3697.383
+        Bayesian info crit = -3681.508
     [[Variables]]
-        amplitude:   0.06016664 +/- 0.008356 (13.89%) (init= 0.5)
-        decay:       0.31174724 +/- 0.069507 (22.30%) (init= 0.5)
-        c:           0.04148279 +/- 0.001236 (2.98%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.04030958 +/- 0.004581 (11.37%) (init= 0.5)
+        decay:       0.28584656 +/- 0.049065 (17.17%) (init= 0.5)
+        skew:        0.44867621 +/- 0.171131 (38.14%) (init= 0)
+        baseline:    0.02509793 +/- 0.000483 (1.92%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.607 
-        C(decay, c)                  = -0.347 
+        C(amplitude, decay)          = -0.668 
+        C(decay, baseline)           = -0.277 
+        C(decay, skew)               = -0.207 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 39
-        # data points      = 146
-        # variables        = 3
-        chi-square         = 0.028
-        reduced chi-square = 0.000
-        Akaike info crit   = -1241.331
-        Bayesian info crit = -1232.380
-    [[Variables]]
-        amplitude:   0.04335692 +/- 0.004609 (10.63%) (init= 0.5)
-        decay:       1.99999983 +/- 0.663348 (33.17%) (init= 0.5)
-        c:           0.03789568 +/- 0.004448 (11.74%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.908 
-        C(amplitude, c)              = -0.434 
-        C(amplitude, decay)          =  0.121 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 144
+        # function evals   = 9
+        # data points      = 390
         # variables        = 1
-        chi-square         = 0.036
+        chi-square         = 0.038
         reduced chi-square = 0.000
-        Akaike info crit   = -1193.151
-        Bayesian info crit = -1190.181
+        Akaike info crit   = -3600.542
+        Bayesian info crit = -3596.576
     [[Variables]]
-        c:   0.04453994 +/- 0.001318 (2.96%) (init= 0.03)
+        c:   0.02648986 +/- 0.000500 (1.89%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 145
-        # variables        = 1
-        chi-square         = 0.043
-        reduced chi-square = 0.000
-        Akaike info crit   = -1175.151
-        Bayesian info crit = -1172.175
-    [[Variables]]
-        c:   0.05129446 +/- 0.001438 (2.80%) (init= 0.03)
 
 
 Comments

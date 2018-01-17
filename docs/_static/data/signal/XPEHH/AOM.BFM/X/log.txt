@@ -1,0 +1,78 @@
+scan progress 0 0.04
+scan progress 100 4.03999999986
+scan progress 200 8.04000000042
+scan progress 300 12.040000001
+scan progress 400 16.0400000015
+scan progress 500 20.0399999985
+scan progress 600 24.0399999955
+scan progress 700 28.0399999925
+scan progress 800 32.0399999896
+scan progress 900 36.0399999937
+scan progress 1000 40.0246444978
+scan progress 1100 41.0246444953
+scan progress 1200 42.0246444927
+first peak: 216 292.05
+================================================================================
+Iteration 1
+Peak center (index, location): 216, 4340000.0
+Delta AIC: 292.1
+Flank delta AICs: 139.0, 179.9
+find limits of peak
+peak limits: 4204419 4501646 210 226
+check flank fits
+FLANK OK: PROCESSING PEAK
+[[Model]]
+    Model(skewed_exponential_peak)
+[[Fit Statistics]]
+    # function evals   = 33
+    # data points      = 287
+    # variables        = 4
+    chi-square         = 68.994
+    reduced chi-square = 0.244
+    Akaike info crit   = -401.106
+    Bayesian info crit = -386.468
+[[Variables]]
+    center:      0 (fixed)
+    amplitude:   4.19271478 +/- 0.238529 (5.69%) (init= 3)
+    decay:       0.17857254 +/- 0.015862 (8.88%) (init= 0.5)
+    skew:       -0.11161526 +/- 0.085879 (76.94%) (init= 0)
+    baseline:    1.82777348 +/- 0.032132 (1.76%) (init= 1)
+    ceiling:     100 (fixed)
+    floor:       0 (fixed)
+[[Correlations]] (unreported correlations are <  0.100)
+    C(amplitude, decay)          = -0.675 
+    C(decay, baseline)           = -0.276 
+
+[[Model]]
+    Model(constant)
+[[Fit Statistics]]
+    # function evals   = 11
+    # data points      = 286
+    # variables        = 1
+    chi-square         = 193.966
+    reduced chi-square = 0.681
+    Akaike info crit   = -109.056
+    Bayesian info crit = -105.400
+[[Variables]]
+    c:   2.05750152 +/- 0.048781 (2.37%) (init= 1)
+
+setup output directory for this peak
+plot some diagnostics about the peak finding algorithm
+plot some diagnostics for the peak fit
+find focus of selection
+epicenter: 4340000
+found focus: 4320000 4360000
+find max peak value
+yield peak
+subtract peak from values
+rescan region around the peak
+scan progress 0 0.04
+scan progress 100 4.03999999986
+scan progress 200 8.04000000042
+scan progress 300 12.040000001
+scan progress 400 16.0400000015
+scan progress 500 20.0399999985
+scan progress 600 24.0399999955
+find the next peak
+next peak: 9 86.9285
+all done

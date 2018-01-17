@@ -17,9 +17,21 @@ External links:
 `VectorBase <https://www.vectorbase.org/Anopheles_gambiae/Gene/Summary?g={{ gene.id }}>`_ |
 `Ag1000G genome browser <https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html?genome_region={{ gene.seqid }}:{{ gene.start }}-{{ gene.end }}#genomebrowser>`_
 
+{% for locus in overlapping_loci %}
+This gene is within the :doc:`{{ root_path }}known-locus/{{ locus.short_name|lower }}`, a genome
+region with prior evidence of an association with insecticide resistance and/or recent positive selection in
+*Anopheles* mosquitoes.
+{% endfor %}
+
+{% for locus in adjacent_loci %}
+This gene occurs within 50 kbp of the :doc:`{{ root_path }}known-locus/{{ locus.short_name|lower }}`,
+a genome region with prior evidence of an association with insecticide resistance and/or recent positive
+selection in *Anopheles* mosquitoes.
+{% endfor %}
+
 {% if overlapping_signals|length > 0 -%}
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following signals have a focus which overlaps this gene.
 
@@ -27,8 +39,8 @@ The following signals have a focus which overlaps this gene.
 {% endif %}
 
 {% if adjacent_signals|length > 0 -%}
-Adjacent signals
-----------------
+Adjacent selection signals
+--------------------------
 
 The following signals have a focus which occurs within 50 kbp of this gene.
 

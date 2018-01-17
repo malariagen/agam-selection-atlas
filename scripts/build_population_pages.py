@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import jinja2
-import yaml
-import petl as etl
+from setup import *
 
 
 if __name__ == '__main__':
@@ -27,11 +24,13 @@ if __name__ == '__main__':
     # load signals
     tbl_signals = etl.fromcsv('docs/_static/data/signals.csv')
 
+    os.makedirs('docs/population', exist_ok=True)
+
     for pop_id, pop_label in populations.items():
 
         pop_signals = list(
             tbl_signals
-            .eq('population', pop_id)
+            .eq('focal_population', pop_id)
             .dicts()
         )
         data = dict()

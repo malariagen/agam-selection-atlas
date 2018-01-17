@@ -1,5 +1,5 @@
-All signals
-===========
+All selection signals
+=====================
 
 {% from 'macros.rst' import signals_table %}
 

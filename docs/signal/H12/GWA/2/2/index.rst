@@ -3,16 +3,19 @@
 
 
 
-H12 / Guinea Bissau / Chromosome 2 / #2
-=======================================
+H12/GWA/2/2
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/GWA` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2L** between positions **31,920,001** and
-**31,960,000**.
+:doc:`../../../../../population/GWA` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2R** between positions **47,740,000** and
+**47,800,000**.
 The evidence supporting this signal is
-**moderate** (:math:`\Delta_{i}` >= 50 on both flanks).
+**strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,32 +23,76 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 2 genes overlap the focal region: :doc:`../../../../../gene/AGAP006439` (fringe),  :doc:`../../../../../gene/AGAP006440` (IR136 - ionotropic receptor IR136).
-
+Gene :doc:`../../../../../gene/AGAP004000` (myosin IX) overlaps the focal region.
 
 
 
-The following 4 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP006436` (Med13 - mediator of RNA polymerase II transcription subunit 13),  :doc:`../../../../../gene/AGAP028457`,  :doc:`../../../../../gene/AGAP006437`,  :doc:`../../../../../gene/AGAP006438` (ribosomal biogenesis protein LAS1).
+The following 12 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP003997` (casein kinase 1, gamma),  :doc:`../../../../../gene/AGAP013423` (SG9 - salivary gland protein 9),  :doc:`../../../../../gene/AGAP003999`,  :doc:`../../../../../gene/AGAP004002` (60 kDa heat shock protein, mitochondrial precursor),  :doc:`../../../../../gene/AGAP013015` (p53 and DNA damage-regulated protein),  :doc:`../../../../../gene/AGAP004003`,  :doc:`../../../../../gene/AGAP004004`,  :doc:`../../../../../gene/AGAP004005`,  :doc:`../../../../../gene/AGAP013019`,  :doc:`../../../../../gene/AGAP004006`,  :doc:`../../../../../gene/AGAP004007`,  :doc:`../../../../../gene/AGAP004008`.
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
+
+Overlapping selection signals
+-----------------------------
+
+The following selection signals have a focus which overlaps with the
+focus of this signal.
+
+.. cssclass:: table-hover
+.. list-table::
+    :widths: auto
+    :header-rows: 1
+
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFM/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,760,000-47,800,000
+      - 303
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.BFS/2/3/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,760,000-47,800,000
+      - 167
+      - 98.6%
+      - nan
+    * - :doc:`../../../../../signal/IHS/GWA/2/1/index`
+      - IHS
+      - Guinea Bissau
+      - 2R:47,780,000-47,940,000
+      - 117
+      - 99.9%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/GWA.UGS/2/2/index`
+      - XPEHH
+      - Guinea Bissau
+      - 2R:47,740,000-47,800,000
+      - 113
+      - 95.0%
+      - nan
+    
+
 
 
 
@@ -58,7 +105,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/GWA/2/2/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/GWA/2/2/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -79,80 +126,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 39
-        # data points      = 144
-        # variables        = 3
-        chi-square         = 0.050
+        # function evals   = 28
+        # data points      = 385
+        # variables        = 4
+        chi-square         = 0.163
         reduced chi-square = 0.000
-        Akaike info crit   = -1140.069
-        Bayesian info crit = -1131.159
+        Akaike info crit   = -2981.281
+        Bayesian info crit = -2965.468
     [[Variables]]
-        amplitude:   0.13379179 +/- 0.013622 (10.18%) (init= 0.5)
-        decay:       0.21866358 +/- 0.035897 (16.42%) (init= 0.5)
-        c:           0.04360961 +/- 0.001710 (3.92%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.21678950 +/- 0.010796 (4.98%) (init= 0.5)
+        decay:       0.27511237 +/- 0.021126 (7.68%) (init= 0.5)
+        skew:       -0.59188499 +/- 0.078111 (13.20%) (init= 0)
+        baseline:    0.05326116 +/- 0.001147 (2.15%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.602 
-        C(decay, c)                  = -0.287 
+        C(amplitude, decay)          = -0.652 
+        C(decay, baseline)           = -0.280 
+        C(decay, skew)               =  0.259 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 35
-        # data points      = 150
-        # variables        = 3
-        chi-square         = 0.044
-        reduced chi-square = 0.000
-        Akaike info crit   = -1213.158
-        Bayesian info crit = -1204.126
-    [[Variables]]
-        amplitude:   0.35749107 +/- 0.023182 (6.48%) (init= 0.5)
-        decay:       0.15647095 +/- 0.012930 (8.26%) (init= 0.5)
-        c:           0.04577839 +/- 0.001497 (3.27%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.778 
-        C(decay, c)                  = -0.235 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 143
+        # function evals   = 11
+        # data points      = 384
         # variables        = 1
-        chi-square         = 0.089
+        chi-square         = 0.437
         reduced chi-square = 0.001
-        Akaike info crit   = -1053.254
-        Bayesian info crit = -1050.291
+        Akaike info crit   = -2600.773
+        Bayesian info crit = -2596.822
     [[Variables]]
-        c:   0.04831156 +/- 0.002096 (4.34%) (init= 0.03)
+        c:   0.06091116 +/- 0.001724 (2.83%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 149
-        # variables        = 1
-        chi-square         = 0.168
-        reduced chi-square = 0.001
-        Akaike info crit   = -1009.194
-        Bayesian info crit = -1006.190
-    [[Variables]]
-        c:   0.05235597 +/- 0.002761 (5.28%) (init= 0.03)
 
 
 Comments

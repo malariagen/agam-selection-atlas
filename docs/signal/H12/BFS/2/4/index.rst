@@ -3,16 +3,19 @@
 
 
 
-H12 / Burkina Faso *An. gambiae* / Chromosome 2 / #4
-====================================================
+H12/BFS/2/4
+===========
 
 This page describes a signal of selection found in the
-:doc:`../../../../../population/BFS` population using the
-:doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
-**2R** between positions **3,400,001** and
-**3,480,000**.
+:doc:`../../../../../population/BFS` populationusing the :doc:`../../../../../method/H12` statistic.The focus of this signal is on chromosome arm
+**2R** between positions **40,640,000** and
+**41,060,000**.
 The evidence supporting this signal is
 **strong** (:math:`\Delta_{i}` >= 100 on both flanks).
+
+
+
+
 
 .. raw:: html
     :file: peak_location.html
@@ -20,46 +23,104 @@ The evidence supporting this signal is
 .. raw:: html
 
     <div class='bokeh-figure figure'><p class='caption'>
-    <strong>Signal location</strong>. Blue markers
-    show the values of the selection statistic.
-    The dashed black line shows the fitted peak model. The shaded red area
-    shows the focus of the selection signal. The shaded blue area shows
-    the genomic region in linkage with the selection event. Use the
-    mouse wheel or the controls at the top right of the plot to zoom in, and hover
-    over genes to see gene names and descriptions.
+    <strong>Signal location</strong>. Blue markers show the values of the selection statistic.
+    The dashed black line shows the fitted peak model. The shaded red area shows the focus of the
+    selection signal. The shaded blue area shows the genomic region in linkage with the
+    selection event. Use the mouse wheel or the controls at the top right of the plot to zoom
+    in, and hover over genes to see gene names and descriptions.
     </p></div>
 
 Genes
 -----
 
 
-
-
-The following 6 genes overlap the focal region: :doc:`../../../../../gene/AGAP001350`,  :doc:`../../../../../gene/AGAP001351`,  :doc:`../../../../../gene/AGAP001352`,  :doc:`../../../../../gene/AGAP001353`:sup:`3`,  :doc:`../../../../../gene/AGAP001354`:sup:`3`,  :doc:`../../../../../gene/AGAP001355`:sup:`3`.
-
+The following 31 genes overlap the focal region: :doc:`../../../../../gene/AGAP003624`,  :doc:`../../../../../gene/AGAP029110`,  :doc:`../../../../../gene/AGAP003626`,  :doc:`../../../../../gene/AGAP013221`,  :doc:`../../../../../gene/AGAP012946`,  :doc:`../../../../../gene/AGAP003627`,  :doc:`../../../../../gene/AGAP003629`,  :doc:`../../../../../gene/AGAP003630`,  :doc:`../../../../../gene/AGAP003631` (GPRGRP2 - putative gastrin/bombesin receptor 2),  :doc:`../../../../../gene/AGAP003632` (U3 small nucleolar RNA-associated protein 14),  :doc:`../../../../../gene/AGAP003633`,  :doc:`../../../../../gene/AGAP003635`,  :doc:`../../../../../gene/AGAP003636`:sup:`1` (inositol oxygenase),  :doc:`../../../../../gene/AGAP003638`,  :doc:`../../../../../gene/AGAP003639` (Prolylcarboxypeptidase),  :doc:`../../../../../gene/AGAP003640`:sup:`1` (SP8905),  :doc:`../../../../../gene/AGAP003641`:sup:`1` (SP8907),  :doc:`../../../../../gene/AGAP003642`:sup:`1` (SP8898),  :doc:`../../../../../gene/AGAP003643` (ubiquitin carboxyl-terminal hydrolase 34),  :doc:`../../../../../gene/AGAP003644` (mRpS11 - 28S ribosomal protein S11, mitochondrial),  :doc:`../../../../../gene/AGAP003645` (kelch-like protein 19),  :doc:`../../../../../gene/AGAP013307`,  :doc:`../../../../../gene/AGAP003646`,  :doc:`../../../../../gene/AGAP003647`,  :doc:`../../../../../gene/AGAP003648` (DNA-directed RNA polymerase II subunit RPB2),  :doc:`../../../../../gene/AGAP003649`,  :doc:`../../../../../gene/AGAP003650` (translation initiation factor eIF-2B subunit alpha),  :doc:`../../../../../gene/AGAP003651` (Tyrosine-protein kinase Fes/Fps),  :doc:`../../../../../gene/AGAP012992`,  :doc:`../../../../../gene/AGAP013502`,  :doc:`../../../../../gene/AGAP003652`:sup:`1` (aldehyde dehydrogenase (NAD )).
 
 
 
-The following 9 genes are within 50 kbp of the focal
-region: :doc:`../../../../../gene/AGAP001344`,  :doc:`../../../../../gene/AGAP001345` (hexamerin),  :doc:`../../../../../gene/AGAP001346`,  :doc:`../../../../../gene/AGAP001347`,  :doc:`../../../../../gene/AGAP001348`,  :doc:`../../../../../gene/AGAP001349` (chronic lymphocytic leukemia deletion region gene 6 protein-like protein),  :doc:`../../../../../gene/AGAP001356`:sup:`1` (ACE1 - Acetylcholinesterase),  :doc:`../../../../../gene/AGAP001357` (beta-catenin-like protein 1),  :doc:`../../../../../gene/AGAP001358`.
+The following 6 genes are within 50 kbp of the focal
+region: :doc:`../../../../../gene/AGAP003620`,  :doc:`../../../../../gene/AGAP003621` (coiled-coil domain-containing protein 25),  :doc:`../../../../../gene/AGAP003622` (Queuine tRNA-ribosyltransferase catalytic subunit 1),  :doc:`../../../../../gene/AGAP003623` (long-chain acyl-CoA synthetase),  :doc:`../../../../../gene/AGAP003654` (GPRCAL3 - putative calcitonin receptor 3),  :doc:`../../../../../gene/AGAP003655` (RNA methyltransferase like 1).
 
 
 Key to insecticide resistance candidate gene types: :sup:`1` metabolic;
 :sup:`2` target-site; :sup:`3` behavioural; :sup:`4` cuticular.
 
-Overlapping signals
--------------------
+Overlapping selection signals
+-----------------------------
 
 The following selection signals have a focus which overlaps with the
 focus of this signal.
 
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
-    :doc:`../../../../../signal/H12/GNS/2/5/index`, "2R:3,400,001-3,460,000", 179 (142 | 37)
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
+    * - :doc:`../../../../../signal/XPEHH/BFS.UGS/2/2/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:40,880,000-40,940,000
+      - 1,181
+      - 99.6%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.UGS/2/1/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:41,020,000-41,400,000
+      - 943
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/CMS/2/2/index`
+      - IHS
+      - Cameroon *An. gambiae*
+      - 2R:40,060,000-40,780,000
+      - 643
+      - 100.0%
+      - nan
+    * - :doc:`../../../../../signal/H12/BFM/2/3/index`
+      - H12
+      - Burkina Faso *An. coluzzii*
+      - 2R:40,920,000-40,960,000
+      - 512
+      - 97.6%
+      - nan
+    * - :doc:`../../../../../signal/H12/CMS/2/3/index`
+      - H12
+      - Cameroon *An. gambiae*
+      - 2R:40,300,000-40,740,000
+      - 501
+      - 98.7%
+      - nan
+    * - :doc:`../../../../../signal/IHS/BFM/2/2/index`
+      - IHS
+      - Burkina Faso *An. coluzzii*
+      - 2R:40,880,000-41,160,000
+      - 312
+      - 99.7%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/BFS.GWA/2/5/index`
+      - XPEHH
+      - Burkina Faso *An. gambiae*
+      - 2R:40,780,000-40,820,000
+      - 195
+      - 94.0%
+      - nan
+    * - :doc:`../../../../../signal/XPEHH/CMS.GWA/2/3/index`
+      - XPEHH
+      - Cameroon *An. gambiae*
+      - 2R:40,680,000-40,760,000
+      - 100
+      - 96.5%
+      - nan
     
+
 
 
 
@@ -72,7 +133,7 @@ The information below provides some diagnostics from the
 .. raw:: html
 
     <div class="figure">
-    <img src="../../../../../_static/data/signal/H12/BFS/2/4/peak_context.png"/>
+    <img src="../../../../../_static/data/signal/H12/BFS/2/4/peak_finding.png"/>
     <p class="caption"><strong>Selection signal in context</strong>. @@TODO</p>
     </div>
 
@@ -93,80 +154,47 @@ The information below provides some diagnostics from the
 Model fit reports
 ~~~~~~~~~~~~~~~~~
 
-Left flank, peak model::
+Peak model::
 
     [[Model]]
-        Model(exponential)
+        Model(skewed_exponential_peak)
     [[Fit Statistics]]
-        # function evals   = 27
-        # data points      = 148
-        # variables        = 3
-        chi-square         = 0.003
+        # function evals   = 48
+        # data points      = 396
+        # variables        = 4
+        chi-square         = 0.136
         reduced chi-square = 0.000
-        Akaike info crit   = -1590.501
-        Bayesian info crit = -1581.510
+        Akaike info crit   = -3150.494
+        Bayesian info crit = -3134.568
     [[Variables]]
-        amplitude:   0.05691908 +/- 0.002520 (4.43%) (init= 0.5)
-        decay:       0.44727876 +/- 0.033086 (7.40%) (init= 0.5)
-        c:           0.01265460 +/- 0.000449 (3.55%) (init= 0.03)
-        cap:         1 (fixed)
+        center:      0 (fixed)
+        amplitude:   0.11629361 +/- 0.005495 (4.73%) (init= 0.5)
+        decay:       0.87729857 +/- 0.071284 (8.13%) (init= 0.5)
+        skew:       -0.46214774 +/- 0.071846 (15.55%) (init= 0)
+        baseline:    0.03180019 +/- 0.001268 (3.99%) (init= 0.03)
+        ceiling:     1 (fixed)
+        floor:       0 (fixed)
     [[Correlations]] (unreported correlations are <  0.100)
-        C(amplitude, decay)          = -0.579 
-        C(decay, c)                  = -0.422 
+        C(amplitude, decay)          = -0.581 
+        C(decay, baseline)           = -0.532 
+        C(decay, skew)               =  0.183 
 
 
-Right flank, peak model::
-
-    [[Model]]
-        Model(exponential)
-    [[Fit Statistics]]
-        # function evals   = 83
-        # data points      = 150
-        # variables        = 3
-        chi-square         = 0.004
-        reduced chi-square = 0.000
-        Akaike info crit   = -1571.773
-        Bayesian info crit = -1562.741
-    [[Variables]]
-        amplitude:   0.03350765 +/- 0.002187 (6.53%) (init= 0.5)
-        decay:       1.00065551 +/- 0.124233 (12.42%) (init= 0.5)
-        c:           0.01081279 +/- 0.000719 (6.66%) (init= 0.03)
-        cap:         1 (fixed)
-    [[Correlations]] (unreported correlations are <  0.100)
-        C(decay, c)                  = -0.684 
-        C(amplitude, decay)          = -0.531 
-
-
-Left flank, null model::
+Null model::
 
     [[Model]]
         Model(constant)
     [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 147
+        # function evals   = 10
+        # data points      = 395
         # variables        = 1
-        chi-square         = 0.015
-        reduced chi-square = 0.000
-        Akaike info crit   = -1346.308
-        Bayesian info crit = -1343.317
+        chi-square         = 0.357
+        reduced chi-square = 0.001
+        Akaike info crit   = -2766.177
+        Bayesian info crit = -2762.198
     [[Variables]]
-        c:   0.01642202 +/- 0.000844 (5.14%) (init= 0.03)
+        c:   0.04489648 +/- 0.001515 (3.37%) (init= 0.03)
 
-
-Right flank, null model::
-
-    [[Model]]
-        Model(constant)
-    [[Fit Statistics]]
-        # function evals   = 6
-        # data points      = 149
-        # variables        = 1
-        chi-square         = 0.012
-        reduced chi-square = 0.000
-        Akaike info crit   = -1402.859
-        Bayesian info crit = -1399.855
-    [[Variables]]
-        c:   0.01605582 +/- 0.000737 (4.59%) (init= 0.03)
 
 
 Comments

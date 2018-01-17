@@ -1,43 +1,64 @@
 
 {% macro intcomma(v) %}{{ "{:,}".format(v) }}{% endmacro %}
 
+
 {% macro signal_doc(signal, root_path) -%}
-:doc:`{{ root_path }}signal/{{ signal.statistic }}/{{ signal.population }}/{{ signal.chromosome }}/{{ signal.rank }}/index`
+:doc:`{{ root_path }}signal/{{ signal.uid }}/index`
 {%- endmacro %}
 
+
 {% macro signal_focus(signal) -%}
-"{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start|int) }}-
+{{ signal.focus_start_seqid }}:{{ intcomma(signal.focus_start_coord|int) }}-
 {%- if signal.focus_end_seqid != signal.focus_start_seqid -%}
 {{ signal.focus_end_seqid }}:
 {%- endif -%}
-{{ intcomma(signal.focus_end|int) }}"
+{{ intcomma(signal.focus_end_coord|int) }}
 {%- endmacro %}
 
+
 {% macro signal_score(signal) -%}
-{{ signal.sum_delta_aic|int }} ({{ signal.delta_aic_left|int }} | {{ signal.delta_aic_right|int }})
+{{ intcomma(signal.delta_aic|int) }}
 {%- endmacro %}
+
 
 {% macro signals_table(signals, root_path) -%}
 {% if signals|length > 0 -%}
 .. cssclass:: table-hover
-.. csv-table::
+.. list-table::
     :widths: auto
-    :header: Signal,Focus,Score (Left | Right)
+    :header-rows: 1
 
+    * - Signal
+      - Statistic
+      - Population
+      - Focus
+      - Peak model :math:`\Delta_{i}`
+      - Max. percentile
+      - Known locus
     {% for signal in signals -%}
-    {{ signal_doc(signal, root_path) }}, {{ signal_focus(signal) }}, {{ signal_score(signal) }}
+    * - {{ signal_doc(signal, root_path) }}
+      - {{ signal.statistic }}
+      - {{ signal.focal_population_label }}
+      - {{ signal_focus(signal) }}
+      - {{ signal_score(signal) }}
+      - {{ "{:.1f}%".format(signal.max_percentile|float * 100) }}
+      - {{ signal.known_loci }}
     {% endfor %}
+
 {% else %}
 No signals.
 {% endif %}
 {%- endmacro %}
 
-{% macro gene_doc(value, root_path, ir_candidates, describe=True) -%}
+
+{% macro gene_doc(value, root_path, ir_candidates=None, describe=True) -%}
 :doc:`{{ root_path }}gene/{{ value.id }}`
+{%- if ir_candidates -%}
 {%- if value.id in ir_candidates.metabolic %}:sup:`1`
 {%- elif value.id in ir_candidates.target_site %}:sup:`2`
 {%- elif value.id in ir_candidates.behavioural %}:sup:`3`
 {%- elif value.id in ir_candidates.cuticular %}:sup:`4`
+{%- endif -%}
 {%- endif %}
 {%- if value.name or (value.description and describe) %} (
     {%- if value.name %}{{ value.name|trim }}{% endif -%}
@@ -46,6 +67,7 @@ No signals.
 )
 {%- endif %}
 {%- endmacro %}
+
 
 {% macro disqus(identifier='') %}
 .. raw:: html

@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-import jinja2
-import yaml
-from glob import glob
-import os
-import allel
-import petl as etl
+from setup import *
 
 
 if __name__ == '__main__':
