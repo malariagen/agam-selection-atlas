@@ -35,6 +35,26 @@
   start_coord: 28591663
   end_coord: 28602280
   references:
+  - author: Ranson et al.
+    year: "2001"
+    title: "Identification of a novel class of insect glutathione S-transferases involved in 
+      resistance to DDT in the malaria vector Anopheles gambiae"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/11583575/" 
+  - author: "Ortelli et al."
+    year: "2003"
+    title: "Heterologous expression of four glutathione transferase genes genetically linked 
+      to a major insecticide-resistance locus from the malaria vector Anopheles gambiae"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/12718742/"
+  - author: "Ding et al."
+    year: "2003"
+    title: "The Anopheles gambiae glutathione transferase supergene family: annotation, phylogeny 
+      and expression profiles"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/12914673/"
+  - author: David et al.
+    year: "2005"
+    title: "The Anopheles gambiae detoxification chip: A highly specific microarray to study 
+      metabolic-based insecticide resistance in malaria vectors"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC554807/"
   - author: Mitchell et al.
     year: "2014"
     title: "Metabolic and Target-Site Mechanisms Combine to Confer Strong DDT Resistance
@@ -51,6 +71,16 @@
     title: "Field-Caught Permethrin-Resistant Anopheles gambiae Overexpress CYP6P3, a P450 That
     Metabolises Pyrethroids"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583951/"
+  - author: "Kwiatkowska et al."
+    year: "2013"
+    title: "Dissecting the mechanisms responsible for the multiple insecticide resistance phenotype 
+      in Anopheles gambiae s.s., M form, from Vallée du Kou, Burkina Faso"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3611593/"
+  - author: "Edi et al."
+    title: "CYP6 P450 enzymes and ACE-1 duplication produce extreme and multiple insecticide resistance 
+      in the malaria mosquito Anopheles gambiae"
+    year: "2014"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/24651294"
 - short_name: "Ace1"
   long_name: "Acetylcholinesterase gene"
   seqid: "2R"
@@ -61,6 +91,11 @@
     year: "2003"
     title: "Comparative genomics: Insecticide resistance in mosquito vectors"
     url: "https://www.nature.com/articles/423136b"
+  - author: "Edi et al."
+    title: "CYP6 P450 enzymes and ACE-1 duplication produce extreme and multiple insecticide resistance 
+      in the malaria mosquito Anopheles gambiae"
+    year: "2014"
+    url: "https://www.ncbi.nlm.nih.gov/pubmed/24651294"
 - short_name: "Rdl"
   long_name: "GABA-gated chloride channel subunit gene"
   seqid: "2L"
