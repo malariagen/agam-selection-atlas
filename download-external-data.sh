@@ -2,6 +2,19 @@
 
 set -xeu
 
+function download {
+    # convenience function to download a file using wget
+    # positional arguments:
+    # $1 - URL to download
+    # $2 (optional) - file name to save to
+
+    if [ $# -eq 2 ]; then
+        wget -c -O $2 $1
+    elif [ $# -eq 1 ]; then
+        wget -c $1
+    fi
+}
+
 # remember working directory
 wd=$(pwd)
 
@@ -10,9 +23,9 @@ cd $wd
 vb_dir=data/external/vectorbase
 mkdir -pv $vb_dir
 cd $vb_dir
-wget --no-clobber -O Anopheles-gambiae-PEST_CHROMOSOMES_AgamP4.fa.gz https://www.vectorbase.org/download/anopheles-gambiae-pestchromosomesagamp4fagz
+download https://www.vectorbase.org/download/anopheles-gambiae-pestchromosomesagamp4fagz Anopheles-gambiae-PEST_CHROMOSOMES_AgamP4.fa.gz
 gunzip --keep --force Anopheles-gambiae-PEST_CHROMOSOMES_AgamP4.fa.gz
-wget --no-clobber -O Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.12.gff3.gz https://www.vectorbase.org/download/anopheles-gambiae-pestbasefeaturesagamp412gff3gz
+download https://www.vectorbase.org/download/anopheles-gambiae-pestbasefeaturesagamp412gff3gz Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.12.gff3.gz
 gunzip --keep --force Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.12.gff3.gz
 
 # retrieve Ag1000G phase 2 sample metadata
@@ -20,7 +33,7 @@ cd $wd
 samples_dir=data/external/ag1000g/phase2/AR1/samples
 mkdir -pv $samples_dir
 cd $samples_dir
-wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/samples/samples.meta.txt
+download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/samples/samples.meta.txt
 
 # retrieve Ag1000G phase 2 recombination maps
 cd $wd
@@ -29,7 +42,7 @@ mkdir -pv $recomb_dir
 cd $recomb_dir
 for chrom in 2L 2R 3L 3R X;
 do
-    wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/recombination_maps/Ag_${chrom}.map
+    download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/recombination_maps/Ag_${chrom}.map
 done
 
 # retrieve Ag1000G phase 2 haplotype data
@@ -37,8 +50,8 @@ cd $wd
 haplotypes_dir=data/external/ag1000g/phase2/AR1/haplotypes/main
 mkdir -pv $haplotypes_dir
 cd $haplotypes_dir
-wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/haplotypes.autosomes.meta.txt
-wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/haplotypes.X.meta.txt
+download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/haplotypes.autosomes.meta.txt
+download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/haplotypes.X.meta.txt
 mkdir -pv zarr
 cd zarr
 for file in ag1000g.phase2.ar1.haplotypes.metadata.zip \
@@ -53,7 +66,7 @@ for file in ag1000g.phase2.ar1.haplotypes.metadata.zip \
             ag1000g.phase2.ar1.haplotypes.3R.variants.zip \
             ag1000g.phase2.ar1.haplotypes.3R.calldata.GT.zip;
 do
-    wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/zarr/$file
+    download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/zarr/$file
     unzip -u $file
 done
 
@@ -74,7 +87,7 @@ for file in ag1000g.phase2.ar1.pass.metadata.zip \
             ag1000g.phase2.ar1.pass.3R.variants.zip \
             ag1000g.phase2.ar1.pass.3R.calldata.GT.zip;
 do
-    wget --no-clobber ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/variation/main/zarr/pass/$file
+    download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/variation/main/zarr/pass/$file
     unzip -u $file
 done
 
