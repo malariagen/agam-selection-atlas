@@ -10,9 +10,9 @@ site.
 
 ### Cloning the repo
 
-The site is deployed via GitHub pages. To get your local system set up in a way that 
-is compatible with the live deployment of the site requires cloning the repo in a 
-particular way.
+The site is deployed via GitHub pages. To get your local system set up
+in a way that is compatible with the live deployment of the site
+requires cloning the repo in a particular way.
 
 Clone the GitHub repo for source code development:
 
@@ -27,7 +27,8 @@ $ mkdir malariagen.github.io
 $ cd malariagen.github.io
 ```
 
-Clone the GitHub repo again for deployment of the built site (via the gh-pages branch):
+Clone the GitHub repo again for deployment of the built site (via the
+gh-pages branch):
 
 ```
 $ git clone git@github.com:malariagen/agam-selection-atlas.git
@@ -58,8 +59,9 @@ $ tree -L 2
     └── agam-selection-atlas
 ```
 
-So the repo has been cloned twice, into two different locations, one of which will be used 
-for site development, the other for site deployment (checked out to gh-pages branch). 
+So the repo has been cloned twice, into two different locations, one
+of which will be used for site development, the other for site
+deployment (checked out to gh-pages branch).
 
 
 ### Setting up external data resources
@@ -95,9 +97,10 @@ $ source binder/env.sh
 
 ### Building the signals
 
-Building of the selection signals data is controlled via the ``snakemake/data.yml`` rules 
-file. Building the signals data can take a bit of time, so only rebuild if necessary. 
-E.g., to build all H12 signals:
+Building of the selection signals data is controlled via the
+``snakemake/data.yml`` rules file. Building the signals data can take
+a bit of time, so only rebuild if necessary.  E.g., to build all H12
+signals:
 
 ```
 $ snakemake -s snakemake/data.yml all_h12
@@ -105,22 +108,25 @@ $ snakemake -s snakemake/data.yml all_h12
 
 ### Building the site
 
-Building of the static web site is controlled via the ``snakemake/site.yml`` rules file.
-To completely rebuild the site, do:
+Building of the static web site is controlled via the
+``snakemake/site.yml`` rules file.  To completely rebuild the site,
+do:
 
 ```
 $ snakemake -s snakemake/site.yml all
 ```
 
-First time round this will take some time, as many pages (especially for genes) need to be
-built, although any subsequent incremental builds will be faster, especially if they don't 
-require rebuilding the gene pages.
+First time round this will take some time, as many pages (especially
+for genes) need to be built, although any subsequent incremental
+builds will be faster, especially if they don't require rebuilding the
+gene pages.
+
 
 ### Previewing the site
 
-The final step in the site build copies all built files across to the 
-``malariagen.gitub.io/agam-selection-atlas`` folder where the gh-pages branch is checked 
-out. To preview the site, do:
+The final step in the site build copies all built files across to the
+``malariagen.gitub.io/agam-selection-atlas`` folder where the gh-pages
+branch is checked out. To preview the site, do:
 
 ```
 $ cd ../malariagen.github.io
@@ -129,4 +135,5 @@ $ python -m http.server
 
 ...then browse to [http://0.0.0.0:8000/agam-selection-atlas/dev/](http://0.0.0.0:8000/agam-selection-atlas/dev/).
 
-Note that some changes make need an empty cache and hard reload in the browser.
+Note that some changes make need an empty cache and hard reload in the
+browser.
