@@ -61,28 +61,19 @@ for site development, the other for site deployment (checked out to gh-pages bra
 
 ### Setting up external data resources
 
-To build the signals, some external data resources are needed in the agam-selection-atlas 
-development directory.
-
-Data from Ag1000G are required. Primarily this is the phase 1 selection release, although 
-this is not public yet. I have the data setup as follows, assuming data from public data 
-releases are copied locally in a similar way to the directory structure on the Oxford 
-cluster:
+To perform the selection scans and build the signals, some external
+data resources from Ag1000G and vectorbase are needed in the
+agam-selection-atlas development directory. There is a utility script
+that will download these to your local system via FTP:
 
 ```
 $ cd agam-selection-atlas
-$ ll ngs.sanger.ac.uk/production/ag1000g/phase1/*
-lrwxrwxrwx 1 aliman aliman 40 Dec 15 12:47 ngs.sanger.ac.uk/production/ag1000g/phase1/AR3 -> /kwiat/vector/ag1000g/release/phase1.AR3/
-lrwxrwxrwx 1 aliman aliman 42 Dec 15 12:47 ngs.sanger.ac.uk/production/ag1000g/phase1/AR3.1 -> /kwiat/vector/ag1000g/release/phase1.AR3.1/
-lrwxrwxrwx 1 aliman aliman 52 Dec 15 12:48 ngs.sanger.ac.uk/production/ag1000g/phase1/selection.1.RC2 -> /kwiat/vector/ag1000g/release/phase1.selection.1.RC2/
+$ ./download-external-data.sh
 ```
 
-The following files are also needed from VectorBase:
+This will download files to a "data" folder in the repo root
+directory. If you want to store these elsewhere, create a symlink.
 
-```
-$ ll vectorbase.org/*
--rw-r--r-- 1 aliman aliman 2648817 Dec 18 23:07 vectorbase.org/Anopheles-gambiae-PEST_BASEFEATURES_AgamP4.8.gff3.gz
-```
 
 ### Setting up the development environment
 
