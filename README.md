@@ -1,10 +1,12 @@
 # Ag1000G selection atlas
 
-This repository contains code for building the [Ag1000G selection atlas](https://malariagen.github.io/agam-selection-atlas/).
+This repository contains code for building the [Ag1000G selection
+atlas](https://malariagen.github.io/agam-selection-atlas/).
 
 ## Information for developers
 
-Here's how to set up a local development environment to build the site.
+Here's how to set up a local development environment to build the
+site.
 
 ### Cloning the repo
 
@@ -59,6 +61,7 @@ $ tree -L 2
 So the repo has been cloned twice, into two different locations, one of which will be used 
 for site development, the other for site deployment (checked out to gh-pages branch). 
 
+
 ### Setting up external data resources
 
 To perform the selection scans and build the signals, some external
@@ -75,20 +78,20 @@ This will download files to a "data" folder in the repo root
 directory. If you want to store these elsewhere, create a symlink.
 
 
-### Setting up the development environment
+### Setting up the execution environment
 
-To set up a local development environment, do:
-
-```
-$ agam-report-base/install/install.sh
-```
-
-This should install conda and latex into the "deps" directory. To activate the environment
-do:
+To set up a local execution environment, do:
 
 ```
-$ source env.sh
+$ ./binder/install-conda.sh
 ```
+
+To activate the environment, do:
+
+```
+$ source binder/env.sh
+```
+
 
 ### Building the signals
 
