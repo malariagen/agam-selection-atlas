@@ -92,3 +92,11 @@ do
     unzip -u $file
 done
 
+# retrieve Ag1000G phase 2 accessibility data
+# N.B., this is big, but we only need the 'is_accessible' arrays,
+# would be useful to have a zarr subset to download.
+cd $wd
+accessibility_dir=data/external/ag1000g/phase2/AR1/accessibility
+mkdir -pv $accessibility_dir
+cd $accessibility_dir
+download ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/accessibility/accessibility.h5
