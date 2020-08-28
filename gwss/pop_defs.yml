@@ -1,0 +1,60 @@
+ao_col:
+  h12_window_size: 6000
+  label: Angola An. coluzzii
+  query: population == "AOcol"
+bf_col:
+  h12_window_size: 1000
+  label: Burkina Faso An. coluzzii
+  query: population == "BFcol"
+bf_gam:
+  h12_window_size: 1000
+  label: Burkina Faso An. gambiae
+  query: population == "BFgam"
+ci_col:
+  h12_window_size: 2000
+  label: Cote d'Ivoire An. coluzzii
+  query: population == "CIcol"
+cm_sav_gam:
+  h12_window_size: 1000
+  label: Cameroon (savanna) An. gambiae
+  query: population == "CMgam" and region in ["Gado-Badzere", "Zembe-Borongo"]
+fr_gam:
+  h12_window_size: 16000
+  label: Mayotte An. gambiae
+  query: population == "FRgam"
+ga_gam:
+  h12_window_size: 10000
+  label: Gabon An. gambiae
+  query: population == "GAgam"
+gh_col:
+  h12_window_size: 1400
+  label: Ghana An. coluzzii
+  query: population == "GHcol"
+gh_gam:
+  h12_window_size: 1600
+  label: Ghana An. gambiae
+  query: population == "GHgam"
+gm:
+  h12_window_size: 2600
+  label: The Gambia
+  query: population == "GM"
+gn_gam:
+  h12_window_size: 1000
+  label: Guinea An. gambiae
+  query: population == "GNgam"
+gq_gam:
+  h12_window_size: 7000
+  label: Bioko An. gambiae
+  query: population == "GQgam"
+gw:
+  h12_window_size: 1000
+  label: Guinea-Bissau
+  query: population == "GW"
+ke:
+  h12_window_size: 60000
+  label: Kenya
+  query: population == "KE"
+ug_gam:
+  h12_window_size: 1000
+  label: Uganda An. gambiae
+  query: population == "UGgam"

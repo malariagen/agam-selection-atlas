@@ -115,3 +115,6 @@ data
 
 # emacs
 *~
+
+# jupyter
+.ipynb_checkpoints
