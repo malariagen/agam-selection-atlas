@@ -109,3 +109,12 @@ vectorbase.org
 *.done
 .snakemake
 *.make
+
+# data files
+data
+
+# emacs
+*~
+
+# jupyter
+.ipynb_checkpoints
