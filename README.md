@@ -1,5 +1,7 @@
 # Ag1000G selection atlas
 
+**This repo is now deprecated, please see https://github.com/anopheles-genomic-surveillance/selection-atlas instead.**
+
 This repository contains code for building the [Ag1000G selection
 atlas](https://malariagen.github.io/agam-selection-atlas/).
 
